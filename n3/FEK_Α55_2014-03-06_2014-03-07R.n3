@@ -1,0 +1,12 @@
+﻿<http://legislation.di.uoa.gr/pd/2014/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/30> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/55>.
+<http://legislation.di.uoa.gr/gazette/a/2014/55> <http://legislation.di.uoa.gr/ontology/gazette> "Α/2014/55".
+<http://legislation.di.uoa.gr/pd/2014/30> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/30> <http://purl.org/dc/terms/created> "2014-03-06"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/30> <http://legislation.di.uoa.gr/ontology/legislationID> "30"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/30> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>. 
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2014/30> <http://legislation.di.uoa.gr/ontology/tag> "test"@el.
+<http://legislation.di.uoa.gr/pd/2014/30> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/30/2014-03-06>.
+<http://legislation.di.uoa.gr/pd/2014/30> <http://purl.org/dc/terms/title> "Τροποποίηση διατάξεων του π.δ. 130/1984 «Κύρωση του Γενικού Κανονισμού Υπηρεσίας στο Στρατό» (Α΄42). "@el.

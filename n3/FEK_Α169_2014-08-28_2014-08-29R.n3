@@ -1,0 +1,275 @@
+﻿<http://legislation.di.uoa.gr/pd/2014/102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/102> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/169>.
+<http://legislation.di.uoa.gr/gazette/a/2014/169> <http://legislation.di.uoa.gr/ontology/gazette> "Α/2014/169".
+<http://legislation.di.uoa.gr/pd/2014/102> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/102> <http://purl.org/dc/terms/created> "2014-08-28"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/102> <http://legislation.di.uoa.gr/ontology/legislationID> "102"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/102> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>. 
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2014/102> <http://legislation.di.uoa.gr/ontology/tag> "test"@el.
+<http://legislation.di.uoa.gr/pd/2014/102> <http://purl.org/dc/terms/title> "Οργανισμός της Γενικής Γραμματείας Ενημέρωσης και της Γενικής Γραμματείας Επικοινωνίας και Προβολής. "@el.
+<http://legislation.di.uoa.gr/pd/2014/102/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/102/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α. του άρθρου 54 του ν. 4178/2013 «Αντιμετώπιση της Αυθαίρετης Δόμησης?Περιβαλλοντικό Ισοζύγιο και άλλες διατάξεις» (Α΄ 174), όπως τροποποιήθηκε με τις διατάξεις των άρθρων 27 του ν. 4210/2013 (Α΄ 254), 55 του ν. 4238/2014 (Α΄ 38), 46 του ν. 4250/2014 (Α΄ 74) και 7 του ν. 4275/2014 (Α΄ 149), β. της παραγράφου 4 του άρθρου 35 του ν. 4024/2011 «Συνταξιοδοτικές ρυθμίσεις, ενιαίο μισθολόγιο ? βαθμολόγιο, εργασιακή εφεδρεία και άλλες διατάξεις εφαρμογής του μεσοπρόθεσμου πλαισίου δημοσιονομικής στρατηγικής 2012?2015» (Α΄ 226) και του άρθρου 10 του ν. 4210/2013 «Ρυθμίσεις Υπουργείου Διοικητικής Μεταρρύθμισης και Ηλεκτρονικής Διακυβέρνησης και άλλες διατάξεις» (Α΄ 254), γ. των παραγράφων 4 και 6 του άρθρου 1 και του άρθρου 2 του ν. 3242/2004 «Ρυθμίσεις για την οργάνωση και λειτουργία της κυβέρνησης και τους ΟΤΑ» (Α΄ 102), όπως ισχύει, δ. του άρθρου 12 του ν. 3492/2006 «Οργάνωση συστήματος ελέγχου για τη διασφάλιση της χρηστής δημοσιονομικής διαχείρισης του Κρατικού Προϋπολογισμού και των εκτός του Κρατικού Προϋπολογισμού φορέων και άλλες διατάξεις» (Α΄210), όπως ισχύει, ε. της παρ. Β του άρθρου πρώτου του ν. 4152/2013 «Επείγοντα μέτρα εφαρμογής των νόμων 4046/2012, 4093/2012 και 4127/2013» (Α΄ 107), όπως ισχύει, στ. του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά όργανα, ο οποίος κυρώθηκε με το άρθρο πρώτο του π.δ. 63/2005 «Κωδικοποίηση της Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά όργανα» (Α΄ 98), όπως ισχύει, ζ. του π.δ 86/2012 «Διορισμός Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α΄ 141), η. του π.δ 89/2014 «Διορισμός Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α΄ 134), θ. της παραγράφου 1 του άρθρου 8 του π.δ. 85/2012 «Ίδρυση και μετονομασία Υπουργείων, μεταφορά και κατάργηση υπηρεσιών» (Α΄ 141), όπως ισχύει, ι. του π.δ. 119/2013 «Διορισμός Αντιπροέδρου της Κυβέρνησης, Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α΄ 153), ια. των άρθρων 1 και 2 του π.δ. 73/2011 «Μετονομασία της Γενικής Γραμματείας Επικοινωνίας και της Γενικής Γραμματείας Ενημέρωσης, ανακατανομή των υπαγομένων σε αυτές υπηρεσιών, μεταφορά υπηρεσιών και αρμοδιοτήτων από το Υπουργείο Πολιτισμού και Τουρισμού στον Πρωθυπουργό, σύσταση Γενικής Γραμματείας Ναυτιλίας στο Υπουργείο Ανάπτυξης, Ανταγωνιστικότητας και Ναυτιλίας και ρύθμιση άλλων συναφών θεμάτων» (Α΄ 178), ιβ. της υπ’ αριθμ. Υ462/17?06?2014 απόφασης του Πρωθυπουργού «Καθορισμός αρμοδιοτήτων της Υφυπουργού στον Πρωθυπουργό, Σοφίας Βούλτεψη» (Β΄ 1634), ιγ. της υπ’ αριθμ. Υ48/9?7?2012 απόφασης του Πρωθυπουργού «Καθορισμός αρμοδιοτήτων του Αναπληρωτή Υπουργού Οικονομικών Χρήστου Σταϊκούρα» (Β΄ 2105), "@el.
+<http://legislation.di.uoa.gr/pd/2014/102> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/citation/1>.
+<http://legislation.di.uoa.gr/pd/2014/102/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/102/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Τις από 1ης Μαρτίου 2013 και 26ης Νοεμβρίου 2013 αποφάσεις του Κυβερνητικού Συμβουλίου Μεταρρύθμισης σχετικά με τις μεταρρυθμιστικές δράσεις της Γενικής Γραμματείας Μέσων Ενημέρωσης ? Γενικής Γραμματείας Ενημέρωσης και Επικοινωνίας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/102> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/citation/2>.
+<http://legislation.di.uoa.gr/pd/2014/102/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/102/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος δεν προκαλείται επιπλέον ετήσια δαπάνη σε βάρος του κρατικού προϋπολογισμού. "@el.
+<http://legislation.di.uoa.gr/pd/2014/102> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/citation/3>.
+<http://legislation.di.uoa.gr/pd/2014/102/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/102/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Την με αριθμό 149/2014 Γνωμοδότηση του Συμβουλίου της Επικρατείας μετά από πρόταση του Αναπληρωτή Υπουργού Οικονομικών, του Υπουργού Διοικητικής Μεταρρύθμισης και Ηλεκτρονικής Διακυβέρνησης και του Υφυπουργού στον Πρωθυπουργό, "@el.
+<http://legislation.di.uoa.gr/pd/2014/102> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/citation/4>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/102> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/article/1>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1> <http://purl.org/dc/terms/title> "Αποστολή των Γενικών Γραμματειών Ενημέρωσης και Επικοινωνίας και Προβολής".<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η Γενική Γραμματεία Ενημέρωσης (ΓΓΕ) και η ΓενικήΓραμματεία Επικοινωνίας και Προβολής (ΓΓΕΠ) αποτελούν δημόσιες υπηρεσίες υπαγόμενες στον Πρωθυπουρ5448γό (άρθρο 2 παρ. 2 ν. 3242/2004, Α΄ 102) και ως αποστολή έχουν την δημόσια ενημέρωση με έμφαση στηνΚυβέρνηση και τους φορείς της, την παροχή υπηρεσιώνδημοσίου συμβούλου σε θέματα ενημέρωσης, την παρακολούθηση, διατύπωση προτάσεων και εφαρμογή τηςνομοθεσίας που αφορά στον τύπο και στον ευρύτεροχώρο των ΜΜΕ, την διαμόρφωση της πολιτικής του κράτους στο χώρο των οπτικοακουστικών μέσων, σύμφωνακαι με τις εξελίξεις της τεχνολογίας και τη συνολικήοργάνωση και διαχείριση της επικοινωνίας του κράτουςστο εσωτερικό και στο εξωτερικό."@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/0> <http://legislation.di.uoa.gr/ontology/text> "Για την επίτευξη της ανωτέρω αποστολής της ηΓενική Γραμματεία Ενημέρωσης και η Γενική ΓραμματείαΕπικοινωνίας και Προβολής μεριμνούν για:
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/1> <http://legislation.di.uoa.gr/ontology/text> " την έγκυρη και αντικειμενική πληροφόρηση τουελληνικού λαού,
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/2> <http://legislation.di.uoa.gr/ontology/text> " την ενεργή συμμετοχή στην πρόσληψη, επεξεργασίακαι διοχέτευση προς την κυβέρνηση, τους δημοσίουςφορείς και τους πολίτες της αναγκαίας πληροφορίας,
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/3> <http://legislation.di.uoa.gr/ontology/text> " την ενεργή συμμετοχή στο συντονισμό της κυβερνητικής ενημέρωσης,
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/4> <http://legislation.di.uoa.gr/ontology/text> " την υποστήριξη του Πρωθυπουργού και του Κυβερνητικού Εκπροσώπου σε αρμοδιότητες και δράσειςσυναφείς προς την αποστολή και το έργο της ΓενικήςΓραμματείας Ενημέρωσης καθώς και την ενημέρωση τηςπολιτικής, πολιτειακής ηγεσίας και των πολιτικών κομμάτων που εκπροσωπούνται στη Βουλή των Ελλήνων,
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/5> <http://legislation.di.uoa.gr/ontology/text> " τη συμβουλευτική υποστήριξη σε φορείς του δημοσίου τομέα σε θέματα ενημέρωσης,στ) την αξιοποίηση διεθνών πρακτικών, προκειμένουνα ενισχυθεί το έργο της κυβέρνησης και των φορέωντου δημοσίου, αλλά και της τοπικής αυτοδιοίκησης,
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/6> <http://legislation.di.uoa.gr/ontology/text> " την παρακολούθηση και την εφαρμογή της ραδιοτηλεοπτικής νομοθεσίας εντός και εκτός της ΕυρωπαϊκήςΈνωσης, την διατύπωση εισηγήσεων, προτάσεων καιμελετών για ρυθμίσεις που αφορούν στον Τύπο γενικά,στα οπτικοακουστικά και λοιπά μέσα μαζικής ενημέρωσης, στην ψηφιακή τηλεόραση και ψηφιακά μέσα καιστην εφαρμογή της νομοθεσίας σε αυτά,
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/7> <http://legislation.di.uoa.gr/ontology/text> " την διαφύλαξη των αρχείων της νεώτερης καισύγχρονης ιστορίας με έμφαση σε αυτά των μέσωνενημέρωσης,
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/8> <http://legislation.di.uoa.gr/ontology/text> " την κατά νόμο συμβολή στην εποπτεία του Δημοσίου Διαδικτύου, Ραδιοφωνίας, και Τηλεόρασης,
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/9> <http://legislation.di.uoa.gr/ontology/text> " την εποπτεία του Αθηναϊκού Πρακτορείου Ειδήσεων?Μακεδονικού Πρακτορείου Ειδήσεων (ΑΠΕ?ΜΠΕ Α.Ε.),καθώς και την επικουρία συναφών άρχων και υπηρεσιών,
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/10> <http://legislation.di.uoa.gr/ontology/text> " την προετοιμασία του στρατηγικού σχεδιασμούστα θέματα οπτικοακουστικής πολιτικής για τις προγραμματικές περιόδους ενίσχυσης της χώρας από ευρωπαϊκούς πόρους, στον συντονισμό και παρακολούθηση των διαδικασιών που αφορούν στην οργάνωσηκαι στη χρήση των πόρων των Διαρθρωτικών Ταμείωνοπτικοακουστικής πολιτικής και νέων μέσων,
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/11> <http://legislation.di.uoa.gr/ontology/text> " την εναρμόνιση της ελληνικής νομοθεσίας με τιςΟδηγίες της Ευρωπαϊκής Ένωσης και Διακρατικές Συνθήκες σε θέματα οπτικοακουστικής πολιτικής και μέσων,
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/12> <http://legislation.di.uoa.gr/ontology/text> " το σχεδιασμό, ανάπτυξη και αξιοποίηση των αντιστοίχων προς τις αρμοδιότητες της Γενικής Γραμματείας Ενημέρωσης προγραμμάτων της Ευρωπαϊκής Ένωσης και την ίδρυση και στήριξη θεσμών που υπηρετούντην πληρέστερη ενημέρωση του ελληνικού λαού,
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/13> <http://legislation.di.uoa.gr/ontology/text> " τη συμμετοχή στη συλλογή και αξιοποίηση στοιχείων αναγομένων στον ευρύτερο κύκλο των αρμοδιοτήτων των Γενικών Γραμματειών Ενημέρωσης και Επικοινωνίας και Προβολής και ιδίως στα εθνικά, πολιτικά,κοινωνικά, οικονομικά, πολιτιστικά, περιβαλλοντικά κ.λπ.θέματα του ελληνικού χώρου και του Ελληνισμού γενικά,καθώς και στα διεθνή θέματα που έχουν σχέση με τηχώρα και τους διεθνείς οργανισμούς που αυτή μετέχει(ΕΕ, ΟΑΣΕ, ΟΗΕ, κ.λπ.),
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/14> <http://legislation.di.uoa.gr/ontology/text> " την επεξεργασία, διαμόρφωση και υλοποίηση προγραμμάτων επικοινωνιακής στρατηγικής για τη χώρα,ιστ) τη συστηματική και συντονισμένη προβολή τηςχώρας και την επικοινωνία των ελληνικών θέσεων στοεξωτερικό, σε συνεργασία με τους εμπλεκόμενους φορείς,
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/15> <http://legislation.di.uoa.gr/ontology/text> " την αναβάθμιση, εκσυγχρονισμό, ομοιογένεια καισυντονισμό των επικοινωνιακών δράσεων του Δημοσίουώστε να είναι άμεσες, αποτελεσματικές και οικονομικάαποδοτικές,
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/16> <http://legislation.di.uoa.gr/ontology/text> " την ενημέρωση, σε συνεργασία με το ΥπουργείοΕξωτερικών και λοιπούς αρμόδιους φορείς, των οργάνων του Κράτους και της πολιτικής και πολιτειακήςηγεσίας για τα σημαντικά διεθνή γεγονότα και εξελίξεις και για τις απόψεις των Ελληνικών και ξένων ΜΜΕ,καθώς και της ελληνικής και διεθνούς κοινής γνώμης,για θέματα που αφορούν τη χώρα,
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/2/case/17> <http://legislation.di.uoa.gr/ontology/text> " την συμβολή για τη καλλιέργεια εθνικών, πνευματικών και πολιτιστικών γενικά σχέσεων με τον απόδημοΕλληνισμό και την ενημέρωσή τους για τα ζητήματαπου τον αφορούν.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η Γενική Γραμματεία Ενημέρωσης, συσταθείσα μετο άρθρο 2 παρ. 3 του ν. 3242/2004 (Α΄ 102), η οποίαστη συνέχεια μετονομάσθηκε σε Γενική ΓραμματείαΜέσων Ενημέρωσης σύμφωνα με το άρθρο 1 του π.δ. 73/2011 (Α΄ 178), ως δημόσια υπηρεσία υπαγόμενη στονΠρωθυπουργό μετονομάζεται σε Γενική ΓραμματείαΕνημέρωσης. Όπου στην κείμενη νομοθεσία αναφέρεταιη Γενική Γραμματεία Μέσων Ενημέρωσης και ο ΓενικόςΓραμματέας Μέσων Ενημέρωσης, εφεξής νοούνται ηΓενική Γραμματεία Ενημέρωσης και ο Γενικός Γραμματέας Ενημέρωσης."@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/4>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/1/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η Γενική Γραμματεία Επικοινωνίας, συσταθείσα μετο άρθρο 2 παρ. 3 του ν. 3242/2004 (Α΄ 102), η οποίαστη συνέχεια μετονομάσθηκε σε Γενική ΓραμματείαΕνημέρωσης και Επικοινωνίας σύμφωνα με το άρθρο 1του π.δ. 73/2011 (Α΄ 178), ως δημόσια υπηρεσία υπαγόμενηστον Πρωθυπουργό μετονομάζεται σε Γενική Γραμματεία Επικοινωνίας και Προβολής. Όπου στην κείμενη νομοθεσία αναφέρεται η Γενική Γραμματεία Ενημέρωσηςκαι Επικοινωνίας και ο Γενικός Γραμματέας Ενημέρωσηςκαι Επικοινωνίας εφεξής νοούνται η Γενική ΓραμματείαΕπικοινωνίας και Προβολής και ο Γενικός ΓραμματέαςΕπικοινωνίας και Προβολής."@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/102> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/article/2>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2> <http://purl.org/dc/terms/title> "Διάρθρωση των Γενικών Γραμματειών Ενημέρωσης και Επικοινωνίας και Προβολής".<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/0> <http://legislation.di.uoa.gr/ontology/text> "Οι Γενικές Γραμματείες Ενημέρωσης και Επικοινωνίας και Προβολής διαρθρώνονται ως εξής:
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/1> <http://legislation.di.uoa.gr/ontology/text> " Γραφεία Γενικών Γραμματέων
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/2> <http://legislation.di.uoa.gr/ontology/text> " Γενική Γραμματεία Ενημέρωσης, η οποία διαρθρώνεται σε Κεντρική Υπηρεσία και Περιφερειακές Υπηρεσίες.Στην Κεντρική Υπηρεσία ανήκουν:
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/3> <http://legislation.di.uoa.gr/ontology/text> " Διεύθυνση Άμεσης Ενημέρωσης
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/4> <http://legislation.di.uoa.gr/ontology/text> " Διεύθυνση Μέσων Ενημέρωσης
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/5> <http://legislation.di.uoa.gr/ontology/text> " Διεύθυνση Οικονομικών και Διοικητικών Υπηρεσιών
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/6> <http://legislation.di.uoa.gr/ontology/text> " Αυτοτελές Τμήμα Εσωτερικού Ελέγχου, υπαγόμενοαπευθείας στο Γενικό Γραμματέα Ενημέρωσης.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/7> <http://legislation.di.uoa.gr/ontology/text> " Αυτοτελές Τμήμα Κοινοβουλευτικού Ελέγχου, υπαγόμενο απευθείας στο Γενικό Γραμματέα Ενημέρωσης.Περιφερειακές Υπηρεσίες αποτελούν:Τα Γραφεία Τύπου στο εσωτερικό.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/8> <http://legislation.di.uoa.gr/ontology/text> " Γενική Γραμματεία Επικοινωνίας και Προβολής, ηοποία διαρθρώνεται σε Κεντρική Υπηρεσία και Περιφερειακές Υπηρεσίες.Στη Κεντρική Υπηρεσία ανήκουν:
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/9> <http://legislation.di.uoa.gr/ontology/text> " Διεύθυνση Σχεδιασμού και Πληροφόρησης
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/1/case/10> <http://legislation.di.uoa.gr/ontology/text> " Διεύθυνση Επικοινωνίας και ΠροβολήςΠεριφερειακές Υπηρεσίες αποτελούν:Τα Γραφεία Τύπου και Επικοινωνίας στο εξωτερικό.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/2/case/0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/2/case/0> <http://legislation.di.uoa.gr/ontology/text> "Στις Γενικές Γραμματείες Ενημέρωσης και Επικοινωνίας και Προβολής λειτουργούν επίσης, ενιαία και γιατις δύο Γενικές Γραμματείες, σύμφωνα με τις κείμενεςδιατάξεις:
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/2/case/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/2/case/1> <http://legislation.di.uoa.gr/ontology/text> " Γραφείο Νομικού Συμβούλου.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/2/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/2/case/2> <http://legislation.di.uoa.gr/ontology/text> " Υπηρεσία Επιτρόπου Ελεγκτικού Συνεδρίου.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/2/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/2/paragraph/2/case/3> <http://legislation.di.uoa.gr/ontology/text> " Υπηρεσία Δημοσιονομικού Ελέγχου.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/102> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/article/3>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/article/3/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/article/3/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Γραφεία Γενικών ΓραμματέωνΤα Γραφεία των Γενικών Γραμματέων επικουρούν τουςΓενικούς Γραμματείς, αντίστοιχα, κατά την εκπλήρωσητων καθηκόντων τους, έχουν την επιμέλεια της αλληλογραφίας τους και γενικά οργανώνουν την επικοινωνίααυτών με τις υπηρεσίες και το κοινό, διέπονται δε σεό,τι αφορά την οργάνωση και τη λειτουργία τους απότην κείμενη νομοθεσία.ΚΕΦΑΛΑΙΟ Β΄ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΕΝΗΜΕΡΩΣΗΣΔΙΑΡΘΡΩΣΗ ΚΑΙ ΑΡΜΟΔΙΟΤΗΤΕΣΟΡΓΑΝΙΚΩΝ ΜΟΝΑΔΩΝ"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/102> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/article/4>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4> <http://purl.org/dc/terms/title> "Διεύθυνση Άμεσης Ενημέρωσης".<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι επιχειρησιακοί στόχοι της Διεύθυνσης ΆμεσηςΕνημέρωσης αφορούν στην διοχέτευση και επεξεργασίατης εισερχόμενης πληροφορίας στην Υπηρεσία για θέματα της χώρας, στην υποστήριξη του Πρωθυπουργούκαι του Κυβερνητικού Εκπροσώπου για αρμοδιότητεςκαι δράσεις συναφείς προς την αποστολή και το έργοτης Γενικής Γραμματείας Ενημέρωσης, στην ενημέρωσητης πολιτικής και πολιτειακής ηγεσίας καθώς και τωνπολιτικών κομμάτων που εκπροσωπούνται στο ελληνικόκοινοβούλιο, για οτιδήποτε τους αφορά και μεταδίδεται από ελληνικά και ξένα μέσα ενημέρωσης (έντυπος,ηλεκτρονικός και περιφερειακός τύπος, μέσα κοινωνικήςδικτύωσης) και στην συγκέντρωση των πληροφοριώνγενικά προς ενημέρωση της κοινής γνώμης για θέματακρατικής δραστηριότητας. Λόγω του έργου που επιτελείστους τομείς της ενημέρωσης και της πληροφόρησηςκαι της προβολής της χώρας, η Διεύθυνση Άμεσης Ενημέρωσης λειτουργεί σε 24ωρη βάση. Στους επιχειρησιακούς στόχους ανάγονται και θέματα που αφορούνστις ηλεκτρονικές υποδομές και στον εξοπλισμό τωνυπηρεσιών των Γενικών Γραμματειών Ενημέρωσης καιΕπικοινωνίας και Προβολής, με γνώμονα την εύρυθμηλειτουργία τους αλλά και την επιτέλεση του σκοπούστον τομέα των μέσων ενημέρωσης και επικοινωνίας."@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/2/case/0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/2/case/0> <http://legislation.di.uoa.gr/ontology/text> "Η Διεύθυνση Άμεσης Ενημέρωσης συγκροτείται απότα εξής Τμήματα και Γραφεία:
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/2/case/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/2/case/1> <http://legislation.di.uoa.gr/ontology/text> " Τμήμα Υποδομών Ενημέρωσης
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/2/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/2/case/2> <http://legislation.di.uoa.gr/ontology/text> " Τμήμα Κόμβων Ενημέρωσης
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/2/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/2/case/3> <http://legislation.di.uoa.gr/ontology/text> " Τμήμα Ηλεκτρονικής Διακυβέρνησης
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/2/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/2/case/4> <http://legislation.di.uoa.gr/ontology/text> " Αυτοτελή Γραφεία Τύπου στο εσωτερικό
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/0> <http://legislation.di.uoa.gr/ontology/text> "Οι αρμοδιότητες των Τμημάτων της ΔιεύθυνσηςΆμεσης Ενημέρωσης κατανέμονται μεταξύ αυτών ωςακολούθως:
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/1> <http://legislation.di.uoa.gr/ontology/text> " Στο Τμήμα Υποδομών Ενημέρωσης
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/2> <http://legislation.di.uoa.gr/ontology/text> " Η επισκόπηση, ο εντοπισμός και η συλλογή πρωτογενών πληροφοριών από διάφορες πηγές (ελληνικάκαι διεθνή ΜΜΕ, Γραφεία Τύπου και Επικοινωνίας στοεξωτερικό κ.λπ.), η αξιολόγηση και η προώθηση για τηνάμεση, έγκυρη και πλήρη ενημέρωση της πολιτικής καιπολιτειακής ηγεσίας, των λοιπών κυβερνητικών και τωναρμοδίων κατά περίπτωση κρατικών φορέων.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/3> <http://legislation.di.uoa.gr/ontology/text> " Η αρχειοθέτηση των δημοσιογραφικών και άλλωναναφορών σε ηλεκτρονικές βάσεις δεδομένων, ώστε ναεξασφαλίζεται η ταχεία ανεύρεση και πρόσβαση στιςζητούμενες πληροφορίες και η μεταξύ τους συσχέτιση.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/4> <http://legislation.di.uoa.gr/ontology/text> " Η κατάρτιση ειδικών θεματικών ενημερωτικών δελτίων για ζητήματα που αποτυπώνονται στο διεθνές επικοινωνιακό περιβάλλον σύμφωνα με πάγιες ή έκτακτεςοδηγίες της πολιτικής ηγεσίας.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/5> <http://legislation.di.uoa.gr/ontology/text> " Η παραγωγή στατιστικών αναλύσεων για τη δημοσιότητα, η αρχειοθέτηση και τήρηση των σχετικώνστατιστικών στοιχείων και η ενημέρωση της υπηρεσίαςκαι των κρατικών φορέων.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/6> <http://legislation.di.uoa.gr/ontology/text> " Η ενημέρωση της πολιτικής και πολιτειακής ηγεσίας καθώς και των πολιτικών κομμάτων που εκπροσωπούνται στο ελληνικό κοινοβούλιο, για οποιοδήποτεθέμα τους αφορά και μεταδίδεται από ελληνικά και ξέναμέσα ενημέρωσης (έντυπος, ηλεκτρονικός και περιφερειακός τύπος, μέσα κοινωνικής δικτύωσης).στστ. Η διενέργεια δημοσκοπήσεων και σφυγμομετρήσεων για θέματα που ανάγονται στην αρμοδιότητατης Υπηρεσίας.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/7> <http://legislation.di.uoa.gr/ontology/text> " Η επεξεργασία, σε συνεργασία με τις άλλες Διευθύνσεις της Υπηρεσίας και τα αρμόδια Υπουργεία καιφορείς του δημοσίου τομέα, πληροφοριών και στοιχείωνπου αναφέρονται σε θέματα κρατικής δραστηριότητας και αξιοποίηση τούτων μέσω των Γραφείων ΤύπουΕσωτερικού.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/8> <http://legislation.di.uoa.gr/ontology/text> " Η παρέμβαση ή διαμεσολάβηση προς τις Υπηρεσίες και τους φορείς του τόπου λειτουργίας των Γραφείων Τύπου στο εσωτερικό ή του κύκλου αρμοδιότητάςτους για την επίλυση κάθε ανακύπτοντος ζητήματος.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/9> <http://legislation.di.uoa.gr/ontology/text> " Η διαβίβαση προς τα Γραφεία Τύπου στο εσωτερικό σε συνεργασία με τις οικείες Διευθύνσεις, ειδήσεωνκαι πληροφοριών καθώς και οδηγιών για την αξιοποίησή τους ή για την ανασκευή ή διάψευση ανακριβώνδημοσιευμάτων.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/10> <http://legislation.di.uoa.gr/ontology/text> " Στο Τμήμα Κόμβων Ενημέρωσης
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/11> <http://legislation.di.uoa.gr/ontology/text> " Η διάχυση σε φορείς της κεντρικής κυβέρνησης,των αποκεντρωμένων διοικήσεων και των οργανισμώντοπικής αυτοδιοίκησης της πληροφορίας που αφοράδηλώσεις, παρεμβάσεις και συνεντεύξεις της πολιτικής ηγεσίας μέσω συλλογής εντύπων, ηλεκτρονικώναποδελτιώσεων και απομαγνητοφώνησης από ελληνικάμέσα ενημέρωσης (έντυπος, ηλεκτρονικός και περιφερειακός τύπος, μέσα κοινωνικής δικτύωσης).
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/12> <http://legislation.di.uoa.gr/ontology/text> " Η συγκέντρωση και επεξεργασία επίσημων στοιχείων που αφορούν θέματα γενικού ενδιαφέροντος5450(οικονομικά, κοινωνικά, πολιτιστικά, οικολογικά, τεχνολογικά, καινοτόμες δράσεις κ.λπ.) με τη δημιουργία ψηφιακού αρχείου και η διάθεσή τους μέσω κατάλληλωνδιαδικτυακών εφαρμογών προς οπτική άντληση υλικούαπό ενδιαφερόμενους φορείς, πολιτική και πολιτειακήηγεσία καθώς και τους πολίτες.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/13> <http://legislation.di.uoa.gr/ontology/text> " Η παροχή υποστήριξης και η συνεργασία με τοΓραφείο Τύπου του Πρωθυπουργού, τα Γραφεία Τύπουτων Υπουργείων και τις άλλες αρμόδιες Διευθύνσειςτων Γενικών Γραμματειών σε θέματα που αφορούντην ενημέρωση του Πρωθυπουργού και της πολιτικήςηγεσίας των Υπουργείων με τα ΜΜΕ και σε θέματαπου εν γένει ανάγονται στην αποστολή των ΓενικώνΓραμματειών.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/14> <http://legislation.di.uoa.gr/ontology/text> " Η τεχνολογική και επιχειρησιακή υποστήριξη τωναπαιτήσεων ενημέρωσης της Κυβέρνησης.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/15> <http://legislation.di.uoa.gr/ontology/text> " Η συμμετοχή στον συντονισμό και η συνεργασίαμε τις λοιπές αρμόδιες μονάδες επί ζητημάτων αρμοδιότητας της Γενικής Γραμματείας Ενημέρωσης.στστ. Η μέριμνα για τη συλλογή, επεξεργασία και διάχυση της πληροφόρησης μεταξύ των δημοσίων φορέωνπου αφορούν στις κρατικές δράσεις και ιδιαίτερα στιςδράσεις που άπτονται περισσότερων του ενός φορέων.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/16> <http://legislation.di.uoa.gr/ontology/text> " Η συνεργασία με τα Γραφεία Τύπου των Υπουργείων για τη συγκέντρωση των πληροφοριών και τηνπαροχή ενιαίας πληροφόρησης προς το κοινό που αφορά σε θέματα κρατικής δραστηριότητας.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/17> <http://legislation.di.uoa.gr/ontology/text> " Η δημοσιογραφική κάλυψη πολιτικής και πολιτειακής ηγεσίας κατά τις επίσημες επισκέψεις τους στοεσωτερικό και εξωτερικό.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/18> <http://legislation.di.uoa.gr/ontology/text> " Η δημοσιογραφική κάλυψη γεγονότων και θεμάτωντης Υπηρεσίας.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/19> <http://legislation.di.uoa.gr/ontology/text> " Η έκδοση ανακοινώσεων για την ανασκευή ή διάψευση ανακριβών δημοσιευμάτων.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/20> <http://legislation.di.uoa.gr/ontology/text> " Η επιμέλεια οργανωτικών θεμάτων που αφορούνστην ενημέρωση των δημοσιογράφων από τον Κυβερνητικό Εκπρόσωπο.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/21> <http://legislation.di.uoa.gr/ontology/text> " Η αποδελτίωση συνεντεύξεων Τύπου, καθώς καιδηλώσεων και παρεμβάσεων του Κυβερνητικού Εκπροσώπου σε τηλεοπτικούς και ραδιοφωνικούς σταθμούς.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/22> <http://legislation.di.uoa.gr/ontology/text> " Η συλλογή στοιχείων και η ανάλυσή τους πουαφορούν στον επικοινωνιακό αντίκτυπο δηλώσεων τουΚυβερνητικού Εκπροσώπου.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/23> <http://legislation.di.uoa.gr/ontology/text> " Η άμεση και έγκυρη ενημέρωση των δημοσιογράφων των λοιπών μέσων ενημέρωσης (ελληνικών καιξένων) και η διευκόλυνση στο καθημερινό τους έργο γιατις δραστηριότητες του Κυβερνητικού Εκπροσώπου καιτου Πρωθυπουργού.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/24> <http://legislation.di.uoa.gr/ontology/text> " Η με δημοσιογραφικά, φωτογραφικά, τηλεοπτικά,κινηματογραφικά και λοιπά συνεργεία κάλυψη γεγονότων και θεμάτων που ανάγονται στην αρμοδιότητα τηςΓενικής Γραμματείας Ενημέρωσης καθώς και η παραγωγή ντοκιμαντέρ και κάθε είδους ενημερωτικού υλικού.ιστιστ. Η ενημέρωση της κυβερνητικής ιστοσελίδαςτου Κυβερνητικού Εκπροσώπου καθώς και της ιστοσελίδας των Γενικών Γραμματειών.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/25> <http://legislation.di.uoa.gr/ontology/text> " Στο Τμήμα Ηλεκτρονικής Διακυβέρνησης:
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/26> <http://legislation.di.uoa.gr/ontology/text> " Ο έλεγχος της πληρότητας και αποδοτικότηταςτου λογισμικού και του υλικού των Τεχνολογιών τηςΠληροφορίας και των Επικοινωνιών (ΤΠΕ) των ΓενικώνΓραμματειών Ενημέρωσης και Επικοινωνίας και Προβολής. Διαχείριση, παραμετροποίηση και παρακολούθησητου λογισμικού των διαφόρων εφαρμογών πληροφορικής και επικοινωνιών.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/27> <http://legislation.di.uoa.gr/ontology/text> " Η συγκέντρωση και ανάλυση απαιτήσεων για τηναναβάθμιση/επέκταση των υφιστάμενων πληροφοριακών συστημάτων και τη δημιουργία νέων συστημάτων. Υποστήριξη της Υπηρεσίας στην κατάρτιση τωντεχνικών και λειτουργικών προδιαγραφών των νέωνσυστημάτων.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/28> <http://legislation.di.uoa.gr/ontology/text> " Η παρακολούθηση του φυσικού αντικειμένου συμβάσεων ανάπτυξης και εγκατάστασης πληροφοριακώνσυστημάτων στις Γενικές Γραμματείες Ενημέρωσης καιΕπικοινωνίας και Προβολής.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/29> <http://legislation.di.uoa.gr/ontology/text> " Η υλοποίηση εφαρμογών πληροφορικής και τηλεπικοινωνιών με βάση τις επιχειρησιακές ανάγκες τηςΥπηρεσίας.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/30> <http://legislation.di.uoa.gr/ontology/text> " Η εγκατάσταση των εφαρμογών πληροφορικήςστους υπολογιστές των τελικών χρηστών των ΓενικώνΓραμματειών Ενημέρωσης και Επικοινωνίας και Προβολής.στστ. Ο καθορισμός των προϋποθέσεων και συνθηκώνπρόσβασης στις εφαρμογές πληροφορικής των ΓενικώνΓραμματειών Ενημέρωσης και Επικοινωνίας και Προβολής στα πλαίσια της κείμενης νομοθεσίας και τωνεπιχειρησιακών αναγκών. Απονομή κωδικών και δικαιωμάτων πρόσβασης στους χρήστες των εφαρμογών.
+"@el.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2014/102/article/4/paragraph/3/case/31> <http://legislation.di.uoa.gr/ontology/text> " Ο προγραμματισμός των δράσεων Τεχνολογιώντης Πληροφορίας και των Επικοινωνιών (ΤΠΕ), καθώςκαι η μέριμνα κάθε άλλου ζητήματος σχετικού με τηνανάπτυξη της Πληροφορικής και των Επικοινωνιών στιςΓε

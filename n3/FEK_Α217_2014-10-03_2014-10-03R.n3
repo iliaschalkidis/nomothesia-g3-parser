@@ -1,0 +1,40 @@
+﻿<http://legislation.di.uoa.gr/pd/2014/134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/134> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/217>.
+<http://legislation.di.uoa.gr/gazette/a/2014/217> <http://legislation.di.uoa.gr/ontology/gazette> "Α/2014/217".
+<http://legislation.di.uoa.gr/pd/2014/134> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/134> <http://purl.org/dc/terms/created> "2014-10-03"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/134> <http://legislation.di.uoa.gr/ontology/legislationID> "134"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/134> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>. 
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2014/134> <http://legislation.di.uoa.gr/ontology/tag> "test"@el.
+<http://legislation.di.uoa.gr/pd/2014/134> <http://purl.org/dc/terms/title> "Κατάργηση του β.δ. 756/1965 «Περί όρων μεταφοράς και εισαγωγής εσφαγμένων ζώων» (Α΄ 187) και του π.δ. 568/ 1988 «Σφαγή και Κτηνιατρική Επιθεώρηση των αμνών και εριφίων γάλακτος» (Α΄ 264). "@el.
+<http://legislation.di.uoa.gr/pd/2014/134/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/134/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) Των άρθρων 17, 20 παρ. 1 και 21 παρ. 4 του ν. 248/ 1914 (Α΄ 110), όπως το άρθρο 20 παρ. 1 προστέθηκε με το άρθρο μόνο του α.ν. της 23/24.1.1936 (Α΄ 47) και το άρθρο 21 παρ. 4 προστέθηκε με το άρθρο πρώτο του ν. 4085/1960 (Α΄ 110). β) Του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα, που κυρώθηκε με το άρθρο πρώτο του π.δ. 63/2005 «Κωδικοποίηση της νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα» (Α΄ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2014/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/134/citation/1>.
+<http://legislation.di.uoa.gr/pd/2014/134/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/134/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθμ. Υ478/9?7?2014 απόφαση του Πρωθυπουργού «Καθορισμός αρμοδιοτήτων του Αναπληρωτού Υπουργού Αγροτικής Ανάπτυξης και Τροφίμων Παρασκευά Κουκουλόπουλου» (Β΄ 1880). "@el.
+<http://legislation.di.uoa.gr/pd/2014/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/134/citation/2>.
+<http://legislation.di.uoa.gr/pd/2014/134/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/134/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Τα αριθ. πρωτ. 482/68945/6.6.2013 και 581/87816/ 15.7.2013 έγγραφα του Υπουργείου Αγροτικής Ανάπτυξης και Τροφίμων. "@el.
+<http://legislation.di.uoa.gr/pd/2014/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/134/citation/3>.
+<http://legislation.di.uoa.gr/pd/2014/134/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/134/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού. "@el.
+<http://legislation.di.uoa.gr/pd/2014/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/134/citation/4>.
+<http://legislation.di.uoa.gr/pd/2014/134/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/134/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Τις με αριθ. 57/2014 και 202/2014 γνωμοδοτήσεις του Συμβουλίου της Επικρατείας, μετά από πρόταση του Αναπληρωτή Υπουργού Αγροτικής Ανάπτυξης και Τροφίμων, "@el.
+<http://legislation.di.uoa.gr/pd/2014/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/134/citation/5>.
+<http://legislation.di.uoa.gr/pd/2014/134/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/134/article/1>.
+<http://legislation.di.uoa.gr/pd/2014/134/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/134/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/134/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/134/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/134/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/134/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/134/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Καταργούμενες διατάξειςΑπό την έναρξη ισχύος του παρόντος διατάγματοςκαταργούνται:α) το β.δ. 756/1965 «Περί όρων μεταφοράς και εισαγωγής εσφαγμένων ζώων» (Α΄ 187), όπως έχει τροποποιηθείκαι ισχύει.β) Το π.δ. 568/1988 «Σφαγή και Κτηνιατρική Επιθεώρηση των αμνών και εριφίων γάλακτος» (Α΄ 264)."@el.
+<http://legislation.di.uoa.gr/pd/2014/134/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/134/article/2>.
+<http://legislation.di.uoa.gr/pd/2014/134/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/134/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/134/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/134/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/134/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/134/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/134/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Έναρξη ισχύοςΗ ισχύς του παρόντος διατάγματος αρχίζει από τηνημερομηνία δημοσίευσής του στην Εφημερίδα της Κυβερνήσεως.Στον Υπουργό Αγροτικής Ανάπτυξης και Τροφίμωναναθέτουμε τη δημοσίευση και εκτέλεση του παρόντοςπροεδρικού διατάγματος."@el.

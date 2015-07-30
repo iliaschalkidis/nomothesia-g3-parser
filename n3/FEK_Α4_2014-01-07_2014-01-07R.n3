@@ -1,0 +1,26 @@
+﻿<http://legislation.di.uoa.gr/law/2014/4227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2014/4227> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/4>.
+<http://legislation.di.uoa.gr/gazette/a/2014/4> <http://legislation.di.uoa.gr/ontology/gazette> "Α/2014/4".
+<http://legislation.di.uoa.gr/law/2014/4227> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2014/4227> <http://purl.org/dc/terms/created> "2014-01-07"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2014/4227> <http://legislation.di.uoa.gr/ontology/legislationID> "4227"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2014/4227> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>. 
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2014/4227> <http://legislation.di.uoa.gr/ontology/tag> "test"@el.
+<http://legislation.di.uoa.gr/law/2014/4227> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/law/2014/4227/2014-01-07>.
+<http://legislation.di.uoa.gr/law/2014/4227> <http://purl.org/dc/terms/title> "Κύρωση της Πράξης Νομοθετικού Περιεχομένου «Τρο? ποποίηση της παρ. 1 του δεύτερου άρθρου του ν. 4163/2013 (Α΄ 219) ». "@el.
+<http://legislation.di.uoa.gr/law/2014/4227/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2014/4227> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4227/article/1>.
+<http://legislation.di.uoa.gr/law/2014/4227/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4227/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4227/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2014/4227/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4227/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4227/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4227/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνεται και έχει ισχύ νόμου από τη δημοσίευσή τηςστην Εφημερίδα της Κυβερνήσεως η από 11 Οκτωβρίου 2013 Πράξη Νομοθετικού Περιεχομένου «Ρυθμίσειςγια την αντιμετώπιση των εξαιρετικά επειγουσών καιαπρόβλεπτων αναγκών του κοινωφελούς, μη κερδοσκοπικού ιδρύματος με την επωνυμία «ΚΟΙΝΩΦΕΛΕΣΙΔΡΥΜΑ ΕΡΡΙΚΟΣ ΝΤΥΝΑΝ» που δημοσιεύθηκε στο υπ’αριθμ. 219 Φύλλο της Εφημερίδας της Κυβερνήσεως(τ.Α΄), που έχει ως εξής:τώπιση των εξαιρετικά επειγουσών και απρόβλεπτωναναγκών του κοινωφελούς, μη κερδοσκοπικού ιδρύματος με την επωνυμία «ΚΟΙΝΩΦΕΛΕΣ ΙΔΡΥΜΑ ΕΡΡΙΚΟΣΝΤΥΝΑΝ»» και άλλες διατάξεις (Α΄ 32)» που παρατείνειτις προθεσμίες των παραγράφων 1 και 2 του άρθρου1 της Πράξης Νομοθετικού Περιεχομένου με τον τίτλο«Τροποποίηση του άρθρου 1 της από 30.10.2012 Πράξης Νομοθετικού Περιεχομένου», η οποία κυρώθηκε μετο άρθρο πρώτο του ν. 4118/2013 «Κύρωση της ΠράξηςΝομοθετικού Περιεχομένου «Ρυθμίσεις για την αντιμετώπιση των εξαιρετικά επειγουσών και απρόβλεπτωναναγκών του κοινωφελούς μη κερδοσκοπικού ιδρύματος με την επωνυμία «ΚΟΙΝΩΦΕΛΕΣ ΙΔΡΥΜΑ ΕΡΡΙΚΟΣΝΤΥΝΑΝ»»», που παρατάθηκαν με το άρθρο 1 της από29.4.2012 Πράξης Νομοθετικού Περιεχομένου που κυρώθηκε με το άρθρο πρώτο του ν. 4163/2013, παρατείνεταιαπό τη λήξη τους μέχρι 31.1.2014."@el.
+<http://legislation.di.uoa.gr/law/2014/4227/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2014/4227> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4227/article/2>.
+<http://legislation.di.uoa.gr/law/2014/4227/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4227/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4227/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2014/4227/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4227/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4227/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4227/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Έναρξη ισχύοςΤροποποίηση της παρ. 1 του δευτέρου άρθρου τουν. 4163/2013Η ισχύς της παρούσας, η οποία θα κυρωθεί νομοθετικά κατά το άρθρο 44 παράγραφος 1 του Συντάγματος,αρχίζει από τη δημοσίευσή της στην Εφημερίδα τηςΚυβερνήσεως.Ο ΠΡΟΕΔΡΟΣΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.

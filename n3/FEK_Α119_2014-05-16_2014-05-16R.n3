@@ -1,0 +1,27 @@
+﻿<http://legislation.di.uoa.gr/pd/2014/73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/73> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/119>.
+<http://legislation.di.uoa.gr/gazette/a/2014/119> <http://legislation.di.uoa.gr/ontology/gazette> "Α/2014/119".
+<http://legislation.di.uoa.gr/pd/2014/73> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/73> <http://purl.org/dc/terms/created> "2014-05-16"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/73> <http://legislation.di.uoa.gr/ontology/legislationID> "73"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/73> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>. 
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2014/73> <http://legislation.di.uoa.gr/ontology/tag> "test"@el.
+<http://legislation.di.uoa.gr/pd/2014/73> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/73/2014-05-16>.
+<http://legislation.di.uoa.gr/pd/2014/73> <http://purl.org/dc/terms/title> "Προσαρμογή διατάξεων της σχετικής με το άρτιο μέ? ρισμα των μονίμων υπαλλήλων – ασφαλισμένων του Μετοχικού Ταμείου Αεροπορίας νομοθεσίας προς το δεύτερο κεφάλαιο «Σύστημα βαθμολογικών προ? αγωγών και μισθολογικής εξέλιξης των υπαλλήλων του Κράτους, των Οργανισμών τοπικής αυτοδιοίκη? σης Α΄ και Β΄ βαθμού και άλλων φορέων του δημό? σιου τομέα και συναφείς διατάξεις» του Ν. 4024/2011 (ΦΕΚ Α΄226). "@el.
+<http://legislation.di.uoa.gr/pd/2014/73/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/73/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις των παραγράφων 2 και 4 του άρθρου 32 του Ν.4024/2011 «Συνταξιοδοτικές ρυθμίσεις, ενιαίο μισθολόγιο – βαθμολόγιο, εργασιακή εφεδρεία και άλλες διατάξεις εφαρμογής του μεσοπρόθεσμου πλαισίου δημοσιονομικής στρατηγικής 2012 – 2015» (ΦΕΚ Α΄226). "@el.
+<http://legislation.di.uoa.gr/pd/2014/73> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/73/citation/1>.
+<http://legislation.di.uoa.gr/pd/2014/73/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/73/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 90 του Κώδικα που κυρώθηκε με το άρθρο πρώτο του Προεδρικού Διατάγματος 63/2005 «Κωδικοποίηση της Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα» (ΦΕΚ Α΄98). "@el.
+<http://legislation.di.uoa.gr/pd/2014/73> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/73/citation/2>.
+<http://legislation.di.uoa.gr/pd/2014/73/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/73/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθμ. 251642/04?07?13 Κοινή Απόφαση του Πρωθυπουργού και του Υπουργού Εθνικής Άμυνας με θέμα «Ανάθεση Αρμοδιοτήτων στον Υφυπουργό Εθνικής Άμυνας Αθανάσιο Δαβάκη» (ΦΕΚ Β’ 1653). "@el.
+<http://legislation.di.uoa.gr/pd/2014/73> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/73/citation/3>.
+<http://legislation.di.uoa.gr/pd/2014/73/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/73/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος προκύπτει, για το οικονομικό έτος 2012 και για κάθε ένα από τα επόμενα πέντε (5) έτη, πρόσθετη οικονομική επιβάρυνση ύψους 294,96 ευρώ η οποία δύναται να καλυφθεί από τον Προϋπολογισμό του Μετοχικού Ταμείου Αεροπορίας (με Κωδικό Αριθμό Εξόδων 0600 ? 0622 «Ασφαλιστικές Παροχές»/ «Μηνιαία Μερίσματα). "@el.
+<http://legislation.di.uoa.gr/pd/2014/73> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/73/citation/4>.
+<http://legislation.di.uoa.gr/pd/2014/73/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/73/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Τις υπ’ αριθμ. 165/2013 και 14/2014 γνωμοδοτήσεις του Συμβουλίου της Επικρατείας μετά από πρόταση του Υπουργού Διοικητικής Μεταρρύθμισης και Ηλεκτρονικής Διακυβέρνησης και του Υφυπουργού Εθνικής Άμυνας, "@el.
+<http://legislation.di.uoa.gr/pd/2014/73> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/73/citation/5>.

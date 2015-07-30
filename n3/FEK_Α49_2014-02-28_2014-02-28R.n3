@@ -1,0 +1,25 @@
+﻿<http://legislation.di.uoa.gr/law/2014/4241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2014/4241> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/49>.
+<http://legislation.di.uoa.gr/gazette/a/2014/49> <http://legislation.di.uoa.gr/ontology/gazette> "Α/2014/49".
+<http://legislation.di.uoa.gr/law/2014/4241> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2014/4241> <http://purl.org/dc/terms/created> "2014-02-28"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2014/4241> <http://legislation.di.uoa.gr/ontology/legislationID> "4241"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2014/4241> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>. 
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2014/4241> <http://legislation.di.uoa.gr/ontology/tag> "test"@el.
+<http://legislation.di.uoa.gr/law/2014/4241> <http://purl.org/dc/terms/title> "Κύρωση της Συμφωνίας μεταξύ της Κυβέρνησης της Ελ? ληνικής Δημοκρατίας και της Κυβέρνησης της Ρωσι? κής Ομοσπονδίας περί διεθνών οδικών μεταφορών. "@el.
+<http://legislation.di.uoa.gr/law/2014/4241/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2014/4241> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4241/article/1>.
+<http://legislation.di.uoa.gr/law/2014/4241/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4241/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4241/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2014/4241/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4241/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4241/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4241/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνεται και έχει την ισχύ, που ορίζει το άρθρο28 παρ. 1 του Συντάγματος, η Συμφωνία μεταξύ τηςΚυβέρνησης της Ελληνικής Δημοκρατίας και της Κυβέρνησης της Ρωσικής Ομοσπονδίας περί διεθνών οδικώνμεταφορών που υπογράφηκε στη Μόσχα, τη 15η Δεκεμβρίου 2011, το κείμενο της οποίας σε πρωτότυπο στηνελληνική και αγγλική γλώσσα έχει ως εξής:804806808810812814816818820822"@el.
+<http://legislation.di.uoa.gr/law/2014/4241/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2014/4241> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4241/article/2>.
+<http://legislation.di.uoa.gr/law/2014/4241/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4241/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4241/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2014/4241/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4241/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4241/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4241/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσήτου στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεωντου άρθρου 17 παράγραφος 2 αυτής.Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ωςνόμου του Κράτους."@el.

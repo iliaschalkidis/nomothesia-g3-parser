@@ -1,0 +1,25 @@
+﻿<http://legislation.di.uoa.gr/law/2014/4299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2014/4299> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/221>.
+<http://legislation.di.uoa.gr/gazette/a/2014/221> <http://legislation.di.uoa.gr/ontology/gazette> "Α/2014/221".
+<http://legislation.di.uoa.gr/law/2014/4299> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2014/4299> <http://purl.org/dc/terms/created> "2014-10-03"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2014/4299> <http://legislation.di.uoa.gr/ontology/legislationID> "4299"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2014/4299> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>. 
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2014/4299> <http://legislation.di.uoa.gr/ontology/tag> "test"@el.
+<http://legislation.di.uoa.gr/law/2014/4299> <http://purl.org/dc/terms/title> "Κύρωση της Σύμβασης Μίσθωσης μεταξύ της Ελληνι? κής Δημοκρατίας και των εταιριών Ελληνικά Πετρέ? λαια Α.Ε., Edison International S.p.A. και Petroceltic Resources plc για την παραχώρηση του δικαιώμα? τος έρευνας και εκμετάλλευσης υδρογονανθράκων στη θαλάσσια περιοχή ΠΑΤΡΑΪΚΟΣ ΚΟΛΠΟΣ (Δυτικά). "@el.
+<http://legislation.di.uoa.gr/law/2014/4299/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2014/4299> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4299/article/1>.
+<http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4299/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4299/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κύρωση της Σύμβασης παραχώρησηςΚυρώνεται και αποκτά ισχύ νόμου η Σύμβαση Μίσθωσης για την παραχώρηση του δικαιώματος έρευνας καιεκμετάλλευσης υδρογονανθράκων στη θαλάσσια περιοχή ΠΑΤΡΑΪΚΟΣ ΚΟΛΠΟΣ (Δυτικά), που υπογράφηκεστην Αθήνα στις 14 Μαΐου 2014, μεταξύ αφενός της Ελληνικής Δημοκρατίας, νομίμως εκπροσωπούμενης απότον Υπουργό Περιβάλλοντος, Ενέργειας και ΚλιματικήςΑλλαγής και αφετέρου: 1) της εταιρίας με την επωνυμία «Ελληνικά Πετρέλαια» (ΕΛ.ΠΕ. Α.Ε.), 2) της εταιρίαςμε την επωνυμία «Edison International S.p.A..»εταιρίας με την επωνυμία «Petroceltic Resources plc»,το κείμενο της οποίας ακολουθεί στην ελληνική καιαγγλική γλώσσα:6944694669486950695269546956695869606962696469666968697069726974697669786980698269846986698869906992699469966998700070027004700670087010701270147016701870207022702470267028703070327034703670387040704270447046704870507052705470567058706070627064706670687070707270747076707870807082708470867088709070927094709670987100710271047106710871107112711471167118712071227124712671287130"@el.
+<http://legislation.di.uoa.gr/law/2014/4299/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2014/4299> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4299/article/2>.
+<http://legislation.di.uoa.gr/law/2014/4299/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4299/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4299/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2014/4299/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4299/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4299/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4299/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στηνΕφημερίδα της Κυβερνήσεως.Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως νόμου τουΚράτους."@el.

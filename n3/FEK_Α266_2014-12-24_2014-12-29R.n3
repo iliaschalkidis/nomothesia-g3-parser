@@ -1,0 +1,34 @@
+﻿<http://legislation.di.uoa.gr/pd/2014/170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/170> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/266>.
+<http://legislation.di.uoa.gr/gazette/a/2014/266> <http://legislation.di.uoa.gr/ontology/gazette> "Α/2014/266".
+<http://legislation.di.uoa.gr/pd/2014/170> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/170> <http://purl.org/dc/terms/created> "2014-12-24"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/170> <http://legislation.di.uoa.gr/ontology/legislationID> "170"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/170> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>. 
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2014/170> <http://legislation.di.uoa.gr/ontology/tag> "test"@el.
+<http://legislation.di.uoa.gr/pd/2014/170> <http://purl.org/dc/terms/title> "Μεταφορά πιστώσεων από τους Δήμους στις Περιφέρει? ες, συνεπεία της αντίστοιχης μεταβίβασης της αρ? μοδιότητας για τη μεταφορά μαθητών πρωτοβάθ? μιας και δευτεροβάθμιας εκπαίδευσης. "@el.
+<http://legislation.di.uoa.gr/pd/2014/170/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/170/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α. των άρθρων 186 κεφ. ΙΙ παρ. Η περ. 21, 259 και 260 του Ν. 3852/2010 «Νέα Αρχιτεκτονική της Αυτοδιοίκησης και της Αποκεντρωμένης Διοίκησης ? Πρόγραμμα Καλλικράτης» (Α΄ 87), όπως ισχύει», β. της παρ. 1 περ. β του άρθρου 18 του Ν. 3870/2010 «Εκλογικές δαπάνες συνδυασμών και υποψηφίων και έλεγχος αυτών, κατά τις περιφερειακές και δημοτικές εκλογές» (Α΄ 138), όπως ισχύει, γ. του άρθρου 90 του Π.δ/τος 63/2005 «Κωδικοποίηση της Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα» (Α΄ 98), δ. του Π.δ/τος 89/2014 «Διορισμός Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α΄ 134), ε. του Π.δ/τος 86/2012 «Διορισμός Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α΄ 141), στ. την αριθμ. Υ48/9.7.2012 απόφαση του Πρωθυπουργού «Καθορισμός αρμοδιοτήτων του Αναπληρωτή Υπουργού Οικονομικών, Χρήστου Σταϊκούρα» (Β΄ 2105). "@el.
+<http://legislation.di.uoa.gr/pd/2014/170> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/170/citation/1>.
+<http://legislation.di.uoa.gr/pd/2014/170/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/170/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού. "@el.
+<http://legislation.di.uoa.gr/pd/2014/170> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/170/citation/2>.
+<http://legislation.di.uoa.gr/pd/2014/170/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/170/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Την αριθμ. Δ272/2014 γνωμοδότηση του Συμβουλίου της Επικρατείας, με πρόταση του Υπουργού Εσωτερικών και του Αν. Υπουργού Οικονομικών, "@el.
+<http://legislation.di.uoa.gr/pd/2014/170> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/170/citation/3>.
+<http://legislation.di.uoa.gr/pd/2014/170/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/170> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/170/article/1>.
+<http://legislation.di.uoa.gr/pd/2014/170/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/170/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/170/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/170/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/170/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/170/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/170/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "α. Καθορίζουμε τη μείωση των Κεντρικών ΑυτοτελώνΠόρων των Δήμων, της περιπτ. α) της παρ. 1 του άρθρου259 του Ν. 3852/2010 (Α΄ 87) όπως ισχύει, σε ποσοστό1,8% των συνολικών εισπράξεων του φόρου αυτού πουπραγματοποιούνται κατά τη διάρκεια του οικονομικούέτους και αυτό διαμορφώνεται πλέον σε ποσοστό 19,5%.β. Καθορίζουμε την αύξηση των Κεντρικών ΑυτοτελώνΠόρων των Περιφερειών, της περίπτ. α) της παρ. 1 τουάρθρου 260 του Ν. 3852/2010 (Α΄ 87) σε ποσοστό 1,8%των συνολικών εισπράξεων του φόρου αυτού που πραγματοποιούνται κατά τη διάρκεια του οικονομικού έτουςκαι αυτό διαμορφώνεται πλέον σε ποσοστό 4,20%."@el.
+<http://legislation.di.uoa.gr/pd/2014/170/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/170> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/170/article/2>.
+<http://legislation.di.uoa.gr/pd/2014/170/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/170/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/170/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/170/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/170/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/170/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/170/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή τουστην Εφημερίδα της Κυβερνήσεως.Στον Υπουργό Εσωτερικών αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.

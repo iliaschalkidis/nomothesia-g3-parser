@@ -1,0 +1,38 @@
+﻿<http://legislation.di.uoa.gr/pd/2014/123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/123> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/197>.
+<http://legislation.di.uoa.gr/gazette/a/2014/197> <http://legislation.di.uoa.gr/ontology/gazette> "Α/2014/197".
+<http://legislation.di.uoa.gr/pd/2014/123> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/123> <http://purl.org/dc/terms/created> "2014-09-23"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/123> <http://legislation.di.uoa.gr/ontology/legislationID> "123"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/123> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>. 
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2014/123> <http://legislation.di.uoa.gr/ontology/tag> "test"@el.
+<http://legislation.di.uoa.gr/pd/2014/123> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/123/2014-09-23>.
+<http://legislation.di.uoa.gr/pd/2014/123> <http://purl.org/dc/terms/title> "Τροποποίηση του π.δ/τος 156/2004 Περί κανονισμού στολής υπηρεσίας των μελών της Ολομέλειας του Ελεγκτικού Συνεδρίου (Α΄ 125). "@el.
+<http://legislation.di.uoa.gr/pd/2014/123/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/123/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) Των παρ. 8 του άρθρου 58 του ν. 3160/2003 (Α΄ 165) και 1 του άρθρου 76 του ν. 4055/2012 (Α΄ 51), οι οποίες κωδικοποιήθηκαν στο άρθρο 4 παρ. 2 και 3, αντίστοιχα, του Κώδικα Νόμων για το Ελεγκτικό Συνέδριο, που κυρώθηκε με το άρθρο πρώτο του ν. 4129/2014 (Α΄ 52), β) Του π.δ/τος 156/2004 (Α΄ 125) «Περί κανονισμού στολής υπηρεσίας των μελών της Ολομέλειας του Ελεγκτικού Συνεδρίου ». "@el.
+<http://legislation.di.uoa.gr/pd/2014/123> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/123/citation/1>.
+<http://legislation.di.uoa.gr/pd/2014/123/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/123/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Τη σύμφωνη γνώμη της Ολομέλειας του Ελεγκτικού Συνεδρίου, όπως διατυπώθηκε στα Πρακτικά της 15ης/20.8.2014 Γενικής Συνεδριάσεως αυτής. "@el.
+<http://legislation.di.uoa.gr/pd/2014/123> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/123/citation/2>.
+<http://legislation.di.uoa.gr/pd/2014/123/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/123/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού. "@el.
+<http://legislation.di.uoa.gr/pd/2014/123> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/123/citation/3>.
+<http://legislation.di.uoa.gr/pd/2014/123/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/123/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθμ. Δ231/2014 γνωμοδότηση του Συμβουλίου της Επικρατείας, μετά από πρόταση του Υπουργού Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων, "@el.
+<http://legislation.di.uoa.gr/pd/2014/123> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/123/citation/4>.
+<http://legislation.di.uoa.gr/pd/2014/123/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/123> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/123/article/1>.
+<http://legislation.di.uoa.gr/pd/2014/123/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/123/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/123/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/123/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/123/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/123/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/123/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στο άρθρο 2 του π.δ/τος 156/2004 προστίθεται νέαπαράγραφος με αριθμό 4 με το εξής περιεχόμενο:."@el.
+<http://legislation.di.uoa.gr/pd/2014/123/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/123> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/123/article/2>.
+<http://legislation.di.uoa.gr/pd/2014/123/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/123/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/123/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/123/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/123/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/123/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/123/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Έναρξη ισχύοςΗ ισχύς του παρόντος αρχίζει από τη δημοσίευσή τουστην Εφημερίδα της Κυβερνήσεως.Στον Υπουργό Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.

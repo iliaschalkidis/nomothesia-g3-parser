@@ -1,0 +1,46 @@
+﻿<http://legislation.di.uoa.gr/pd/2014/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/2> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/5>.
+<http://legislation.di.uoa.gr/gazette/a/2014/5> <http://legislation.di.uoa.gr/ontology/gazette> "Α/2014/5".
+<http://legislation.di.uoa.gr/pd/2014/2> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/2> <http://purl.org/dc/terms/created> "2014-01-08"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/2> <http://legislation.di.uoa.gr/ontology/legislationID> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/2> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>. 
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2014/2> <http://legislation.di.uoa.gr/ontology/tag> "test"@el.
+<http://legislation.di.uoa.gr/pd/2014/2> <http://purl.org/dc/terms/title> "Μετονομασία Τοπικής Κοινότητας Καλαμακίου του Δή? μου Νοτίου Πηλίου Νομού Μαγνησίας σε Τοπική Κοι? νότητα Πρόπαν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/2/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/2/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 7 παρ. 1 του Κώδικα Δήμων και Κοινοτήτων, όπως κυρώθηκε με το άρθρο πρώτο του Ν. 3463/2006 (Α΄ 114). "@el.
+<http://legislation.di.uoa.gr/pd/2014/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/2/citation/1>.
+<http://legislation.di.uoa.gr/pd/2014/2/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/2/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το Προεδρικό διάταγμα 119/2013 «Διορισμός Αντιπροέδρου της Κυβέρνησης, Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α΄ 153). "@el.
+<http://legislation.di.uoa.gr/pd/2014/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/2/citation/2>.
+<http://legislation.di.uoa.gr/pd/2014/2/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/2/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα που κυρώθηκε με το άρθρο πρώτο του Π.Δ. 63/2005 (Α΄ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2014/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/2/citation/3>.
+<http://legislation.di.uoa.gr/pd/2014/2/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/2/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Την απόφαση 4514/20?2?2012 (112/τ.ΥΟΔΔ/13.3.2012) του Υπουργού Εσωτερικών για τη Συγκρότηση του Συμβουλίου Τοπωνυμιών στο Υπουργείο Εσωτερικών. "@el.
+<http://legislation.di.uoa.gr/pd/2014/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/2/citation/4>.
+<http://legislation.di.uoa.gr/pd/2014/2/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/2/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθμ. 226/2012 απόφαση του δημοτικού συμβουλίου του Δήμου Νοτίου Πηλίου Νομού Μαγνησίας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/2/citation/5>.
+<http://legislation.di.uoa.gr/pd/2014/2/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/2/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Τη θετική γνωμοδότηση του Συμβουλίου Τοπωνυμιών υπ’ αριθμ. 23/2012 πρακτικό του Συμβουλίου Τοπωνυμιών (αριθμ. συνεδρ. 23/11?6?2012, απόφ. 23/2012, θέμα 4ο). "@el.
+<http://legislation.di.uoa.gr/pd/2014/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/2/citation/6>.
+<http://legislation.di.uoa.gr/pd/2014/2/citation/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/2/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός, ότι από τις διατάξεις του παρόντος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού ή του προϋπολογισμού του Δήμου Νοτίου Πηλίου. "@el.
+<http://legislation.di.uoa.gr/pd/2014/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/2/citation/7>.
+<http://legislation.di.uoa.gr/pd/2014/2/citation/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/2/citation/8> <http://legislation.di.uoa.gr/ontology/context> "Την 167/2013 γνωμοδότηση του Συμβουλίου της Επικρατείας, με πρόταση του Υπουργού Εσωτερικών. "@el.
+<http://legislation.di.uoa.gr/pd/2014/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/2/citation/8>.
+<http://legislation.di.uoa.gr/pd/2014/2/citation/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/2/citation/9> <http://legislation.di.uoa.gr/ontology/context> "Την 324/2013 γνωμοδότηση του Συμβουλίου της Επικρατείας, με πρόταση του Υπουργού Εσωτερικών, "@el.
+<http://legislation.di.uoa.gr/pd/2014/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/2/citation/9>.
+<http://legislation.di.uoa.gr/pd/2014/2> <http://purl.org/dc/terms/title> "Μετονομασία Τοπικής Κοινότητας Καλαμακίου του Δή? μου Νοτίου Πηλίου Νομού Μαγνησίας σε Τοπική Κοι? νότητα Πρόπαν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/2/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/2/article/1>.
+<http://legislation.di.uoa.gr/pd/2014/2/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/2/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/2/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/2/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/2/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/2/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/2/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η Τοπική Κοινότητα Καλαμακίου του Δήμου ΝοτίουΠηλίου Νομού Μαγνησίας μετονομάζεται σε Τοπική Κοινότητα Πρόπαν.Στον Υπουργό Εσωτερικών αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.

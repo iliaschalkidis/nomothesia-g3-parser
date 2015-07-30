@@ -1,0 +1,42 @@
+﻿<http://legislation.di.uoa.gr/pd/2014/118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/118> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/187>.
+<http://legislation.di.uoa.gr/gazette/a/2014/187> <http://legislation.di.uoa.gr/ontology/gazette> "Α/2014/187".
+<http://legislation.di.uoa.gr/pd/2014/118> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/118> <http://purl.org/dc/terms/created> "2014-09-04"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/118> <http://legislation.di.uoa.gr/ontology/legislationID> "118"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/118> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>. 
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2014/118> <http://legislation.di.uoa.gr/ontology/tag> "test"@el.
+<http://legislation.di.uoa.gr/pd/2014/118> <http://purl.org/dc/terms/title> "Θέση σε κυκλοφορία δύο νέων αναμνηστικών κερμάτων κυκλοφορίας 2 € κοπής 2014 με αφορμή τις επετεί? ους α) «400 χρόνια από το θάνατο του Δομήνικου Θεοτοκόπουλου (1614?2014)» και β) «150 χρόνια από την ενσωμάτωση των Ιονίων Νήσων (1864?2014)» και καθορισμός των κύριων γνωρισμάτων τους. "@el.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 128 (παρ. 2) της Συνθήκης για τη Λειτουργία της Ευρωπαϊκής Ένωσης, το κείμενο της οποίας ενοποιήθηκε με την Συνθήκη της Λισσαβόνας που κυρώθηκε με το άρθρο πρώτο του ν. 3671/2008 (Α΄ 129) και αποδόθηκε ενοποιημένα στην Επίσημη Εφημερίδα της Ευρωπαϊκής Ένωσης (C 83/30.03.2010). "@el.
+<http://legislation.di.uoa.gr/pd/2014/118> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/118/citation/1>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του Κανονισμού του Συμβουλίου (ΕΚ) αριθ. 975/1998 της 3ης Μαΐου 1998 «για την ονομαστική αξία και τις τεχνικές προδιαγραφές των κερμάτων σε ευρώ που πρόκειται να κυκλοφορήσουν» (ΕΕ L 139 της 11.5.1998, σελ. 6), όπως έχει τροποποιηθεί με τον Κανονισμό του Συμβουλίου (ΕΚ) αριθ. 423/1999 της 22.2.1999 (ΕΕ L 52 της 27.2.1999, σελ. 2) και τον Κανονισμό του Συμβουλίου (ΕΕ) αριθ. 566/2012 της 18.6.2012 (EE L 169 της 29.6.2012, σελ. 8). "@el.
+<http://legislation.di.uoa.gr/pd/2014/118> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/118/citation/2>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του Κανονισμού του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου αριθ. 651/2012 «σχετικά με την έκδοση κερμάτων ευρώ» της 4.7.2012 (EE L 201 της 27.07.2012, σελ 135). "@el.
+<http://legislation.di.uoa.gr/pd/2014/118> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/118/citation/3>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Την από 06/12/2013 απόφαση της Ευρωπαϊκής Κεντρικής Τράπεζας (ΕΚΤ/2013/46), σχετικά με την έγκριση της ποσότητας των κερμάτων που πρόκειται να εκδοθούν το 2014 (ΕΕ L 349 της 21.12.2013, σελ. 109). "@el.
+<http://legislation.di.uoa.gr/pd/2014/118> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/118/citation/4>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Την από 16/4/2014 έγκριση του Συμβουλίου της Ευρωπαϊκής Ένωσης (ECOFIN 403/UEM97/16.4.2014). "@el.
+<http://legislation.di.uoa.gr/pd/2014/118> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/118/citation/5>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις των άρθρων 1,2,3,4 (παρ. 1) και 6 (παρ. 1) του ν. 2948/2001 «Κυκλοφορία τραπεζογραμματίων και κερμάτων ευρώ και φορολογικές ρυθμίσεις για την εισαγωγή του ευρώ» (Α΄ 242). "@el.
+<http://legislation.di.uoa.gr/pd/2014/118> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/118/citation/6>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου δεύτερου (παρ. 2) του ν.δ. 488/1974 «Περί κυρώσεως της μεταξύ του Ελληνικού Δημοσίου και της Τραπέζης της Ελλάδος υπογραφείσης την 21ην Ιουνίου 1973 Συμβάσεως δι΄ής ρυθμίζονται τα της κοπής μεταλλικών κερμάτων του Δημοσίου, και άλλων τινών διατάξεων» (Α΄ 203). "@el.
+<http://legislation.di.uoa.gr/pd/2014/118> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/118/citation/7>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/8> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα που κυρώθηκε με το π.δ. 63/2005 (Α΄ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2014/118> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/118/citation/8>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/9> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις των άρθρων 1 (παρ. 1) και 2 της υπ’ αριθ. Υ48/9.7.2012 απόφασης του Πρωθυπουργού «Καθορισμός αρμοδιοτήτων του Αναπληρωτή Υπουργού Οικονομικών Χρήστου Σταϊκούρα» (Β΄ 2105). "@el.
+<http://legislation.di.uoa.gr/pd/2014/118> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/118/citation/9>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/10> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος Π.Δ/τος προκαλείται δαπάνη σε βάρος του προϋπολογισμού του Υπουργείου Οικονομικών, έτους 2014, φορέας 23?200, ΚΑΕ 3326, το ύψος της οποίας θα ανέλθει στο ποσό των 555.000€ περίπου. "@el.
+<http://legislation.di.uoa.gr/pd/2014/118> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/118/citation/10>.
+<http://legislation.di.uoa.gr/pd/2014/118/citation/11> <http://www.w3.org/1
