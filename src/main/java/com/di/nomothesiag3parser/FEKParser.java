@@ -19,6 +19,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.util.ArrayList;
+import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.openrdf.OpenRDFException;
@@ -45,15 +46,15 @@ public class FEKParser {
     String baseURI;
     String baseURI2;
     String date;
-    public FEKParser(String name){
+    public FEKParser(String folder_name,String name){
         legaldocs = new ArrayList<>();
         legaldoc = new LegalDocumentPro();
         mods = new ArrayList<>();
         mod_count =1;
         baseURI = "http://legislation.di.uoa.gr/";
         try {
-            File file = new File("html/"+name.replace(".pdf.txt","")+".html");
-            File file2 = new File("n3/"+name.replace(".pdf.txt","")+".n3");
+            File file = new File("html/"+folder_name+"/"+name.replace(".pdf.txt","")+".html");
+            File file2 = new File("n3/"+folder_name+"/"+name.replace(".pdf.txt","")+".n3");
             file.getParentFile().mkdirs();
             file2.getParentFile().mkdirs();
             writer = new PrintWriter(file);
@@ -63,9 +64,9 @@ public class FEKParser {
         }
     }
     
-    void readFile(String fileName) throws Exception {
+    void readFile(String folder,String fileName) throws Exception {
         //BufferedReader br = new BufferedReader(new FileReader("src/main/java/com/di/nomothesiag3parser/2014/"+fileName));
-        BufferedReader br = new BufferedReader(new InputStreamReader( new FileInputStream("src/main/java/com/di/nomothesiag3parser/2014/"+fileName), "UTF-8"));
+        BufferedReader br = new BufferedReader(new InputStreamReader( new FileInputStream("src/main/java/com/di/nomothesiag3parser/"+folder+"/"+fileName), "UTF-8"));
         try {
             StringBuilder sb = new StringBuilder();
             String line = br.readLine();
@@ -136,7 +137,14 @@ public class FEKParser {
     
     void parseLegalDocument(){
 
-        String[] buffers = FEK.split("Αρ. Φύλλου ");
+      String [] legaldocuments = FEK.split("\n\\([0-9]+\\)\n");
+      
+      if(legaldocuments.length>2){
+          FEK = legaldocuments[0].split("ΠΕΡΙΕΧΟΜΕΝΑ\n")[0] + legaldocuments[1];
+          System.out.println("LEGAL DOCS: "+(legaldocuments.length-1));
+      }
+ 
+      String[] buffers = FEK.split("Αρ. Φύλλου ");
       buffers = buffers[1].split("\n",2);
       GovernmentGazette  gg = new GovernmentGazette();
       gg.setId(buffers[0]);
@@ -349,7 +357,7 @@ public class FEKParser {
          writer2.append("\n");
        }
        baseURI2 = baseURI;
-       FEK = FEK.replaceAll("ΕΦΗΜΕΡΙΣ ΤΗΣ ΚΥΒΕΡΝΗΣΕΩΣ \\(ΤΕΥΧΟΣ ΠΡΩΤΟ\\)", "").replaceAll("\n[0-9]+\n","");
+       FEK = FEK.replaceAll("ΕΦΗΜΕΡΙΣ ΤΗΣ ΚΥΒΕΡΝΗΣΕΩΣ \\(ΤΕΥΧΟΣ ΠΡΩΤΟ\\)", " ").replaceAll("\n[0-9]+\n"," ");
 //      writer.println("ID: "+ legaldoc.getId());
      writer.println("<div class=\"container\">\n" +
 "        <div class=\"row\">\n" +
@@ -373,7 +381,7 @@ public class FEKParser {
 //     writer.println("____________________________________________________________________________________________________");
 //     writer.println();
      buffers = FEK.split("\nΑθήνα, ");
-     FEK = buffers[0].replaceAll("\n[0-9]+\n", "");
+     FEK = buffers[0].replaceAll("\n[0-9]+\n", " ");
      FEK = FEK.replaceAll("ΕΦΗΜΕΡΙΣ ΤΗΣ ΚΥΒΕΡΝΗΣΕΩΣ (ΤΕΥΧΟΣ ΠΡΩΤΟ)", "");
      
      if(FEK.startsWith("ΚΕΦΑΛΑΙΟ")){
@@ -388,6 +396,20 @@ public class FEKParser {
          writer.println("<div id=\"article-1\">");
          writer.println(FEK.replace("−\n", "").replace("\n", " "));
          writer.println("</div>");
+         writer2.append("<"+baseURI+"/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.");
+         writer2.append("\n");
+         writer2.append("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/article/1>.");
+         writer2.append("\n");
+         writer2.append("<"+baseURI+"/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.");
+         writer2.append("\n");
+         writer2.append("<"+baseURI+"/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/article/1/paragraph/1>.");
+         writer2.append("\n");
+         writer2.append("<"+baseURI+"/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.");
+         writer2.append("\n");
+         writer2.append("<"+baseURI+"/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/article/1/paragraph/1/passage/1>.");
+         writer2.append("\n");
+         writer2.append("<"+baseURI+"article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> \""+FEK.replace("−\n", "").replace("\n", " ").replaceAll("\\p{C}", "")+"\"@el.");
+         writer2.append("\n");
      }
      writer.println("<br/>");
      writer.println(buffers[1].split("20[0-9][0-9]")[1].replace("Θεωρήθηκε και τέθηκε η Μεγάλη Σφραγίδα του Κράτους.", ""));
@@ -410,7 +432,7 @@ public class FEKParser {
             writer.println("<li>"+citations[i].replace("−\n", "").replace("\n", " ")+"</li>");
             writer2.append("<"+baseURI+"/citation/"+i+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.");
             writer2.append("\n");
-            writer2.append("<"+baseURI+"/citation/"+i+"> <http://legislation.di.uoa.gr/ontology/context> \""+citations[i].replace("−\n", "").replace("\n", " ").replaceAll("\\p{C}", "")+"\"@el.");
+            writer2.append("<"+baseURI+"/citation/"+i+"> <http://legislation.di.uoa.gr/ontology/context> \""+citations[i].replace("−\n", "").replace("\n", " ").replaceAll("\\p{C}", " ")+"\"@el.");
             writer2.append("\n");
             writer2.append("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/citation/"+i+">.");
             writer2.append("\n");
@@ -425,7 +447,7 @@ public class FEKParser {
           for(int i=1; i<buffers.length; i++){
               writer.println("<div id=\"chapter-"+i+"\">");
               writer.println("<span style=\"text-align: center; font-size: 12px;\"><h3>ΚΕΦΑΛΑΙΟ "+i+"</h3></span>");
-              writer2.append("<"+baseURI+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Chapter>.");
+              writer2.append("<"+baseURI+"/chapter/"+i+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Chapter>.");
               writer2.append("\n");
               writer2.append("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/chapter/"+i+">.");
               baseURI += "/chapter/"+i;
@@ -668,10 +690,10 @@ public class FEKParser {
                                     writer2.append("\n");
                                     if(mod.contains("Άρθρο")||mod.contains("Άρθρο")){
                                         baseURI+= "/paragraph/"+z+"/modification/"+mod_count;
-                                        parseParagraphs(mod.replace("«", "").replace("»", "").replaceAll("\\p{C}", ""),1);
+                                        parseParagraphs(mod.replace("«", "").replace("»", "").replaceAll("\\p{C}", " "),1);
                                     }
                                     else {
-                                       writer.println(mod.replace("«", "").replace("»", "").replace("−\n", "").replace("\n", " ").replaceAll("\\p{C}", "") + "\n");
+                                       writer.println(mod.replace("«", "").replace("»", "").replace("−\n", "").replace("\n", " ").replaceAll("\\p{C}", " ") + "\n");
                                        writer2.append("<"+baseURI+"/modification/"+mod_count+"/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.");
                                        writer2.append("\n");
                                        writer2.append("<"+baseURI+"/modification/"+mod_count+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/modification/"+mod_count+"/passage/1>.");
@@ -780,8 +802,8 @@ public class FEKParser {
 //                  writer.println("");
                   //writer.println("PARAGRAPH 1");
                   //writer.println("===========");
-                  String paragraph = article.replace("−\n", "").replaceAll("\\p{C}", "");
-                  paragraph = paragraph.replace("\n", " ").replaceAll("\\p{C}", "") + "\n";
+                  String paragraph = article.replace("−\n", "").replaceAll("\\p{C}", " ");
+                  paragraph = paragraph.replace("\n", " ").replaceAll("\\p{C}", " ") + "\n";
                   writer.println(paragraph);
                   writer2.append("<"+baseURI+"/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.");
                   writer2.append("\n");
@@ -809,10 +831,10 @@ public class FEKParser {
                         writer2.append("\n");
                         if(mod.contains("Άρθρο")||mod.contains("Άρθρο")){
                             baseURI+= "/paragraph/1/modification/"+mod_count;
-                            parseParagraphs(mod.replace("«", "").replace("»", "").replaceAll("\\p{C}", ""),1);
+                            parseParagraphs(mod.replace("«", "").replace("»", "").replaceAll("\\p{C}", " "),1);
                         }
                         else {
-                           writer.println(mod.replace("«", "").replace("»", "").replace("−\n", "").replace("\n", " ").replaceAll("\\p{C}", "") + "\n");
+                           writer.println(mod.replace("«", "").replace("»", "").replace("−\n", "").replace("\n", " ").replaceAll("\\p{C}", " ") + "\n");
                            writer2.append("<"+baseURI+"/modification/"+mod_count+"/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.");
                            writer2.append("\n");
                            writer2.append("<"+baseURI+"/paragraph/1/modification/"+mod_count+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/paragraph/1/modification/"+mod_count+"/passage/1>.");
@@ -848,52 +870,73 @@ public class FEKParser {
 //        FEKParser fp = new FEKParser("FEK_Α5_2014-01-08_2014-01-08R.pdf.txt");
 //                fp.readFile("FEK_Α5_2014-01-08_2014-01-08R.pdf.txt");
 //                fp.parseLegalDocument();
+        File[] files;
+        System.out.println("NOMOTHESIA G3 PARSER");
+        System.out.println("====================");
+        System.out.println("");
+        System.out.println("Do you want to transform txt files from specific folder? (Y/N)");
+        Scanner in = new Scanner(System.in);
+        String transform = in.nextLine();
+        if(transform.equals("Y")||transform.equals("y")){
+            System.out.println("Give the name of the appropriate folder");
+            System.out.print("Folder name: ");
+            in = new Scanner(System.in);
+            String folder_name = in.nextLine();
+            int count = 0;
+            File folder = new File("src/main/java/com/di/nomothesiag3parser/"+folder_name+"/");
+            files = folder.listFiles();
+            int flag =0;
+            for(int z=0; z<files.length; z++){
+
+                if(files[z].getName().contains(".txt")){
+                    try{
+                        FEKParser fp = new FEKParser(folder_name,files[z].getName());
+                        fp.readFile(folder_name,files[z].getName());
+                        fp.parseLegalDocument();
+                    }
+                    catch(Exception ex){
+                        flag = 1;
+                        //ex.printStackTrace();
+                    }
+                    finally{
+                        if(flag==0){
+                          System.out.println(files[z].getName()+" PARSED SUCCESSFULY INTO "+files[z].getName().replace(".pdf.txt", "")+".n3");
+                          count ++;
+                        }
+                        else{
+                          System.out.println(files[z].getName()+" NOT PARSED SUCCESSFULY INTO "+files[z].getName().replace(".pdf.txt", "")+".n3");
+                          File file = new File("n3/"+files[z].getName().replace(".pdf.txt", "")+".n3");
+                          if(file.delete()){
+                                  System.out.println(file.getName().replace(".pdf.txt", "")+".n3" + " DELETED!");
+                          }
+                          else{
+                                  System.out.println("DELETE "+files[z].getName().replace(".pdf.txt","")+ ".n3 FAILED!");
+                          }
+                        }
+                        flag=0;
+                    }
+                }
+
+            }
+            System.out.println("====================================================");
+            System.out.println("PARSED SUCCESSFULLY "+count+"/"+files.length+" FILES");
+            System.out.println("====================================================");
         
-//        int count = 0;
-//        File folder = new File("src/main/java/com/di/nomothesiag3parser/2014/");
-//        File[] files = folder.listFiles();
-//        int flag =0;
-//        for(int z=0; z<files.length; z++){
-//            
-//            if(files[z].getName().contains(".txt")){
-//                try{
-//                    FEKParser fp = new FEKParser(files[z].getName());
-//                    fp.readFile(files[z].getName());
-//                    fp.parseLegalDocument();
-//                }
-//                catch(Exception ex){
-//                    flag = 1;
-////                    System.out.println("CONVERT "+files[z].getName()+" FAILED!!!");
-////                    File file = new File("src/g3parser/2014/"+files[z].getName()+".html");
-//// 
-////                    if(file.delete()){
-////                            System.out.println(file.getName() + " is deleted!");
-////                    }else{
-////                            System.out.println("Delete operation is failed.");
-////                    }
-//                    
-//                    //ex.printStackTrace();
-//                }
-//                finally{
-//                    if(flag==0){
-//                      System.out.println(files[z].getName()+" PARSED SUCCESSFULY INTO "+files[z].getName().replace(".pdf.txt", "")+".n3");
-//                      count ++;
-//                    }
-//                    else{
-//                      System.out.println(files[z].getName()+" NOT PARSED SUCCESSFULY INTO "+files[z].getName().replace(".pdf.txt", "")+".n3");
-//                    }
-//                    flag=0;
-//                }
-//            }
-//        
-//        }
-//        System.out.println("====================================================");
-//        System.out.println("PARSED SUCCESSFULLY "+count+"/"+files.length+" FILES");
-//        System.out.println("====================================================");
-        File folder_n3 = new File("n3");
-        File[] files = folder_n3.listFiles();
-//        File merge_file = new File("n3/merged.n3");
-        uploadFiles(files);
+        }
+        
+        System.out.println("Do you want to upload the .n3 files to Sesame RDF Store? (Y/N)");
+        in = new Scanner(System.in);
+        transform = in.nextLine();
+        if(transform.equals("Y")||transform.equals("y")){
+            System.out.println("Give the name of the appropriate folder");
+            System.out.print("Folder name: ");
+            in = new Scanner(System.in);
+            String folder_name = in.nextLine();
+            File folder_n3 = new File("n3/"+folder_name);
+            files = folder_n3.listFiles();
+    //        File merge_file = new File("n3/merged.n3");
+            uploadFiles(files);
+        }
         
     }
     

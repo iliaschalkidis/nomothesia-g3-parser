@@ -1,0 +1,186 @@
+﻿<http://legislation.di.uoa.gr/pd/2015/24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2015/24> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2015/20>.
+<http://legislation.di.uoa.gr/gazette/a/2015/20> <http://legislation.di.uoa.gr/ontology/gazette> "Α/2015/20".
+<http://legislation.di.uoa.gr/pd/2015/24> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2015/24> <http://purl.org/dc/terms/created> "2015-01-27"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2015/24> <http://legislation.di.uoa.gr/ontology/legislationID> "24"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2015/24> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>. 
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2015/24> <http://legislation.di.uoa.gr/ontology/tag> "test"@el.
+<http://legislation.di.uoa.gr/pd/2015/24> <http://purl.org/dc/terms/title> "Σύσταση και μετονομασία Υπουργείων, μεταφορά της Γενικής Γραμματείας Κοινωνικών Ασφαλίσεων. "@el.
+<http://legislation.di.uoa.gr/pd/2015/24/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2015/24/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις των άρθρων: α) 24 παρ. 4 του ν. 1558/1985 «Κυβέρνηση και κυβερνητικά όργανα» (Α΄ 137) και β) 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα (π.δ. 63/2005, Α΄ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2015/24> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/citation/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2015/24/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού. "@el.
+<http://legislation.di.uoa.gr/pd/2015/24> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/citation/2>.
+<http://legislation.di.uoa.gr/pd/2015/24/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2015/24/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθμ. 21/2015 γνωμοδότηση του Συμβουλίου της Επικρατείας, με πρόταση του Πρωθυπουργού, "@el.
+<http://legislation.di.uoa.gr/pd/2015/24> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/citation/3>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2015/24> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1> <http://purl.org/dc/terms/title> "Σύσταση Υπουργείου Εσωτερικών και Διοικητικής Ανασυγκρότησης".<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/1/case/0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/1/case/0> <http://legislation.di.uoa.gr/ontology/text> "Συνιστάται Υπουργείο Εσωτερικών και ΔιοικητικήςΑνασυγκρότησης. Το Υπουργείο συγκροτείται από:
+"@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/1/case/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/1/case/1> <http://legislation.di.uoa.gr/ontology/text> " τις Υπηρεσίες του πρώην Υπουργείου Εσωτερικώνμε τις αρμοδιότητες, όργανα, θέσεις και προσωπικό,όπως αυτά έχουν διαμορφωθεί κατά την έκδοση του παρόντος και με τους εποπτευόμενους από αυτό φορείς,
+"@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/1/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/1/case/2> <http://legislation.di.uoa.gr/ontology/text> " τις Υπηρεσίες του πρώην Υπουργείου ΔιοικητικήςΜεταρρύθμισης και Ηλεκτρονικής Διακυβέρνησης μετις αρμοδιότητες, όργανα, θέσεις και προσωπικό, όπωςαυτά έχουν διαμορφωθεί κατά την έκδοση του παρόντος και με τους εποπτευόμενους από αυτό φορείς,
+"@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/1/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/1/case/3> <http://legislation.di.uoa.gr/ontology/text> " τις Υπηρεσίες του πρώην Υπουργείου ΔημόσιαςΤάξης και Προστασίας του Πολίτη με τις αρμοδιότητες,όργανα, θέσεις και προσωπικό, όπως αυτά έχουν διαμορφωθεί κατά την έκδοση του παρόντος και με τουςεποπτευόμενους από αυτό φορείς,
+"@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/1/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/1/case/4> <http://legislation.di.uoa.gr/ontology/text> " τις Υπηρεσίες του πρώην Υπουργείου Μακεδονίαςκαι Θράκης με τις αρμοδιότητες, όργανα, θέσεις καιπροσωπικό, όπως αυτά έχουν διαμορφωθεί κατά τηνέκδοση του παρόντος και με τους εποπτευόμενους απόαυτό φορείς.
+"@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Όπου στην κείμενη νομοθεσία αναφέρεται υπουργός αρμόδιος για θέματα των τεσσάρων καταργούμενων υπουργείων της προηγούμενης παραγράφου νοείται εφεξής ο Υπουργός Εσωτερικών και ΔιοικητικήςΑνασυγκρότησης."@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Έως ότου συγκροτηθούν υπηρεσιακά και πειθαρχικάσυμβούλια του Υπουργείου Εσωτερικών και Διοικητικής Ανασυγκρότησης το προσωπικό του συνιστώμενουΥπουργείου και των υπηρεσιών που υπάγονται σε αυτόεξακολουθεί να υπάγεται στα Υπηρεσιακά και Πειθαρχικά Συμβούλια στα οποία υπήγετο έως την δημοσίευσητου παρόντος."@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/4>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/1/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι δαπάνες του Υπουργείου Εσωτερικών και Διοικητικής Ανασυγκρότησης βαρύνουν έως 31/12/2015 τουςπροϋπολογισμούς που έχουν εγκριθεί για τα πρώηνΥπουργεία Εσωτερικών, Διοικητικής Μεταρρύθμισηςκαι Ηλεκτρονικής Διακυβέρνησης, Δημόσιας Τάξης καιΠροστασίας του Πολίτη και Μακεδονίας και Θράκης οιπιστώσεις των οποίων μεταφέρονται στο ΥπουργείοΕσωτερικών και Διοικητικής Ανασυγκρότησης κατά τομέρος που αφορούν τις υπαγόμενες σε αυτό υπηρεσίεςκαι εποπτευόμενους φορείς."@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2015/24> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/2>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2> <http://purl.org/dc/terms/title> "Σύσταση Υπουργείου Οικονομίας, Υποδομών, Ναυτιλίας και Τουρισμού".<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/1/case/0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/1/case/0> <http://legislation.di.uoa.gr/ontology/text> "Συνιστάται Υπουργείο Οικονομίας, Υποδομών, Ναυτιλίας και Τουρισμού. Το Υπουργείο Οικονομίας, Υποδομών, Ναυτιλίας και Τουρισμού συγκροτείται:
+"@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/1/case/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/1/case/1> <http://legislation.di.uoa.gr/ontology/text> " από τις Υπηρεσίες του πρώην Υπουργείου Ανάπτυξης και Ανταγωνιστικότητας με τις αρμοδιότητες,όργανα, θέσεις και προσωπικό, όπως αυτές έχουν διαμορφωθεί κατά την έκδοση του παρόντος με την επιφύλαξη του άρθρου 3 του παρόντος (Γενική ΓραμματείαΒιομηχανίας), και με τους εποπτευόμενους από αυτόφορείς,
+"@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/1/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/1/case/2> <http://legislation.di.uoa.gr/ontology/text> " από τις Υπηρεσίες του πρώην Υπουργείου Ναυτιλίας και Αιγαίου με τις αρμοδιότητες, όργανα, θέσειςκαι προσωπικό, όπως αυτές έχουν διαμορφωθεί κατάτην έκδοση του παρόντος, και με τους εποπτευόμενουςαπό αυτό φορείς,
+"@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/1/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/1/case/3> <http://legislation.di.uoa.gr/ontology/text> " από τις Υπηρεσίες του πρώην Υπουργείου Τουρισμού με τις αρμοδιότητες, όργανα, θέσεις και προσωπικό, όπως αυτές έχουν διαμορφωθεί κατά την έκδοσητου παρόντος, και με τους εποπτευόμενους από αυτόφορείς,174
+"@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/1/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/1/case/4> <http://legislation.di.uoa.gr/ontology/text> " από τις Υπηρεσίες του πρώην Υπουργείου Υποδομών, Μεταφορών και Δικτύων με τις αρμοδιότητεςόργανα, θέσεις και προσωπικό, όπως αυτές έχουν διαμορφωθεί κατά την έκδοση του παρόντος, και με τουςεποπτευόμενους από αυτό φορείς.
+"@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Όπου στην κείμενη νομοθεσία αναφέρεται Υπουργός αρμόδιος για θέματα των τεσσάρων καταργούμενων Υπουργείων της προηγούμενης παραγράφουνοείται εφεξής ο Υπουργός Οικονομίας, Υποδομών,Ναυτιλίας και Τουρισμού."@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Έως ότου συγκροτηθούν υπηρεσιακά και πειθαρχικάσυμβούλια του Υπουργείου Οικονομίας, Υποδομών, Ναυτιλίας και Τουρισμού, το προσωπικό του συνιστώμενουΥπουργείου και των υπηρεσιών που υπάγονται σ’ αυτόεξακολουθεί να υπάγεται στα υπηρεσιακά συμβούλιακαι στα πειθαρχικά συμβούλια στα οποία υπήγετο έωςτη δημοσίευση του παρόντος."@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/4>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/2/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι δαπάνες λειτουργίας του Υπουργείου Οικονομίας, Υποδομών, Ναυτιλίας και Τουρισμού βαρύνουν έως31/12/2015 τους προϋπολογισμούς που έχουν εγκριθείγια τα πρώην Υπουργεία Ανάπτυξης και Ανταγωνιστικότητας, Ναυτιλίας και Αιγαίου, Τουρισμού και Υποδομών, Μεταφορών και Δικτύων οι πιστώσεις των οποίωνμεταφέρονται στο Υπουργείο Οικονομίας, Υποδομών,Ναυτιλίας και Τουρισμού κατά το μέρος που αφορούντις υπαγόμενες σε αυτό υπηρεσίες και τους εποπτευόμενους φορείς."@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2015/24> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/3>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3> <http://purl.org/dc/terms/title> "Σύσταση Υπουργείου Παραγωγικής Ανασυγκρότησης, Περιβάλλοντος και Ενέργειας".<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/1/case/0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/1/case/0> <http://legislation.di.uoa.gr/ontology/text> "Συνιστάται Υπουργείο Παραγωγικής Ανασυγκρότησης, Περιβάλλοντος και Ενέργειας. Το Υπουργείοσυγκροτείται από:
+"@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/1/case/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/1/case/1> <http://legislation.di.uoa.gr/ontology/text> " τις Υπηρεσίες του πρώην Υπουργείου Περιβάλλοντος, Ενέργειας και Κλιματικής Αλλαγής με τις αρμοδιότητες, όργανα, θέσεις και προσωπικό, όπως αυτάέχουν διαμορφωθεί κατά την έκδοση του παρόντος καιμε τους εποπτευόμενους από αυτό φορείς,
+"@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/1/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/1/case/2> <http://legislation.di.uoa.gr/ontology/text> " τις Υπηρεσίες του πρώην Υπουργείου ΑγροτικήςΑνάπτυξης και Τροφίμων με τις αρμοδιότητες, όργανα,θέσεις και προσωπικό, όπως αυτά έχουν διαμορφωθείκατά την έκδοση του παρόντος και με τους εποπτευόμενους από αυτό φορείς,
+"@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/1/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/1/case/3> <http://legislation.di.uoa.gr/ontology/text> " τις υπηρεσίες της Γενικής Γραμματείας Βιομηχανίας του πρώην Υπουργείου Ανάπτυξης και Ανταγωνιστικότητας με τις αρμοδιότητες, όργανα, θέσεις καιπροσωπικό όπως αυτά έχουν διαμορφωθεί κατά τηνέκδοση του παρόντος και με τους εποπτευόμενους απόαυτή φορείς.
+"@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Όπου στην κείμενη νομοθεσία αναφέρεται υπουργόςαρμόδιος για θέματα των δύο καταργούμενων υπουργείων καθώς και για θέματα της Γενικής ΓραμματείαςΒιομηχανίας της προηγούμενης παραγράφου νοείταιεφεξής ο Υπουργός Παραγωγικής Ανασυγκρότησης,Περιβάλλοντος και Ενέργειας."@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Έως ότου συγκροτηθούν υπηρεσιακά και πειθαρχικάσυμβούλια του Υπουργείου Παραγωγικής Ανασυγκρότησης, Περιβάλλοντος και Ενέργειας το προσωπικότου συνιστώμενου Υπουργείου και των υπηρεσιών πουυπάγονται σε αυτό εξακολουθεί να υπάγεται στα Υπηρεσιακά και Πειθαρχικά Συμβούλια στα οποία υπήγετοέως την δημοσίευση του παρόντος."@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/4>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/3/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι δαπάνες του Υπουργείου Παραγωγικής Ανασυγκρότησης, Περιβάλλοντος και Ενέργειας βαρύνουν έως31/12/2015 τους προϋπολογισμούς που έχουν εγκριθείγια τα πρώην Υπουργεία Περιβάλλοντος, Ενέργειας καιΚλιματικής Αλλαγής, Αγροτικής Ανάπτυξης και Τροφίμων οι πιστώσεις των οποίων μεταφέρονται στο Υπουργείο Παραγωγικής Ανασυγκρότησης, Περιβάλλοντος καιΕνέργειας κατά το μέρος που αφορούν τις υπαγόμενεςσε αυτό υπηρεσίες και εποπτευόμενους φορείς. Οι δαπάνες της Γενικής Γραμματείας Βιομηχανίας βαρύνουνέως 31/12/2015 το με το άρθρο 2 του παρόντος συνιστώμενο Υπουργείο Οικονομίας, Υποδομών, Ναυτιλίαςκαι Τουρισμού."@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2015/24> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/4>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4> <http://purl.org/dc/terms/title> "Σύσταση Υπουργείου Πολιτισμού, Παιδείας και Θρησκευμάτων".<http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/1/case/0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/1/case/0> <http://legislation.di.uoa.gr/ontology/text> "Συνιστάται Υπουργείο Πολιτισμού, Παιδείας και Θρησκευμάτων. Το Υπουργείο συγκροτείται από:
+"@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/1/case/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/1/case/1> <http://legislation.di.uoa.gr/ontology/text> " τις Υπηρεσίες του πρώην Υπουργείου Πολιτισμούκαι Αθλητισμού με τις αρμοδιότητες, όργανα, θέσειςκαι προσωπικό, όπως αυτά έχουν διαμορφωθεί κατάτην έκδοση του παρόντος και με τους εποπτευόμενουςαπό αυτό φορείς,
+"@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/1/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/1/case/2> <http://legislation.di.uoa.gr/ontology/text> " τις Υπηρεσίες του πρώην Υπουργείου Παιδείας καιΘρησκευμάτων με τις αρμοδιότητες, όργανα, θέσειςκαι προσωπικό, όπως αυτά έχουν διαμορφωθεί κατάτην έκδοση του παρόντος και με τους εποπτευόμενουςαπό αυτό φορείς.
+"@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Όπου στην κείμενη νομοθεσία αναφέρεται υπουργόςαρμόδιος για θέματα των δύο καταργούμενων υπουργείων της προηγούμενης παραγράφου νοείται εφεξήςο Υπουργός Πολιτισμού, Παιδείας και Θρησκευμάτων."@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Έως ότου συγκροτηθούν υπηρεσιακά και πειθαρχικά συμβούλια του Υπουργείου Πολιτισμού, Παιδείαςκαι Θρησκευμάτων το προσωπικό του συνιστώμενουΥπουργείου και των υπηρεσιών που υπάγονται σε αυτόεξακολουθεί να υπάγεται στα Υπηρεσιακά και Πειθαρχικά Συμβούλια στα οποία υπήγετο έως την δημοσίευσητου παρόντος"@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/4>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/4/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι δαπάνες του Υπουργείου Πολιτισμού, Παιδείας και Θρησκευμάτων βαρύνουν έως 31/12/2015 τουςπροϋπολογισμούς που έχουν εγκριθεί για τα πρώηνΥπουργεία Πολιτισμού και Αθλητισμού και Παιδείας καιΘρησκευμάτων, οι πιστώσεις των οποίων μεταφέρονταιστο Υπουργείο Πολιτισμού, Παιδείας και Θρησκευμάτωνκατά το μέρος που αφορούν τις υπαγόμενες σε αυτόυπηρεσίες και εποπτευόμενους φορείς."@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2015/24> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/5>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5> <http://purl.org/dc/terms/title> "Μετονομασία του Υπουργείου Εργασίας, Κοινωνικής Ασφάλισης και Πρόνοιας και του Υπουργείου Υγείας. Μεταφορά της Γενικής Γραμματείας Κοινωνικών Ασφαλίσεων".<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το Υπουργείο Εργασίας, Κοινωνικής Ασφάλισης καιΠρόνοιας μετονομάζεται σε Υπουργείο Εργασίας καιΚοινωνικής Αλληλεγγύης."@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το Υπουργείο Υγείας μετονομάζεται σε ΥπουργείοΥγείας και Κοινωνικών Ασφαλίσεων."@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η Γενική Γραμματεία Κοινωνικών Ασφαλίσεων μεταφέρεται ως σύνολο Υπηρεσιών με τις αρμοδιότητες,όργανα, θέσεις και προσωπικό όπως αυτά έχουν διαμορφωθεί κατά την έκδοση του παρόντος και με τους εποπτευόμενους από αυτή φορείς από το ΥπουργείοΕργασίας και Κοινωνικής Αλληλεγγύης στο ΥπουργείοΥγείας και Κοινωνικών Ασφαλίσεων."@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/4>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Όπου στην κείμενη νομοθεσία αναφέρεται υπουργός αρμόδιος για θέματα της Γενικής ΓραμματείαςΚοινωνικών Ασφαλίσεων νοείται εφεξής ο ΥπουργόςΥγείας και Κοινωνικών Ασφαλίσεων."@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/5>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/5/passage/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Έως ότου συγκροτηθούν ενιαία υπηρεσιακά καιπειθαρχικά συμβούλια του Υπουργείου Υγείας και Κοινωνικών Ασφαλίσεων το προσωπικό της Γενικής Γραμματείας Κοινωνικών Ασφαλίσεων και των υπηρεσιώνπου υπάγονται σε αυτή εξακολουθεί να υπάγεται σταΥπηρεσιακά και Πειθαρχικά Συμβούλια στα οποία υπαγόταν έως την δημοσίευση του παρόντος."@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/6>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/6/passage/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/5/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι δαπάνες της Γενικής Γραμματείας ΚοινωνικώνΑσφαλίσεων βαρύνουν έως 31/12/2015 τον προϋπολογισμό που έχει εγκριθεί για το Υπουργείο Εργασίαςκαι Κοινωνικής Αλληλεγγύης οι πιστώσεις του οποίουμεταφέρονται στο Υπουργείο Υγείας και ΚοινωνικώνΑσφαλίσεων κατά το μέρος που αφορούν τις υπαγόμενες στη Γενική Γραμματεία Κοινωνικών Ασφαλίσεωνυπηρεσίες και εποπτευόμενους φορείς."@el.
+<http://legislation.di.uoa.gr/pd/2015/24/article/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2015/24> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/6>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/6/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/6/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/6/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/24/article/6/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2015/24/article/6/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. Στον Πρωθυπουργό αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.
