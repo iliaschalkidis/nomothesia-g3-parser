@@ -1,0 +1,158 @@
+﻿<http://legislation.di.uoa.gr/law/2014/4228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2014/4228> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/7>.
+<http://legislation.di.uoa.gr/gazette/a/2014/7> <http://purl.org/dc/terms/title> "Α/2014/7".
+<http://legislation.di.uoa.gr/law/2014/4228> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2014/4228> <http://purl.org/dc/terms/created> "2014-01-10"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2014/4228> <http://legislation.di.uoa.gr/ontology/legislationID> "4228"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2014/4228> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/law/2014/4228> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/law/2014/4228/2014-01-10>.
+<http://legislation.di.uoa.gr/law/2014/4228> <http://purl.org/dc/terms/title> "Κύρωση του Προαιρετικού Πρωτοκόλλου στη Σύμβαση κατά των βασανιστηρίων και άλλων μορφών σκληρής, απάνθρωπης ή ταπεινωτικής μεταχείρισης ή τιμωρίας της Γενικής Συνέλευσης των Ηνωμένων Εθνών.. Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2014/4228> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/1>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνεται και έχει την ισχύ, που ορίζει το άρθρο 28 παρ. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2014/4228> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2> <http://purl.org/dc/terms/title> "Σύσταση Εθνικού Μηχανισμού Πρόληψης".<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ως «Εθνικός Μηχανισμός Πρόληψης», κατά τα άρθρα 3 και 17 του Προαιρετικού Πρωτοκόλλου στη Σύμβαση κατά των βασανιστηρίων και άλλων μορφών σκληρής, απάνθρωπης και ταπεινωτικής μεταχείρισης ή τιμωρίας (καλούμενου εφεξής «Προαιρετικό Πρωτόκολλο»), ορίζεται ο Συνήγορος του Πολίτη. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/2>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στην παρ. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "1 του άρθρου 1 του ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/2/modification/1>.
+<http://legislation.di.uoa.gr/law/2014/4228>  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/2/modification/1>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/2/modification/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/2/modification/1>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/2/modification/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/2/modification/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/2/modification/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/2/modification/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ο Συνήγορος του Πολίτη ορίζεται ως Εθνικός Μηχανισμός Πρόληψης, για την πρόληψη των βασανιστηρίων και άλλων μορφών σκληρής, απάνθρωπης ή ταπεινωτικής μεταχείρισης ή τιμωρίας σύμφωνα με τις διατάξεις των άρθρων 3 και 17 του Προαιρετικού Πρωτοκόλλου, στη σύμβαση κατά των βασανιστηρίων και άλλων μορφών σκληρής, απάνθρωπης ή ταπεινωτικής μεταχείρισης ή τιμωρίας της Γενικής Συνέλευσης των Ηνωμένων Εθνών, που υιοθετήθηκε στις 18 Δεκεμβρίου 2002. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/3>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κατά την ενάσκηση των καθηκόντων του, o Εθνικός Μηχανισμός Πρόληψης δύναται να συνεργάζεται με άλλους φορείς που δραστηριοποιούνται στο πεδίο της προάσπισης ανθρωπίνων δικαιωμάτων και ειδικότερα της πρόληψης των βασανιστηρίων και άλλων μορφών σκληρής, απάνθρωπης και ταπεινωτικής μεταχείρισης, ιδίως με την Εθνική Επιτροπή για τα Δικαιώματα του Ανθρώπου, την Ειδική Επιτροπή Ελέγχου – Προστασίας των Δικαιωμάτων των Ατόμων με Ψυχικές Διαταραχές (άρθρο 2 του ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/3/passage/2>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "2716/1999), το Γραφείο Αντιμετώπισης Περιστατικών Αυθαιρεσίας του Υπουργείου Δημόσιας Τάξης και Προστασίας του Πολίτη (ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/3/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/3/passage/3>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/3/passage/3> <http://legislation.di.uoa.gr/ontology/text> "3938/2011) και το Σώμα Επιθεώρησης και Ελέγχου Καταστημάτων Κράτησης (ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/3/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/3/passage/4>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/3/passage/4> <http://legislation.di.uoa.gr/ontology/text> "3090/ 2002). "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/4>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Για την άσκηση των αρμοδιοτήτων που προβλέπονται από τις διατάξεις του παρόντος νόμου, ο Ε θνικός Μηχανισμός Πρόληψης στελεχώνεται από μέλη του προβλεπόμενου στο άρθρο 5 του ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Για την επάρκεια στελέχωσης του Εθνικού Μηχανισμού Πρόληψης συνιστώνται στο Σ.τ.Π. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/2>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/2> <http://legislation.di.uoa.gr/ontology/text> "τρεις (3) οργανικές θέσεις μόνιμου προσωπικού κλάδου ΠΕ Ειδικού Επιστημονικού Προσωπικού ή με σύμβαση εργασίας ιδιωτικού δικαίου αορίστου χρόνου της ίδιας ειδικότητας της παρ. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/3>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/3> <http://legislation.di.uoa.gr/ontology/text> "3 του άρθρου 5 του ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/4>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/4> <http://legislation.di.uoa.gr/ontology/text> "3094/2003, όπως αντικαταστάθηκε με την παρ. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/5>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/5> <http://legislation.di.uoa.gr/ontology/text> "7 του άρθρου 284 του ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/6>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/6> <http://legislation.di.uoa.gr/ontology/text> "3852/2010, που προστέθηκε με την παρ. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/7>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/7> <http://legislation.di.uoa.gr/ontology/text> "1α του άρθρου 9 του ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/8>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/5/passage/8> <http://legislation.di.uoa.gr/ontology/text> "3861/2010. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Για την αποτελεσματικότερη άσκηση των αρμοδιοτήτων του Εθνικού Μηχανισμού Πρόληψης δύναται να αποσπώνται στο Συνήγορο του Πολίτη μόνιμοι ή με σχέση εργασίας ιδιωτικού δικαίου αορίστου χρόνου υπάλληλοι από υπηρεσίες του Δημοσίου ή των Ν.Π.Δ.Δ. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/2>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/2> <http://legislation.di.uoa.gr/ontology/text> "ή των Ν.Π.Ι.Δ. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/3>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/3> <http://legislation.di.uoa.gr/ontology/text> "του ευρύτερου δημόσιου τομέα, όπως αυτός εκάστοτε οριοθετείται από τις ισχύουσες διατάξεις, για τη διοικητική και γραμματειακή υποστήριξη του Εθνικού Μηχανισμού Πρόληψης. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/4>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Η απόσπαση διενεργείται με κοινή απόφαση των Υπουργών Διοικητικής Μεταρρύθμισης και Ηλεκτρονικής Διακυβέρνησης και του κατά περίπτωση αρμόδιου Υπουργού, ύστερα από αίτημα του Σ.τ.Π., χωρίς γνώμη υπηρεσιακών συμβουλίων, κατά παρέκκλιση των ισχυουσών γενικών ή ειδικών διατάξεων. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/5>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Η διάρκεια της απόσπασης ορίζεται τριετής, δύναται να παρατείνεται δύο ακόμη φορές για ίσο χρονικό διάστημα με διαπιστωτική πράξη του Συνηγόρου του Πολίτη και είναι υποχρεωτική για την υπηρεσία του υπαλλήλου. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/6>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Κατά τα λοιπά για τις αποσπάσεις ή μετατάξεις υπαλλήλων εφαρμόζονται οι διατάξεις του άρθρου 25 του ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/7>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/7> <http://legislation.di.uoa.gr/ontology/text> "4024/2011 και της παρ. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/8>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/6/passage/8> <http://legislation.di.uoa.gr/ontology/text> "22 του άρθρου τρίτου του ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/7>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/7/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ο Συνήγορος του Πολίτη αναθέτει την εκτέλεση των αρμοδιοτήτων του Ε.Μ.Π. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/7/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/7/passage/2>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/7/passage/2> <http://legislation.di.uoa.gr/ontology/text> "που προβλέπονται από τις παρούσες διατάξεις, σε έναν από τους Βοηθούς Συνηγόρους. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/8>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/8/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/8/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/8/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κατά την ενάσκηση των καθηκόντων του, ο Εθνικός Μηχανισμός Πρόληψης διενεργεί επισκέψεις σε όλους τους χώρους στέρησης της ελευθερίας, με ή χωρίς προηγούμενη ενημέρωση των αρμόδιων αρχών που προΐστανται των χώρων αυτών. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ο Εθνικός Μηχανισμός Πρόληψης δύναται να παραγγέλλει πραγματογνωμοσύνη, κατά τα οριζόμενα στο άρθρο 6 παρ. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/2>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/2> <http://legislation.di.uoa.gr/ontology/text> "1 του π.δ. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/3>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/3> <http://legislation.di.uoa.gr/ontology/text> "273/1999 «Κανονισμός Λειτουργίας του Συνηγόρου του Πολίτη ». "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/4>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Άρθρο πέμπτο Σύνταξη εκθέσεων Στην παρ. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/5>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/5> <http://legislation.di.uoa.gr/ontology/text> "5 του άρθρου 3 του ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/6>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/6> <http://legislation.di.uoa.gr/ontology/text> "3094/2003 (Α΄ 10) προστίθεται τελευταίο εδάφιο ως εξής: «Προαιρετικού Πρωτοκόλλου στη Σύμβαση κατά των  Άρθρο έκτο Οι δαπάνες που προκαλούνται από τη λειτουργία του Εθνικού Μηχανισμού Πρόληψης και την εκτέλεση του έργου του, αντιμετωπίζονται στο πλαίσιο των κατ’ έτος εγγεγραμμένων στον προϋπολογισμό του Υπουργείου Διοικητικής Μεταρρύθμισης και Ηλεκτρονικής Διακυβέρνησης πιστώσεων, ύστερα από πρόταση του Συνηγόρου του Πολίτη. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/7>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/7> <http://legislation.di.uoa.gr/ontology/text> "   Άρθρο έβδομο Άρθρο όγδοο Με απόφαση του Συνηγόρου του Πολίτη που δημοσιεύεται στην Εφημερίδα της Κυβερνήσεως, δύναται να καθορίζονται θέματα λειτουργίας του Εθνικού Μηχανισμού Πρόληψης. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/8>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/passage/8> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και του Πρωτοκόλλου που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 28 αυτού. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/modification/2>.
+<http://legislation.di.uoa.gr/law/2014/4228>  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/modification/2>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/modification/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/modification/2>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/modification/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/modification/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/modification/2/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4228/article/2/paragraph/9/modification/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ο Συνήγορος του Πολίτη, ως Εθνικός Μηχανισμός Πρόληψης, για την πρόληψη των βασανιστηρίων και άλλων μορφών σκληρής, απάνθρωπης ή ταπεινωτικής μεταχείρισης ή τιμωρίας, διενεργεί έρευνες και δημοσιεύει εκθέσεις σύμφωνα με τις σχετικές διατάξεις του βασανιστηρίων και άλλων μορφών σκληρής, απάνθρωπης και ταπεινωτικής μεταχείρισης ή τιμωρίας, όπως αυτό κυρώνεται δια του παρόντος νόμου. "@el.
+<http://legislation.di.uoa.gr/law/2014/4228> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.

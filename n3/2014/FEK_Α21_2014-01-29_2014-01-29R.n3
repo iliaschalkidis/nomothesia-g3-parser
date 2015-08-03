@@ -1,0 +1,39 @@
+﻿<http://legislation.di.uoa.gr/pd/2014/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/12> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/21>.
+<http://legislation.di.uoa.gr/gazette/a/2014/21> <http://purl.org/dc/terms/title> "Α/2014/21".
+<http://legislation.di.uoa.gr/pd/2014/12> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/12> <http://purl.org/dc/terms/created> "2014-01-29"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/12> <http://legislation.di.uoa.gr/ontology/legislationID> "12"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/12> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2014/12> <http://purl.org/dc/terms/title> "Ομάδες Πρόληψης και Καταστολής Εγκληματικότητας (Ο.Π.Κ.Ε.) – Τροποποίηση διατάξεων του π.δ/τος 141/1991 «Αρμοδιότητες οργάνων και υπηρεσιακές ενέργειες του προσωπικού του Υπουργείου Δημόσιας Τάξης και θέματα οργάνωσης Υπηρεσιών» (Α΄ 58).  "@el.
+<http://legislation.di.uoa.gr/pd/2014/12/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/12/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τo άρθρο 11 παρ. 1 περ. α΄ και στ΄ του ν. 1481/1984 «Οργανισμός Υπουργείου Δημόσιας Τάξης» (Α΄ 152), όπως το άρθρο αυτό αντικαταστάθηκε με το άρθρο 1 παρ. 1 του ν. 1590/1986 (Α΄ 49). "@el.
+<http://legislation.di.uoa.gr/pd/2014/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/12/citation/1>.
+<http://legislation.di.uoa.gr/pd/2014/12/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/12/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το άρθρο 28 παρ. 1 του ν. 2800/2000 «Αναδιάρθρωση Υπηρεσιών Υπουργείου Δημόσιας Τάξης, σύσταση Αρχηγείου Ελληνικής Αστυνομίας και άλλες διατάξεις» (Α΄ 41). "@el.
+<http://legislation.di.uoa.gr/pd/2014/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/12/citation/2>.
+<http://legislation.di.uoa.gr/pd/2014/12/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/12/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Το άρθρο 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα, που κωδικοποιήθηκε με το άρθρο πρώτο του π.δ. 63/2005 (Α΄ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2014/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/12/citation/3>.
+<http://legislation.di.uoa.gr/pd/2014/12/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/12/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Το π.δ. 184/2009 «Σύσταση Υπουργείου Προστασίας του Πολίτη και καθορισμός των αρμοδιοτήτων του» (Α΄ 213). "@el.
+<http://legislation.di.uoa.gr/pd/2014/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/12/citation/4>.
+<http://legislation.di.uoa.gr/pd/2014/12/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/12/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Το π.δ. 85/2012 «Ίδρυση και μετονομασία Υπουργείων, μεταφορά και κατάργηση Υπηρεσιών» (Α΄ 141), όπως τροποποιήθηκε με τα π.δ. 88/2012 (Α΄ 143), 94/2012 (Α΄ 149) και 98/2012 (Α΄ 160). "@el.
+<http://legislation.di.uoa.gr/pd/2014/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/12/citation/5>.
+<http://legislation.di.uoa.gr/pd/2014/12/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/12/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού. "@el.
+<http://legislation.di.uoa.gr/pd/2014/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/12/citation/6>.
+<http://legislation.di.uoa.gr/pd/2014/12/citation/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/12/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθμ. 372/2013 Γνωμοδότηση του Συμβουλίου της Επικρατείας, ύστερα από πρόταση του Υπουργού Δημόσιας Τάξης και Προστασίας του Πολίτη, αποφασί"@el.
+<http://legislation.di.uoa.gr/pd/2014/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/12/citation/7>.
+<http://legislation.di.uoa.gr/pd/2014/12/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/12/article/1>.
+<http://legislation.di.uoa.gr/pd/2014/12/article/1> <http://purl.org/dc/terms/title> "Τροποποίηση διατάξεων του π. δ/τος 141/1991".<http://legislation.di.uoa.gr/pd/2014/12/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/12/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/12/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/12/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/12/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/12/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/12/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μετά το άρθρο 79 του π. "@el.
+<http://legislation.di.uoa.gr/pd/2014/12> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.

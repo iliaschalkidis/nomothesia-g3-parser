@@ -1,0 +1,40 @@
+﻿<http://legislation.di.uoa.gr/pd/2014/59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/59> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/102>.
+<http://legislation.di.uoa.gr/gazette/a/2014/102> <http://purl.org/dc/terms/title> "Α/2014/102".
+<http://legislation.di.uoa.gr/pd/2014/59> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/59> <http://purl.org/dc/terms/created> "2014-04-22"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/59> <http://legislation.di.uoa.gr/ontology/legislationID> "59"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/59> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2014/59> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/59/2014-04-22>.
+<http://legislation.di.uoa.gr/pd/2014/59> <http://purl.org/dc/terms/title> "Τροποποίηση και συμπλήρωση του π.δ. 200/1993 «Περί Οδοιπορικών Εξόδων Εσωτερικού του Στρατιωτικού Προσωπικού των Ε.Δ. .»  "@el.
+<http://legislation.di.uoa.gr/pd/2014/59/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/59/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) Των άρθρων 42 και 108 του Ν.Δ.721/1970 Περί οικονομικής μέριμνας και λογιστικού των Ενόπλων Δυνάμεων (ΦΕΚ Α΄ 251). β) Του άρθρου 90 του «Κώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα» που κυρώθηκε με το άρθρο πρώτο του Π.Δ.63/2005 (ΦΕΚ Α΄ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2014/59> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/59/citation/1>.
+<http://legislation.di.uoa.gr/pd/2014/59/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/59/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Την Υ304/1-7-2013 απόφαση Πρωθυπουργού «Ανάθεση αρμοδιοτήτων στην Αναπληρωτή Υπουργό Εθνικής Άμυνας Φωτεινή Γεννηματά» (ΦΕΚ Β΄ 1635). 3Τη Υ48/9-7-2012 απόφαση Πρωθυπουργού «Καθορισμός αρμοδιοτήτων του Αναπληρωτή Υπουργού Οικονομικών Χρήστου Σταϊκούρα» (ΦΕΚ Β΄ 2105). "@el.
+<http://legislation.di.uoa.gr/pd/2014/59> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/59/citation/2>.
+<http://legislation.di.uoa.gr/pd/2014/59/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/59/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος επέρχεται μείωση της ετήσιας επιβάρυνσης του Κρατικού Προϋπολογισμού, το ύψος της οποίας δεν μπορεί να προσδιοριστεί εκ των προτέρων. "@el.
+<http://legislation.di.uoa.gr/pd/2014/59> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/59/citation/3>.
+<http://legislation.di.uoa.gr/pd/2014/59/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/59/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Τη Δ 21/2014 Γνωμοδότηση του Συμβουλίου της Επικρατείας, μετά από πρόταση της Αναπληρωτού Υπουργού Εθνικής Άμυνας και του Αναπληρωτή Υπουργού Οικονομικών, "@el.
+<http://legislation.di.uoa.gr/pd/2014/59> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/59/citation/4>.
+<http://legislation.di.uoa.gr/pd/2014/59/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/59> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/59/article/1>.
+<http://legislation.di.uoa.gr/pd/2014/59/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/59/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/59/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/59/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/59/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/59/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/59article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Οι διατάξεις του π.δ. 200/1993 (ΦΕΚ Α΄ 75) τροποποιούνται ως ακολούθως: 1. Η παράγραφος 6 του άρθρου 5 του π.δ. 200/1993 αντικαθίσταται ως εξής: . 2. Η παράγραφος 7 του άρθρου 5 του π.δ. 200/1993 αντικαθίσταται ως εξής: . 3. Η παράγραφος 8 του άρθρου 5 του π.δ. 200/1993 αντικαθίσταται ως εξής: . 4. Η παράγραφος 9 του άρθρου 5 του π.δ. 200/1993 αντικαθίσταται ως εξής: . 5. Το άρθρο 14, παράγραφος 1, περίπτωση α΄ εδάφιο τρίτο αντικαθίσταται ως εξής: ."@el.
+<http://legislation.di.uoa.gr/pd/2014/59> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2014/60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/60> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/102>.
+<http://legislation.di.uoa.gr/gazette/a/2014/102> <http://purl.org/dc/terms/title> "Α/2014/102".
+<http://legislation.di.uoa.gr/pd/2014/60> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/60> <http://purl.org/dc/terms/created> "2014-04-22"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/60> <http://legislation.di.uoa.gr/ontology/legislationID> "60"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/60> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2014/60> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/60/2014-04-22>.
+<http://legislation.di.uoa.gr/pd/2014/60> <http://purl.org/dc/terms/title> "Τροποποίηση του με αριθμό 125/28-8-2013 προεδρικού διατάγματος με θέμα «Κατάργηση μεταβατικών εδρών: α) του Μονομελούς Πρωτοδικείου, Μονομελούς Πλημμελειοδικείου Αθηνών και β) του Πταισματοδικείου Αθηνών» (Α΄ 184)  "@el.

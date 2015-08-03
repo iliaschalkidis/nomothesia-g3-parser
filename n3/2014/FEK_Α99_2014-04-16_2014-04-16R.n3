@@ -1,0 +1,132 @@
+﻿<http://legislation.di.uoa.gr/amc/2014/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/ActOfMinisterialCabinet>.
+<http://legislation.di.uoa.gr/amc/2014/13> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/99>.
+<http://legislation.di.uoa.gr/gazette/a/2014/99> <http://purl.org/dc/terms/title> "Α/2014/99".
+<http://legislation.di.uoa.gr/amc/2014/13> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/amc/2014/13> <http://purl.org/dc/terms/created> "2014-04-16"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/amc/2014/13> <http://legislation.di.uoa.gr/ontology/legislationID> "13"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/amc/2014/13> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/amc/2014/13> <http://purl.org/dc/terms/title> "Σύσταση Κυβερνητικού Συμβουλίου Απασχόλησης.  "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/amc/2014/13/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α του άρθρου 82 παρ. 2 του Συντάγματος, β) των άρθρων 15 παρ. 2 και 3, 16, 25 παρ. 1, 59 και 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά όργανα (π.δ. 63/2005, Α΄ 98). "@el.
+<http://legislation.di.uoa.gr/amc/2014/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/citation/1>.
+<http://legislation.di.uoa.gr/amc/2014/13/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/amc/2014/13/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι η άμεση ανάληψη δράσεων για την ανάσχεση της ανεργίας αποτελεί πρωταρχικό εθνικό στόχο. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/citation/2>.
+<http://legislation.di.uoa.gr/amc/2014/13/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/amc/2014/13/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Την ανάγκη σύστασης Κυβερνητικού Συμβουλίου Απασχόλησης καθώς και Ομάδων Υποστήριξης του έργου του. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/citation/3>.
+<http://legislation.di.uoa.gr/amc/2014/13/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/amc/2014/13/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Την πρόταση του Πρωθυπουργού. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/citation/4>.
+<http://legislation.di.uoa.gr/amc/2014/13/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/amc/2014/13/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις της παρούσας δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού"@el.
+<http://legislation.di.uoa.gr/amc/2014/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/citation/5>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/amc/2014/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/1>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Συνιστάται Κυβερνητικό Συμβούλιο Απασχόλησης, το οποίο αποτελείται από τον Πρωθυπουργό, τον Αντιπρόεδρο της Κυβέρνησης, τους Υπουργούς Οικονομικών, Ανάπτυξης και Ανταγωνιστικότητας, Παιδείας και θρησκευμάτων, Εργασίας, Κοινωνικής Ασφάλισης και Πρόνοιας, Αγροτικής Ανάπτυξης και Τροφίμων, Υποδομών, Μεταφορών και Δικτύων, Περιβάλλοντος, Ενέργειας και Κλιματικής Αλλαγής, Τουρισμού, Ναυτιλίας και Αιγαίου και τον Υφυπουργό Εργασίας, Κοινωνικής Ασφάλισης και Πρόνοιας. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/2>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Πρόεδρος του Συμβουλίου ορίζεται ο Πρωθυπουργός, ο οποίος το συγκαλεί σε τακτά χρονικά διαστήματα και όποτε κρίνεται αναγκαίο, συντονίζει το όργανο και εποπτεύει τις εργασίες του. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/3>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το Συμβούλιο βρίσκεται σε απαρτία, την οποία διαπιστώνει ο Πρόεδρος του, όταν παρίστανται τα επτά τουλάχιστον μέλη του. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/4>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το Συμβούλιο ενεργεί στο πλαίσιο των αποφάσεων και κατευθύνσεων του Υπουργικού Συμβουλίου και του Πρωθυπουργού και είναι αρμόδιο για την προώθηση νέων πρωτοβουλιών και παρεμβάσεων αλλά και για το συντονισμό δράσεων και πόρων από το σύνολο των Υπουργείων και των φορέων του Δημοσίου, με στόχους την ενίσχυση της απασχόλησης και τη δημιουργία περισσότερων θέσεων εργασίας. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/5>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/5/passage/1>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/1/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η γραμματειακή και τεχνική εξυπηρέτηση του Συμβουλίου ανατίθεται στο γραφείο του Γενικού Γραμματέα Συντονισμού. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/amc/2014/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/2>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Συνιστάται Ομάδα Επεξεργασίας των Εισηγήσεων προς το Κυβερνητικό Συμβούλιο Απασχόλησης. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μέλη της Ομάδας Επεξεργασίας των Εισηγήσεωνείναι: "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2/case/2>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2/case/2> <http://legislation.di.uoa.gr/ontology/text> " ο Υπουργός Εργασίας, Κοινωνικής Ασφάλισης καιΠρόνοιας, ως Πρόεδρος, σε περίπτωση απουσίας ήκωλύματος του οποίου καθήκοντα Προέδρου εκτελείο Υφυπουργός Εργασίας, Κοινωνικής Ασφάλισης καιΠρόνοιας, "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2/case/3>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2/case/3> <http://legislation.di.uoa.gr/ontology/text> " ο Υφυπουργός Εργασίας, Κοινωνικής Ασφάλισηςκαι Πρόνοιας, "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2/case/4>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2/case/4> <http://legislation.di.uoa.gr/ontology/text> " ο Διοικητής του Οργανισμού Απασχόλησης Εργατικού Δυναμικού (ΟΑΕΔ), "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2/case/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2/case/5>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2/case/5> <http://legislation.di.uoa.gr/ontology/text> " ο Γενικός Γραμματέας του Υπουργείου Εργασίας,Κοινωνικής Ασφάλισης και Πρόνοιας, ο Γενικός Γραμματέας του Υπουργείου Ανάπτυξης και Ανταγωνιστικότητας, ο Γενικός Γραμματέας του Υπουργείου Αγροτικής Ανάπτυξης και Τροφίμων, και οι Γενικοί Γραμματείςαρμόδιοι για το Εθνικό Στρατηγικό Πλαίσιο Αναφοράς(ΕΣΠΑ) των Υπουργείων Ανάπτυξης και Ανταγωνιστικότητας, Παιδείας και Θρησκευμάτων, Εργασίας, ΚοινωνικήςΑσφάλισης και Πρόνοιας και Αγροτικής Ανάπτυξης καιΤροφίμων, "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2/case/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2/case/6>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/2/case/6> <http://legislation.di.uoa.gr/ontology/text> " τρεις (3) εμπειρογνώμονες που προτείνονται ένας(1) από την τοπική αυτοδιοίκηση (Κεντρική Ένωση Δή3650μων Ελλάδος), ένας (1) από την πλευρά των εργοδοτών(ΣΕΒ, ΕΣΕΕ, ΓΣΕΒΕΕ, ΣΕΤΕ) και ένας (1) από την πλευράτων εργαζομένων (ΓΣΕΕ) και ορίζονται με απόφαση τουΠροέδρου της Ομάδας Επεξεργασίας των Εισηγήσεωνπρος το Κυβερνητικό Συμβούλιο Απασχόλησης. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/3>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η Ομάδα Επεξεργασίας των Εισηγήσεων συγκαλείται από τον Πρόεδρο, ο οποίος καθορίζει και την ημερήσια διάταξη. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/4>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/2/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η γραμματειακή υποστήριξη της Ομάδας Επεξεργασίας των Εισηγήσεων παρέχεται από το Γραφείο του Γενικού Γραμματέα του Υπουργείου Εργασίας, Κοινωνικής Ασφάλισης και Πρόνοιας. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/amc/2014/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/3>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "1. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Συνιστάται Ομάδα Επιστημονικής Υποστήριξης για την στήριξη του έργου της Ομάδας Επεξεργασίας των Εισηγήσεων προς το Κυβερνητικό Συμβούλιο Απασχόλησης. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "2. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/4>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Μέλη της Ομάδας Επιστημονικής Υποστήριξης είναι: α. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/5>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "ο προϊστάμενος της Γενικής Διεύθυνσης Εργασίας, ο προϊστάμενος της Διεύθυνσης Απασχόλησης, ο προϊστάμενος του Τμήματος Πολιτικών Απασχόλησης και Εθνικού Σχεδίου Δράσης για την Απασχόληση της Διεύθυνσης Απασχόλησης και ο προϊστάμενος της Μονάδας Ανάλυσης και Τεκμηρίωσης, του Υπουργείου Εργασίας, Κοινωνικής Ασφάλισης και Πρόνοιας, β. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/6>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> "ο προϊστάμενος της Γενικής Διεύθυνσης Ανθρώπινου Δυναμικού και ο προϊστάμενος της Γενικής Διεύθυνσης Επαγγελματικής Εκπαίδευσης και Κατάρτισης του Οργανισμού Απασχόλησης Εργατικού Δυναμικού (ΟΑΕΔ), γ. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/7>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/3/paragraph/1/passage/7> <http://legislation.di.uoa.gr/ontology/text> "οι προϊστάμενοι των Γενικών Διευθύνσεων και των Διευθύνσεων των Υπουργείων Ανάπτυξης και Ανταγωνιστικότητας, Παιδείας και Θρησκευμάτων και Αγροτικής Ανάπτυξης και Τροφίμων, οι αρμοδιότητες των οποίων σχετίζονται με την προώθηση της απασχόλησης και δ. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/amc/2014/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/4>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/4/paragraph/1>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/4/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/4/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/4/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι υπηρεσίες του δημοσίου τομέα και κάθε άλλος εμπλεκόμενος φορέας του δημοσίου ή ιδιωτικού τομέα, συνεργάζονται με την Ομάδα Επεξεργασίας των Εισηγήσεων προς το Κυβερνητικό Συμβούλιο Απασχόλησης, με την Ομάδα Επιστημονικής Υποστήριξης και το Συμβούλιο για την άμεση υλοποίηση των αποφάσεων αυτού καθώς και την προώθηση των απαιτούμενων δράσεων. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/amc/2014/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/5>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/5/paragraph/1>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/5/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/5/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/5/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στα μέλη της Ομάδας Επεξεργασίας των Εισηγήσεων προς το Κυβερνητικό Συμβούλιο Απασχόλησης και της Ομάδας Επιστημονικής Υποστήριξης για την στήριξη του έργου της Ομάδας Επεξεργασίας των Εισηγήσεων προς το Κυβερνητικό Συμβούλιο Απασχόλησης δεν καταβάλλεται αμοιβή ή αποζημίωση. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13/article/5/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/13/article/5/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/amc/2014/13/article/5/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Η Πράξη αυτή να δημοσιευθεί στην Εφημερίδα της Κυβερνήσεως. "@el.
+<http://legislation.di.uoa.gr/amc/2014/13> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.

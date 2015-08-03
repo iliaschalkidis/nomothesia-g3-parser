@@ -1,0 +1,25 @@
+﻿<http://legislation.di.uoa.gr/law/2014/4226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2014/4226> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/3>.
+<http://legislation.di.uoa.gr/gazette/a/2014/3> <http://purl.org/dc/terms/title> "Α/2014/3".
+<http://legislation.di.uoa.gr/law/2014/4226> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2014/4226> <http://purl.org/dc/terms/created> "2014-01-07"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2014/4226> <http://legislation.di.uoa.gr/ontology/legislationID> "4226"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2014/4226> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/law/2014/4226> <http://purl.org/dc/terms/title> "Kύρωση της Συνολικής Συμφωνίας - Πλαίσιο Εταιρικής Σχέσης και Συνεργασίας μεταξύ της Ευρωπαϊκής Κοι- νότητας και των κρατών - μελών της, αφενός, και της Δημοκρατίας της Ινδονησίας, αφετέρου, μετά της Τε- λικής Πράξης. Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ "@el.
+<http://legislation.di.uoa.gr/law/2014/4226/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2014/4226> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4226/article/1>.
+<http://legislation.di.uoa.gr/law/2014/4226/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4226/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4226/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2014/4226/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4226/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4226/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4226/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνονται και έχουν την ισχύ, που ορίζει το άρθρο 28 παρ. "@el.
+<http://legislation.di.uoa.gr/law/2014/4226/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2014/4226> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4226/article/2>.
+<http://legislation.di.uoa.gr/law/2014/4226/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4226/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4226/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2014/4226/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4226/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4226/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4226/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας μετά της Τελικής Πράξης που κυρώνονται από την πλήρωση των προϋποθέσεων του άρθρου 48 παράγραφος 1 της Συμφωνίας. "@el.
+<http://legislation.di.uoa.gr/law/2014/4226> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.

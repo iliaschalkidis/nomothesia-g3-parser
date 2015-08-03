@@ -1,17 +1,19 @@
 ﻿<http://legislation.di.uoa.gr/law/2015/4322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
 <http://legislation.di.uoa.gr/law/2015/4322> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2015/42>.
-<http://legislation.di.uoa.gr/gazette/a/2015/42> <http://legislation.di.uoa.gr/ontology/gazette> "Α/2015/42".
+<http://legislation.di.uoa.gr/gazette/a/2015/42> <http://purl.org/dc/terms/title> "Α/2015/42".
 <http://legislation.di.uoa.gr/law/2015/4322> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/law/2015/4322> <http://purl.org/dc/terms/created> "2015-04-27"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/law/2015/4322> <http://legislation.di.uoa.gr/ontology/legislationID> "4322"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/law/2015/4322> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>. 
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
-<http://legislation.di.uoa.gr/law/2015/4322> <http://legislation.di.uoa.gr/ontology/tag> "test"@el.
+<http://legislation.di.uoa.gr/law/2015/4322> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/law/2015/4322/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2015/4322> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2015/4322/article/1>.
 <http://legislation.di.uoa.gr/law/2015/4322/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2015/4322/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2015/4322/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/law/2015/4322/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2015/4322/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2015/4322/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/law/2015/4322article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "368   370   372   374   376   378 379"@el.
+<http://legislation.di.uoa.gr/law/2015/4322article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " 368     370     372     374     376     378  379"@el.
+<http://legislation.di.uoa.gr/law/2015/4322> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

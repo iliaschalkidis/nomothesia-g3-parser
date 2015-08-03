@@ -1,0 +1,31 @@
+﻿<http://legislation.di.uoa.gr/law/2014/4260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2014/4260> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/98>.
+<http://legislation.di.uoa.gr/gazette/a/2014/98> <http://purl.org/dc/terms/title> "Α/2014/98".
+<http://legislation.di.uoa.gr/law/2014/4260> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2014/4260> <http://purl.org/dc/terms/created> "2014-04-15"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2014/4260> <http://legislation.di.uoa.gr/ontology/legislationID> "4260"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2014/4260> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/law/2014/4260> <http://purl.org/dc/terms/title> "Κύρωση της Συμφωνίας για την Τροποποίηση για δεύτε- ρη φορά της Συμφωνίας Εταιρικής Σχέσης μεταξύ των μελών της Ομάδας Κρατών της Αφρικής, της Καρα- βαϊκής και του Ειρηνικού αφενός και της Ευρωπαϊκής Κοινότητας και των μελών της αφετέρου, η οποία υπε- γράφη στο Κοτονού στις 23 Ιουνίου 2000, όπως τροπο- ποιήθηκε για πρώτη φορά στο Λουξεμβούργο στις 25 Ιουνίου 2005, με τη συνημμένη σε αυτή Τελική Πράξη. Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ "@el.
+<http://legislation.di.uoa.gr/law/2014/4260/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2014/4260> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4260/article/1>.
+<http://legislation.di.uoa.gr/law/2014/4260/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4260/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4260/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2014/4260/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4260/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4260/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4260/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνεται και έχει την ισχύ που ορίζει το άρθρο 28 παρ. "@el.
+<http://legislation.di.uoa.gr/law/2014/4260/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4260/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4260/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2014/4260/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "1 του Συντάγματος η Συμφωνία για την Τροποποίηση για δεύτερη φορά της Συμφωνίας Εταιρικής Σχέσης μεταξύ των μελών της Ομάδας Κρατών της Αφρικής, της Καραϊβικής και του Ειρηνικού αφενός, και της Ευρωπαϊκής Κοινότητας και των μελών της αφετέρου, η οποία υπογράφηκε στο Κοτονού στις 23 Ιουνίου 2000 (ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4260/article/1/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4260/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4260/article/1/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/law/2014/4260/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "3033/2002, Α΄ 167), όπως τροποποιήθηκε για πρώτη φορά στο Λουξεμβούργο στις 25 Ιουνίου 2005 (ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4260/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2014/4260> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4260/article/2>.
+<http://legislation.di.uoa.gr/law/2014/4260/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4260/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4260/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2014/4260/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4260/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4260/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4260/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας Τροποποίησης με τη συνημμένη σε αυτήν Τελική Πράξη, από την πλήρωση των προϋποθέσεων του άρθρου 93 παράγραφος 3 της αρχικής Συμφωνίας, όπως τροποποιήθηκε για πρώτη φορά. "@el.
+<http://legislation.di.uoa.gr/law/2014/4260> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.

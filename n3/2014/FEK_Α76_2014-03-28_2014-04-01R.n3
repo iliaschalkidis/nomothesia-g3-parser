@@ -1,0 +1,87 @@
+﻿<http://legislation.di.uoa.gr/pd/2014/40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/40> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/76>.
+<http://legislation.di.uoa.gr/gazette/a/2014/76> <http://purl.org/dc/terms/title> "Α/2014/76".
+<http://legislation.di.uoa.gr/pd/2014/40> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/40> <http://purl.org/dc/terms/created> "2014-03-28"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/40> <http://legislation.di.uoa.gr/ontology/legislationID> "40"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/40> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2014/40> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/40/2014-03-28>.
+<http://legislation.di.uoa.gr/pd/2014/40> <http://purl.org/dc/terms/title> "Σύσταση άμισθης προξενικής αρχής της Ελλάδας στην πόλη Ουλάν Μπατόρ της Μογγολίας.  "@el.
+<http://legislation.di.uoa.gr/pd/2014/40/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/40/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις της παραγράφου 6 του άρθρου 50 του Οργανισμού του Υπουργείου Εξωτερικών, που κυρώθηκε με το άρθρο πρώτο του Ν. 3566/2007 «Κύρωση ως Κώδικα του “Οργανισμού του Υπουργείου Εξωτερικών”» (Α΄ 117). "@el.
+<http://legislation.di.uoa.gr/pd/2014/40> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/40/citation/1>.
+<http://legislation.di.uoa.gr/pd/2014/40/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/40/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις της παραγράφου 2 του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα, που κυρώθηκε με το άρθρο πρώτο του Π.Δ. 63/2005 «Κωδικοποίηση της νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα» (Α΄ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2014/40> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/40/citation/2>.
+<http://legislation.di.uoa.gr/pd/2014/40/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/40/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Τη γνώμη της Πρεσβείας της Ελλάδας στο Πεκίνο, όπως διατυπώθηκε στα Α.Π.Φ.1220/22/ΑΣ 883/29.11.2011 και Α.Π.Φ.1220/6/ΑΣ 1181/25.11.2013 έγγραφά της. "@el.
+<http://legislation.di.uoa.gr/pd/2014/40> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/40/citation/3>.
+<http://legislation.di.uoa.gr/pd/2014/40/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/40/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από την εφαρμογή των διατάξεων του παρόντος διατάγματος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού. "@el.
+<http://legislation.di.uoa.gr/pd/2014/40> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/40/citation/4>.
+<http://legislation.di.uoa.gr/pd/2014/40/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/40/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθμ. 30/2014 γνωμοδότηση του Συμβουλίου της Επικρατείας, με πρόταση του Υπουργού Εξωτερικών, "@el.
+<http://legislation.di.uoa.gr/pd/2014/40> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/40/citation/5>.
+<http://legislation.di.uoa.gr/pd/2014/40/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/40> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/40/article/1>.
+<http://legislation.di.uoa.gr/pd/2014/40/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/40/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/40/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/40/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/40/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/40/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/40/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Σύσταση Άμισθου Προξενείου της Ελλάδας στην πόλη Ουλάν Μπατόρ Συνιστάται Άμισθο Προξενείο της Ελλάδας με έδρα την πόλη Ουλάν Μπατόρ (Ulan Bator) της Μογγολίας και περιφέρεια αρμοδιότητας όλη την επικράτεια της Μογγολίας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/40/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/40> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/40/article/2>.
+<http://legislation.di.uoa.gr/pd/2014/40/article/2> <http://purl.org/dc/terms/title> "Έναρξη ισχύος".<http://legislation.di.uoa.gr/pd/2014/40/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/40/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/40/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/40/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/40/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/40/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/40/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος διατάγματος αρχίζει από τηδημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.Στον Υπουργό Εξωτερικών ανατίθεται η δημοσίευσηκαι εκτέλεση του παρόντος διατάγματος. "@el.
+<http://legislation.di.uoa.gr/pd/2014/40> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2014/43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/43> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/76>.
+<http://legislation.di.uoa.gr/gazette/a/2014/76> <http://purl.org/dc/terms/title> "Α/2014/76".
+<http://legislation.di.uoa.gr/pd/2014/43> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/43> <http://purl.org/dc/terms/created> "2014-03-28"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/43> <http://legislation.di.uoa.gr/ontology/legislationID> "43"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/43> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2014/43> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/43/2014-03-28>.
+<http://legislation.di.uoa.gr/pd/2014/43> <http://purl.org/dc/terms/title> "Τροποποίηση του Π.Δ. 395/1993 (Α΄ 166) «Όροι, προϋποθέσεις και διαδικασία για την ίδρυση, λειτουργία και μεταβίβαση Κέντρων Αποθεραπείας και Αποκατάστασης από φυσικά ή Ν.Π.Ι.Δ ».  "@el.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/43/article/1>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το άρθρο 21 του Π.Δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "395/1993 αντικαθίσταται ως εξής: . "@el.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Το άρθρο 26 του Π.Δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/43>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <http://legislation.di.uoa.gr/pd/2014/43/article/1/modification/1>.
+<http://legislation.di.uoa.gr/pd/2014/43>  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <http://legislation.di.uoa.gr/pd/2014/43/article/1/modification/1>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/modification/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/modification/1>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/modification/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/modification/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/modification/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/modification/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Άδεια ίδρυσης και λειτουργίας Κέντρου Α-Α Κλειστής Νοσηλείας χορηγείται για την παροχή υπηρεσιών υγείας και λοιπών φροντίδων αποκατάστασης και σε ότι αφορά τον αριθμό των κλινών ορίζεται ως ελάχιστος συνολικός αριθμός οι δέκα (10) κλίνες "@el.
+<http://legislation.di.uoa.gr/pd/2014/43>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <http://legislation.di.uoa.gr/pd/2014/43/article/1/modification/2>.
+<http://legislation.di.uoa.gr/pd/2014/43>  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <http://legislation.di.uoa.gr/pd/2014/43/article/1/modification/2>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/modification/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/modification/2>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/modification/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/modification/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/modification/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/1/paragraph/1/modification/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Επιστημονικός Διευθυντής του Κέντρου Α-Α ορίζεται Ιατρός με ειδικότητα Φυσικής Ιατρικής και Αποκατάστασης ή σε περίπτωση ειδικού προσανατολισμού του Κέντρου Ιατρός της αντίστοιχης ειδικότητας που έχει τα εξής προσόντα: α) Άδεια ασκήσεως του ιατρικού επαγγέλματος ή βεβαίωση αναγγελίας ασκήσεως αυτού. β) Τίτλο ειδικότητας. γ) Πιστοποιητικό εγγραφής σε Ιατρικό Σύλλογο "@el.
+<http://legislation.di.uoa.gr/pd/2014/43/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/43/article/2>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/43/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/43/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/43/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. "@el.
+<http://legislation.di.uoa.gr/pd/2014/43> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.

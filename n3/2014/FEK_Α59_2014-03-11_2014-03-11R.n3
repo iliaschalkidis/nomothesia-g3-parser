@@ -1,0 +1,95 @@
+﻿<http://legislation.di.uoa.gr/pd/2014/33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/33> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/59>.
+<http://legislation.di.uoa.gr/gazette/a/2014/59> <http://purl.org/dc/terms/title> "Α/2014/59".
+<http://legislation.di.uoa.gr/pd/2014/33> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/33> <http://purl.org/dc/terms/created> "2014-03-11"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/33> <http://legislation.di.uoa.gr/ontology/legislationID> "33"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/33> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2014/33> <http://purl.org/dc/terms/title> "Καθιέρωση της 18ης Οκτωβρίου ως ημέρας αργίας για τη δημοτική ενότητα Αλεξάνδρειας του Δήμου Αλεξάνδρειας Νομού Ημαθίας.  "@el.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τη διάταξη της παραγράφου 10 του άρθρου 35 του N.3274/2004 «Οργάνωση και λειτουργία των Οργανισμών Τοπικής Αυτοδιοίκησης πρώτου και δεύτερου βαθμού» (Α΄ 195). "@el.
+<http://legislation.di.uoa.gr/pd/2014/33> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/citation/1>.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα, που κυρώθηκε με το άρθρο πρώτο του π.δ. 63/2005 «Κωδικοποίηση της νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα ». "@el.
+<http://legislation.di.uoa.gr/pd/2014/33> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/citation/2>.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Τη διάταξη της παραγράφου 2 του άρθρου 2 του π.δ. 65/2011 «Διάσπαση του Υπουργείου Εσωτερικών, Αποκέντρωσης και Ηλεκτρονικής Διακυβέρνησης στα Υπουργεία α) Εσωτερικών και β) Διοικητικής Μεταρρύθμισης και Ηλεκτρονικής Διακυβέρνησης, συγχώνευση των Υπουργείων Οικονομίας, Ανταγωνιστικότητας και Ναυτιλίας και Θαλασσίων Υποθέσεων, Νήσων και Αλιείας στο Υπουργείο Ανάπτυξης, Ανταγωνιστικότητας και Ναυτιλίας και μεταφορά στον Πρωθυπουργό των Γενικών Γραμματειών Ενημέρωσης και Επικοινωνίας και στο Υπουργείο Παιδείας, Δια Βίου Μάθησης και Θρησκευμάτων της Γενικής Γραμματείας Νέας Γενιάς» (Α΄ 147). "@el.
+<http://legislation.di.uoa.gr/pd/2014/33> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/citation/3>.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του π.δ. 85/2012 «Ίδρυση και μετονομασία Υπουργείων, μεταφορά και κατάργηση υπηρεσιών» (Α΄ 141). "@el.
+<http://legislation.di.uoa.gr/pd/2014/33> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/citation/4>.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του π.δ. 86/2012 «Διορισμός Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α΄ 141). "@el.
+<http://legislation.di.uoa.gr/pd/2014/33> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/citation/5>.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του π.δ. 119/2013 «Διορισμός Αντιπροέδρου της Κυβέρνησης, Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α΄ 153). "@el.
+<http://legislation.di.uoa.gr/pd/2014/33> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/citation/6>.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Τη με αριθμό Υ48/2012 απόφαση του Πρωθυπουργού «Καθορισμός αρμοδιοτήτων του Αναπληρωτή Υπουργού Οικονομικών Χρήστου Σταΐκούρα» (Β΄ 2105). "@el.
+<http://legislation.di.uoa.gr/pd/2014/33> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/citation/7>.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/8> <http://legislation.di.uoa.gr/ontology/context> "Τη με αριθμό οικ.22365/97/5.7.2013 κοινή απόφαση του Πρωθυπουργού και του Υπουργού Εργασίας, Κοινωνικής Ασφάλισης και Πρόνοιας «Καθορισμός αρμοδιοτήτων του Υφυπουργού Εργασίας, Κοινωνικής Ασφάλισης και Πρόνοιας Βασιλείου Κεγκέρογλου» (Β΄ 1667). "@el.
+<http://legislation.di.uoa.gr/pd/2014/33> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/citation/8>.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/9> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος προκαλείται επί του τακτικού προϋπολογισμού και επί του προϋπολογισμού του Δήμου Αλεξάνδρειας και των λοιπών ν.π.δ.δ. και ν.π.ι.δ. που επιχορηγούνται από τον κρατικό προϋπολογισμό, ενδεχόμενη ετήσια δαπάνη από τυχόν απασχόληση κατά την 18η Οκτωβρίου, ημέρα αργίας για τη δημοτική ενότητα Αλεξάνδρειας του Δήμου Αλεξάνδρειας, προσωπικού δημοσίων υπηρεσιών και υπηρεσιών του Δήμου Αλεξάνδρειας και λοιπών ν.π.δ.δ. και ν.π.ι.δ. που λειτουργούν στη δημοτική ενότητα αυτή, βάσει νόμου, όλες τις ημέρες του μήνα ή σε δωδεκάωρη ή εικοσιτετράωρη βάση και την ως εκ τούτου καταβολή της προβλεπόμενης για τις εξαιρέσιμες ημέρες σχετικής αποζημίωσης. Η δαπάνη εκ της αιτίας αυτής εξαρτάται από πραγματικά γεγονότα και από την έκδοση υπουργικής απόφασης ή απόφασης του οικείου Δ.Σ. κατά περίπτωση. Η εν λόγω δαπάνη, εφόσον συντελεστεί, θα επιβαρύνει τους προϋπολογισμούς των οικείων Υπουργείων, του Δήμου Αλεξάνδρειας και λοιπών νομικών προσώπων δημοσίου ή ιδιωτικού δικαίου, κατά περίπτωση. "@el.
+<http://legislation.di.uoa.gr/pd/2014/33> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/citation/9>.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/33/citation/10> <http://legislation.di.uoa.gr/ontology/context> "Τις Δ 195/2013 και Δ 322/2013 γνωμοδοτήσεις του Συμβουλίου της Επικρατείας, με πρόταση του Υπουργού Εσωτερικών, του Αναπληρωτή Υπουργού Οικονομικών και του Υφυπουργού Εργασίας, Κοινωνικής Ασφάλισης και Πρόνοιας, "@el.
+<http://legislation.di.uoa.gr/pd/2014/33> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/citation/10>.
+<http://legislation.di.uoa.gr/pd/2014/33/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/33> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/article/1>.
+<http://legislation.di.uoa.gr/pd/2014/33/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/33/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/33/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/33/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/33/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Καθιερώνουμε την 18η Οκτωβρίου, επέτειο της απελευθέρωσης της Αλεξάνδρειας νομού Ημαθίας από τον τουρκικό ζυγό το έτος 1912, ως ημέρα αργίας για τη δημοτική ενότητα Αλεξάνδρειας του Δήμου Αλεξάνδρειας νομού Ημαθίας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/33/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/33> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/article/2>.
+<http://legislation.di.uoa.gr/pd/2014/33/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/33/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/33/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/33/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/33/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το παρόν διάταγμα ισχύει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. "@el.
+<http://legislation.di.uoa.gr/pd/2014/33> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2014/34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/34> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/59>.
+<http://legislation.di.uoa.gr/gazette/a/2014/59> <http://purl.org/dc/terms/title> "Α/2014/59".
+<http://legislation.di.uoa.gr/pd/2014/34> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/34> <http://purl.org/dc/terms/created> "2014-03-11"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/34> <http://legislation.di.uoa.gr/ontology/legislationID> "34"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/34> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2014/34> <http://purl.org/dc/terms/title> "Αναγνώριση του αυτοτελούς οικισμού «Χαλκούτσιον» του Δήμου Ωρωπού ως Δημοτικής Κοινότητας.  "@el.
+<http://legislation.di.uoa.gr/pd/2014/34/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/34/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 283 παρ. 6 του Ν. 3852/2010 «Νέα Αρχιτεκτονική της Αυτοδιοίκησης και της Αποκεντρωμένης Διοίκησης - Πρόγραμμα Καλλικράτης» (Α΄ 87). "@el.
+<http://legislation.di.uoa.gr/pd/2014/34> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/34/citation/1>.
+<http://legislation.di.uoa.gr/pd/2014/34/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/34/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το π.δ. 119/2013 «Διορισμός Αντιπροέδρου της Κυβέρνησης, Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (ΦΕΚ Α΄ 119). "@el.
+<http://legislation.di.uoa.gr/pd/2014/34> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/34/citation/2>.
+<http://legislation.di.uoa.gr/pd/2014/34/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/34/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα που κυρώθηκε με το άρθρο πρώτο του Π.Δ. 63/2005 (Α΄ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2014/34> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/34/citation/3>.
+<http://legislation.di.uoa.gr/pd/2014/34/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/34/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Την αρ. 308/2012 ομόφωνη απόφαση του Δημοτικού Συμβουλίου Ωρωπού με την οποία εκφράζεται η σύμφωνη γνώμη του για την αναγνώριση του οικισμού Χαλκουτσίου ως Δημοτικής Κοινότητας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/34> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/34/citation/4>.
+<http://legislation.di.uoa.gr/pd/2014/34/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/34/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Την αρ. 2891/15.03.2013 απόφαση της Ελληνικής Στατιστικής Αρχής (ΦΕΚ Β΄ 630) «Αποτελέσματα της Απογραφής Πληθυσμού - Κατοικιών 2011 που αφορούν στον De Facto Πληθυσμό της Χώρας ». "@el.
+<http://legislation.di.uoa.gr/pd/2014/34> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/34/citation/5>.
+<http://legislation.di.uoa.gr/pd/2014/34/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/34/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός, ότι από τις διατάξεις του παρόντος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού ή του προϋπολογισμού του Δήμου Ωρωπού. "@el.
+<http://legislation.di.uoa.gr/pd/2014/34> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/34/citation/6>.
+<http://legislation.di.uoa.gr/pd/2014/34/citation/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/34/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθμ. 27/2014 γνωμοδότηση του Συμβουλίου της Επικρατείας, με πρόταση του Υπουργού Εσωτερικών, "@el.
+<http://legislation.di.uoa.gr/pd/2014/34> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/34/citation/7>.
+<http://legislation.di.uoa.gr/pd/2014/34> <http://purl.org/dc/terms/title> "Αναγνώριση του αυτοτελούς οικισμού «Χαλκούτσιον» του Δήμου Ωρωπού ως Δημοτικής Κοινότητας.  "@el.
+<http://legislation.di.uoa.gr/pd/2014/34/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/34> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/34/article/1>.
+<http://legislation.di.uoa.gr/pd/2014/34/article/1> <http://purl.org/dc/terms/title> "".<http://legislation.di.uoa.gr/pd/2014/34/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/34/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/34/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/34/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/34/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/34/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/34/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Αναγνωρίζουμε τον αυτοτελή οικισμό «Χαλκούτσιον»της Δημοτικής Κοινότητας Σκάλας Ωρωπού του ΔήμουΩρωπού ως Δημοτική Κοινότητα.Στον Υπουργό Εσωτερικών αναθέτουμε τη δημοσί-ευση και εκτέλεση του παρόντος διατάγματος. "@el.
+<http://legislation.di.uoa.gr/pd/2014/34> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.

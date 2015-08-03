@@ -1,0 +1,27 @@
+﻿<http://legislation.di.uoa.gr/pd/2014/121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/121> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/195>.
+<http://legislation.di.uoa.gr/gazette/a/2014/195> <http://purl.org/dc/terms/title> "Α/2014/195".
+<http://legislation.di.uoa.gr/pd/2014/121> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/121> <http://purl.org/dc/terms/created> "2014-09-19"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/121> <http://legislation.di.uoa.gr/ontology/legislationID> "121"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/121> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2014/121> <http://purl.org/dc/terms/title> "Διορισμός Υποδιοικητή της Τράπεζας της Ελλάδος.  "@el.
+<http://legislation.di.uoa.gr/pd/2014/121/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/121/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 29 του καταστατικού της Τράπεζας της Ελλάδος όπως κυρώθηκε με τον ν. 3424/ 1927 (Α΄ 298), όπως το άρθρο αυτό τροποποιήθηκε και ισχύει. "@el.
+<http://legislation.di.uoa.gr/pd/2014/121> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/121/citation/1>.
+<http://legislation.di.uoa.gr/pd/2014/121/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/121/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Την από 5-9-2014 πρόταση του Γενικού Συμβουλίου της Τράπεζας της Ελλάδος (συνεδρίαση αριθμ. 8/5-9-2014). "@el.
+<http://legislation.di.uoa.gr/pd/2014/121> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/121/citation/2>.
+<http://legislation.di.uoa.gr/pd/2014/121/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/121/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Την Γ.Δ.Ο.Π.0001189ΕΞ2014/Β΄ 1596/11-9-2014 εισήγηση του Υπουργού Οικονομικών, με πρόταση του Υπουργικού Συμβουλίου, "@el.
+<http://legislation.di.uoa.gr/pd/2014/121> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/121/citation/3>.
+<http://legislation.di.uoa.gr/pd/2014/121/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/121> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/121/article/1>.
+<http://legislation.di.uoa.gr/pd/2014/121/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/121/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/121/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/121/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/121/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/121/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/121article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Διορίζουμε με εξαετή θητεία τον Ιωάννη Μουρμούρα του Αλεξάνδρου (Α.Δ.Τ. ΑΕ 640045), ως Υποδιοικητή της Τράπεζας της Ελλάδος. Στον Υπουργό Οικονομικών αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.
+<http://legislation.di.uoa.gr/pd/2014/121> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.

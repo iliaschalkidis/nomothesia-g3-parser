@@ -1,0 +1,23 @@
+﻿<http://legislation.di.uoa.gr/pd/2014/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/9> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/15>.
+<http://legislation.di.uoa.gr/gazette/a/2014/15> <http://purl.org/dc/terms/title> "Α/2014/15".
+<http://legislation.di.uoa.gr/pd/2014/9> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/9> <http://purl.org/dc/terms/created> "2014-01-23"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/9> <http://legislation.di.uoa.gr/ontology/legislationID> "9"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/9> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2014/9> <http://purl.org/dc/terms/title> "Χρήση του όρου «Επιμελητήριο» από το σωματείο με τίτλο «ΕΛΛΗΝΟ-ΚΑΖΑΧΙΚΟ ΕΜΠΟΡΙΚΟ ΚΑΙ ΒΙΟΜΗΧΑΝΙΚΟ ΕΠΙΜΕΛΗΤΗΡΙΟ ».  "@el.
+<http://legislation.di.uoa.gr/pd/2014/9/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/9/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις της παραγ. 3 του άρθρου 6 του ν.2081/1992 «Ρύθμιση του θεσμού των Επιμελητηρίων, τροποποίηση των διατάξεων του ν. 1712/1987 για τον εκσυγχρονισμό των επαγγελματικών οργανώσεων των εμπόρων, βιοτεχνών και λοιπών επαγγελματιών και άλλες διατάξεις» (Α 154), όπως αντικαταστάθηκε με την παραγ. 3 του άρθρου 25 του ν. 3419/2005 «Γενικό Εμπορικό Μητρώο (Γ.Ε.ΜΗ,) και εκσυγχρονισμός της Επιμελητηριακής Νομοθεσίας» (Α 297). "@el.
+<http://legislation.di.uoa.gr/pd/2014/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/9/citation/1>.
+<http://legislation.di.uoa.gr/pd/2014/9/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/9/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το άρθρο 90 του Π,Δ. 63/2005 «Κωδικοποίηση της νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα» (Α 98). "@el.
+<http://legislation.di.uoa.gr/pd/2014/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/9/citation/2>.
+<http://legislation.di.uoa.gr/pd/2014/9/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/9/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Το Π.Δ. 118/2013 «Τροποποίηση του ΠΔ 85/2012 Ίδρυση Υπουργείου Υποδομών.....και μετονομασία των Υπουργείων Ανάπτυξης..... (Α 152). "@el.
+<http://legislation.di.uoa.gr/pd/2014/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/9/citation/3>.
+<http://legislation.di.uoa.gr/pd/2014/9/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/9/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Το Π.Δ. 119/2013 «Διορισμός Αντιπροέδρου της Κυβέρνησης, Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α 153). "@el.
+<http://legislation.di.uoa.gr/pd/2014/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/9/citation/4>.
+<http://legislation.di.uoa.gr/pd/2014/9/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/9/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Την αριθμ. 27858/ΔΙΟΕ/546/26-06-2013 Απόφαση «Ανάθεση αρμοδιοτήτων στον Υφυπουργό Ανάπτυξης και Ανταγωνιστικότητας Αθανάσιο Σκορδά (Β 1653). Η ισχύς του παρόντος διατάγματος αρχίζει από την δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. Στον Υπουργό Ανάπτυξης και Ανταγωνιστικότητας αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος. Αθήνα, 14 Ιανουαρίου 2014 Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ Ο ΥΦΥΠΟΥΡΓΟΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΑΝΤΑΓΩΝΙΣΤΙΚΟΤΗΤΑΣ ΑΘΑΝΑΣΙΟΣ ΣΚΟΡΔΑΣ F"@el.
+<http://legislation.di.uoa.gr/pd/2014/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/9/citation/5>.

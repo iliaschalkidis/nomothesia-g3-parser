@@ -1,1 +1,9 @@
-﻿
+﻿<http://legislation.di.uoa.gr/law/2015/3/2015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2015/3/2015> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2015/23>.
+<http://legislation.di.uoa.gr/gazette/a/2015/23> <http://purl.org/dc/terms/title> "Α/2015/23".
+<http://legislation.di.uoa.gr/law/2015/3/2015> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2015/3/2015> <http://purl.org/dc/terms/created> "2015-02-06"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2015/3/2015> <http://legislation.di.uoa.gr/ontology/legislationID> "3/2015"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2015/3/2015> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
+<http://legislation.di.uoa.gr/law/2015/3/2015> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/law/2015/3/2015/2015-02-06>.

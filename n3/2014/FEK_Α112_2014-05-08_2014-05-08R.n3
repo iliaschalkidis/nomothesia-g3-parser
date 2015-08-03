@@ -1,0 +1,43 @@
+﻿<http://legislation.di.uoa.gr/pd/2014/69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/69> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/112>.
+<http://legislation.di.uoa.gr/gazette/a/2014/112> <http://purl.org/dc/terms/title> "Α/2014/112".
+<http://legislation.di.uoa.gr/pd/2014/69> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/69> <http://purl.org/dc/terms/created> "2014-05-08"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/69> <http://legislation.di.uoa.gr/ontology/legislationID> "69"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/69> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2014/69> <http://purl.org/dc/terms/title> "Τροποποίηση του π.δ. 86/2013 «Συγχώνευση Τμημάτων, ίδρυση-συγκρότηση και ανασυγκρότηση Σχολών στο Δημοκρίτειο Πανεπιστήμιο Θράκης» (Α΄ 124).  "@el.
+<http://legislation.di.uoa.gr/pd/2014/69/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/69/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) του άρθρου 7 του Ν. 4009/2011 (Α΄ 195), όπως τροποποιήθηκε με το άρθρο 1 του Ν. 4076/2012 (Α΄ 159) και το άρθρο 6 παρ. 2 του Ν. 4132/2013 (Α΄ 159), και συμπληρώθηκε με το άρθρο 7 παρ. 4 του Ν. 4142/2013 (Α΄ 83) β) του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα, που κυρώθηκε με το άρθρο πρώτο του π.δ. 63/2005 «Κωδικοποίηση της Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά όργανα» (Α΄98). "@el.
+<http://legislation.di.uoa.gr/pd/2014/69> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/69/citation/1>.
+<http://legislation.di.uoa.gr/pd/2014/69/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/69/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το π.δ. 119/2013 «Διορισμός Αντιπροέδρου της Κυβέρνησης, Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α΄ 153). "@el.
+<http://legislation.di.uoa.gr/pd/2014/69> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/69/citation/2>.
+<http://legislation.di.uoa.gr/pd/2014/69/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/69/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθ. Υ48/9-7-2012 απόφαση του Πρωθυπουργού «Καθορισμός αρμοδιοτήτων του Αναπληρωτή Υπουργού Οικονομικών Χρήστου Σταϊκούρα» (Β΄ 2105). "@el.
+<http://legislation.di.uoa.gr/pd/2014/69> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/69/citation/3>.
+<http://legislation.di.uoa.gr/pd/2014/69/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/69/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Το αριθμ. πρωτ. Α4959/17-7-2013 έγγραφο του Πρύτανη του Δημοκρίτειου Πανεπιστημίου Θράκης και τα συνημμένα σ’ αυτό αριθμ. πρωτ. 2584/11-6-2013 έγγραφο του Προέδρου του Τμήματος Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών και αριθμ. πρωτ. 1084/12-6-2013 έγγραφο του Κοσμήτορα της Πολυτεχνικής Σχολής. "@el.
+<http://legislation.di.uoa.gr/pd/2014/69> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/69/citation/4>.
+<http://legislation.di.uoa.gr/pd/2014/69/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/69/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από την εφαρμογή των διατάξεων του παρόντος διατάγματος δεν προκαλείται επιπρόσθετη δαπάνη σε βάρος του κρατικού προϋπολογισμού και του προϋπολογισμού του ιδρύματος. "@el.
+<http://legislation.di.uoa.gr/pd/2014/69> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/69/citation/5>.
+<http://legislation.di.uoa.gr/pd/2014/69/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/69/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Την αριθ. 29/2014 γνωμοδότηση του Συμβουλίου της Επικρατείας, με πρόταση του Υπουργού Διοικητικής Μεταρρύθμισης και Ηλεκτρονικής Διακυβέρνησης, του Υπουργού Παιδείας και Θρησκευμάτων και του Αναπληρωτή Υπουργού Οικονομικών, "@el.
+<http://legislation.di.uoa.gr/pd/2014/69> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/69/citation/6>.
+<http://legislation.di.uoa.gr/pd/2014/69/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/69> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/69/article/1>.
+<http://legislation.di.uoa.gr/pd/2014/69/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/69/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/69/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/69/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/69/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/69/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/69/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τροποποίηση διατάγματος «Στο π.δ. 86/2013 “Συγχώνευση Τμημάτων, ίδρυση, συγκρότηση και ανασυγκρότηση Σχολών στο Δημοκρίτειο Πανεπιστήμιο Θράκης” (Α΄ 124) η υποπερίπτωση ii της περιπτώσεως α' της παραγράφου 4 του άρθρου 2 αντικαθίσταται ως εξής: ii. "@el.
+<http://legislation.di.uoa.gr/pd/2014/69/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/69> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/69/article/2>.
+<http://legislation.di.uoa.gr/pd/2014/69/article/2> <http://purl.org/dc/terms/title> "Έναρξη Ισχύς".<http://legislation.di.uoa.gr/pd/2014/69/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/69/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/69/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/69/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/69/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/69/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/69/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος Διατάγματος αρχίζει από τηδημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.Στον Υπουργό Παιδείας και Θρησκευμάτων αναθέ-τουμε τη δημοσίευση και εκτέλεση του παρόντος δι-ατάγματος. "@el.
+<http://legislation.di.uoa.gr/pd/2014/69> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.

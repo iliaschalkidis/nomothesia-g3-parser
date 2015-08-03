@@ -1,0 +1,46 @@
+﻿<http://legislation.di.uoa.gr/pd/2014/75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/75> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/121>.
+<http://legislation.di.uoa.gr/gazette/a/2014/121> <http://purl.org/dc/terms/title> "Α/2014/121".
+<http://legislation.di.uoa.gr/pd/2014/75> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/75> <http://purl.org/dc/terms/created> "2014-05-27"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/75> <http://legislation.di.uoa.gr/ontology/legislationID> "75"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/75> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2014/75> <http://purl.org/dc/terms/title> "Ίδρυση Ανδρώας Ιεράς Κοινοβιακής Μονής Αγίας Οσιοπαρθενομάρτυρος Παρασκευής, της Ιεράς Μητροπόλεως Σερρών και Νιγρίτης, που βρίσκεται στη Δημοτική Κοινότητα Σερρών, της Δημοτικής Ενότητας Σερρών, του Δήμου Σερρών, της Περιφερειακής Ενότητας Σερρών, της Περιφέρειας Κεντρικής Μακεδονίας.  "@el.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 39 παρ. 3 του Ν. 590/1977 «Περί του Καταστατικού Χάρτου της Εκκλησίας της Ελλάδος» (Α΄ 146) σε συνδυασμό με τις διατάξεις του άρθρου 2 παρ. α΄ του αριθμ. 39/1972 Κανονισμού της Ιεράς Συνόδου της Εκκλησίας της Ελλάδος «Περί των εν Ελλάδι Ορθοδόξων Ιερών Μονών και των Ησυχαστηρίων» (Α΄ 103). "@el.
+<http://legislation.di.uoa.gr/pd/2014/75> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/citation/1>.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το Π.Δ. 119/2013 «Διορισμός Αντιπροέδρου της Κυβέρνησης, Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α΄ 153). "@el.
+<http://legislation.di.uoa.gr/pd/2014/75> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/citation/2>.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα (άρθρο πρώτο του Π.Δ/τος 63/2005, (Α΄ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2014/75> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/citation/3>.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Τη σύμφωνη γνώμη του Επιχωρίου Μητροπολίτου της Ιεράς Μητροπόλεως Σερρών Νιγρίτης (απόφαση αριθμ. 105/25-10-2013). "@el.
+<http://legislation.di.uoa.gr/pd/2014/75> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/citation/4>.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Την έγκριση της Διαρκούς Ιεράς Συνόδου της Εκκλησίας της Ελλάδος, που δόθηκε στην Ι΄/10-12-2013 Συνεδρία της 157ης Συνοδικής Περιόδου. "@el.
+<http://legislation.di.uoa.gr/pd/2014/75> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/citation/5>.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος αυτού δεν προκαλείται δαπάνη σε βάρος του Κρατικού Προϋπολογισμού. "@el.
+<http://legislation.di.uoa.gr/pd/2014/75> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/citation/6>.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Την αριθμ. 65/2014 γνωμοδότηση του Συμβουλίου της Επικρατείας, με πρόταση του Υπουργού Παιδείας και Θρησκευμάτων, "@el.
+<http://legislation.di.uoa.gr/pd/2014/75> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/citation/7>.
+<http://legislation.di.uoa.gr/pd/2014/75/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/75> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/article/1>.
+<http://legislation.di.uoa.gr/pd/2014/75/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/75/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/75/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/75/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/75/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ιδρύεται Ανδρώα Ιερά Κοινοβιακή Μονή Αγίας Οσιοπαρθενομάρτυρος Παρασκευής, της Ιεράς Μητροπόλεως Σερρών και Νιγρίτης, που βρίσκεται στη Δημοτική Κοινότητα Σερρών, της Δημοτικής Ενότητας Σερρών, του Δήμου Σερρών, της Περιφερειακής Ενότητας Σερρών, της Περιφέρειας Κεντρικής Μακεδονίας ». "@el.
+<http://legislation.di.uoa.gr/pd/2014/75/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/75> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/article/2>.
+<http://legislation.di.uoa.gr/pd/2014/75/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/75/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/75/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/75/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/75/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. "@el.
+<http://legislation.di.uoa.gr/pd/2014/75> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.

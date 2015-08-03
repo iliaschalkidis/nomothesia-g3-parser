@@ -1,1 +1,33 @@
-﻿
+﻿<http://legislation.di.uoa.gr/amc/2015/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/ActOfMinisterialCabinet>.
+<http://legislation.di.uoa.gr/amc/2015/5> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2015/26>.
+<http://legislation.di.uoa.gr/gazette/a/2015/26> <http://purl.org/dc/terms/title> "Α/2015/26".
+<http://legislation.di.uoa.gr/amc/2015/5> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/amc/2015/5> <http://purl.org/dc/terms/created> "2015-02-25"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/amc/2015/5> <http://legislation.di.uoa.gr/ontology/legislationID> "5"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/amc/2015/5> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
+<http://legislation.di.uoa.gr/amc/2015/5> <http://purl.org/dc/terms/title> "Ανασύνθεση του Κυβερνητικού Συμβουλίου Εξωτερικών και Άμυνας (ΚΥ.Σ.Ε.Α.).  "@el.
+<http://legislation.di.uoa.gr/amc/2015/5/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/amc/2015/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/5/article/1>.
+<http://legislation.di.uoa.gr/amc/2015/5/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2015/5/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/5/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/amc/2015/5/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2015/5/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/5/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/amc/2015/5/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυβερνητικό Συμβούλιο Εξωτερικών και Άμυνας (ΚΥ.Σ.Ε.Α.) Στο Κυβερνητικό Συμβούλιο Εξωτερικών και Άμυνας μετέχουν ως πρόεδρος ο Πρωθυπουργός και ως μέλη: α) ο Υπουργός Εθνικής Άμυνας, β) ο Υπουργός Εξωτερικών, γ) ο Αναπληρωτής Υπουργός Εσωτερικών και Διοικητικής Ανασυγκρότησης, αρμόδιος για θέματα Δημόσιας Τάξης και Προστασίας του Πολίτη, δ) ο Αναπληρωτής Υπουργός Οικονομίας Υποδομών Ναυτιλίας και Τουρισμού, αρμόδιος για θέματα Ναυτιλίας και Αιγαίου, ε) Ο Αρχηγός του Γενικού Επιτελείου Εθνικής Άμυνας. "@el.
+<http://legislation.di.uoa.gr/amc/2015/5/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/amc/2015/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/5/article/2>.
+<http://legislation.di.uoa.gr/amc/2015/5/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2015/5/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/5/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/amc/2015/5/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2015/5/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/5/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/amc/2015/5/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στο ΚΥ.Σ.Ε.Α καλείται και μετέχει, χωρίς δικαίωμα ψήφου, ο Γενικός Γραμματέας Πρωθυπουργού. "@el.
+<http://legislation.di.uoa.gr/amc/2015/5/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2015/5/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/5/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/amc/2015/5/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Καθήκοντα γραμματέα του ΚΥ.Σ.Ε.Α ασκεί ο Γενικός Γραμματέας της Κυβερνήσεως. "@el.
+<http://legislation.di.uoa.gr/amc/2015/5/article/2/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2015/5/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/5/article/2/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/amc/2015/5/article/2/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Η Πράξη αυτή να δημοσιευθεί στην Εφημερίδα της Κυβερνήσεως. "@el.
+<http://legislation.di.uoa.gr/amc/2015/5> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

@@ -1,0 +1,8 @@
+﻿<http://legislation.di.uoa.gr/pd/2014/68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/68> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/110>.
+<http://legislation.di.uoa.gr/gazette/a/2014/110> <http://purl.org/dc/terms/title> "Α/2014/110".
+<http://legislation.di.uoa.gr/pd/2014/68> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/68> <http://purl.org/dc/terms/created> "2014-05-07"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/68> <http://legislation.di.uoa.gr/ontology/legislationID> "68"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/68> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2014/68> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/68/2014-05-07>.

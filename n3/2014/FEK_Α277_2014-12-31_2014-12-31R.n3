@@ -1,0 +1,24 @@
+﻿<http://legislation.di.uoa.gr/pd/2014/173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/173> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/277>.
+<http://legislation.di.uoa.gr/gazette/a/2014/277> <http://purl.org/dc/terms/title> "Α/2014/277".
+<http://legislation.di.uoa.gr/pd/2014/173> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/173> <http://purl.org/dc/terms/created> "2014-12-31"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/173> <http://legislation.di.uoa.gr/ontology/legislationID> "173"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/173> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2014/173> <http://purl.org/dc/terms/title> "Διάλυση της Βουλής, προκήρυξη εκλογής Βουλευτών και σύγκληση της νέας Βουλής.  "@el.
+<http://legislation.di.uoa.gr/pd/2014/173/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/173/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις των άρθρων 32 παρ. 1, 3 και 4 εδάφ. α΄, 35 παρ. 2 περίπτ. γ΄ και 41 παρ. 3 του Συντάγματος. "@el.
+<http://legislation.di.uoa.gr/pd/2014/173> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/173/citation/1>.
+<http://legislation.di.uoa.gr/pd/2014/173/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/173/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι η Βουλή δεν εξέλεξε Πρόεδρο της Δημοκρατίας κατά τις τρεις διαδοχικές ονομαστικές ψηφοφορίες που διεξήχθησαν στις 17, 23 και 29 Δεκεμβρίου 2014, "@el.
+<http://legislation.di.uoa.gr/pd/2014/173> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/173/citation/2>.
+<http://legislation.di.uoa.gr/pd/2014/173/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/173> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/173/article/1>.
+<http://legislation.di.uoa.gr/pd/2014/173/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/173/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/173/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/173/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/173/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/173/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/173article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Διαλύουμε τη Βουλή της ΙΕ΄ Βουλευτικής Περιόδου Προεδρευομένης Δημοκρατίας, καλούμε τους εκλογείς για την εκλογή Βουλευτών στις 25 Ιανουαρίου 2015, ημέρα Κυριακή, και συγκαλούμε τη Βουλή, που θα προκύψει από τις εκλογές, στις 5 Φεβρουαρίου 2015, ημέρα Πέμπτη και ώρα 11.00 π.μ. Στον Υπουργό Εσωτερικών αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.
+<http://legislation.di.uoa.gr/pd/2014/173> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.

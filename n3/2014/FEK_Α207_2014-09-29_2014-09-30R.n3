@@ -1,0 +1,56 @@
+﻿<http://legislation.di.uoa.gr/pd/2014/127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/127> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/207>.
+<http://legislation.di.uoa.gr/gazette/a/2014/207> <http://purl.org/dc/terms/title> "Α/2014/207".
+<http://legislation.di.uoa.gr/pd/2014/127> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/127> <http://purl.org/dc/terms/created> "2014-09-29"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2014/127> <http://legislation.di.uoa.gr/ontology/legislationID> "127"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2014/127> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2014/127> <http://purl.org/dc/terms/title> "Καθορισμός αριθμού θέσεων συμβολαιογράφων στις περιφέρειες των Ειρηνοδικείων Άργους, Μάσσητος και Ψωφίδος.  "@el.
+<http://legislation.di.uoa.gr/pd/2014/127/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/127/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) του άρθρου 17 του Κώδικα Συμβολαιογράφων, ο οποίος κυρώθηκε με το άρθρο πρώτο του N. 2830/2000 (Α΄ 96), β) του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα, που κυρώθηκε με το άρθρο πρώτο του Π.Δ. 63/2005 (Α΄ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2014/127> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/citation/1>.
+<http://legislation.di.uoa.gr/pd/2014/127/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/127/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Τα Π.Δ. 392/1997 «Καθορισμός αριθμού θέσεων συμβολαιογράφων» (Α΄ 277), 114/2011 «Αύξηση αριθμού θέσεων συμβολαιογράφων στην Επικράτεια και κατανομή αυτών ανά περιφέρεια Ειρηνοδικείου» (Α΄ 250) και 110/2012 «Συγχώνευση ανενεργών ή υπολειτουργούντων Ειρηνοδικείων της Χώρας (Α΄ 193). "@el.
+<http://legislation.di.uoa.gr/pd/2014/127> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/citation/2>.
+<http://legislation.di.uoa.gr/pd/2014/127/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/127/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Τα με αρ. πρωτ. 17824/12-3-2013, 61654/22-7-2013 και 33102/14-4-2014 έγγραφα του Υπουργείου Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων. "@el.
+<http://legislation.di.uoa.gr/pd/2014/127> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/citation/3>.
+<http://legislation.di.uoa.gr/pd/2014/127/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/127/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Τις με αριθμό 6/2013 και 1/2014 αποφάσεις της επιτροπής καθορισμού θέσεων συμβολαιογράφων της περιφέρειας του Εφετείου Ναυπλίου. "@el.
+<http://legislation.di.uoa.gr/pd/2014/127> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/citation/4>.
+<http://legislation.di.uoa.gr/pd/2014/127/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/127/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Την με αριθμό 2/2014 απόφαση της επιτροπής του άρθρου 17 παρ. 7 του Ν. 2830/2000. "@el.
+<http://legislation.di.uoa.gr/pd/2014/127> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/citation/5>.
+<http://legislation.di.uoa.gr/pd/2014/127/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/127/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού. "@el.
+<http://legislation.di.uoa.gr/pd/2014/127> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/citation/6>.
+<http://legislation.di.uoa.gr/pd/2014/127/citation/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2014/127/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Την με αριθμό 210/2014 γνωμοδότηση του Συμβουλίου της Επικρατείας, μετά από πρόταση του Υπουργού Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων, "@el.
+<http://legislation.di.uoa.gr/pd/2014/127> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/citation/7>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/127> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/article/1>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στην περιφέρεια του Ειρηνοδικείου Άργους μειώνεται ο αριθμός των θέσεων συμβολαιογράφων κατά μία (1) στην έδρα του Αχλαδόκαμπου, καθοριζομένου του συνολικού αριθμού των οργανικών θέσεων στο Ειρηνοδικείο Άργους σε δεκαέξι (16). "@el.
+<http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στην περιφέρεια του Ειρηνοδικείου Μάσσητος μειώνεται ο αριθμός των θέσεων συμβολαιογράφων κατά μία (1) στην έδρα της Ερμιόνης, καθοριζομένου του συνολικού αριθμού των οργανικών θέσεων στο Ειρηνοδικείο Μάσσητος σε έξι (6) εκ των οποίων μία (1) στην Ερμιόνη. "@el.
+<http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στην περιφέρεια του Ειρηνοδικείου Ψωφίδος μειώνεται ο αριθμός των θέσεων συμβολαιογράφων κατά μία (1) στην έδρα των Τροπαίων, καθοριζομένου του συνολικού αριθμού των οργανικών θέσεων στο Ειρηνοδικείο Ψωφίδος με έδρα τα Τρόπαια σε τρεις (3) εκ των οποίων μία (1) στο Βαλτεσινίκο. "@el.
+<http://legislation.di.uoa.gr/pd/2014/127/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2014/127> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/article/2>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. "@el.
+<http://legislation.di.uoa.gr/pd/2014/127> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.

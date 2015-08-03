@@ -1,0 +1,25 @@
+﻿<http://legislation.di.uoa.gr/law/2014/4318> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2014/4318> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/274>.
+<http://legislation.di.uoa.gr/gazette/a/2014/274> <http://purl.org/dc/terms/title> "Α/2014/274".
+<http://legislation.di.uoa.gr/law/2014/4318> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2014/4318> <http://purl.org/dc/terms/created> "2014-12-30"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2014/4318> <http://legislation.di.uoa.gr/ontology/legislationID> "4318"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2014/4318> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/law/2014/4318> <http://purl.org/dc/terms/title> "Κύρωση του Πρωτοκόλλου μεταξύ της Κυβέρνησης της Ελληνικής Δημοκρατίας και της Κυβέρνησης της Δη- μοκρατίας της Τουρκίας για την Ενίσχυση των Συστη- μάτων Υγείας. Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ "@el.
+<http://legislation.di.uoa.gr/law/2014/4318/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2014/4318> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4318/article/1>.
+<http://legislation.di.uoa.gr/law/2014/4318/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4318/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4318/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2014/4318/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4318/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4318/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4318/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνεται και έχει την ισχύ, που ορίζει το άρθρο 28 παρ. 1 του Συντάγματος, το Πρωτόκολλο μεταξύ της Κυβέρνησης της Ελληνικής Δημοκρατίας και της Κυβέρνησης της Δημοκρατίας της Τουρκίας για την ενίσχυση των συστημάτων υγείας, που υπογράφηκε στην Κωνσταντινούπολη, στις 4 Μαρτίου 2013, το κείμενο του οποίου σε πρωτότυπο στην ελληνική και αγγλική γλώσσα έχει ως εξής:  8340     8342     8344 "@el.
+<http://legislation.di.uoa.gr/law/2014/4318/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2014/4318> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4318/article/2>.
+<http://legislation.di.uoa.gr/law/2014/4318/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4318/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4318/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2014/4318/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4318/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4318/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4318/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και του Πρωτοκόλλου που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 5 αυτού. "@el.
+<http://legislation.di.uoa.gr/law/2014/4318> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.

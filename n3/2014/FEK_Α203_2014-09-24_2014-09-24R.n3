@@ -1,0 +1,25 @@
+﻿<http://legislation.di.uoa.gr/law/2014/4292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2014/4292> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/203>.
+<http://legislation.di.uoa.gr/gazette/a/2014/203> <http://purl.org/dc/terms/title> "Α/2014/203".
+<http://legislation.di.uoa.gr/law/2014/4292> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2014/4292> <http://purl.org/dc/terms/created> "2014-09-24"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2014/4292> <http://legislation.di.uoa.gr/ontology/legislationID> "4292"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2014/4292> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/law/2014/4292> <http://purl.org/dc/terms/title> "Κύρωση της Εσωτερικής Συμφωνίας μεταξύ των Αντι- προσώπων των Κυβερνήσεων των κρατών – μελών της Ευρωπαϊκής Ένωσης, συνελθόντων στο πλαίσιο του Συμβουλίου, για τη χρηματοδότηση της βοήθειας της Ευρωπαϊκής Ένωσης, βάσει του πολυετούς δημοσιονο- μικού πλαισίου, για την περίοδο 2014 έως 2020, δυνά- μει της Συμφωνίας εταιρικής σχέσης ΑΚΕ-ΕΕ, καθώς και για τη χορήγηση χρηματοδοτικής ενίσχυσης στις υπερπόντιες χώρες και εδάφη για τις οποίες ισχύει το τέταρτο μέρος της Συνθήκης για τη λειτουργία της Ευρωπαϊκής Ένωσης και του Δευτέρου Πρακτικού Δι- όρθωσης με το επισυναπτόμενο σε αυτό Πρωτόκολλο Διόρθωσης, ως Παράρτημα Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ "@el.
+<http://legislation.di.uoa.gr/law/2014/4292/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2014/4292> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4292/article/1>.
+<http://legislation.di.uoa.gr/law/2014/4292/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4292/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4292/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2014/4292/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4292/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4292/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4292/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνεται και έχει την ισχύ, που ορίζει το άρθρο 28 παρ. "@el.
+<http://legislation.di.uoa.gr/law/2014/4292/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2014/4292> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4292/article/2>.
+<http://legislation.di.uoa.gr/law/2014/4292/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4292/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4292/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2014/4292/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4292/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4292/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4292/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Εσωτερικής Συμφωνίας με το συνημμένο σε αυτήν Δεύτερο Πρακτικό Διόρθωσης που κυρώνονται από την πλήρωση των προϋποθέσεων του άρθρου 14 παράγραφοι 1 και 2 της Συμφωνίας. "@el.
+<http://legislation.di.uoa.gr/law/2014/4292> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
