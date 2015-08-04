@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/59> <http://purl.org/dc/terms/created> "2014-04-22"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/59> <http://legislation.di.uoa.gr/ontology/legislationID> "59"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/59> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/59> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/59/2014-04-22>.
 <http://legislation.di.uoa.gr/pd/2014/59> <http://purl.org/dc/terms/title> "Τροποποίηση και συμπλήρωση του π.δ. 200/1993 «Περί Οδοιπορικών Εξόδων Εσωτερικού του Στρατιωτικού Προσωπικού των Ε.Δ. .»  "@el.
 <http://legislation.di.uoa.gr/pd/2014/59/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
@@ -29,6 +30,7 @@
 <http://legislation.di.uoa.gr/pd/2014/59> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/60> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/102>.
 <http://legislation.di.uoa.gr/gazette/a/2014/102> <http://purl.org/dc/terms/title> "Α/2014/102".
@@ -36,5 +38,6 @@
 <http://legislation.di.uoa.gr/pd/2014/60> <http://purl.org/dc/terms/created> "2014-04-22"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/60> <http://legislation.di.uoa.gr/ontology/legislationID> "60"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/60> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/60> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/60/2014-04-22>.
 <http://legislation.di.uoa.gr/pd/2014/60> <http://purl.org/dc/terms/title> "Τροποποίηση του με αριθμό 125/28-8-2013 προεδρικού διατάγματος με θέμα «Κατάργηση μεταβατικών εδρών: α) του Μονομελούς Πρωτοδικείου, Μονομελούς Πλημμελειοδικείου Αθηνών και β) του Πταισματοδικείου Αθηνών» (Α΄ 184)  "@el.

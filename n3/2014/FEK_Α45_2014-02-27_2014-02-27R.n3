@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/amc/2014/7> <http://purl.org/dc/terms/created> "2014-02-27"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/amc/2014/7> <http://legislation.di.uoa.gr/ontology/legislationID> "7"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/amc/2014/7> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/amc/2014/7> <http://purl.org/dc/terms/title> "Συνυπογραφή από το Ελληνικό Δημόσιο του Σχεδίου Σύμβασης Αγοραπωλησίας Μετοχών της ΕΛΛΗΝΙΚΟ Α.Ε.  "@el.
 <http://legislation.di.uoa.gr/amc/2014/7/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/amc/2014/7/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τη διάταξη της παραγράφου 2β του άρθρου 5 του ν. 3986/2011 (Α΄ 152), όπως αυτή προστέθηκε με τη διάταξη της παραγράφου 3β του άρθρου 46 του Ν. 4238/2014 «Πρωτοβάθμιο Εθνικό Δίκτυο Υγείας (Π.Ε.Δ.Υ.), αλλαγή σκοπού Ε.Ο.Π.Υ.Υ. και λοιπές διατάξεις» (Α΄ 38). "@el.
@@ -64,3 +65,4 @@
 <http://legislation.di.uoa.gr/amc/2014/7> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

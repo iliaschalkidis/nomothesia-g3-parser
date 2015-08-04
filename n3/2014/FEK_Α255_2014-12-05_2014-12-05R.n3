@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/169> <http://purl.org/dc/terms/created> "2014-12-05"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/169> <http://legislation.di.uoa.gr/ontology/legislationID> "169"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/169> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/169> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/169/2014-12-05>.
 <http://legislation.di.uoa.gr/pd/2014/169> <http://purl.org/dc/terms/title> "Ρύθμιση θεμάτων αδειών αστυνομικού προσωπικού, κατά τροποποίηση τον Π. δ/τος 27/1986 (Α΄ 11).  "@el.
 <http://legislation.di.uoa.gr/pd/2014/169/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
@@ -43,7 +44,8 @@
 <http://legislation.di.uoa.gr/pd/2014/169/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Αντικατάσταση όρων Όπου στις ρυθμίσεις του Π.δ/τος 27/1986 αναφέρεται η «άδεια μακράς διαρκείας για την αλλοδαπή», νοείται η «άδεια χωρίς αποδοχές ». "@el.
 <http://legislation.di.uoa.gr/pd/2014/169/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/169> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/169/article/2>.
-<http://legislation.di.uoa.gr/pd/2014/169/article/2> <http://purl.org/dc/terms/title> "Έναρξη ισχύος".<http://legislation.di.uoa.gr/pd/2014/169/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/169/article/2> <http://purl.org/dc/terms/title> "Έναρξη ισχύος".
+<http://legislation.di.uoa.gr/pd/2014/169/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/169/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/169/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/169/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/169/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/169/article/2/paragraph/1/passage/1>.
@@ -51,3 +53,4 @@
 <http://legislation.di.uoa.gr/pd/2014/169> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

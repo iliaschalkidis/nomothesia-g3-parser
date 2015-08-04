@@ -5,4 +5,5 @@
 <http://legislation.di.uoa.gr/law/2014/252/2014> <http://purl.org/dc/terms/created> "2014-03-11"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/law/2014/252/2014> <http://legislation.di.uoa.gr/ontology/legislationID> "252/2014"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/law/2014/252/2014> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/law/2014/252/2014> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/law/2014/252/2014/2014-03-11>.

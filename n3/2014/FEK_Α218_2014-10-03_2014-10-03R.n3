@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/135> <http://purl.org/dc/terms/created> "2014-10-03"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/135> <http://legislation.di.uoa.gr/ontology/legislationID> "135"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/135> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/135> <http://purl.org/dc/terms/title> "Ειδικότητες τεχνικού ασφάλειας στις μονάδες και υπηρεσίες των Ενόπλων Δυνάμεων.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/135/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/135/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τη διάταξη του άρθρου 11 παρ. 6 του «ΚΩΔΙΚΑ ΝΟΜΩΝ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΚΑΙ ΤΗΝ ΑΣΦΑΛΕΙΑ ΤΩΝ ΕΡΓΑΖΟΜΕΝΩΝ» (Κ.Ν.Υ.Α.Ε.), που κυρώθηκε με το άρθρο πρώτο του ν. 3850/2010 «Κύρωση του Κώδικα νόμων για την υγεία και την ασφάλεια των εργαζομένων» (ΦΕΚ Α΄ 84). "@el.

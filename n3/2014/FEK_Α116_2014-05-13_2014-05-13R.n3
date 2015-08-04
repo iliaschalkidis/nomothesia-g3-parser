@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/72> <http://purl.org/dc/terms/created> "2014-05-13"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/72> <http://legislation.di.uoa.gr/ontology/legislationID> "72"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/72> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/72> <http://purl.org/dc/terms/title> "Κατανομή τριάντα πέντε (35) οργανικών θέσεων Ειρηνοδικών στα Ειρηνοδικεία του Κράτους.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/72/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/72/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) Του άρθρου 3 παρ. 2 περ.α΄ υποπερ.  αα΄ του ν. 1756/1988 «Κώδικας Οργανισμού Δικαστηρίων και Κατάστασης Δικαστικών Λειτουργών» (Α΄ 35), όπως διαμορφώθηκε με το άρθρο 6 παρ. 8 του ν. 2408/1996 (Α΄ 104). β) Του άρθρου 90 του Κώδικα Νομοθεσίας για την «Κυβέρνηση και τα Κυβερνητικά Όργανα» που κυρώθηκε με το άρθρο πρώτο του π.δ. 63/2005 (Α΄ 98). "@el.
@@ -24,95 +25,176 @@
 <http://legislation.di.uoa.gr/pd/2014/72/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΑΘΗΝΩΝ Ειρηνοδικείο Αθηνών: Πέντε (5) οργανικές θέσεις Ειρηνοδικών, οριζομένου του συνολικού αριθμού αυτών σε εκατόν πενήντα πέντε (155). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΑΘΗΝΩΝ Ειρηνοδικείο Αθηνών. "@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Αμαρουσίου: Τρεις (3) οργανικές θέσεις Ειρηνοδικών, οριζομένου του συνολικού αριθμού αυτών σε δέκα τρεις (13). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Πέντε (5) οργανικές θέσεις Ειρηνοδικών, οριζομένου του συνολικού αριθμού αυτών σε εκατόν πενήντα πέντε (155). "@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/3>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Αχαρνών: Δύο (2) οργανικές θέσεις Ειρηνοδικών, οριζομένου του συνολικού αριθμού αυτών σε επτά (7). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Αμαρουσίου. "@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/4>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Ελευσίνας: Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε τρεις (3). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> " Τρεις (3) οργανικές θέσεις Ειρηνοδικών, οριζομένου του συνολικού αριθμού αυτών σε δέκα τρεις (13). "@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/5>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Ιλίου: Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε πέντε (5). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Αχαρνών. "@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/6>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Καλλιθέας: Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτών σε επτά (7). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> " Δύο (2) οργανικές θέσεις Ειρηνοδικών, οριζομένου του συνολικού αριθμού αυτών σε επτά (7). "@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/7>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/7> <http://legislation.di.uoa.gr/ontology/text> " 3880 Ειρηνοδικείο Κρωπίας: Δύο (2) οργανικές θέσεις Ειρηνοδικών, οριζομένου του συνολικού αριθμού αυτών σε επτά (7). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/7> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Ελευσίνας. "@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/8>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/8> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Λαυρίου: Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε τέσσερις (4). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/8> <http://legislation.di.uoa.gr/ontology/text> " Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε τρεις (3). "@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/9>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/9> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Μαραθώνος: Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε τέσσερις (4). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/9> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Ιλίου. "@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/10>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/10> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Μεγάρων: Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε τρεις (3). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/10> <http://legislation.di.uoa.gr/ontology/text> " Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε πέντε (5). "@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/11>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/11> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Νέας Ιωνίας: Δύο (2) οργανικές θέσεις Ειρηνοδικών, οριζομένου του συνολικού αριθμού αυτών σε οκτώ (8). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/11> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Καλλιθέας. "@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/12>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/12> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Περιστερίου: Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε έξι (6). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/12> <http://legislation.di.uoa.gr/ontology/text> " Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτών σε επτά (7). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/13>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/13> <http://legislation.di.uoa.gr/ontology/text> " 3880 Ειρηνοδικείο Κρωπίας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/14>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/14> <http://legislation.di.uoa.gr/ontology/text> " Δύο (2) οργανικές θέσεις Ειρηνοδικών, οριζομένου του συνολικού αριθμού αυτών σε επτά (7). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/15>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/15> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Λαυρίου. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/16>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/16> <http://legislation.di.uoa.gr/ontology/text> " Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε τέσσερις (4). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/17>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/17> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Μαραθώνος. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/18>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/18> <http://legislation.di.uoa.gr/ontology/text> " Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε τέσσερις (4). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/19>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/19> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Μεγάρων. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/20>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/20> <http://legislation.di.uoa.gr/ontology/text> " Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε τρεις (3). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/21>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/21> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Νέας Ιωνίας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/22>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/22> <http://legislation.di.uoa.gr/ontology/text> " Δύο (2) οργανικές θέσεις Ειρηνοδικών, οριζομένου του συνολικού αριθμού αυτών σε οκτώ (8). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/23>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/23> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Περιστερίου. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/24>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/24> <http://legislation.di.uoa.gr/ontology/text> " Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε έξι (6). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/25>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/25> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Χαλανδρίου. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/26>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/1/passage/26> <http://legislation.di.uoa.gr/ontology/text> " Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε εννέα (9)."@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΧΙΟΥ Ειρηνοδικείο Χίου: Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε τρεις (3). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΧΙΟΥ Ειρηνοδικείο Χίου. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε τρεις (3)."@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/3/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΦΛΩΡΙΝΑΣ Ειρηνοδικείο Φλώρινας: Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε δύο (2). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΦΛΩΡΙΝΑΣ Ειρηνοδικείο Φλώρινας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/3/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε δύο (2)."@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/4/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΠΑΤΡΩΝ Ειρηνοδικείο Πατρών: Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε δέκα πέντε (15). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΠΑΤΡΩΝ Ειρηνοδικείο Πατρών. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/4/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/4/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/4/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε δέκα πέντε (15)."@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/5>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/5/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΒΕΡΟΙΑΣ Ειρηνοδικείο Νάουσας: Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε δύο (2). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΒΕΡΟΙΑΣ Ειρηνοδικείο Νάουσας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/5/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/5/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/5/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε δύο (2)."@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/6>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/6/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΘΕΣΣΑΛΟΝΙΚΗΣ Ειρηνοδικείο Θεσσαλονίκης: Δύο (2) οργανικές θέσεις Ειρηνοδικών, οριζομένου του συνολικού αριθμού αυτών σε πενήντα έξι (56). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΘΕΣΣΑΛΟΝΙΚΗΣ Ειρηνοδικείο Θεσσαλονίκης. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/6/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/6/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/6/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Δύο (2) οργανικές θέσεις Ειρηνοδικών, οριζομένου του συνολικού αριθμού αυτών σε πενήντα έξι (56)."@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/7>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/7/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΞΑΝΘΗΣ Ειρηνοδικείο Ξάνθης: Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε τέσσερις (4). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΞΑΝΘΗΣ Ειρηνοδικείο Ξάνθης. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/7/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/7/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/7/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε τέσσερις (4)."@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/8>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/8/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/8/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/8/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΟΡΕΣΤΙΑΔΑΣ Ειρηνοδικείο Ορεστιάδας: Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε δύο (2). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/8/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΟΡΕΣΤΙΑΔΑΣ Ειρηνοδικείο Ορεστιάδας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/8/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/8/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/8/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε δύο (2)."@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/9>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/9/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/9/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/9/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΒΟΛΟΥ Ειρηνοδικείο Βόλου: Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε οκτώ (8). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/9/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΒΟΛΟΥ Ειρηνοδικείο Βόλου. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/9/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/9/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/9/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε οκτώ (8)."@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/10>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/10/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/10/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/10/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΛΑΡΙΣΑΣ Ειρηνοδικείο Ελασόνας: Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε δύο (2). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/10/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΛΑΡΙΣΑΣ Ειρηνοδικείο Ελασόνας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/10/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/10/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/10/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε δύο (2)."@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/11>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/11/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/11/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/11/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΠΕΙΡΑΙΑ Ειρηνοδικείο Νίκαιας: Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε έξι (6). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/11/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΠΕΙΡΑΙΑ Ειρηνοδικείο Νίκαιας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/11/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/11/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/11/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε έξι (6). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/11/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/11/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/11/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Ειρηνοδικείο Πειραιά. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/11/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/11/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/11/passage/4> <http://legislation.di.uoa.gr/ontology/text> " Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε είκοσι μία (21)."@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/12>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/12/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/12/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/12/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΗΡΑΚΛΕΙΟΥ ΚΡΗΤΗΣ Πταισματοδικείο Ηρακλείου: Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε τρεις (3). "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/12/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΕΡΙΦΕΡΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΗΡΑΚΛΕΙΟΥ ΚΡΗΤΗΣ Πταισματοδικείο Ηρακλείου. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/12/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/12/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/1/paragraph/12/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Μία (1) οργανική θέση Ειρηνοδίκη, οριζομένου του συνολικού αριθμού αυτού σε τρεις (3)."@el.
 <http://legislation.di.uoa.gr/pd/2014/72/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/72> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/2>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -120,6 +202,10 @@
 <http://legislation.di.uoa.gr/pd/2014/72/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/2/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/72/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. "@el.
+<http://legislation.di.uoa.gr/pd/2014/72/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/72/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/72/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος Διατάγματος. "@el.
 <http://legislation.di.uoa.gr/pd/2014/72> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/18> <http://purl.org/dc/terms/created> "2014-02-03"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/18> <http://legislation.di.uoa.gr/ontology/legislationID> "18"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/18> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/18> <http://purl.org/dc/terms/title> "Εφαρμογή των αποφάσεων 1897 (2009), 1910 (2010) και 1916 (2010) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.).  "@el.
 <http://legislation.di.uoa.gr/pd/2014/18/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/18/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Το άρθρο 25 του καταστατικού Χάρτη του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.), όπως κυρώθηκε με τον Α.Ν. 585/1945 (Α΄ 242). "@el.
@@ -58,6 +59,9 @@
 <http://legislation.di.uoa.gr/pd/2014/18/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/18/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/18/article/1/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/18/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "η απόφαση 1897 (2009), τα μέτρα του άρθρου Μόνου του προεδρικού διατάγματος 334/1993, τα οποία αναπτύχθηκαν περαιτέρω βάσει του άρθρου Μόνου του προεδρικού διατάγματος 54/2005, δεν εφαρμόζονται σε όπλα και στρατιωτικό εξοπλισμό που προορίζονται για την αποκλειστική χρήση των Κρατών Μελών του Ο.Η.Ε. "@el.
+<http://legislation.di.uoa.gr/pd/2014/18/article/1/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/18/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/18/article/1/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/18/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "και των περιφερειακών οργανισμών, που αναλαμβάνουν μέτρα, σύμφωνα με την παράγραφο 7 της απόφασης 1897 (2009) ή σε προμήθειες τεχνικής βοήθειας στη Σομαλία, αποκλειστικά για τους σκοπούς που ορίζονται  414 στην παράγραφο 5 της απόφασης 1897 (2009), οι οποίες έχουν εξαιρεθεί από αυτά τα μέτρα σύμφωνα με τη διαδικασία που προβλέπεται στα άρθρα 1(β) και 2 του προεδρικού διατάγματος 51/2009. "@el.
 <http://legislation.di.uoa.gr/pd/2014/18/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/18/article/2>.
 <http://legislation.di.uoa.gr/pd/2014/18/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -65,6 +69,9 @@
 <http://legislation.di.uoa.gr/pd/2014/18/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/18/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/18/article/2/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/18/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Από την 28η Ιανουαρίου 2010, ημερομηνία κατά την οποία υιοθετήθηκε από το Συμβούλιο Ασφαλείας του Ο.Η.Ε. "@el.
+<http://legislation.di.uoa.gr/pd/2014/18/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/18/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/18/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/18/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "η απόφαση 1910 (2010), τα μέτρα του άρθρου Μόνου του προεδρικού διατάγματος 334/1993, τα οποία αναπτύχθηκαν περαιτέρω βάσει του άρθρου Μόνου του προεδρικού διατάγματος 54/2005, δεν εφαρμόζονται σε προμήθειες και τεχνική βοήθεια που παρέχονται, σύμφωνα με τα άρθρα 1(β) και 2 του προεδρικού διατάγματος 51/2009, στη Μεταβατική Ομοσπονδιακή Κυβέρνηση της Σομαλίας για τους σκοπούς της ανάπτυξης των θεσμών της στον τομέα της ασφάλειας, σύμφωνα με την ειρηνευτική διαδικασία του Τζιμπουτί και υπό τους όρους της διαδικασίας γνωστοποίησης που ορίζεται στο άρθρο 2 του προεδρικού διατάγματος 51/2009. "@el.
 <http://legislation.di.uoa.gr/pd/2014/18/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/18/article/3>.
 <http://legislation.di.uoa.gr/pd/2014/18/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -72,6 +79,9 @@
 <http://legislation.di.uoa.gr/pd/2014/18/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/18/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/18/article/3/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/18/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Από την 19η Μαρτίου 2010, ημερομηνία κατά την οποία υιοθετήθηκε από το Συμβούλιο Ασφαλείας του Ο.Η.Ε. "@el.
+<http://legislation.di.uoa.gr/pd/2014/18/article/3/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/18/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/18/article/3/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/18/article/3/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "η απόφαση 1916 (2010), τα άρθρα 1 (β) και 2 του προεδρικού διατάγματος 51/2009 εφαρμόζονται επίσης σε προμήθειες και τεχνική βοήθεια από διεθνείς, περιφερειακούς και υποπεριφερειακούς οργανισμούς. "@el.
 <http://legislation.di.uoa.gr/pd/2014/18/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/18/article/4>.
 <http://legislation.di.uoa.gr/pd/2014/18/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -79,6 +89,9 @@
 <http://legislation.di.uoa.gr/pd/2014/18/article/4/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/18/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/18/article/4/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/18/article/4/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Από την 19η Μαρτίου 2010, ημερομηνία κατά την οποία υιοθετήθηκε από το Συμβούλιο Ασφαλείας του Ο.Η.Ε. "@el.
+<http://legislation.di.uoa.gr/pd/2014/18/article/4/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/18/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/18/article/4/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/18/article/4/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "η απόφαση 1916 (2010) και για μια περίοδο δώδεκα μηνών, και μη θιγομένων των προγραμμάτων ανθρωπιστικής βοήθειας που υλοποιούνται αλλού, οι υποχρεώσεις που επιβάλλονται βάσει του άρθρου 3 του προεδρικού διατάγματος 28/2012 «Περί εφαρμογής της απόφασης 1844 (2008) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)» (Α΄ 60), δεν ισχύουν για την πληρωμή κεφαλαίων, λοιπών χρηματοοικονομικών στοιχείων ή οικονομικών πόρων που απαιτούνται για τη διασφάλιση της έγκαιρης παράδοσης της επειγόντως απαιτούμενης ανθρωπιστικής βοήθειας στη Σομαλία, από τον Οργανισμό Ηνωμένων Εθνών, τους ειδικευμένους οργανισμούς ή προγράμματά του, τις ανθρωπιστικές οργανώσεις που έχουν το καθεστώς του παρατηρητή στη Γενική Συνέλευση του Ο.Η.Ε., οι οποίες παρέχουν ανθρωπιστική βοήθεια ή τους συνεργάτες τους στην υλοποίηση. "@el.
 <http://legislation.di.uoa.gr/pd/2014/18/article/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/18/article/5>.
 <http://legislation.di.uoa.gr/pd/2014/18/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -86,6 +99,9 @@
 <http://legislation.di.uoa.gr/pd/2014/18/article/5/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/18/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/18/article/5/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/18/article/5/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Από την 19η Μαρτίου 2010, ημερομηνία κατά την οποία υιοθετήθηκε από το Συμβούλιο Ασφαλείας του Ο.Η.Ε. "@el.
+<http://legislation.di.uoa.gr/pd/2014/18/article/5/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/18/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/18/article/5/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/18/article/5/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "η απόφαση 1916 (2010), οι αρμόδιες ελληνικές αρχές διασφαλίζουν τη συνεργασία ατόμων και φορέων που βρίσκονται υπό τη δικαιοδοσία ή την εποπτεία τους με την Ομάδα Επίβλεψης που επανασυστάθηκε σύμφωνα με την παράγραφο 3 της απόφασης 1558 (2004) του Συμβουλίου Ασφαλείας του Ο.Η.Ε. "@el.
 <http://legislation.di.uoa.gr/pd/2014/18/article/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/18/article/6>.
 <http://legislation.di.uoa.gr/pd/2014/18/article/6/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -96,9 +112,13 @@
 <http://legislation.di.uoa.gr/pd/2014/18/article/6/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/18/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/18/article/6/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/18/article/6/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "η απόφαση 1916 (2010), οι αρμόδιες ελληνικές αρχές συνεργάζονται πλήρως με την Ομάδα Επίβλεψης που αναφέρεται στο άρθρο 5 και διασφαλίζουν την ασφάλεια των μελών της καθώς και ακώλυτη πρόσβαση, ιδιαίτερα στα πρόσωπα, έγγραφα και τοποθεσίες που η Ομάδα θεωρεί συναφή με την εκτέλεση της εντολής της. "@el.
+<http://legislation.di.uoa.gr/pd/2014/18/article/6/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/18/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/18/article/6/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/18/article/6/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Εξωτερικών αναθέτουμε τη δημοσίευση του παρόντος Διατάγματος, στον ίδιο δε Υπουργό και στους Υπουργούς Οικονομικών, Εθνικής Άμυνας, Ανάπτυξης και Ανταγωνιστικότητας, Υποδομών, Μεταφορών και Δικτύων, Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων, Δημόσιας Τάξης και Προστασίας του Πολίτη και Ναυτιλίας και Αιγαίου την εκτέλεσή του. "@el.
 <http://legislation.di.uoa.gr/pd/2014/18> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/19> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/26>.
 <http://legislation.di.uoa.gr/gazette/a/2014/26> <http://purl.org/dc/terms/title> "Α/2014/26".
@@ -106,6 +126,7 @@
 <http://legislation.di.uoa.gr/pd/2014/19> <http://purl.org/dc/terms/created> "2014-02-03"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/19> <http://legislation.di.uoa.gr/ontology/legislationID> "19"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/19> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/19> <http://purl.org/dc/terms/title> "Eφαρμογή της απόφασης 1975 (2011) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.).  "@el.
 <http://legislation.di.uoa.gr/pd/2014/19/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/19/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Το άρθρο 25 του καταστατικού Χάρτη του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.) όπως κυρώθηκε με τον A.N. 585/1945 (Α΄ 242). "@el.
@@ -158,46 +179,105 @@
 <http://legislation.di.uoa.gr/pd/2014/19> <http://purl.org/dc/terms/title> "Eφαρμογή της απόφασης 1975 (2011) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.).  "@el.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/19> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1>.
-<http://legislation.di.uoa.gr/pd/2014/19/article/1> <http://purl.org/dc/terms/title> " Άρθρο Μόνο Από την 30η Μαρτίου 2011, ημερομηνία υιοθέτησης της απόφασης 1975 (2011) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.), τα άτομα που απαριθμούνται στο κατωτέρω Παράρτημα, υπόκεινται στα οικονομικά και ταξιδιωτικά μέτρα που έχουν επιβληθεί με τα άρθρα 3 έως 5 του προεδρικού διατάγματος 251/2005 (Α΄ 299). Παράρτημα".<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1> <http://purl.org/dc/terms/title> " Άρθρο Μόνο Από την 30η Μαρτίου 2011, ημερομηνία υιοθέτησης της απόφασης 1975 (2011) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.), τα άτομα που απαριθμούνται στο κατωτέρω Παράρτημα, υπόκεινται στα οικονομικά και ταξιδιωτικά μέτρα που έχουν επιβληθεί με τα άρθρα 3 έως 5 του προεδρικού διατάγματος 251/2005 (Α΄ 299). Παράρτημα".
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Laurent Gbagbo Ημερομηνία γέννησης: 31 Μαΐου 1945 Τόπος γέννησης: Gagnoa, Ακτή του Ελεφαντοστού Πρώην Πρόεδρος της Ακτής του Ελεφαντοστού: παρακώλυση της ειρηνευτικής διαδικασίας και της διαδικασίας συμφιλίωσης, άρνηση των αποτελεσμάτων των προεδρικών εκλογών. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Laurent Gbagbo Ημερομηνία γέννησης. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> " 31 Μαΐου 1945 Τόπος γέννησης. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> " Gagnoa, Ακτή του Ελεφαντοστού Πρώην Πρόεδρος της Ακτής του Ελεφαντοστού. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> " παρακώλυση της ειρηνευτικής διαδικασίας και της διαδικασίας συμφιλίωσης, άρνηση των αποτελεσμάτων των προεδρικών εκλογών."@el.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Simone Gbagbo Ημερομηνία γέννησης: 20 Ιουνίου 1949 Τόπος γέννησης: Moossou, Grand-Bassam, Ακτή του Ελεφαντοστού Πρόεδρος της Κοινοβουλευτικής Ομάδας του Λαϊκού Μετώπου της Ακτής του Ελεφαντοστού (FPΙ): παρακώλυση της ειρηνευτικής διαδικασίας και της διαδικασίας συμφιλίωσης, δημόσια υποκίνηση του μίσους και της βίας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Simone Gbagbo Ημερομηνία γέννησης. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> " 20 Ιουνίου 1949 Τόπος γέννησης. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/2/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/2/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/2/passage/3> <http://legislation.di.uoa.gr/ontology/text> " Moossou, Grand-Bassam, Ακτή του Ελεφαντοστού Πρόεδρος της Κοινοβουλευτικής Ομάδας του Λαϊκού Μετώπου της Ακτής του Ελεφαντοστού (FPΙ). "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/2/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/2/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/2/passage/4> <http://legislation.di.uoa.gr/ontology/text> " παρακώλυση της ειρηνευτικής διαδικασίας και της διαδικασίας συμφιλίωσης, δημόσια υποκίνηση του μίσους και της βίας."@el.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "D?sir? Tagro Αριθμός διαβατηρίου: PD-AE 065FH08 Ημερομηνία γέννησης: 27 Ιανουαρίου 1959 Τόπος γέννησης: Issia, Ακτή του Ελεφαντοστού Γενικός Γραμματέας της αποκαλούμενης «προεδρίας» του κ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "D?sir? Tagro Αριθμός διαβατηρίου. "@el.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Gbagbo: συμμετοχή στην παράνομη κυβέρνηση του κ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> " PD-AE 065FH08 Ημερομηνία γέννησης. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/3> <http://legislation.di.uoa.gr/ontology/text> " 27 Ιανουαρίου 1959 Τόπος γέννησης. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/4> <http://legislation.di.uoa.gr/ontology/text> " Issia, Ακτή του Ελεφαντοστού Γενικός Γραμματέας της αποκαλούμενης «προεδρίας» του κ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Gbagbo. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/6>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/6> <http://legislation.di.uoa.gr/ontology/text> " συμμετοχή στην παράνομη κυβέρνηση του κ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/7>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/3/passage/7> <http://legislation.di.uoa.gr/ontology/text> "Gbagbo, παρακώλυση της ειρηνευτικής διαδικασίας και της διαδικασίας συμφιλίωσης, άρνηση των αποτελεσμάτων των προεδρικών εκλογών, συμμετοχή στη βίαιη καταστολή λαϊκών κινημάτων."@el.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Pascal Aff? N'Guessan Αριθμός διαβατηρίου: PD-AE 09DD00013 Ημερομηνία γέννησης: 1 Ιανουαρίου 1953 Τόπος γέννησης: Bouadriko, Ακτή του Ελεφαντοστού Πρόεδρος του Λαϊκού Μετώπου της Ακτής του Ελεφαντοστού (FPΙ): παρακώλυση της ειρηνευτικής διαδικασίας και της διαδικασίας συμφιλίωσης, υποκίνηση του μίσους και της βίας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Pascal Aff? N'Guessan Αριθμός διαβατηρίου. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4/passage/2> <http://legislation.di.uoa.gr/ontology/text> " PD-AE 09DD00013 Ημερομηνία γέννησης. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4/passage/3> <http://legislation.di.uoa.gr/ontology/text> " 1 Ιανουαρίου 1953 Τόπος γέννησης. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4/passage/4> <http://legislation.di.uoa.gr/ontology/text> " Bouadriko, Ακτή του Ελεφαντοστού Πρόεδρος του Λαϊκού Μετώπου της Ακτής του Ελεφαντοστού (FPΙ). "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/4/passage/5> <http://legislation.di.uoa.gr/ontology/text> " παρακώλυση της ειρηνευτικής διαδικασίας και της διαδικασίας συμφιλίωσης, υποκίνηση του μίσους και της βίας."@el.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5>.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Alcide Dj?dj? Ημερομηνία γέννησης: 20 Οκτωβρίου 1956 Τόπος γέννησης: Abidjan, Ακτή του Ελεφαντοστού Στενός σύμβουλος του κ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Alcide Dj?dj? Ημερομηνία γέννησης. "@el.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Gbagbo: συμμετοχή στην παράνομη κυβέρνηση του κ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/2> <http://legislation.di.uoa.gr/ontology/text> " 20 Οκτωβρίου 1956 Τόπος γέννησης. "@el.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/3>.
-<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Gbagbo, παρακώλυση της ειρηνευτικής διαδικασίας και της διαδικασίας συμφιλίωσης, δημόσια υποκίνηση του μίσους και της βίας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/3> <http://legislation.di.uoa.gr/ontology/text> " Abidjan, Ακτή του Ελεφαντοστού Στενός σύμβουλος του κ. "@el.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/4>.
-<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Εξωτερικών αναθέτουμε τη δημοσίευση του παρόντος Διατάγματος, στον ίδιο δε Υπουργό και στους Υπουργούς Οικονομικών. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Gbagbo. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/5> <http://legislation.di.uoa.gr/ontology/text> " συμμετοχή στην παράνομη κυβέρνηση του κ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/6>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Gbagbo, παρακώλυση της ειρηνευτικής διαδικασίας και της διαδικασίας συμφιλίωσης, δημόσια υποκίνηση του μίσους και της βίας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/7>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/7> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Εξωτερικών αναθέτουμε τη δημοσίευση του παρόντος Διατάγματος, στον ίδιο δε Υπουργό και στους Υπουργούς Οικονομικών. "@el.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/8>.
+<http://legislation.di.uoa.gr/pd/2014/19/article/1/paragraph/5/passage/8> <http://legislation.di.uoa.gr/ontology/text> "Εθνικής Άμυνας, Ανάπτυξης και Ανταγωνιστικότητας, Υποδομών, Μεταφορών και Δικτύων, Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων, Δημόσιας Τάξης και Προστασίας του Πολίτη και Ναυτιλίας και Αιγαίου την εκτέλεσή του."@el.
 <http://legislation.di.uoa.gr/pd/2014/19> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/20> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/26>.
 <http://legislation.di.uoa.gr/gazette/a/2014/26> <http://purl.org/dc/terms/title> "Α/2014/26".
@@ -205,6 +285,7 @@
 <http://legislation.di.uoa.gr/pd/2014/20> <http://purl.org/dc/terms/created> "2014-02-03"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/20> <http://legislation.di.uoa.gr/ontology/legislationID> "20"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/20> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/20> <http://purl.org/dc/terms/title> "Εφαρμογή της απόφασης 2023 (2011) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.).  "@el.
 <http://legislation.di.uoa.gr/pd/2014/20/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/20/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Το άρθρο 25 του καταστατικού Χάρτη του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.), όπως κυρώθηκε με τον A.N. 585/1945 (Α΄ 242). "@el.
@@ -258,6 +339,10 @@
 <http://legislation.di.uoa.gr/pd/2014/20/article/1/paragraph/1/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/20/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/20/article/1/paragraph/1/passage/6>.
 <http://legislation.di.uoa.gr/pd/2014/20/article/1/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> "΄Αρθρο 2 Από την 5η Δεκεμβρίου 2011, ημερομηνία υιοθέτησης της απόφασης 2023 (2011) του Συμβουλίου Ασφαλείας του Ο.Η.Ε., οι αρμόδιες ελληνικές αρχές, προκειμένου να αποτρέψουν τη συμβολή των κεφαλαίων που προέρχονται από το μεταλλευτικό τομέα της Ερυθραίας σε παραβιάσεις των μέτρων του προεδρικού διατάγματος 28/2012 (Α'60), του προεδρικού διατάγματος 15/2013 «Περί εφαρμογής της απόφασης 1907 (2009) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)» (Α΄ 39) ή του παρόντος, λαμβάνουν τα κατάλληλα μέτρα ώστε να υπάρχει σχετική επαγρύπνηση εκ μέρους των ελλήνων υπηκόων, των προσώπων που υπάγονται στη δικαιοδοσία της Ελληνικής Δημοκρατίας και των εταιρειών οι οποίες έχουν συσταθεί στο ελληνικό έδαφος ή υπάγονται στη δικαιοδοσία της Ελληνικής Δημοκρατίας, που διεξάγουν επιχειρηματικές δραστηριότητες στο συγκεκριμένο τομέα στην Ερυθραία, μεταξύ άλλων μέσω της έκδοσης κατευθυντηρίων οδηγιών για την επίδειξη δέουσας επιμέλειας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/20/article/1/paragraph/1/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/20/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/20/article/1/paragraph/1/passage/7>.
+<http://legislation.di.uoa.gr/pd/2014/20/article/1/paragraph/1/passage/7> <http://legislation.di.uoa.gr/ontology/text> "΄Αρθρο 3 Οι αρμόδιες ελληνικές αρχές θα υιοθετήσουν κατευθυντήριες οδηγίες για την επίδειξη δέουσας επιμέλει- "@el.
 <http://legislation.di.uoa.gr/pd/2014/20> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

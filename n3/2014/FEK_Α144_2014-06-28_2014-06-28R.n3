@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/law/2014/4271> <http://purl.org/dc/terms/created> "2014-06-28"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/law/2014/4271> <http://legislation.di.uoa.gr/ontology/legislationID> "4271"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/law/2014/4271> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/law/2014/4271> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/law/2014/4271/2014-06-28>.
 <http://legislation.di.uoa.gr/law/2014/4271> <http://purl.org/dc/terms/title> "Κύρωση αποφάσεων υπαγωγής επενδυτικών σχεδίων του ν. 3908/2011 και άλλες διατάξεις. με το κίνητρο της επιχορήγησης και το κίνητρο της φορολογικής απαλλαγής» (Β΄1633) και περιλαμβάνεται στο τέλος του παρόντος ως Παράρτημα 2. Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ Άρθρο 3 Κύρωση απόφασης υπαγωγής επενδυτικού σχεδίου της επιχείρησης «ΑΙΟΛΙΚΟ ΠΑΡΚΟ ΓΟΥΡΛΕΣ ΑΝΩΝΥΜΗ ΕΤΑΙΡΙΑ» με δ.τ. «ΑΙΟΛΙΚΟ ΠΑΡΚΟ ΓΟΥΡΛΕΣ Α.Ε. .» για την ενίσχυσή του με τα κίνητρα της επιχορήγησης και της φορολογικής απαλλαγής "@el.
 <http://legislation.di.uoa.gr/law/2014/4271/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
@@ -35,6 +36,9 @@
 <http://legislation.di.uoa.gr/law/2014/4271/article/1/paragraph/1/passage/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/1/paragraph/1/passage/8>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/1/paragraph/1/passage/8> <http://legislation.di.uoa.gr/ontology/text> ".» τικά Σχέδια των Γενικών Επενδυτικών Σχεδίων του άρθρου 13 του ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4271/article/1/paragraph/1/passage/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/1/paragraph/1/passage/9>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/1/paragraph/1/passage/9> <http://legislation.di.uoa.gr/ontology/text> "3908/2011 (1η Περίοδος 2012), όπως ισχύει, για την ενίσχυσή του με το κίνητρο της φορολογικής απαλλαγής» (Β΄1631) και περιλαμβάνεται στο τέλος του παρόντος ως Παράρτημα 1. "@el.
 <http://legislation.di.uoa.gr/law/2014/4271/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4271> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/2>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -78,6 +82,9 @@
 <http://legislation.di.uoa.gr/law/2014/4271/article/2/paragraph/1/passage/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/2/paragraph/1/passage/13>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/2/paragraph/1/passage/13> <http://legislation.di.uoa.gr/ontology/text> ".» Μεγάλα Επενδυτικά Σχέδια των Γενικών Επενδυτικών Σχεδίων του άρθρου 13 του ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4271/article/2/paragraph/1/passage/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/2/paragraph/1/passage/14>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/2/paragraph/1/passage/14> <http://legislation.di.uoa.gr/ontology/text> "3908/2011 (1η Περίοδος 2014), όπως ισχύει, για την ενίσχυσή του με το κίνητρο της επιχορήγησης και το κίνητρο της φορολογικής απαλλαγής» (Β΄1632) και περιλαμβάνεται στο τέλος του παρόντος ως Παράρτημα 3. "@el.
 <http://legislation.di.uoa.gr/law/2014/4271/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4271> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/3>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -112,6 +119,9 @@
 <http://legislation.di.uoa.gr/law/2014/4271/article/3/paragraph/1/passage/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/3/paragraph/1/passage/10>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/3/paragraph/1/passage/10> <http://legislation.di.uoa.gr/ontology/text> "3908/2011 (1η Περίοδος 2014), όπως ισχύει, για την ενίσχυσή του με το κίνητρο της επιχορήγησης και το κίνητρο της φορολογικής απαλλαγής» (Β΄1632) και περιλαμβάνεται στο τέλος του παρόντος ως Παράρτημα 4. "@el.
+<http://legislation.di.uoa.gr/law/2014/4271/article/3/paragraph/1/passage/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/3/paragraph/1/passage/11>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/3/paragraph/1/passage/11> <http://legislation.di.uoa.gr/ontology/text> " 4538 "@el.
 <http://legislation.di.uoa.gr/law/2014/4271/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4271> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/4>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -131,6 +141,9 @@
 <http://legislation.di.uoa.gr/law/2014/4271/article/4/paragraph/1/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/4/paragraph/1/passage/5>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/4/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "26082/ΥΠΕ/6/00005/Μ/ Ν. 3908/2011 /28.5.2014 απόφαση του Υφυπουργού Ανάπτυξης και Ανταγωνιστικότητας «Υπαγωγή επενδυτικού σχεδίου της επιχείρησης «VECTOR ΑΙΟΛΙΚΗ ΝΟΤΙΑΣ ΔΕΣΦΙΝΑΣ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ» στην κατηγορία Μεγάλα Επενδυτικά Σχέδια των Γενικών Επενδυτικών Σχεδίων του άρθρου 13 του ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4271/article/4/paragraph/1/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/4/paragraph/1/passage/6>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/4/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> "3908/2011 (1η Περίοδος 2014), όπως ισχύει, για την ενίσχυσή του με το κίνητρο της επιχορήγησης και το κίνητρο της φορολογικής απαλλαγής» (Β΄1633) και περιλαμβάνεται στο τέλος του παρόντος ως Παράρτημα 5. "@el.
 <http://legislation.di.uoa.gr/law/2014/4271/article/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4271> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/5>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -159,6 +172,9 @@
 <http://legislation.di.uoa.gr/law/2014/4271/article/5/paragraph/1/passage/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/5/paragraph/1/passage/8>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/5/paragraph/1/passage/8> <http://legislation.di.uoa.gr/ontology/text> "«KALON OROS AEOLIKA PARKA SA» στην κατηγορία Μεγάλα Επενδυτικά Σχέδια των Γενικών Επενδυτικών Σχεδίων του άρθρου 13 του ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4271/article/5/paragraph/1/passage/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/5/paragraph/1/passage/9>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/5/paragraph/1/passage/9> <http://legislation.di.uoa.gr/ontology/text> "3908/2011 (1η Περίοδος 2014), όπως ισχύει, για την ενίσχυσή του με το κίνητρο της επιχορήγησης και το κίνητρο της φορολογικής απαλλαγής» (Β΄1633) και περιλαμβάνεται στο τέλος του παρόντος ως Παράρτημα 6. "@el.
 <http://legislation.di.uoa.gr/law/2014/4271/article/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4271> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/6>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -193,6 +209,9 @@
 <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/1/passage/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/1/passage/10>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/1/passage/10> <http://legislation.di.uoa.gr/ontology/text> "4 του άρθρου 6 του π.δ. "@el.
+<http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/1/passage/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/1/passage/11>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/1/passage/11> <http://legislation.di.uoa.gr/ontology/text> "33/2011 (Α΄ 83), μετά την κατά τα ως άνω έκδοση και δημοσίευση του οριστικού πίνακα κατάταξης."@el.
 <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/2>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -210,14 +229,21 @@
 <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/2/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/2/passage/5>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/2/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Κατά τα λοιπά, ισχύουν οι διατάξεις του ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/2/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/2/passage/6>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/2/passage/6> <http://legislation.di.uoa.gr/ontology/text> "3908/2011 και των κατ’ εξουσιοδότηση αυτού εκδοθεισών κανονιστικών πράξεων."@el.
 <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/3>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/3/passage/1>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η δημοσίευση του οριστικού πίνακα κατάταξης της παραγράφου 1 ολοκληρώνεται υποχρεωτικά μέχρι 30.6.2014. "@el.
+<http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/3/passage/2>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/6/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Σε κάθε περίπτωση, από 1.7.2014, η χορήγηση δικαιώματος λήψης ενίσχυσης τελεί υπό την αίρεση της συμμόρφωσης με τις ισχύουσες διατάξεις του ενωσιακού δικαίου κρατικών ενισχύσεων κατά το χρόνο αυτό."@el.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4271> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/7>.
-<http://legislation.di.uoa.gr/law/2014/4271/article/7> <http://purl.org/dc/terms/title> "«Ευρωπαϊκά Ενεργειακά Έργα Κοινού Ενδιαφέροντος Projects of Common Interest (PCI)» που αφορούν στην Ελλάδα".<http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/7> <http://purl.org/dc/terms/title> "«Ευρωπαϊκά Ενεργειακά Έργα Κοινού Ενδιαφέροντος Projects of Common Interest (PCI)» που αφορούν στην Ελλάδα".
+<http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/1>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/1/passage/1>.
@@ -225,6 +251,9 @@
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "1391/2013 της Επιτροπής της 14ης Οκτωβρίου 2013, και στα οποία φορέας της επένδυσης είναι ιδιώτης επενδυτής, αναγνωρίζονται ρητά ως Ιδιωτικές Στρατηγικές Επενδύσεις του άρθρου 1 του ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "3894/2010 (Α΄204), χωρίς άλλη διατύπωση ή διαδικασία."@el.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/2>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -233,6 +262,9 @@
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/2/passage/2>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "1391/2013 της Επιτροπής της 14ης Οκτωβρίου 2013, στα οποία κύριος του έργου είναι το Δημόσιο ή φορέας του ευρύτερου δημόσιου τομέα, αναγνωρίζονται ρητά ως Δημόσιες Στρατηγικές Επενδύσεις του άρθρου 1 του ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/2/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/2/passage/3>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/2/passage/3> <http://legislation.di.uoa.gr/ontology/text> "3894/2010, χωρίς άλλη διατύπωση ή διαδικασία."@el.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/3>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -241,19 +273,26 @@
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/3/passage/2>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "347/2013 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 17ης Απριλίου 2013. "@el.
+<http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/3/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/3/passage/3>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/3/passage/3> <http://legislation.di.uoa.gr/ontology/text> "  "@el.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/4>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/4/passage/1>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι φορείς των στρατηγικών επενδύσεων των παραγράφων 1 και 2 του παρόντος άρθρου καταθέτουν στη Γενική Διεύθυνση Στρατηγικών Επενδύσεων πλήρη φάκελο των δικαιολογητικών που απαιτούνται κατά το ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/4/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/4/passage/2>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/4/passage/2> <http://legislation.di.uoa.gr/ontology/text> "3894/2010 και την κείμενη νομοθεσία για την έγκριση και έκδοση των σχετικών αδειών."@el.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/5>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/5/passage/1>.
-<http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Mε απόφαση του Υπουργού Ανάπτυξης και Ανταγωνιστικότητας μπορεί να ορίζονται λεπτομέρειες εφαρμογής του παρόντος άρθρου και, ιδίως, ζητήματα που αφορούν στη διευκόλυνση και το συντονισμό της διαδικασίας χορήγησης αδειών για τις στρατηγικές επενδύσεις των παραγράφων 1 και 2 αυτού. "@el.
+<http://legislation.di.uoa.gr/law/2014/4271/article/7/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Mε απόφαση του Υπουργού Ανάπτυξης και Ανταγωνιστικότητας μπορεί να ορίζονται λεπτομέρειες εφαρμογής του παρόντος άρθρου και, ιδίως, ζητήματα που αφορούν στη διευκόλυνση και το συντονισμό της διαδικασίας χορήγησης αδειών για τις στρατηγικές επενδύσεις των παραγράφων 1 και 2 αυτού."@el.
 <http://legislation.di.uoa.gr/law/2014/4271/article/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4271> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/8>.
-<http://legislation.di.uoa.gr/law/2014/4271/article/8> <http://purl.org/dc/terms/title> "Εκπαίδευση λογιστών φοροτεχνικών".<http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/8> <http://purl.org/dc/terms/title> "Εκπαίδευση λογιστών φοροτεχνικών".
+<http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/passage/1>.
@@ -261,13 +300,19 @@
 <http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "7 του άρθρου 4 τουπ.δ. "@el.
-<http://legislation.di.uoa.gr/law/2014/4271>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <http://legislation.di.uoa.gr/law/2014/4271/article/8/modification/1>.
-<http://legislation.di.uoa.gr/law/2014/4271>  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <http://legislation.di.uoa.gr/law/2014/4271/article/8/modification/1>.
-<http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/modification/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
-<http://legislation.di.uoa.gr/law/2014/4271/article/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/modification/1>.
-<http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/modification/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
-<http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/modification/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/modification/1/passage/1>.
-<http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/modification/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Με απόφαση της Κεντρικής Διοίκησης του Ο.Ε.Ε. καθορίζονται η διαδικασία, ο χρόνος, ο τρόπος και ο τόπος παροχής της αναγκαίας εκπαίδευσης στους λογιστές φοροτεχνικούς, η θεματολογία και η διάρκεια αυτής, το ύψος της απαιτούμενης δαπάνης, καθώς και κάθε άλλο θέμα που αφορά στην εφαρμογή της παρούσας. "@el.
+<http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "340/1998 (Α΄ 228) προστίθεται εδάφιο ως εξής:"@el.
+<http://legislation.di.uoa.gr/law/2014/4271>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/modification/1>.
+<http://legislation.di.uoa.gr/law/2014/4271>  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/modification/1>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/passage/3/modification/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/passage/3/modification/1>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/passage/3/modification/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/passage/3/modification/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/passage/3/modification/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/passage/3/modification/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Με απόφαση της Κεντρικής Διοίκησης του Ο.Ε.Ε. καθορίζονται η διαδικασία, ο χρόνος, ο τρόπος και ο τόπος παροχής της αναγκαίας εκπαίδευσης στους λογιστές φοροτεχνικούς, η θεματολογία και η διάρκεια αυτής, το ύψος της απαιτούμενης δαπάνης, καθώς και κάθε άλλο θέμα που αφορά στην εφαρμογή της παρούσας. "@el.
+<http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/passage/4>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/8/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> " "@el.
 <http://legislation.di.uoa.gr/law/2014/4271/article/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4271> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/9>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/9/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -299,20 +344,29 @@
 <http://legislation.di.uoa.gr/law/2014/4271/article/9/paragraph/1/passage/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/9/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/9/paragraph/1/passage/9>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/9/paragraph/1/passage/9> <http://legislation.di.uoa.gr/ontology/text> "1 του άρθρου 13 του ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4271/article/9/paragraph/1/passage/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/9/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/9/paragraph/1/passage/10>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/9/paragraph/1/passage/10> <http://legislation.di.uoa.gr/ontology/text> "4237/2014. "@el.
 <http://legislation.di.uoa.gr/law/2014/4271/article/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4271> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/10>.
-<http://legislation.di.uoa.gr/law/2014/4271/article/10> <http://purl.org/dc/terms/title> "Κοινωφελές Ίδρυμα «ΕΡΡΙΚΟΣ ΝΤΥΝΑΝ»".<http://legislation.di.uoa.gr/law/2014/4271/article/10/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/10> <http://purl.org/dc/terms/title> "Κοινωφελές Ίδρυμα «ΕΡΡΙΚΟΣ ΝΤΥΝΑΝ»".
+<http://legislation.di.uoa.gr/law/2014/4271/article/10/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/10/paragraph/1>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/10/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/10/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/10/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/10/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Χορηγείται στο κοινωφελές, μη κερδοσκοπικό ίδρυ-μα με την επωνυμία «ΚΟΙΝΩΦΕΛΕΣ ΙΔΡΥΜΑ ΕΡΡΙΚΟΣΝΤΥΝΑΝ» ασφαλιστική ενημερότητα μέχρι 30.9.2014χωρίς παρακράτηση, κατά παρέκκλιση των ισχυουσώνδιατάξεων. "@el.
 <http://legislation.di.uoa.gr/law/2014/4271/article/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4271> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/11>.
-<http://legislation.di.uoa.gr/law/2014/4271/article/11> <http://purl.org/dc/terms/title> "Έναρξη ισχύος".<http://legislation.di.uoa.gr/law/2014/4271/article/11/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/11> <http://purl.org/dc/terms/title> "Έναρξη ισχύος".
+<http://legislation.di.uoa.gr/law/2014/4271/article/11/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/11/paragraph/1>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/11/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/11/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/11/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/law/2014/4271/article/11/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσί-ευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός ανορίζεται διαφορετικά στις επιμέρους διατάξεις. "@el.
+<http://legislation.di.uoa.gr/law/2014/4271/article/11/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/11/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4271/article/11/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2014/4271/article/11/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "4540   4542   4544   4546   4548   4550   4552   4554   4556   4558   4560   4562   4564   4566   4568   4570   4572   4574   4576   4578   4580   4582   4584   4586   4588   4590   4592   4594   4596   4598   4600   4602   4604   4606   4608   4610   4612   4614   4616   4618   4620   4622   4624   4626   4628   4630   4632   4634   4636   4638   4640   4642   4644   4646   4648   4650   4652   4654   4656   4658   4660   4662   4664   4666   4668   4670   4672   4674   4676   4678   4680   4682   4684   4686   4688   4690   4692   4694   4696   4698   4700Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεωςκαι την εκτέλεσή του ως νόμου του Κράτους. "@el.
 <http://legislation.di.uoa.gr/law/2014/4271> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/amc/2014/8> <http://purl.org/dc/terms/created> "2014-03-11"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/amc/2014/8> <http://legislation.di.uoa.gr/ontology/legislationID> "8"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/amc/2014/8> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/amc/2014/8> <http://purl.org/dc/terms/title> "Ειδική Πράξη του Υπουργικού Συμβουλίου για την υπαγωγή στις διατάξεις του άρθρου 7Α του Κώδικα Αναγκαστικών Απαλλοτριώσεων Ακινήτων, των αναγκαίων απαλλοτριώσεων ακινήτων για την κατασκευή των έργων: (α) Οδικός Άξονας Θεσσαλονίκης – Κιλκίς – Δοϊράνης, Τμήμα από Α/Κ Ασσήρου έως Α/Κ Ν. Σάντας, (β) Κατασκευή Ανισόπεδου Κόμβου Κ16 στη συμβολή ΠΑΘΕ και Εσωτερικής Περιφερειακής Οδού Θεσσαλονίκης, (γ) Οδικός Άξονας Θεσσαλονίκης – Κιλκίς – Δοϊράνης, Τμήμα Α/Κ Μαυρονερίου – Είσοδος Κιλκίς, (δ) Περιφερειακή Οδός Κατερίνης.  "@el.
 <http://legislation.di.uoa.gr/amc/2014/8/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/amc/2014/8/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Την παρ. 4 του άρθρου 17 του Συντάγματος, "@el.
@@ -55,3 +56,4 @@
 <http://legislation.di.uoa.gr/amc/2014/8> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

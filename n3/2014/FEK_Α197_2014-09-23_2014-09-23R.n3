@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/123> <http://purl.org/dc/terms/created> "2014-09-23"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/123> <http://legislation.di.uoa.gr/ontology/legislationID> "123"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/123> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/123> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/123/2014-09-23>.
 <http://legislation.di.uoa.gr/pd/2014/123> <http://purl.org/dc/terms/title> "Τροποποίηση του π.δ/τος 156/2004 Περί κανονισμού στολής υπηρεσίας των μελών της Ολομέλειας του Ελεγκτικού Συνεδρίου (Α΄ 125).  "@el.
 <http://legislation.di.uoa.gr/pd/2014/123/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
@@ -25,10 +26,14 @@
 <http://legislation.di.uoa.gr/pd/2014/123/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/123/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/123/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/123/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/123/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/123/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στο άρθρο 2 του π.δ/τος 156/2004 προστίθεται νέα παράγραφος με αριθμό 4 με το εξής περιεχόμενο: . "@el.
+<http://legislation.di.uoa.gr/pd/2014/123/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στο άρθρο 2 του π.δ/τος 156/2004 προστίθεται νέα παράγραφος με αριθμό 4 με το εξής περιεχόμενο. "@el.
+<http://legislation.di.uoa.gr/pd/2014/123/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/123/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/123/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/123/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> " . "@el.
 <http://legislation.di.uoa.gr/pd/2014/123/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/123> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/123/article/2>.
-<http://legislation.di.uoa.gr/pd/2014/123/article/2> <http://purl.org/dc/terms/title> "Έναρξη ισχύος".<http://legislation.di.uoa.gr/pd/2014/123/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/123/article/2> <http://purl.org/dc/terms/title> "Έναρξη ισχύος".
+<http://legislation.di.uoa.gr/pd/2014/123/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/123/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/123/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/123/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/123/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/123/article/2/paragraph/1/passage/1>.
@@ -36,3 +41,4 @@
 <http://legislation.di.uoa.gr/pd/2014/123> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

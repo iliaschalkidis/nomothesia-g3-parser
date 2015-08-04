@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/85> <http://purl.org/dc/terms/created> "2014-06-05"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/85> <http://legislation.di.uoa.gr/ontology/legislationID> "85"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/85> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/85> <http://purl.org/dc/terms/title> "Συμμετοχή της Επιτροπής Κεφαλαιαγοράς ΝΠΔΔ στις δαπάνες λειτουργίας του Ελεγκτικού Συνεδρίου για την κατ’ εξαίρεση διενέργεια κατασταλτικού ελέγχου στην έδρα της.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/85/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/85/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) του άρθρου 55 του Κώδικα Νόμων για το Ελεγκτικό Συνέδριο, ο οποίος κυρώθηκε με το άρθρο πρώτο ν. 4129/2013 (Α΄ 52). β) του άρθρου 90 του π.δ. 63/2005 «Κωδικοποίηση της Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα» (Α΄ 98). γ) του άρθρου 76 του ν. 1969/1991 (Α΄ 167). "@el.
@@ -33,7 +34,8 @@
 <http://legislation.di.uoa.gr/pd/2014/85/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το κόστος των λειτουργικών εξόδων του Ελεγκτικού Συνεδρίου για την κατ’ εξαίρεση διενέργεια κατασταλτικού ελέγχου από το Ελεγκτικό Συνέδριο κατά τα προβλεπόμενα από τις σχετικές διατάξεις, στην έδρα της Επιτροπής Κεφαλαιαγοράς, για την οικονομική διαχειριστική χρήση των ετών 2010 και 2011, βαρύνει εξ ολοκλήρου τον προϋπολογισμό της Επιτροπής Κεφαλαιαγοράς. "@el.
 <http://legislation.di.uoa.gr/pd/2014/85/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/85> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/85/article/2>.
-<http://legislation.di.uoa.gr/pd/2014/85/article/2> <http://purl.org/dc/terms/title> "Έναρξη ισχύος".<http://legislation.di.uoa.gr/pd/2014/85/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/85/article/2> <http://purl.org/dc/terms/title> "Έναρξη ισχύος".
+<http://legislation.di.uoa.gr/pd/2014/85/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/85/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/85/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/85/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/85/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/85/article/2/paragraph/1/passage/1>.
@@ -41,6 +43,7 @@
 <http://legislation.di.uoa.gr/pd/2014/85> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/86> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/130>.
 <http://legislation.di.uoa.gr/gazette/a/2014/130> <http://purl.org/dc/terms/title> "Α/2014/130".
@@ -48,6 +51,7 @@
 <http://legislation.di.uoa.gr/pd/2014/86> <http://purl.org/dc/terms/created> "2014-06-05"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/86> <http://legislation.di.uoa.gr/ontology/legislationID> "86"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/86> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/86> <http://purl.org/dc/terms/title> "Περί της προβολής της νήσου Μήλου ως Ιεράς Νήσου.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/86/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/86/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) Των παραγράφων 3 και 2 του άρθρου 30 του ν. 3801/2009 «Ρυθμίσεις θεμάτων προσωπικού με σύμβαση εργασίας ιδιωτικού δικαίου αορίστου χρόνου και άλλες διατάξεις οργάνωσης και λειτουργίας της Δημόσιας Διοίκησης» (Α΄ 163). β) Του άρθρου 1 του α.ν. 198/1967 «Περί τρόπου καθιερώσεως και τελέσεως δημοσίων εορτών και τελετών και περί αντικαταστάσεως και καταργήσεως διατάξεων τίνων του α.ν. 447/1937 “περί τρόπου απονομής σεβασμού εις την Εθνικήν Σημαίαν και γενικώς τα Εθνικά Σύμβολα”» (Α΄ 215). γ) Του άρθρου μόνου του π.δ/τος 555/1977 «Περί βελτιώσεως διαδικασιών τίνων κατά την έκδοσιν διοικητικών πράξεων επί αντικειμένων αρμοδιότητος Υπουργείων Εξωτερικών, Εθνικής Αμύνης, Εσωτερικών και Εθνικής Παιδείας και Θρησκευμάτων» (Α΄ 184). δ) Του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα, ο οποίος κυρώθηκε με το άρθρο πρώτο του π.δ. 63/2005 «Κωδικοποίηση της νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα» (Α΄ 98). ε) Του π.δ. 65/2011 «Διάσπαση του Υπουργείου Εσωτερικών, Αποκέντρωσης και Ηλεκτρονικής Διακυβέρνησης στα Υπουργεία α) Εσωτερικών και β) .... .» "@el.
@@ -65,6 +69,9 @@
 <http://legislation.di.uoa.gr/pd/2014/86/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/86/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/86/article/1/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/86/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι αρμόδιοι φορείς τοπικής αυτοδιοίκησης πρώτου και δευτέρου βαθμού καθώς και η Ιερά Μητρόπολη Σύρου, αναλαμβάνουν κάθε δραστηριότητα και πρωτοβουλία, που περιλαμβάνεται στην αρμοδιότητά τους, αναπτύσσουν στενή συνεργασία μεταξύ τους και υποβάλλουν αιτήματα προς τα αρμόδια κεντρικά υπουργεία και υπηρεσίες για την υλοποίηση των σκοπών που ειδικότερα προβλέπονται στην παρ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/86/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/86/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/86/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/86/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "2 του άρθρου 30 του ν. 3801/2009, "@el.
 <http://legislation.di.uoa.gr/pd/2014/86/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/86> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/86/article/2>.
 <http://legislation.di.uoa.gr/pd/2014/86/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -72,6 +79,9 @@
 <http://legislation.di.uoa.gr/pd/2014/86/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/86/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/86/article/2/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/86/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι φορείς του προηγουμένου άρθρου α) μεριμνούν με κάθε πρόσφορο τρόπο για την ανάδειξη του ιδιαίτερου θρησκευτικού χαρακτήρα της νήσου και την προστασία των ιερών χώρων, των κειμηλίων και των θησαυρών που βρίσκονται σε αυτούς και ιδιαίτερα του μοναδικού στην χώρα ταφικού μνημείου των πρωτοχριστιανικών κατακομβών, β) μεριμνούν και συνεργάζονται με τις αρμόδιες κρατικές υπηρεσίες για την αποτροπή, ιδίως στην περιοχή των Κατακομβών, χρήσεων γης ή εκμετάλλευσης ή άσκησης επαγγελματικής δραστηριότητας που παραβλάπτει ή διαταράσσει με οποιονδήποτε τρόπο τον αρχαιολογικό και ιερό χαρακτήρα των μνημείων, γ) αναλαμβάνουν, ιδίως ο οικείος Δήμος, πρωτοβουλίες για την καθιέρωση επίσημης εορτής της νήσου Μήλου, με πιο ενδεδειγμένη την ημέρα που εορτάζεται η Κυριακή των Αγίων Πάντων, δ) συμβάλλουν στην εφαρμογή των ισχυουσών διεθνών συμβάσεων για την πολιτιστική κληρονομιά και ιδιαίτερα της συμβάσεως για την Προστασία της Αρχιτεκτονικής Κληρονομιάς της Ευρώπης, που υπογράφηκε στην Γρανάδα το 1985 και κυρώθηκε με τον ν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/86/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/86/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/86/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/86/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "2039/1992 (ΦΕΚ Α΄ 61) για την προστασία της περιοχής αυτής ως μνημείου, τόπου και αρχιτεκτονικού συνόλου, ε) καταρτίζουν και αναλαμβάνουν προγράμματα, δράσεις και διαφημιστικές εκστρατείες, ιδιαίτερα σε συνεργασία με το οικείο Υπουργείο Πολιτισμού, για την αξιοποίηση και προβολή στην Ελλάδα και το εξωτερικό των ιερών χώρων και μνημείων και των ιερών κειμηλίων και θησαυρών της νήσου, ώστε να αναδειχθεί αυτή ως παγκόσμιο προσκυνηματικό κέντρο και εστία διεθνούς πνευματικής ακτινοβολίας. "@el.
 <http://legislation.di.uoa.gr/pd/2014/86/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/86> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/86/article/3>.
 <http://legislation.di.uoa.gr/pd/2014/86/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -79,6 +89,10 @@
 <http://legislation.di.uoa.gr/pd/2014/86/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/86/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/86/article/3/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/86/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. "@el.
+<http://legislation.di.uoa.gr/pd/2014/86/article/3/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/86/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/86/article/3/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/86/article/3/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Εσωτερικών αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος. "@el.
 <http://legislation.di.uoa.gr/pd/2014/86> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

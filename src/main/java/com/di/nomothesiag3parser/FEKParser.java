@@ -448,15 +448,17 @@ public class FEKParser {
                       }
                   }
                   else{
-                    writer2.println("<"+baseURI+"/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.");
-                    writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/article/1>.");
+                    String[] parts = Paragraphs[0].split("\n",2);
+                    Paragraphs[0] = parts[1];
+                    writer2.println("<"+baseURI+"/article/"+parts[0].split(" ")[1]+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.");
+                    writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/article/"+parts[0].split(" ")[1]+">.");
                       if(!Paragraphs[0].endsWith(".")&&!Paragraphs[0].endsWith(":\n")&&!Paragraphs[0].endsWith(":")&& !Paragraphs[0].contains("εξής:")){
                           String[] title = Paragraphs[0].split("\n");
                           if(title.length >1){
                               writer2.println("<"+baseURI+"/article/1> <http://purl.org/dc/terms/title> \""+title[1].replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", "")+"\"@el.");
                           }
                       }
-                      baseURI+= "/article/1";
+                      baseURI+= "/article/"+parts[0].split(" ")[1];
                   }
                   if(Paragraphs[0].endsWith(".")||Paragraphs[0].endsWith(":\n")&&!Paragraphs[0].endsWith(":")&& !Paragraphs[0].contains("εξής:")){
                       top = 0;
@@ -486,42 +488,14 @@ public class FEKParser {
                           }
                           else{
                               String paragraph = Paragraphs[z].replace("−\n", "").replaceAll("\\p{C}", " ");
-                              paragraph = paragraph.replace("\n", " ").replaceAll("\\p{C}", " ") + "\n";
                               parsePassages(paragraph);
-                              if((paragraph.contains("καταργείται:")||paragraph.contains("τα ακόλουθα εδάφια:")||paragraph.contains("ακόλουθο εδάφιο:")||paragraph.contains("τα εξής εδάφια:")||(paragraph.contains("εξής:")&&!paragraph.endsWith("».\n"))||(paragraph.contains("ακολούθως:")&&!paragraph.contains("ως ακολούθως: α"))||paragraph.endsWith(": "))&&!paragraph.contains("έχει ως εξής:")){
-                                  int replays=1;
-                                  String mods_count[] = paragraph.split("(καταργείται:|τα ακόλουθα εδάφια:|ακόλουθο εδάφιο:|εξής:|ακολούθως:)");
-                                  if(mods_count.length>2){
-                                      replays = mods_count.length-1;
-                                  }
-                                  for(int r=0; r<replays;r++){
-                                      if(!mods.isEmpty()&&(type==0)){
-                                        String mod = mods.get(0);
-                                        mods.remove(0);
-                                        writer2.println("<"+baseURI2+">  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <"+baseURI+"/modification/"+mod_count+">.");
-                                        writer2.println("<"+baseURI2+">  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <"+baseURI+"/modification/"+mod_count+">.");
-                                        writer2.println("<"+baseURI+"/modification/"+mod_count+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.");
-                                        writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/modification/"+mod_count+">.");
-                                        if(mod.contains("Άρθρο")||mod.contains("Άρθρο")){
-                                            baseURI+= "/modification/"+mod_count;
-                                            parseParagraphs(mod.replace("«", "").replace("»", "").replaceAll("\\p{C}", " "),1);
-                                        }
-                                        else {
-                                           writer2.println("<"+baseURI+"/modification/"+mod_count+"/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.");
-                                           writer2.println("<"+baseURI+"/modification/"+mod_count+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/modification/"+mod_count+"/passage/1>.");
-                                           writer2.println("<"+baseURI+"/modification/"+mod_count+"/passage/1> <http://legislation.di.uoa.gr/ontology/text> \""+mod.replace("«", "").replace("»", "").replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", "")+"\"@el.");
-                                        }
-                                        mod_count++;
-                                      }
-                                      else{
-                                        //writer.println("[MISSING!!!]");
-                                      }
-                                  }
-                              }
                           }
                       }
                       if(type==0){
                         baseURI = baseURI.split("/paragraph")[0];
+                      }
+                      else if(type==1){
+                        baseURI = baseURI.split("/paragraph")[0]+ "/paragraph"+baseURI.split("/paragraph")[1];
                       }
                       else{
                         baseURI = baseURI.split("/paragraph")[0]+ "/paragraph"+baseURI.split("/paragraph")[1];
@@ -532,10 +506,19 @@ public class FEKParser {
                   }
               }
               else{
-                  if(type==1){
-                    writer2.println("<"+baseURI+"/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.");
-                    writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/article/1>.");
-                    baseURI+= "/article/1";
+                  if(type>0){
+                    String[] parts = article.split("\n",2);
+                    if(parts.length>1){
+                        article = parts[1];
+                        writer2.println("<"+baseURI+"/article/"+parts[0].split(" ")[1]+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.");
+                        writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/article/"+parts[0].split(" ")[1]+">.");
+                        baseURI+= "/article/"+parts[0].split(" ")[1];
+                    }
+                    else{
+                        writer2.println("<"+baseURI+"/article/"+parts[0].split(" ")[1]+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.");
+                        writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/article/"+parts[0].split(" ")[1]+">.");
+                        baseURI+= "/article/"+parts[0].split(" ")[1];
+                    }
                   }
                   String[] titles = article.split("\n");
                   
@@ -557,8 +540,8 @@ public class FEKParser {
                       }
                       
                   }
-                  String paragraph = article.replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", " ");
-                  paragraph = paragraph.replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", " ") + "\n";
+                  String paragraph = article.replace("−\n", "").replace("−", "-").replaceAll("\\p{C}", " ");
+                  paragraph = paragraph.replace("−\n", "").replaceAll("\\p{C}", " ") + "\n";
                   writer2.println("<"+baseURI+"/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.");
                   writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/paragraph/1>.");
                   baseURI+="/paragraph/1";
@@ -566,37 +549,13 @@ public class FEKParser {
                   if(type==0){
                     baseURI = baseURI.split("/paragraph")[0];
                   }
+                  else if(type==1){
+                    baseURI = baseURI.split("/paragraph")[0]+ "/paragraph"+baseURI.split("/paragraph")[1];
+                  }
                   else{
                     baseURI = baseURI.split("/paragraph")[0]+ "/paragraph"+baseURI.split("/paragraph")[1];
                   }
-                  if((paragraph.contains("καταργείται:")||paragraph.contains("τα ακόλουθα εδάφια:")||paragraph.contains("ακόλουθο εδάφιο:")||paragraph.contains("τα εξής εδάφια:")||(paragraph.contains("εξής:")&&!paragraph.endsWith("».\n"))||(paragraph.contains("ακολούθως:")&&!paragraph.contains("ως ακολούθως: α"))||paragraph.endsWith(": "))&&!paragraph.contains("έχει ως εξής:")){
-                      int replays=1;
-                      String mods_count[] = paragraph.split("(καταργείται:|τα ακόλουθα εδάφια:|ακόλουθο εδάφιο:|εξής:|ακολούθως:)");
-                      if(mods_count.length>2){
-                          replays = mods_count.length-1;
-                      }
-                      for(int r=0; r<replays;r++){
-                          if(!mods.isEmpty()&&(type==0)){
-                            String mod = mods.get(0);
-                            mods.remove(0);
-                            writer2.println("<"+baseURI2+">  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <"+baseURI+"/modification/"+mod_count+">.");
-                            writer2.println("<"+baseURI2+">  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <"+baseURI+"/modification/"+mod_count+">.");
-                            writer2.println("<"+baseURI+"/paragraph/1/modification/"+mod_count+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.");
-                            writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/paragraph/1/modification/"+mod_count+">.");
-                            if(mod.contains("Άρθρο")||mod.contains("Άρθρο")){
-                                baseURI+= "/paragraph/1/modification/"+mod_count;
-                                parseParagraphs(mod.replace("«", "").replace("»", "").replaceAll("\\p{C}", " "),1);
-                            }
-                            else {
-                               writer2.println("<"+baseURI+"/paragraph/1/modification/"+mod_count+"/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.");
-                               writer2.println("<"+baseURI+"/paragraph/1/modification/"+mod_count+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/paragraph/1/modification/"+mod_count+"/passage/1>.");
-                               writer2.println("<"+baseURI+"/paragraph/1/modification/"+mod_count+"/passage/1> <http://legislation.di.uoa.gr/ontology/text> \""+mod.replace("«", "").replace("»", "").replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", " ")+"\"@el.");
-                            }
-                            mod_count++;
-                          }
-                      }
-                  }
-                  if(type==1){
+                  if(type>0){
                     baseURI = baseURI.split("/modification")[0];
                   }
               }
@@ -605,20 +564,79 @@ public class FEKParser {
     
     void parsePassages(String paragraph){
        
-      String[] passages = paragraph.split("\\. ");
+      String[] passages = paragraph.split("\\. |:");
       
       if(passages.length>1){
-          for(int i=0; i< passages.length-1; i++){
+          for(int i=0; i< passages.length; i++){
+              if(passages[i].endsWith("τα ακόλουθα εδάφια")||passages[i].endsWith("ακόλουθο εδάφιο")||passages[i].endsWith("τα εξής εδάφια")||passages[i].endsWith("εξής")||passages[i].contains("ακολούθως")){
+                  passages[i] += ":";
+              }
+              String passage = passages[i].replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", " ");
               writer2.println("<"+baseURI+"/passage/"+(i+1)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.");
               writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/passage/"+(i+1)+">.");
-              writer2.println("<"+baseURI+"/passage/"+(i+1)+"> <http://legislation.di.uoa.gr/ontology/text> \""+passages[i].replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", " ")+". \"@el.");
+              if(i==passages.length-1){
+                writer2.println("<"+baseURI+"/passage/"+(i+1)+"> <http://legislation.di.uoa.gr/ontology/text> \""+passage+"\"@el.");
+              }
+              else{
+                  if(passage.endsWith(":")){
+                    writer2.println("<"+baseURI+"/passage/"+(i+1)+"> <http://legislation.di.uoa.gr/ontology/text> \""+passage+"\"@el.");
+                  }
+                  else{
+                    writer2.println("<"+baseURI+"/passage/"+(i+1)+"> <http://legislation.di.uoa.gr/ontology/text> \""+passage+". \"@el.");
+                  }
+              }
+              if((passage.contains("καταργείται:")||passage.contains("τα ακόλουθα εδάφια:")||passage.contains("ακόλουθο εδάφιο:")||passage.contains("τα εξής εδάφια:")||(passage.contains("εξής:")&&!passage.endsWith("».\n"))||(passage.contains("ακολούθως:")&&!passage.contains("ως ακολούθως: α"))||passage.endsWith(": "))&&!passage.contains("έχει ως εξής:")){
+                  if(!mods.isEmpty()){
+                    String mod = mods.get(0);
+                    mods.remove(0);
+                    writer2.println("<"+baseURI2+">  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <"+baseURI+"/modification/"+mod_count+">.");
+                    writer2.println("<"+baseURI2+">  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <"+baseURI+"/modification/"+mod_count+">.");
+                    writer2.println("<"+baseURI+"/passage/"+(i+1)+"/modification/"+mod_count+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.");
+                    writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/passage/"+(i+1)+"/modification/"+mod_count+">.");
+                    if(mod.contains("Άρθρο")||mod.contains("Άρθρο")){
+                        baseURI+= "/passage/"+(i+1)+"/modification/"+mod_count;
+                        parseParagraphs(mod,1);
+                        baseURI = baseURI.split("/passage")[0];
+                    }
+                    else {
+                       writer2.println("<"+baseURI+"/passage/"+(i+1)+"/modification/"+mod_count+"/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.");
+                       writer2.println("<"+baseURI+"/passage/"+(i+1)+"/modification/"+mod_count+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/passage/"+(i+1)+"/modification/"+mod_count+"/passage/1>.");
+                       writer2.println("<"+baseURI+"/passage/"+(i+1)+"/modification/"+mod_count+"/passage/1> <http://legislation.di.uoa.gr/ontology/text> \""+mod.replace("«", "").replace("»", "").replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", " ")+"\"@el.");
+                    }
+                    mod_count++;
+                  }
+              }
           }
       }
       else{
+          String passage = paragraph.replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", " ");
           writer2.println("<"+baseURI+"/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.");
           writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/passage/1>.");
           writer2.println("<"+baseURI+"/passage/1> <http://legislation.di.uoa.gr/ontology/text> \""+paragraph.replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", " ")+"\"@el.");
+          if((passage.contains("καταργείται:")||passage.contains("τα ακόλουθα εδάφια:")||passage.contains("ακόλουθο εδάφιο:")||passage.contains("τα εξής εδάφια:")||(passage.contains("εξής:")&&!passage.endsWith("».\n"))||(passage.contains("ακολούθως:")&&!passage.contains("ως ακολούθως: α"))||passage.endsWith(": "))&&!passage.contains("έχει ως εξής:")){
+              if(!mods.isEmpty()){
+                String mod = mods.get(0);
+                mods.remove(0);
+                writer2.println("<"+baseURI2+">  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <"+baseURI+"/modification/"+mod_count+">.");
+                writer2.println("<"+baseURI2+">  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <"+baseURI+"/modification/"+mod_count+">.");
+                writer2.println("<"+baseURI+"/passage/1/modification/"+mod_count+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.");
+                writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/passage/1/modification/"+mod_count+">.");
+                if(mod.contains("Άρθρο")||mod.contains("Άρθρο")){
+                    baseURI+= "/passage/1/modification/"+mod_count;
+                    parseParagraphs(mod,1);
+                    baseURI = baseURI.split("/passage")[0];
+                }
+                else {
+                   writer2.println("<"+baseURI+"/passage/1/modification/"+mod_count+"/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.");
+                   writer2.println("<"+baseURI+"/passage/1/modification/"+mod_count+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/passage/1/modification/"+mod_count+"/passage/1>.");
+                   writer2.println("<"+baseURI+"/passage/1/modification/"+mod_count+"/passage/1> <http://legislation.di.uoa.gr/ontology/text> \""+mod.replace("«", "").replace("»", "").replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", " ")+"\"@el.");
+                }
+                mod_count++;
+              }
+              }      
       }
+      
+      
     }
         
         
@@ -664,8 +682,9 @@ public class FEKParser {
                 mods.remove(0);
                 mod_count++;
                 if(mod.contains("Άρθρο")||mod.contains("Άρθρο")){
-                    baseURI+= "/case/"+(k+1);
-                    parseParagraphs(mod.replace("«", "").replace("»", "").replaceAll("\\p{C}", " "),1);
+                    baseURI+= "/case/"+(k+1)+"/modification/"+mod_count;
+                    parseParagraphs(mod.replace("«", "").replace("»", "").replaceAll("\\p{C}", " "),2);
+                    baseURI = baseURI.split("/case")[0];
                 }
                 else {
                    writer2.println("<"+baseURI2+"/case/"+(k+1)+">  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <"+baseURI+"/case/"+(k+1)+"/modification/"+mod_count+">.");
@@ -697,8 +716,8 @@ public class FEKParser {
      * @throws java.lang.Exception
      */
     public static void main(String[] args) throws Exception {
-//        FEKParser fp = new FEKParser("2015","FEK_Α36_2015-03-30_2015-03-30R.pdf.txt");
-//        fp.readFile("2015","FEK_Α36_2015-03-30_2015-03-30R.pdf.txt");
+//        FEKParser fp = new FEKParser("2015","FEK_Α47_2015-05-11_2015-05-11R.pdf.txt");
+//        fp.readFile("2015","FEK_Α47_2015-05-11_2015-05-11R.pdf.txt");
 //        fp.parseLegalDocument();
         int size = 0;
         int ok = 0;

@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/law/2014/4288> <http://purl.org/dc/terms/created> "2014-09-24"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/law/2014/4288> <http://legislation.di.uoa.gr/ontology/legislationID> "4288"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/law/2014/4288> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/law/2014/4288> <http://purl.org/dc/terms/title> "Κύρωση του Πέμπτου Πρωτοκόλλου για τα Εκρηκτικά Κατάλοιπα Πολέμου στη Σύμβαση για απαγόρευση ή περιορισμό χρήσης Ορισμένων Συμβατικών Όπλων που μπορούν να θεωρηθούν ως εξαιρετικώς επιβλα- βή ή ως προκαλούντα αδιακρίτως αποτελέσματα. Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ "@el.
 <http://legislation.di.uoa.gr/law/2014/4288/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4288> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4288/article/1>.
@@ -16,6 +17,12 @@
 <http://legislation.di.uoa.gr/law/2014/4288/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4288/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4288/article/1/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/law/2014/4288/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "1 του Συντάγματος το Πέμπτο Πρωτόκολλο για τα Εκρηκτικά Κατάλοιπα Πολέμου στη Σύμβαση για απαγόρευση ή περιορισμό χρήσης Ορισμένων Συμβατικών Όπλων που μπορούν να θεωρηθούν ως εξαιρετικώς επιβλαβή ή ως προκαλούντα αδιακρίτως αποτελέσματα, που κυρώθηκε από την Ελλάδα με το ν. "@el.
+<http://legislation.di.uoa.gr/law/2014/4288/article/1/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4288/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4288/article/1/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/law/2014/4288/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "1979/1991 (Α΄ 186), το οποίο (Πρωτόκολλο) υιοθετήθηκε στη Συνάντηση των κρατών-μελών της Σύμβασης, στη Γενεύη, στις 28 Νοεμβρίου 2003, που σε πρωτότυπο στην αγγλική γλώσσα και σε μετάφραση στην ελληνική έχει ως εξής:"@el.
+<http://legislation.di.uoa.gr/law/2014/4288/article/1/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4288/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4288/article/1/paragraph/1/passage/4>.
+<http://legislation.di.uoa.gr/law/2014/4288/article/1/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "  6518     6520     6522     6524     6526     6528     6530     6532     6534     6536     6538     6540     6542     6544     6546     6548     6550     6552 "@el.
 <http://legislation.di.uoa.gr/law/2014/4288/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4288> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4288/article/2>.
 <http://legislation.di.uoa.gr/law/2014/4288/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -26,6 +33,10 @@
 <http://legislation.di.uoa.gr/law/2014/4288/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4288/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4288/article/2/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/law/2014/4288/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "1979/1991 (Α΄ 186). "@el.
+<http://legislation.di.uoa.gr/law/2014/4288/article/2/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4288/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4288/article/2/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/law/2014/4288/article/2/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως νόμου του Κράτους. "@el.
 <http://legislation.di.uoa.gr/law/2014/4288> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

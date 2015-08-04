@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/25> <http://purl.org/dc/terms/created> "2014-02-25"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/25> <http://legislation.di.uoa.gr/ontology/legislationID> "25"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/25> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/25> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/25/2014-02-25>.
 <http://legislation.di.uoa.gr/pd/2014/25> <http://purl.org/dc/terms/title> "Ηλεκτρονικό Αρχείο και Ψηφιοποίηση εγγράφων.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/25/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
@@ -54,26 +55,39 @@
 <http://legislation.di.uoa.gr/pd/2014/25> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/citation/15>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/25> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/1> <http://purl.org/dc/terms/title> "Ορισμοί".<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1> <http://purl.org/dc/terms/title> "Ορισμοί".
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Για τους σκοπούς του παρόντος Προεδρικού Διατάγματος ισχύουν οι σχετικοί ορισμοί του άρθρου 3 του Ν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "3979/2011 (Α΄ 138) «Για την ηλεκτρονική διακυβέρνηση και λοιπές διατάξεις» καθώς και οι ορισμοί, τα πρότυπα, τα δομικά στοιχεία και η διαδικασία έκδοσης των ηλεκτρονικών δημοσίων εγγράφων όπως αναφέρονται  746 στα άρθρα 1 και 3 αντίστοιχα της απόφασης του Υφυπουργού Διοικητικής Μεταρρύθμισης και Ηλεκτρονικής Διακυβέρνησης ΥΑΠ/Φ.40.4/3/1031 «Ρυθμίσεις για το Ηλεκτρονικό Δημόσιο Έγγραφο» και οι ορισμοί του άρθρου 1 της απόφασης του Υφυπουργού Διοικητικής Μεταρρύθμισης και Ηλεκτρονικής Διακυβέρνησης ΥΑΠ/ Φ40.4/1/989/10/4/2012 «Κύρωση Πλαισίου Παροχής Υπηρεσιών Ηλεκτρονικής Διακυβέρνησης» (Β΄ 1301) ."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Πρωτότυπο Ηλεκτρονικό Δημόσιο Έγγραφο: Κάθε Ηλεκτρονικό Δημόσιο Έγγραφο, το οποίο φέρει την προηγμένη ηλεκτρονική υπογραφή του οργάνου έκδοσης του εγγράφου. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Πρωτότυπο Ηλεκτρονικό Δημόσιο Έγγραφο. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Κάθε Ηλεκτρονικό Δημόσιο Έγγραφο, το οποίο φέρει την προηγμένη ηλεκτρονική υπογραφή του οργάνου έκδοσης του εγγράφου."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/3/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ηλεκτρονικός Φάκελος: Σύνολο εγγράφων και δεδομένων που έχουν συγκροτηθεί οργανικά είτε από τους χρήστες του ηλεκτρονικού αρχείου για την εποπτεία ή τη διαχείριση μίας υπόθεσης είτε με έλλογη ομαδοποίηση κατά την ταξινόμηση. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ηλεκτρονικός Φάκελος. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/3/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Σύνολο εγγράφων και δεδομένων που έχουν συγκροτηθεί οργανικά είτε από τους χρήστες του ηλεκτρονικού αρχείου για την εποπτεία ή τη διαχείριση μίας υπόθεσης είτε με έλλογη ομαδοποίηση κατά την ταξινόμηση."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/4/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μεταδεδομένα: Σύνολα δομημένης πληροφορίας που περιγράφουν και χαρακτηρίζουν ηλεκτρονικά έγγραφα, ηλεκτρονικούς φακέλους και ηλεκτρονικά αρχεία και επιτρέπουν την ταύτιση, διαχείριση, αναζήτηση, ανάκτηση, πρόσβαση και επιβεβαίωση της γνησιότητάς τους από ανθρώπους ή συστήματα. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μεταδεδομένα. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/4/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/4/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/4/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Σύνολα δομημένης πληροφορίας που περιγράφουν και χαρακτηρίζουν ηλεκτρονικά έγγραφα, ηλεκτρονικούς φακέλους και ηλεκτρονικά αρχεία και επιτρέπουν την ταύτιση, διαχείριση, αναζήτηση, ανάκτηση, πρόσβαση και επιβεβαίωση της γνησιότητάς τους από ανθρώπους ή συστήματα."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/5>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -86,15 +100,22 @@
 <http://legislation.di.uoa.gr/pd/2014/25/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/6>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/6/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Χρήστης: όποιος έχει δικαίωμα πρόσβασης στο πλαίσιο της άσκησης των καθηκόντων του στο σύστημα ηλεκτρονικής αρχειοθέτησης καλύπτοντας τις ελάχιστες απαιτήσεις αυθεντικοποίησης. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Χρήστης. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/6/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/6/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/6/passage/2> <http://legislation.di.uoa.gr/ontology/text> " όποιος έχει δικαίωμα πρόσβασης στο πλαίσιο της άσκησης των καθηκόντων του στο σύστημα ηλεκτρονικής αρχειοθέτησης καλύπτοντας τις ελάχιστες απαιτήσεις αυθεντικοποίησης."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/7>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/7/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ταξινόμηση: Η συστηματική ταύτιση και τοποθέτηση των ηλεκτρονικών φακέλων και εγγράφων σε κατηγορίες σύμφωνα με λογικά δομημένες συμβάσεις, μεθόδους και κανόνες που ορίζονται από τις λειτουργίες και αρμοδιότητες που εκτελούνται από τους φορείς. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ταξινόμηση. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/7/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/7/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/1/paragraph/7/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Η συστηματική ταύτιση και τοποθέτηση των ηλεκτρονικών φακέλων και εγγράφων σε κατηγορίες σύμφωνα με λογικά δομημένες συμβάσεις, μεθόδους και κανόνες που ορίζονται από τις λειτουργίες και αρμοδιότητες που εκτελούνται από τους φορείς."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/25> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/2>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/2> <http://purl.org/dc/terms/title> "Πεδίο Εφαρμογής".<http://legislation.di.uoa.gr/pd/2014/25/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/2> <http://purl.org/dc/terms/title> "Πεδίο Εφαρμογής".
+<http://legislation.di.uoa.gr/pd/2014/25/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/2/paragraph/1/passage/1>.
@@ -102,9 +123,13 @@
 <http://legislation.di.uoa.gr/pd/2014/25/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/2/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "3448/2006), την επεξεργασίακαι προστασία των δεδοµένων προσωπικού χαρακτήρα(Ν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/2/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/2/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/2/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "2472/1997) και τις διατάξεις του Εθνικού ΚανονισμούΑσφαλείας, ο οποίος κυρώθηκε με τη Φ.120/11/143542/Σ.2016/26.6.2008 απόφαση του Υπουργού Εθνικής Άμυνας(Β΄ 1369).ΚΕΦΑΛΑΙΟ Α΄ΔΗΜΙΟΥΡΓΙΑ ΚΑΙ ΤΗΡΗΣΗ ΗΛΕΚΤΡΟΝΙΚΩΝ ΑΡΧΕΙΩΝ "@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/25> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/3>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/3> <http://purl.org/dc/terms/title> "Βασικές αρχές ηλεκτρονικής αρχειοθέτησης εγγράφων".<http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/3> <http://purl.org/dc/terms/title> "Βασικές αρχές ηλεκτρονικής αρχειοθέτησης εγγράφων".
+<http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/1/passage/1>.
@@ -112,6 +137,9 @@
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "3 του άρθρου 5 του παρόντος. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Μια ομάδα ηλεκτρονικών εγγράφων όταν σχετίζεται με την ίδια οργανωτική δομή ή την ίδια λειτουργία ή την ίδια δραστηριότητα, δύναται να ταξινομείται στην ίδια θεματική ενότητα ή φάκελο υπόθεσης με τρόπο που θα διασφαλίζεται η χρονική αλληλουχία και συσχέτιση των εγγράφων, καθώς και η ακεραιότητα του περιεχομένου τους."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -120,11 +148,14 @@
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/2/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Εφόσον δεν έχει οριστεί κάτι διαφορετικό από τον αρμόδιο φορέα, οι χρήστες αποκτούν στο ηλεκτρονικό έγγραφο τα ίδια δικαιώματα πρόσβασης και ενεργειών που έχουν για τον ηλεκτρονικό φάκελο. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/2/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/2/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/2/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Τα ηλεκτρονικά έγγραφα εντός του ίδιου φακέλου δύναται να είναι διαβαθμισμένα με διαφορετικό βαθμό ασφάλειας και ως εκ τούτου η πρόσβαση σε αυτά να διέπεται από διαφορετικούς κανόνες."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/3/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι κανόνες διαχείρισης του παρόντος δύναται να εξειδικεύονται από τους φορείς για την κάλυψη ειδικών αναγκών αφού διασφαλιστεί η δυνατότητα ηλεκτρονικής ανταλλαγής εγγράφων και πληροφοριακών δεδομένων μεταξύ των φορέων που εμπίπτουν στο πεδίο εφαρμογής του παρόντος. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι κανόνες διαχείρισης του παρόντος δύναται να εξειδικεύονται από τους φορείς για την κάλυψη ειδικών αναγκών αφού διασφαλιστεί η δυνατότητα ηλεκτρονικής ανταλλαγής εγγράφων και πληροφοριακών δεδομένων μεταξύ των φορέων που εμπίπτουν στο πεδίο εφαρμογής του παρόντος."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -139,11 +170,14 @@
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/4/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/4/passage/4>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/4/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Τα ηλεκτρονικά έγγραφα που εμπεριέχουν ευαίσθητα δεδομένα με βάση το άρθρο 2 του Ν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/4/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/4/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/4/passage/5> <http://legislation.di.uoa.gr/ontology/text> "2472/ 1997 ή δικαιώματα διανοητικής ιδιοκτησίας χαρακτηρίζονται αντίστοιχα."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/5>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/5/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το περιεχόμενο, η δομή και τα μεταδεδομένα των ηλεκτρονικών εγγράφων από την στιγμή της αρχειοθέτησης τους έως την ολοκλήρωση της διαδικασίας της εκκαθάρισης τους παραμένουν αναλλοίωτα για όλη την περίοδο διατήρησης τους, όπως αυτή καθορίζεται για τα έντυπα έγγραφα. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το περιεχόμενο, η δομή και τα μεταδεδομένα των ηλεκτρονικών εγγράφων από την στιγμή της αρχειοθέτησης τους έως την ολοκλήρωση της διαδικασίας της εκκαθάρισης τους παραμένουν αναλλοίωτα για όλη την περίοδο διατήρησης τους, όπως αυτή καθορίζεται για τα έντυπα έγγραφα."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/6>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -152,6 +186,9 @@
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/6/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/6/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/6/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Τα ηλεκτρονικά έγγραφα αναγράφουν το χρόνο διατήρησης που προβλέπει το σχετικό θεσμικό πλαίσιο όπως περιγράφεται στις επιμέρους διατάξεις των φορέων για θέματα εκκαθαρίσεων. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/6/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/6/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/3/paragraph/6/passage/3> <http://legislation.di.uoa.gr/ontology/text> "  "@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/25> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/4>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -159,16 +196,19 @@
 <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ένα ή περισσότερα ηλεκτρονικά έγγραφα, με βάση την έννοια του άρθρου 3 του Ν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "3979/2011 (Α΄ 138) ή/και,"@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ένα ή περισσότερα σύνολα δεδομένων που είναι οργανωμένα μεταξύ τους και χρησιμοποιούνται για την έκδοση διοικητικών πράξεων ή/και, "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ένα ή περισσότερα σύνολα δεδομένων που είναι οργανωμένα μεταξύ τους και χρησιμοποιούνται για την έκδοση διοικητικών πράξεων ή/και,"@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/3/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Έναν ή περισσότερους ηλεκτρονικούς φακέλους που περιλαμβάνουν τα ηλεκτρονικά έγγραφα είτε αυθύπαρκτα είτε μέσα σε άλλους φακέλους υποθέσεων με κοινό νοηματικό ή λειτουργικό περιεχόμενο. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Έναν ή περισσότερους ηλεκτρονικούς φακέλους που περιλαμβάνουν τα ηλεκτρονικά έγγραφα είτε αυθύπαρκτα είτε μέσα σε άλλους φακέλους υποθέσεων με κοινό νοηματικό ή λειτουργικό περιεχόμενο."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -194,11 +234,15 @@
 <http://legislation.di.uoa.gr/pd/2014/25/article/4/paragraph/4/case/7> <http://legislation.di.uoa.gr/ontology/text> " Το σύστημα ηλεκτρονικής αρχειοθέτησης: αα) παρέχει τη δυνατότητα να αντιστοιχίζονται επίπεδα ασφαλείας με ομάδες χρηστών και χρήστες, ββ) εξασφαλίζει ότι οι χρήστες έχουν πρόσβαση σε ηλεκτρονικάέγγραφα και φακέλους με το προβλεπόμενο επίπεδοασφάλειας, γγ) εξασφαλίζει ότι ο χρήστης δεν ανακτάκαμία πληροφορία ή πρόσβαση μέσω αναζήτησης καιάλλων εργαλείων του συστήματος αρχειοθέτησης γιατο περιεχόμενο ηλεκτρονικών φακέλων, υποφακέλων,αρχείων, για τα οποία δεν έχει πρόσβαση δδ) εξασφαλίζει ότι οι υποφάκελοι έχουν το ίδιο επίπεδο ασφάλειας ήμεγαλύτερο από αυτό που έχει ο φάκελος που ανήκουν.στ) Το σύστημα ηλεκτρονικής αρχειοθέτησης δύναταινα επιτρέπει τον προσδιορισμό τμημάτων εγγράφων "@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/25> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/5>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/5> <http://purl.org/dc/terms/title> "Τήρηση ηλεκτρονικών εγγράφων και αρχείων".<http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/5> <http://purl.org/dc/terms/title> "Τήρηση ηλεκτρονικών εγγράφων και αρχείων".
+<http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ηλεκτρονικά έγγραφα τα οποία τηρούνται και αποθηκεύονται ως ηλεκτρονικά αρχεία ανεξαρτήτως του ειδικού πληροφοριακού συστήματος που χρησιμοποιείται από κάθε φορέα, δημιουργούνται ιδίως από : (α) εφαρμογές αυτοματισμού γραφείου, (β) εφαρμογές ηλεκτρονικού ταχυδρομείου που μεταφέρουν μηνύματα με ή χωρίς συνημμένα αρχεία, (γ) εφαρμογές, πληροφοριακά συστήματα ειδικού σκοπού και άλλα ηλεκτρονικά μέσα που χρησιμοποιούνται στο φορέα, (δ) σαρωτές. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ηλεκτρονικά έγγραφα τα οποία τηρούνται και αποθηκεύονται ως ηλεκτρονικά αρχεία ανεξαρτήτως του ειδικού πληροφοριακού συστήματος που χρησιμοποιείται από κάθε φορέα, δημιουργούνται ιδίως από . "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> " (α) εφαρμογές αυτοματισμού γραφείου, (β) εφαρμογές ηλεκτρονικού ταχυδρομείου που μεταφέρουν μηνύματα με ή χωρίς συνημμένα αρχεία, (γ) εφαρμογές, πληροφοριακά συστήματα ειδικού σκοπού και άλλα ηλεκτρονικά μέσα που χρησιμοποιούνται στο φορέα, (δ) σαρωτές."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -218,16 +262,22 @@
 <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/3/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/3/passage/3>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/3/passage/3> <http://legislation.di.uoa.gr/ontology/text> "15 της υπ’ αριθμ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/3/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/3/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/3/passage/4> <http://legislation.di.uoa.gr/ontology/text> "ΥΑΠ/Φ40.4/1/989/10/4/2012 Υπουργικής Απόφασης «Κύρωση Πλαισίου Παροχής Υπηρεσιών Ηλεκτρονικής Διακυβέρνησης» (Β΄ 1301)."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/4/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ευρετηρίαση των ηλεκτρονικών εγγράφων πραγματοποιείται με βάση τις κατηγορίες που αυτά έχουν ταξινομηθεί, τις λέξεις κλειδιά, τα μεταδεδομένα που έχουν προσδιοριστεί και παράγει πίνακα περιεχομένων για κάθε ηλεκτρονικό αρχείο. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ευρετηρίαση των ηλεκτρονικών εγγράφων πραγματοποιείται με βάση τις κατηγορίες που αυτά έχουν ταξινομηθεί, τις λέξεις κλειδιά, τα μεταδεδομένα που έχουν προσδιοριστεί και παράγει πίνακα περιεχομένων για κάθε ηλεκτρονικό αρχείο."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/5>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/5/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κάθε σύστημα ηλεκτρονικής αρχειοθέτησης διασφαλίζει ότι τα αρχεία παραμένουν ακέραια και αξιόπιστα σύμφωνα με τις διαδικασίες με τις οποίες έχουν παραχθεί για όλο το χρόνο διατήρησής τους, λαμβάνοντας μέριμνα για την πρόσβαση, προστασία και επαναχρησιμοποίηση των τεκμηρίων από απώλεια ή καταστροφή. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/5/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/5/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/5/passage/2> <http://legislation.di.uoa.gr/ontology/text> " 748 που περιέχουν προσωπικά δεδομένα και τη δημιουργία νέων εκδόσεων αυτών με ανωνυμοποίηση των προσωπικών δεδομένων."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/6>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -244,7 +294,8 @@
 <http://legislation.di.uoa.gr/pd/2014/25/article/5/paragraph/6/case/4> <http://legislation.di.uoa.gr/ontology/text> " Τα στοιχεία που καταγράφονται για τις ανωτέρω ενέργειες είναι ιδίως: α) το αντικείμενο πάνω στοοποίο εκτελείται η ενέργεια, β) ο χρήστης που εκτελείτην ενέργεια, γ) η ημερομηνία και ώρα που πραγματοποιήθηκε η ενέργεια, δ) οι αλλαγές που γίνονται στιςρυθμίσεις για τους ηλεκτρονικούς φακέλους, για τααρχεία και τα μεταδεδομένα τους, ε) οι αλλαγές πουγίνονται στις ρυθμίσεις για τους χρήστες, τις ομάδεςχρηστών και τους ρόλους, στ) οι αλλαγές που γίνονταιστο μηχανισμό παρακολούθησης όλων των ανωτέρω. Ταεν λόγω στοιχεία και αναφορές τηρούνται για όλο τοδιάστημα τήρησης του αρχείου μέχρι αυτό να καταστείανενεργό και να υποστεί τη διαδικασία εκκαθάρισηςσύμφωνα με τις κείμενες διατάξεις. "@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/25> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/6>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/6> <http://purl.org/dc/terms/title> "Αποθήκευση ηλεκτρονικών αρχείων".<http://legislation.di.uoa.gr/pd/2014/25/article/6/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/6> <http://purl.org/dc/terms/title> "Αποθήκευση ηλεκτρονικών αρχείων".
+<http://legislation.di.uoa.gr/pd/2014/25/article/6/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/6/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/6/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/6/paragraph/1/passage/1>.
@@ -302,7 +353,8 @@
 <http://legislation.di.uoa.gr/pd/2014/25/article/6/paragraph/4/case/3> <http://legislation.di.uoa.gr/ontology/text> " Το σύστημα ηλεκτρονικής αρχειοθέτησης παρέχειδυνατότητα για επικοινωνία με άλλα συστήματα αρχειοθέτησης και διαχείρισης ηλεκτρονικών εγγράφων ιδίωςγια θέματα αναζήτησης, μεταφοράς, επικύρωσης γνησιότητας κρυπτογραφημένων ή μη εγγράφων, ανάκτησηςφακέλων και περιεχομένων ανάλογα με τα δικαιώματαπρόσβασης και το επίπεδο ασφάλειας. "@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/25> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/7>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/7> <http://purl.org/dc/terms/title> "Ευρετηρίαση ηλεκτρονικών αρχείων".<http://legislation.di.uoa.gr/pd/2014/25/article/7/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/7> <http://purl.org/dc/terms/title> "Ευρετηρίαση ηλεκτρονικών αρχείων".
+<http://legislation.di.uoa.gr/pd/2014/25/article/7/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/7/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/7/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/7/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/7/paragraph/1/passage/1>.
@@ -338,7 +390,8 @@
 <http://legislation.di.uoa.gr/pd/2014/25/article/7/paragraph/2/case/5> <http://legislation.di.uoa.gr/ontology/text> " Τα μεταδεδομένα εξάγονται σε μορφή και σύνταξησύμφωνα με τα διεθνή σχήματα μεταδεδομένων καιγλώσσες κωδικοποίησης (π.χ. XML). "@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/25> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/8>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/8> <http://purl.org/dc/terms/title> "Αναζήτηση – Προβολή αποτελεσμάτων".<http://legislation.di.uoa.gr/pd/2014/25/article/8/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/8> <http://purl.org/dc/terms/title> "Αναζήτηση – Προβολή αποτελεσμάτων".
+<http://legislation.di.uoa.gr/pd/2014/25/article/8/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/8/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/8/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/8/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/8/paragraph/1/passage/1>.
@@ -368,11 +421,12 @@
 <http://legislation.di.uoa.gr/pd/2014/25/article/8/paragraph/2/case/4> <http://legislation.di.uoa.gr/ontology/text> " Το σύστημα αρχειοθέτησης διαθέτει τους αναγκαίους μηχανισμούς-εργαλεία προβολής και εκτύπωσηςόλων των τύπων ηλεκτρονικών αρχείων που υποστηρίζονται και ιδίως αυτών που αναφέρονται στο άρθρο7 του παρόντος.ΚΕΦΑΛΑΙΟ Β΄ ΨΗΦΙΟΠΟΙΗΣΗ ΕΓΓΡΑΦΩΝ "@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/25> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/9>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/9> <http://purl.org/dc/terms/title> "Διαδικασία Ψηφιοποίησης Έντυπων Εγγράφων".<http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/9> <http://purl.org/dc/terms/title> "Διαδικασία Ψηφιοποίησης Έντυπων Εγγράφων".
+<http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κάθε προϊστάμενος οργανικής μονάδας που τηρεί έντυπο αρχείο το οποίο πρόκειται να ψηφιοποιηθεί, ορίζει έναν ή περισσότερους υπαλλήλους από κάθε τμήμα για τη συλλογή των έντυπων εγγράφων που θα ψηφιοποιηθούν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κάθε προϊστάμενος οργανικής μονάδας που τηρεί έντυπο αρχείο το οποίο πρόκειται να ψηφιοποιηθεί, ορίζει έναν ή περισσότερους υπαλλήλους από κάθε τμήμα για τη συλλογή των έντυπων εγγράφων που θα ψηφιοποιηθούν."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -380,24 +434,33 @@
 <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι αρμόδιοι υπάλληλοι της παρ. "@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/2/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "1 του παρόντος άρθρου: α) επικαιροποιούν και ψηφιοποιούν τον έντυπο πίνακα περιεχομένων του φακέλου εφόσον αυτός υπάρχει, β) ψηφιοποιούν όλα τα έντυπα έγγραφα του φακέλου γ) υπογράφουν με προηγμένη ηλεκτρονική υπογραφή όσα ψηφιοποιημένα έγγραφα πρόκειται να εκκαθαριστούν και καταστραφούν σύμφωνα με το άρθρο 11 του παρόντος, εφόσον πληρούνται οι προδιαγραφές των άρθρων 3 και 4 της υπ’ αριθμ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "1 του παρόντος άρθρου. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/2/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/2/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/2/passage/3> <http://legislation.di.uoa.gr/ontology/text> " α) επικαιροποιούν και ψηφιοποιούν τον έντυπο πίνακα περιεχομένων του φακέλου εφόσον αυτός υπάρχει, β) ψηφιοποιούν όλα τα έντυπα έγγραφα του φακέλου γ) υπογράφουν με προηγμένη ηλεκτρονική υπογραφή όσα ψηφιοποιημένα έγγραφα πρόκειται να εκκαθαριστούν και καταστραφούν σύμφωνα με το άρθρο 11 του παρόντος, εφόσον πληρούνται οι προδιαγραφές των άρθρων 3 και 4 της υπ’ αριθμ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/2/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/2/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/2/passage/4> <http://legislation.di.uoa.gr/ontology/text> "ΥΑΠ/Φ.40.4/3/1031 απόφασης του Υφυπουργού Διοικητικής Μεταρρύθμισης και Ηλεκτρονικής Διακυβέρνησης «Ρυθμίσεις για το Ηλεκτρονικό Δημόσιο Έγγραφο» (Β΄ 1317), δ) αρχειοθετούν τα ψηφιοποιημένα έγγραφα προσθέτοντας τα απαραίτητα μεταδεδομένα με βάση το σύστημα ταξινόμησης τους, ε) ελέγχουν την πληρότητα του ψηφιοποιημένου ηλεκτρονικού φακέλου αντιπαραβάλλοντας τα ψηφιοποιημένα έγγραφα με τα έντυπα έγγραφα."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/3/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η διαδικασία του παρόντος άρθρου ολοκληρώνεται με την προσθήκη τυχόν αναφορών των ηλεκτρονικών εγγράφων σε αξιόπιστες πηγές διάθεσης τους όπως π.χ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/3/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/9/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "ο διαδικτυακός τόπος του Προγράμματος Διαύγεια ή αναφορές σε ηλεκτρονικές υπηρεσίες του Δημόσιου τομέα για τον έλεγχο της γνησιότητάς τους."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/25> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/10>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εκκαθάριση και Καταστροφή Έντυπων και Ηλεκτρονικών Εγγράφων. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εκκαθάριση και Καταστροφή Έντυπων και Ηλεκτρονικών Εγγράφων."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κάθε προϊστάμενος οργανικής μονάδας που τηρεί αρχείο το οποίο πρόκειται να εκκαθαριστεί ή και να καταστραφεί, ορίζει έναν ή περισσότερους υπαλλήλους από κάθε τμήμα για την καταγραφή του αρχειακού υλικού, σύμφωνα με τις κείμενες διατάξεις . "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κάθε προϊστάμενος οργανικής μονάδας που τηρεί αρχείο το οποίο πρόκειται να εκκαθαριστεί ή και να καταστραφεί, ορίζει έναν ή περισσότερους υπαλλήλους από κάθε τμήμα για την καταγραφή του αρχειακού υλικού, σύμφωνα με τις κείμενες διατάξεις ."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -406,21 +469,24 @@
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/3/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "1 του παρόντος άρθρου αναζητούν τα ψηφιοποιημένα έγγραφα στο ηλεκτρονικό αρχείο και επιβεβαιώνουν ότι αυτά είναι αυθεντικά, ακέραια, ευανάγνωστα, αξιόπιστα και εξαγώγιμα και φέρουν την ψηφιακή υπογραφή των υπαλλήλων που τα ψηφιοποίησαν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/3/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/3/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/3/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Ακολούθως συντάσσεται ηλεκτρονικός κατάλογος των προς καταστροφή έντυπων εγγράφων που έχουν ψηφιοποιηθεί, με τον τίτλο της εκδίδουσας αρχής, τα στοιχεία του φακέλου, τη χρονολογία και την περίληψη του θέματος, που αφορά το έγγραφο."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/4/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ακολούθως συντάσσεται πρωτόκολλο καταστροφής εντύπων εγγράφων το οποίο περιλαμβάνει τον κατάλο 750 γο της προηγούμενης παραγράφου και το οποίο φέρει την προηγμένη ηλεκτρονική υπογραφή των αρμοδίων υπαλλήλων και των προϊσταμένων της οργανικής μονάδας που τηρεί το αρχείο. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ακολούθως συντάσσεται πρωτόκολλο καταστροφής εντύπων εγγράφων το οποίο περιλαμβάνει τον κατάλο 750 γο της προηγούμενης παραγράφου και το οποίο φέρει την προηγμένη ηλεκτρονική υπογραφή των αρμοδίων υπαλλήλων και των προϊσταμένων της οργανικής μονάδας που τηρεί το αρχείο."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/5>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/5/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στη συνέχεια ακολουθείται η διαδικασία επιλογής ιστορικού ενδιαφέροντος αρχείων από τα Γενικά Αρχεία του Κράτους, ύστερα από έγγραφη πρόσκλησή τους, σύμφωνα με το ισχύον θεσμικό πλαίσιο με την επιφύλαξη των ειδικότερων διατάξεων περί εκκαθάρισης των αρχείων των Υπουργείων Εξωτερικών, Εθνικής Άμυνας και διαβαθμισμένου υλικού του Υπουργείου Δημόσια Τάξης και Προστασίας του Πολίτη. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στη συνέχεια ακολουθείται η διαδικασία επιλογής ιστορικού ενδιαφέροντος αρχείων από τα Γενικά Αρχεία του Κράτους, ύστερα από έγγραφη πρόσκλησή τους, σύμφωνα με το ισχύον θεσμικό πλαίσιο με την επιφύλαξη των ειδικότερων διατάξεων περί εκκαθάρισης των αρχείων των Υπουργείων Εξωτερικών, Εθνικής Άμυνας και διαβαθμισμένου υλικού του Υπουργείου Δημόσια Τάξης και Προστασίας του Πολίτη."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/6>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/6/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στην περίπτωση που κριθεί από την αρμόδια κατά περίπτωση αρχειακή υπηρεσία (όπως Γενικά Αρχεία του Κράτους, Υπηρεσία Ιστορικού και Διπλωματικού Αρχείου Υπουργείου Εξωτερικών, Ελληνική Επιτροπή Στρατιωτικής Ιστορίας, Διεύθυνση Ιστορίας Στρατού, Υπηρεσία Ιστορίας Ναυτικού, Μουσείο Ιστορίας Πολεμικής Αεροπορίας) ότι το ηλεκτρονικό ή/και έντυπο αρχείο δεν χρήζει διατήρησης στο διηνεκές, ο φορέας προβαίνει στη καταστροφή με βάση τις κείμενες διατάξεις. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/10/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στην περίπτωση που κριθεί από την αρμόδια κατά περίπτωση αρχειακή υπηρεσία (όπως Γενικά Αρχεία του Κράτους, Υπηρεσία Ιστορικού και Διπλωματικού Αρχείου Υπουργείου Εξωτερικών, Ελληνική Επιτροπή Στρατιωτικής Ιστορίας, Διεύθυνση Ιστορίας Στρατού, Υπηρεσία Ιστορίας Ναυτικού, Μουσείο Ιστορίας Πολεμικής Αεροπορίας) ότι το ηλεκτρονικό ή/και έντυπο αρχείο δεν χρήζει διατήρησης στο διηνεκές, ο φορέας προβαίνει στη καταστροφή με βάση τις κείμενες διατάξεις."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/25> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -431,6 +497,9 @@
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "1 του Ν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "1590/1986 (Α΄ 49)."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -442,16 +511,25 @@
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/2/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/2/passage/3>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/2/passage/3> <http://legislation.di.uoa.gr/ontology/text> "1 του Ν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/2/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/2/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/2/passage/4> <http://legislation.di.uoa.gr/ontology/text> "2800/2000 «Αναδιάρθρωση Υπηρεσιών Υπουργείου Δημόσιας Τάξης, σύσταση Αρχηγείου Ελληνικής Αστυνομίας και άλλες διατάξεις» (Α΄ 41)."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/3/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το άρθρο 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα, που κωδικοποιήθηκε με το άρθρο πρώτο του Π.Δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/3/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "63/2005 (Α΄ 98)."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/4/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το Π.Δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/4/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/4/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/4/passage/2> <http://legislation.di.uoa.gr/ontology/text> "184/2009 «Σύσταση Υπουργείου Προστασίας του Πολίτη και καθορισμός των αρμοδιοτήτων του» (Α΄ 213)."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/5>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -460,16 +538,25 @@
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/5/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/5/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/5/passage/2> <http://legislation.di.uoa.gr/ontology/text> "85/2012 «Ίδρυση και μετονομασία Υπουργείων, μεταφορά και κατάργηση υπηρεσιών» (Α΄ 141), όπως τροποποιήθηκε με τα Π.Δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/5/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/5/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/5/passage/3> <http://legislation.di.uoa.gr/ontology/text> "88/2012 (Α΄ 143), 94/2012 (Α΄ 149), 98/2012 (Α΄ 160) και 118/2013 (Α΄ 152)."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/6>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/6/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού."@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/7>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/7/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Την υπ’ αριθμ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/7/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/7/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/7/passage/2> <http://legislation.di.uoa.gr/ontology/text> "20/2014 Γνωμοδότηση του Συμβουλίου της Επικρατείας, ύστερα από πρόταση του Υπουργού Δημόσιας Τάξης και Προστασίας του Πολίτη, αποφασίζουμε. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/7/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/7/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/11/paragraph/7/passage/3> <http://legislation.di.uoa.gr/ontology/text> " Εφαρμογή των διατάξεων"@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/25> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/12>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/12/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -483,9 +570,13 @@
 <http://legislation.di.uoa.gr/pd/2014/25/article/12/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/12/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/12/paragraph/1/passage/3>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/12/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "2. "@el.
+<http://legislation.di.uoa.gr/pd/2014/25/article/12/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/12/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/12/paragraph/1/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/12/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Η παρακολούθηση της εφαρμογής από τους επιμέρους φορείς των διατάξεων του παρόντος ανατίθεται στην Υπηρεσία Ανάπτυξης Πληροφορικής (Υ.Α.Π.) του Υπουργείου Διοικητικής Μεταρρύθμισης και Ηλεκτρονικής Διακυβέρνησης. "@el.
 <http://legislation.di.uoa.gr/pd/2014/25/article/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/25> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/13>.
-<http://legislation.di.uoa.gr/pd/2014/25/article/13> <http://purl.org/dc/terms/title> "Έναρξη Ισχύος".<http://legislation.di.uoa.gr/pd/2014/25/article/13/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/25/article/13> <http://purl.org/dc/terms/title> "Έναρξη Ισχύος".
+<http://legislation.di.uoa.gr/pd/2014/25/article/13/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/13/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/13/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/25/article/13/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/25/article/13/paragraph/1/passage/1>.
@@ -493,6 +584,7 @@
 <http://legislation.di.uoa.gr/pd/2014/25> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/26> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/44>.
 <http://legislation.di.uoa.gr/gazette/a/2014/44> <http://purl.org/dc/terms/title> "Α/2014/44".
@@ -500,6 +592,7 @@
 <http://legislation.di.uoa.gr/pd/2014/26> <http://purl.org/dc/terms/created> "2014-02-25"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/26> <http://legislation.di.uoa.gr/ontology/legislationID> "26"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/26> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/26> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/26/2014-02-25>.
 <http://legislation.di.uoa.gr/pd/2014/26> <http://purl.org/dc/terms/title> "Κατάργηση Αστυνομικού Τμήματος Ακροπόλεως και Τμήματος Ασφάλειας Ακροπόλεως.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/26/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.

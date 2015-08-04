@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/127> <http://purl.org/dc/terms/created> "2014-09-29"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/127> <http://legislation.di.uoa.gr/ontology/legislationID> "127"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/127> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/127> <http://purl.org/dc/terms/title> "Καθορισμός αριθμού θέσεων συμβολαιογράφων στις περιφέρειες των Ειρηνοδικείων Άργους, Μάσσητος και Ψωφίδος.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/127/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/127/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) του άρθρου 17 του Κώδικα Συμβολαιογράφων, ο οποίος κυρώθηκε με το άρθρο πρώτο του N. 2830/2000 (Α΄ 96), β) του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα, που κυρώθηκε με το άρθρο πρώτο του Π.Δ. 63/2005 (Α΄ 98). "@el.
@@ -33,17 +34,17 @@
 <http://legislation.di.uoa.gr/pd/2014/127/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στην περιφέρεια του Ειρηνοδικείου Άργους μειώνεται ο αριθμός των θέσεων συμβολαιογράφων κατά μία (1) στην έδρα του Αχλαδόκαμπου, καθοριζομένου του συνολικού αριθμού των οργανικών θέσεων στο Ειρηνοδικείο Άργους σε δεκαέξι (16). "@el.
+<http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στην περιφέρεια του Ειρηνοδικείου Άργους μειώνεται ο αριθμός των θέσεων συμβολαιογράφων κατά μία (1) στην έδρα του Αχλαδόκαμπου, καθοριζομένου του συνολικού αριθμού των οργανικών θέσεων στο Ειρηνοδικείο Άργους σε δεκαέξι (16)."@el.
 <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/127/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στην περιφέρεια του Ειρηνοδικείου Μάσσητος μειώνεται ο αριθμός των θέσεων συμβολαιογράφων κατά μία (1) στην έδρα της Ερμιόνης, καθοριζομένου του συνολικού αριθμού των οργανικών θέσεων στο Ειρηνοδικείο Μάσσητος σε έξι (6) εκ των οποίων μία (1) στην Ερμιόνη. "@el.
+<http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στην περιφέρεια του Ειρηνοδικείου Μάσσητος μειώνεται ο αριθμός των θέσεων συμβολαιογράφων κατά μία (1) στην έδρα της Ερμιόνης, καθοριζομένου του συνολικού αριθμού των οργανικών θέσεων στο Ειρηνοδικείο Μάσσητος σε έξι (6) εκ των οποίων μία (1) στην Ερμιόνη."@el.
 <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/127/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/3/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στην περιφέρεια του Ειρηνοδικείου Ψωφίδος μειώνεται ο αριθμός των θέσεων συμβολαιογράφων κατά μία (1) στην έδρα των Τροπαίων, καθοριζομένου του συνολικού αριθμού των οργανικών θέσεων στο Ειρηνοδικείο Ψωφίδος με έδρα τα Τρόπαια σε τρεις (3) εκ των οποίων μία (1) στο Βαλτεσινίκο. "@el.
+<http://legislation.di.uoa.gr/pd/2014/127/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στην περιφέρεια του Ειρηνοδικείου Ψωφίδος μειώνεται ο αριθμός των θέσεων συμβολαιογράφων κατά μία (1) στην έδρα των Τροπαίων, καθοριζομένου του συνολικού αριθμού των οργανικών θέσεων στο Ειρηνοδικείο Ψωφίδος με έδρα τα Τρόπαια σε τρεις (3) εκ των οποίων μία (1) στο Βαλτεσινίκο."@el.
 <http://legislation.di.uoa.gr/pd/2014/127/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/127> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/article/2>.
 <http://legislation.di.uoa.gr/pd/2014/127/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -51,6 +52,10 @@
 <http://legislation.di.uoa.gr/pd/2014/127/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/127/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/article/2/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/127/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. "@el.
+<http://legislation.di.uoa.gr/pd/2014/127/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/127/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/127/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος. "@el.
 <http://legislation.di.uoa.gr/pd/2014/127> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

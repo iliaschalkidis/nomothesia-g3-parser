@@ -32,17 +32,29 @@
 <http://legislation.di.uoa.gr/pd/2015/29/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εισαγγελία Πρωτοδικών Αθηνών: Αυξάνεται ο αριθμός των οργανικών θέσεων των Αντεισαγγελέων Πρωτοδικών-Παρέδρων Εισαγγελίας κατά μία (1), οριζομένου του συνολικού αριθμού αυτών σε ογδόντα πέντε (85). "@el.
+<http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εισαγγελία Πρωτοδικών Αθηνών. "@el.
+<http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Αυξάνεται ο αριθμός των οργανικών θέσεων των Αντεισαγγελέων Πρωτοδικών-Παρέδρων Εισαγγελίας κατά μία (1), οριζομένου του συνολικού αριθμού αυτών σε ογδόντα πέντε (85). "@el.
+<http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> " 358"@el.
 <http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/29/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εισαγγελία Πρωτοδικών Κέρκυρας: Αυξάνεται ο αριθμός των οργανικών θέσεων των Αντεισαγγελέων Πρωτοδικών-Παρέδρων Εισαγγελίας κατά μία (1), οριζομένου του συνολικού αριθμού αυτών σε τρεις (3). "@el.
+<http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εισαγγελία Πρωτοδικών Κέρκυρας. "@el.
+<http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Αυξάνεται ο αριθμός των οργανικών θέσεων των Αντεισαγγελέων Πρωτοδικών-Παρέδρων Εισαγγελίας κατά μία (1), οριζομένου του συνολικού αριθμού αυτών σε τρεις (3)."@el.
 <http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/29/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/3/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εισαγγελία Πρωτοδικών Χαλκίδας: Αυξάνεται ο αριθμός των οργανικών θέσεων των Αντεισαγγελέων Πρωτοδικών-Παρέδρων Εισαγγελίας κατά μία (1), οριζομένου του συνολικού αριθμού αυτών σε έξι (6). "@el.
+<http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εισαγγελία Πρωτοδικών Χαλκίδας. "@el.
+<http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/3/passage/2>.
+<http://legislation.di.uoa.gr/pd/2015/29/article/1/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Αυξάνεται ο αριθμός των οργανικών θέσεων των Αντεισαγγελέων Πρωτοδικών-Παρέδρων Εισαγγελίας κατά μία (1), οριζομένου του συνολικού αριθμού αυτών σε έξι (6)."@el.
 <http://legislation.di.uoa.gr/pd/2015/29/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2015/29> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/29/article/2>.
 <http://legislation.di.uoa.gr/pd/2015/29/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -50,6 +62,9 @@
 <http://legislation.di.uoa.gr/pd/2015/29/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/29/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/29/article/2/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2015/29/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. "@el.
+<http://legislation.di.uoa.gr/pd/2015/29/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/29/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/29/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2015/29/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος. "@el.
 <http://legislation.di.uoa.gr/pd/2015/29> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.

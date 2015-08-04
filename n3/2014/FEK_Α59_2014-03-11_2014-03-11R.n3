@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/33> <http://purl.org/dc/terms/created> "2014-03-11"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/33> <http://legislation.di.uoa.gr/ontology/legislationID> "33"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/33> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/33> <http://purl.org/dc/terms/title> "Καθιέρωση της 18ης Οκτωβρίου ως ημέρας αργίας για τη δημοτική ενότητα Αλεξάνδρειας του Δήμου Αλεξάνδρειας Νομού Ημαθίας.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/33/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/33/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τη διάταξη της παραγράφου 10 του άρθρου 35 του N.3274/2004 «Οργάνωση και λειτουργία των Οργανισμών Τοπικής Αυτοδιοίκησης πρώτου και δεύτερου βαθμού» (Α΄ 195). "@el.
@@ -43,6 +44,9 @@
 <http://legislation.di.uoa.gr/pd/2014/33/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/33/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/article/1/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/33/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Καθιερώνουμε την 18η Οκτωβρίου, επέτειο της απελευθέρωσης της Αλεξάνδρειας νομού Ημαθίας από τον τουρκικό ζυγό το έτος 1912, ως ημέρα αργίας για τη δημοτική ενότητα Αλεξάνδρειας του Δήμου Αλεξάνδρειας νομού Ημαθίας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/33/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/33/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/33/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> " 970 "@el.
 <http://legislation.di.uoa.gr/pd/2014/33/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/33> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/article/2>.
 <http://legislation.di.uoa.gr/pd/2014/33/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -50,9 +54,13 @@
 <http://legislation.di.uoa.gr/pd/2014/33/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/33/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/article/2/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/33/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το παρόν διάταγμα ισχύει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. "@el.
+<http://legislation.di.uoa.gr/pd/2014/33/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/33/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/33/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/33/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Εσωτερικών αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος. "@el.
 <http://legislation.di.uoa.gr/pd/2014/33> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/34> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/59>.
 <http://legislation.di.uoa.gr/gazette/a/2014/59> <http://purl.org/dc/terms/title> "Α/2014/59".
@@ -60,6 +68,7 @@
 <http://legislation.di.uoa.gr/pd/2014/34> <http://purl.org/dc/terms/created> "2014-03-11"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/34> <http://legislation.di.uoa.gr/ontology/legislationID> "34"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/34> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/34> <http://purl.org/dc/terms/title> "Αναγνώριση του αυτοτελούς οικισμού «Χαλκούτσιον» του Δήμου Ωρωπού ως Δημοτικής Κοινότητας.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/34/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/34/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 283 παρ. 6 του Ν. 3852/2010 «Νέα Αρχιτεκτονική της Αυτοδιοίκησης και της Αποκεντρωμένης Διοίκησης - Πρόγραμμα Καλλικράτης» (Α΄ 87). "@el.
@@ -85,7 +94,8 @@
 <http://legislation.di.uoa.gr/pd/2014/34> <http://purl.org/dc/terms/title> "Αναγνώριση του αυτοτελούς οικισμού «Χαλκούτσιον» του Δήμου Ωρωπού ως Δημοτικής Κοινότητας.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/34/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/34> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/34/article/1>.
-<http://legislation.di.uoa.gr/pd/2014/34/article/1> <http://purl.org/dc/terms/title> "".<http://legislation.di.uoa.gr/pd/2014/34/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/34/article/1> <http://purl.org/dc/terms/title> "".
+<http://legislation.di.uoa.gr/pd/2014/34/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/34/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/34/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/34/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/34/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/34/article/1/paragraph/1/passage/1>.
@@ -93,3 +103,4 @@
 <http://legislation.di.uoa.gr/pd/2014/34> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

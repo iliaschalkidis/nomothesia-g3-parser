@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/95> <http://purl.org/dc/terms/created> "2014-08-20"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/95> <http://legislation.di.uoa.gr/ontology/legislationID> "95"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/95> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/95> <http://purl.org/dc/terms/title> "Ηλεκτρονική κατάθεση δικογράφων, ηλεκτρονική χορήγηση σχετικών πιστοποιητικών και λοιπών εγγράφων στο Ελεγκτικό Συνέδριο.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/95/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/95/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) των παρ. 2α και 4 του άρθρου 52 του π.δ/τος 1225/1981 (Α΄ 304), όπως αυτές προστέθηκαν και τροποποιήθηκαν με τις παρ. 2 και 3 αντίστοιχα του άρθρου 74 του ν. 4055/2012 (Α΄ 51), β) του άρθρου 42 του ν. 3659/2008 (Α΄ 77) γ) του άρθρου 78 παρ. 1 του Κώδικα Νόμων για το Ελεγκτικό Συνέδριο, ο οποίος κυρώθηκε με το άρθρο πρώτο του ν. 4129/2013 (Α΄ 52) και της παρ. 2 του ιδίου άρθρου, με την οποία αποδίδεται η ρύθμιση του άρθρου 110 παρ. 11 του ν. 4055/2012 (Α΄51), δ) του ν. 3979/2011 «Για την ηλεκτρονική διακυβέρνηση και λοιπές διατάξεις» (Α΄ 138), ε) του ν. 2472/1997 «Προστασία του ατόμου από την επεξεργασία δεδομένων προσωπικού χαρακτήρα» (Α΄ 50), στ) του ν. 3471/2006 «Προστασία δεδομένων προσωπικού χαρακτήρα και της ιδιωτικής ζωής στον τομέα ηλεκτρονικών επικοινωνιών και τροποποίηση του ν. 2472/1997» (Α΄ 133), ζ) του π.δ/τος 150/2001 «Προσαρμογή στην Οδηγία 99/93/ΕΚ του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου σχετικά με το κοινοτικό πλαίσιο για ηλεκτρονικές υπογραφές» (Α΄ 125). "@el.
@@ -20,7 +21,8 @@
 <http://legislation.di.uoa.gr/pd/2014/95> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/citation/4>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/95> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/1>.
-<http://legislation.di.uoa.gr/pd/2014/95/article/1> <http://purl.org/dc/terms/title> "Διαδικασία ηλεκτρονικής κατάθεσης".<http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/1> <http://purl.org/dc/terms/title> "Διαδικασία ηλεκτρονικής κατάθεσης".
+<http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/1/passage/1>.
@@ -51,6 +53,9 @@
 <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/2/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/2/passage/3>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/2/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Ως προς τη μορφή και τον όγκο των σχετικών αρχείων έχουν εφαρμογή οι διατάξεις της παρ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/2/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/2/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/2/passage/4> <http://legislation.di.uoa.gr/ontology/text> "2 του άρθρου 3 του παρόντος."@el.
 <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -65,38 +70,49 @@
 <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/3/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/3/passage/4>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/3/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Ως χρόνος κατάθεσης θεωρείται η ημερομηνία και ώρα της αποστολής του αποδεικτικού κατάθεσης. "@el.
+<http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/3/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/3/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/3/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Τα ρολόγια των εξυπηρετητών που εμπλέκονται στην ηλεκτρονική κατάθεση συγχρονίζονται περιοδικά με εξυπηρετητές ή διαδικτυακές συσκευές που λειτουργούν ως σημείο αναφοράς ώρας."@el.
 <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/4/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα δικόγραφα και τα αποδεικτικά κατάθεσης που φέρουν προηγμένη ηλεκτρονική υπογραφή, τα οποία έχουν αποσταλεί σύμφωνα με τις προηγούμενες παραγράφους και εκτυπώνονται από τον δικηγόρο, το μέλος του Νομικού Συμβουλίου του Κράτους ή τη γραμματεία του δικαστηρίου, λογίζονται ως επίσημα αντίγραφα του πρωτοτύπου. "@el.
+<http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα δικόγραφα και τα αποδεικτικά κατάθεσης που φέρουν προηγμένη ηλεκτρονική υπογραφή, τα οποία έχουν αποσταλεί σύμφωνα με τις προηγούμενες παραγράφους και εκτυπώνονται από τον δικηγόρο, το μέλος του Νομικού Συμβουλίου του Κράτους ή τη γραμματεία του δικαστηρίου, λογίζονται ως επίσημα αντίγραφα του πρωτοτύπου."@el.
 <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/5>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/5/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μέχρι να ρυθμιστεί η ηλεκτρονική καταβολή του υπέρ του Δημοσίου παραβόλου, ο καταθέτων υποχρεούται να το καταβάλει σύμφωνα με τη διαδικασία και τις προϋποθέσεις που ορίζονται στις οικείες διατάξεις. "@el.
+<http://legislation.di.uoa.gr/pd/2014/95/article/1/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μέχρι να ρυθμιστεί η ηλεκτρονική καταβολή του υπέρ του Δημοσίου παραβόλου, ο καταθέτων υποχρεούται να το καταβάλει σύμφωνα με τη διαδικασία και τις προϋποθέσεις που ορίζονται στις οικείες διατάξεις."@el.
 <http://legislation.di.uoa.gr/pd/2014/95/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/95> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/2>.
-<http://legislation.di.uoa.gr/pd/2014/95/article/2> <http://purl.org/dc/terms/title> "Αρμοδιότητες Δικηγορικών Συλλόγων".<http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/2> <http://purl.org/dc/terms/title> "Αρμοδιότητες Δικηγορικών Συλλόγων".
+<http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ο αρμόδιος Δικηγορικός Σύλλογος στο πλαίσιο τηςκατά το προηγούμενο άρθρο διαδικασίας:α. "@el.
+<http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ο αρμόδιος Δικηγορικός Σύλλογος στο πλαίσιο τηςκατά το προηγούμενο άρθρο διαδικασίας. "@el.
 <http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "ταυτοποιεί το δικηγόρο, διαπιστώνει την έλλειψηασυμβιβάστου ή άλλου κωλύματος ή πειθαρχικής κύ-ρωσης και του επιτρέπει να συνεχίσει τη διαδικασίακατάθεσης,β. "@el.
+<http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "α. "@el.
 <http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/3>.
-<http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "υποστηρίζει τεχνικά τις συναλλαγές για την κατα-βολή των προβλεπομένων οικονομικών επιβαρύνσεωνμε την επιφύλαξη της παραγράφου 5 του άρθρου 1,γ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "ταυτοποιεί το δικηγόρο, διαπιστώνει την έλλειψηασυμβιβάστου ή άλλου κωλύματος ή πειθαρχικής κύ-ρωσης και του επιτρέπει να συνεχίσει τη διαδικασίακατάθεσης,β. "@el.
 <http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/4>.
-<http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "διενεργεί την ηλεκτρονική είσπραξη των αντίστοι-χων ποσών, τον ακριβή επιμερισμό και απόδοσή τουςστους δικαιούχους φορείς,δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "υποστηρίζει τεχνικά τις συναλλαγές για την κατα-βολή των προβλεπομένων οικονομικών επιβαρύνσεωνμε την επιφύλαξη της παραγράφου 5 του άρθρου 1,γ. "@el.
 <http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/5>.
-<http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "διαβιβάζει τα απαιτούμενα νομιμοποιητικά στοι-χεία στο αρμόδιο δικαστήριο, ώστε να επιτραπεί στονπιστοποιούμενο δικηγόρο ή μέλος του Νομικού Συμ-βουλίου του Κράτους να ολοκληρώσει την ηλεκτρονικήκατάθεση καιε. "@el.
+<http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "διενεργεί την ηλεκτρονική είσπραξη των αντίστοι-χων ποσών, τον ακριβή επιμερισμό και απόδοσή τουςστους δικαιούχους φορείς,δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/6>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> "διαβιβάζει τα απαιτούμενα νομιμοποιητικά στοι-χεία στο αρμόδιο δικαστήριο, ώστε να επιτραπεί στονπιστοποιούμενο δικηγόρο ή μέλος του Νομικού Συμ-βουλίου του Κράτους να ολοκληρώσει την ηλεκτρονικήκατάθεση καιε. "@el.
+<http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/7>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/2/paragraph/1/passage/7> <http://legislation.di.uoa.gr/ontology/text> "εισπράττει τα έξοδα αναπαραγωγής σε χαρτί τουδικογράφου, καθώς και των προσβαλλόμενων πράξεωνή αποφάσεων ή άλλων σχετικών εγγράφων που τυχόνεπισυνάπτονται σε αυτό, τα οποία ανέρχονται σε 0,10ευρώ ανά σελίδα, και αποδίδει σε μηνιαία βάση τα ποσάαυτά στο οικείο δικαστήριο. "@el.
 <http://legislation.di.uoa.gr/pd/2014/95/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/95> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/3>.
-<http://legislation.di.uoa.gr/pd/2014/95/article/3> <http://purl.org/dc/terms/title> "Αρμοδιότητες Γραμματείας Ελεγκτικού Συνεδρίου".<http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/3> <http://purl.org/dc/terms/title> "Αρμοδιότητες Γραμματείας Ελεγκτικού Συνεδρίου".
+<http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/1/passage/1>.
@@ -136,6 +152,9 @@
 <http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/2/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/2/passage/4>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/2/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Αν επισυνάπτεται αρχείο εικόνας, ήχου ή άλλο πολυμέσο, αυτό πρέπει να είναι ενσωματωμένο σε ένα από τα παραπάνω έγγραφα, υπό τον όρο ότι το συνολικό μέγεθος του αρχείου δεν υπερβαίνει τον όγκο που καθορίζεται από το Ολοκληρωμένο Πληροφοριακό Σύστημα του δικαστηρίου. "@el.
+<http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/2/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/2/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/2/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Σχετική ενημέρωση αναρτάται, επίσης, στην ιστοσελίδα του."@el.
 <http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -147,6 +166,9 @@
 <http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/3/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/3/passage/3>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/3/passage/3> <http://legislation.di.uoa.gr/ontology/text> "στ΄, ο καταθέτων πρέπει να προσκομίσει ή να αποστείλει στο δικαστήριο, μέσα σε είκοσι ημέρες από την επιτυχή ολοκλήρωση της διαδικασίας του άρθρου 1, αντίγραφο του δικογράφου σε έντυπη μορφή, καθώς και αντίγραφο της προσβαλλόμενης πράξης ή απόφασης ή άλλων σχετικών εγγράφων, εφόσον η υποχρέωση αυτή προβλέπεται από τις οικείες δικονομικές διατάξεις. "@el.
+<http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/3/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/3/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/3/paragraph/3/passage/4> <http://legislation.di.uoa.gr/ontology/text> "  "@el.
 <http://legislation.di.uoa.gr/pd/2014/95/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/95> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/4>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -156,16 +178,20 @@
 <http://legislation.di.uoa.gr/pd/2014/95/article/4/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Χορήγηση πιστοποιητικών "@el.
 <http://legislation.di.uoa.gr/pd/2014/95/article/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/95> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/5>.
-<http://legislation.di.uoa.gr/pd/2014/95/article/5> <http://purl.org/dc/terms/title> "Ενημέρωση".<http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/5> <http://purl.org/dc/terms/title> "Ενημέρωση".
+<http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το Ελεγκτικό Συνέδριο μπορεί να χορηγεί σε ψηφιακή μορφή αποφάσεις, πράξεις, πρακτικά, πιστοποιητικά, βεβαιώσεις ή άλλα έγγραφα, εφ’ όσον η χορήγησή τους προβλέπεται από τις οικείες διατάξεις, μετά από αίτηση δικηγόρου ή μέλους του Νομικού Συμβουλίου του Κράτους. "@el.
+<http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το Ελεγκτικό Συνέδριο μπορεί να χορηγεί σε ψηφιακή μορφή αποφάσεις, πράξεις, πρακτικά, πιστοποιητικά, βεβαιώσεις ή άλλα έγγραφα, εφ’ όσον η χορήγησή τους προβλέπεται από τις οικείες διατάξεις, μετά από αίτηση δικηγόρου ή μέλους του Νομικού Συμβουλίου του Κράτους."@el.
 <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/2/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ο αιτών δικηγόρος ή μέλος του Ν.Σ.Κ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "καταχωρίζει τα αναγκαία για την ταυτοποίηση του στοιχεία, πραγματοποιεί την ηλεκτρονική πληρωμή των προβλεπόμενων για τη σήμανση της αίτησης και του ζητούμενου εγγράφου δαπανημάτων, όπως οι παραπάνω ενέργειες καθορίζονται στο άρθρο 1 του παρόντος, επισυνάπτει την αίτηση που φέρει προηγμένη ηλεκτρονική υπογραφή και την αποστέλλει στο αρμόδιο δικαστήριο."@el.
 <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -174,6 +200,9 @@
 <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/3/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Το έγγραφο αυτό με προηγμένη ηλεκτρονική υπογραφή, που εκτυπώνεται, λογίζεται ως επίσημο αντίγραφο του πρωτοτύπου. "@el.
+<http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/3/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/3/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/3/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Η ενέργεια της αποστολής καταγράφεται ηλεκτρονικά."@el.
 <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -182,16 +211,21 @@
 <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/4/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/4/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/4/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Το αιτηθέν έγγραφο χορηγείται σε έντυπη μορφή από την οικεία Γραμματεία και κατά την παραλαβή από τον αιτούντα καταβάλλονται τα προβλεπόμενα δαπανήματα. "@el.
+<http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/4/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/4/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/5/paragraph/4/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Αν δεν ολοκληρωθεί επιτυχώς η κατάθεση, το Ενιαίο Πληροφοριακό Σύστημα Δικηγορικών Συλλόγων ή το Πληροφοριακό Σύστημα του Δικαστηρίου, ανάλογα με το στάδιο κατά το οποίο διαπιστώνεται το πρόβλημα στη διαδικασία κατάθεσης, ενημερώνει αυτόματα τον καταθέτοντα."@el.
 <http://legislation.di.uoa.gr/pd/2014/95/article/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/95> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/6>.
-<http://legislation.di.uoa.gr/pd/2014/95/article/6> <http://purl.org/dc/terms/title> "Έναρξη εφαρμογής της διαδικασίας".<http://legislation.di.uoa.gr/pd/2014/95/article/6/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/6> <http://purl.org/dc/terms/title> "Έναρξη εφαρμογής της διαδικασίας".
+<http://legislation.di.uoa.gr/pd/2014/95/article/6/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/6/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/6/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/6/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/6/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ημερομηνία έναρξης της διαδικασίας ηλεκτρονικήςκατάθεσης και της χορήγησης πιστοποιητικών και εγ-γράφων καθορίζεται με απόφαση του Προέδρου τουΕλεγκτικού Συνεδρίου, που αναρτάται στους πίνακεςανακοινώσεων του κεντρικού καταστήματος του Ελε-γκτικού Συνεδρίου, των κατά τόπους Υπηρεσιών Επι-τρόπων, καθώς και στην ιστοσελίδα του Δικαστηρίου. "@el.
 <http://legislation.di.uoa.gr/pd/2014/95/article/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/95> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/7>.
-<http://legislation.di.uoa.gr/pd/2014/95/article/7> <http://purl.org/dc/terms/title> "Έναρξη ισχύος".<http://legislation.di.uoa.gr/pd/2014/95/article/7/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/95/article/7> <http://purl.org/dc/terms/title> "Έναρξη ισχύος".
+<http://legislation.di.uoa.gr/pd/2014/95/article/7/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/7/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/7/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/95/article/7/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/95/article/7/paragraph/1/passage/1>.
@@ -199,3 +233,4 @@
 <http://legislation.di.uoa.gr/pd/2014/95> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

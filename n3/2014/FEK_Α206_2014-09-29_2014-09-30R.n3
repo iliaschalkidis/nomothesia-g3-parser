@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/126> <http://purl.org/dc/terms/created> "2014-09-29"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/126> <http://legislation.di.uoa.gr/ontology/legislationID> "126"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/126> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/126> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/126/2014-09-29>.
 <http://legislation.di.uoa.gr/pd/2014/126> <http://purl.org/dc/terms/title> "Τροποποίηση και συμπλήρωση του π.δ. 107/2001 «Ευεργετικός υπολογισμός ημερών ποινής καταδίκων και υποδίκων για εργασία ή απασχόληση σε προγράμματα ή σπουδές» (Α΄97). "@el.
 <http://legislation.di.uoa.gr/pd/2014/126/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
@@ -38,13 +39,20 @@
 <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/5>.
 <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "333/2003 (Α΄285) και αντικαταστάθηκε με το άρθρο 1 του π.δ. "@el.
-<http://legislation.di.uoa.gr/pd/2014/126>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <http://legislation.di.uoa.gr/pd/2014/126/article/1/modification/1>.
-<http://legislation.di.uoa.gr/pd/2014/126>  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <http://legislation.di.uoa.gr/pd/2014/126/article/1/modification/1>.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/modification/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/modification/1>.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/modification/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/modification/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/modification/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/modification/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "θ) Φοίτησης, καθ’ όλη τη διάρκεια του σχολικού έτους, μη εξαιρουμένων των αργιών και σχολικών ή άλλων διακοπών, σε σχολεία δεύτερης ευκαιρίας, για απόκτηση τίτλου υποχρεωτικής εκπαίδευσης, ή σε δημόσια I.E.Κ. και Σ.Ε.Κ. ή σε πιστοποιημένες σχολές μαθητείας, που λειτουργούν σε οποιοδήποτε Σωφρονιστικό Κατάστημα Κράτησης Ενηλίκων ή Ειδικό Κατάστημα Κράτησης Νέων "@el.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/6>.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> "240/2007 (Α΄283), αντικαθίσταται ως ακολούθως:"@el.
+<http://legislation.di.uoa.gr/pd/2014/126>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/modification/1>.
+<http://legislation.di.uoa.gr/pd/2014/126>  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/modification/1>.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/6/modification/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/6/modification/1>.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/6/modification/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/6/modification/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/6/modification/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/6/modification/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "θ) Φοίτησης, καθ’ όλη τη διάρκεια του σχολικού έτους, μη εξαιρουμένων των αργιών και σχολικών ή άλλων διακοπών, σε σχολεία δεύτερης ευκαιρίας, για απόκτηση τίτλου υποχρεωτικής εκπαίδευσης, ή σε δημόσια I.E.Κ. και Σ.Ε.Κ. ή σε πιστοποιημένες σχολές μαθητείας, που λειτουργούν σε οποιοδήποτε Σωφρονιστικό Κατάστημα Κράτησης Ενηλίκων ή Ειδικό Κατάστημα Κράτησης Νέων "@el.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/7>.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/7> <http://legislation.di.uoa.gr/ontology/text> "  "@el.
 <http://legislation.di.uoa.gr/pd/2014/126> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/137> <http://purl.org/dc/terms/created> "2014-10-09"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/137> <http://legislation.di.uoa.gr/ontology/legislationID> "137"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/137> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/137> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/137/2014-10-09>.
 <http://legislation.di.uoa.gr/pd/2014/137> <http://purl.org/dc/terms/title> "Αναγνώριση εκκαθαριστριών εταιριών που αναλαμβάνουν τη λογιστική τακτοποίηση λογαριασμών της κινητής ναυτικής και της κινητής ναυτικής δορυφορικής υπηρεσίας των ελληνικών εμπορικών πλοίων.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/137/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
@@ -21,7 +22,8 @@
 <http://legislation.di.uoa.gr/pd/2014/137> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/citation/4>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/137> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/1>.
-<http://legislation.di.uoa.gr/pd/2014/137/article/1> <http://purl.org/dc/terms/title> "Πεδίο Εφαρμογής".<http://legislation.di.uoa.gr/pd/2014/137/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/1> <http://purl.org/dc/terms/title> "Πεδίο Εφαρμογής".
+<http://legislation.di.uoa.gr/pd/2014/137/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/1/paragraph/1/passage/1>.
@@ -32,12 +34,27 @@
 <http://legislation.di.uoa.gr/pd/2014/137/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ορισμοί Για την εφαρμογή του παρόντος, οι ακόλουθοι όροι έχουν την έννοια που τους αποδίδεται παρακάτω:  7398 «Ελληνικό εμπορικό πλοίο»: Κάθε εμπορικό πλοίο με «Κινητή Ναυτική Υπηρεσία»: Κινητή υπηρεσία μετα«Κινητή Ναυτική Δορυφορική Υπηρεσία»: Κινητή υπη«Κωδικός Αναγνώρισης Εκκαθαρίστριας» ή «Κωδικός «Νόμιμος αντιπρόσωπος αλλοδαπής εκκαθαρίστριας «Νόμιμος εκπρόσωπος»:Φυσικό πρόσωπο που εκπρο. "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ορισμοί Για την εφαρμογή του παρόντος, οι ακόλουθοι όροι έχουν την έννοια που τους αποδίδεται παρακάτω. "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "  7398 «Ελληνικό εμπορικό πλοίο». "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> " Κάθε εμπορικό πλοίο με «Κινητή Ναυτική Υπηρεσία». "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> " Κινητή υπηρεσία μετα«Κινητή Ναυτική Δορυφορική Υπηρεσία». "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> " Κινητή υπη«Κωδικός Αναγνώρισης Εκκαθαρίστριας» ή «Κωδικός «Νόμιμος αντιπρόσωπος αλλοδαπής εκκαθαρίστριας «Νόμιμος εκπρόσωπος». "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1/passage/6>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Φυσικό πρόσωπο που εκπρο."@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η αναγνώριση, ανάκληση δικαιώματος, ακύρωση και τροποποίηση στοιχείων εκκαθαριστριών γίνονται    με απόφαση του Υπουργού Υποδομών, Μεταφορών και Δικτύων, η οποία δημοσιεύεται στην Εφημερίδα της Κυβερνήσεως Στην περίπτωση αναγνώρισης ελληνικής εταιρίας, με την ίδια Υπουργική Απόφαση χορηγείται ο Κωδικός Αναγνώρισης (AAIC). "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η αναγνώριση, ανάκληση δικαιώματος, ακύρωση και τροποποίηση στοιχείων εκκαθαριστριών γίνονται    με απόφαση του Υπουργού Υποδομών, Μεταφορών και Δικτύων, η οποία δημοσιεύεται στην Εφημερίδα της Κυβερνήσεως Στην περίπτωση αναγνώρισης ελληνικής εταιρίας, με την ίδια Υπουργική Απόφαση χορηγείται ο Κωδικός Αναγνώρισης (AAIC)."@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -46,16 +63,19 @@
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/3/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Οι Κωδικοί Αναγνώρισης, που έχουν παύσει να ισχύουν, δύνανται να χορηγούνται εκ νέου και δεν αποτελούν αντικείμενο μεταβίβασης ή οποιασδήποτε ανταλλαγής. "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/3/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/3/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/3/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Σε περίπτωση συγχωνεύσεων, μεταβίβασης ή οποιασδήποτε άλλης εταιρικής αλλαγής εκκαθαριστριών εταιριών, η διάδοχη εταιρία διατηρεί μόνον έναν Κωδικό Αναγνώρισης μετά το πέρας ενός (1) έτους από την έγγραφη δήλωσή της και εφόσον τηρούνται οι προϋποθέσεις αναγνώρισής της."@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/4/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η αναγνωρισμένη εκκαθαρίστρια εντάσσεται στον επίσημο κατάλογο εκκαθαριστριών, ο οποίος τηρείται από την αρμόδια υπηρεσία του ΥΥΜΔ, κοινοποιείται στη Διεθνή Ένωση Τηλεπικοινωνιών και στο Υπουργείο Ναυτιλίας και Αιγαίου και αναρτάται στην ιστοσελίδα του Υπουργείου Υποδομών, Μεταφορών και Δικτύων. "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η αναγνωρισμένη εκκαθαρίστρια εντάσσεται στον επίσημο κατάλογο εκκαθαριστριών, ο οποίος τηρείται από την αρμόδια υπηρεσία του ΥΥΜΔ, κοινοποιείται στη Διεθνή Ένωση Τηλεπικοινωνιών και στο Υπουργείο Ναυτιλίας και Αιγαίου και αναρτάται στην ιστοσελίδα του Υπουργείου Υποδομών, Μεταφορών και Δικτύων."@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/5>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/5/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "H αναγνώριση εκκαθαρίστριας δεν ερμηνεύεται ως ανάληψη οποιασδήποτε οικονομικής υποχρέωσης από την πλευρά του ελληνικού δημοσίου σε περίπτωση αθέτησης οποιασδήποτε πληρωμής από την εκκαθαρίστρια. "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "H αναγνώριση εκκαθαρίστριας δεν ερμηνεύεται ως ανάληψη οποιασδήποτε οικονομικής υποχρέωσης από την πλευρά του ελληνικού δημοσίου σε περίπτωση αθέτησης οποιασδήποτε πληρωμής από την εκκαθαρίστρια."@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/6>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -64,60 +84,73 @@
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/6/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/6/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/6/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στις περιπτώσεις τροποποίησης, υποβάλλεται το παράβολο που προβλέπεται στην παρ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/6/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/6/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/6/passage/3> <http://legislation.di.uoa.gr/ontology/text> "5 του άρθρου 4 του παρόντος."@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/7>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/7/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Με απόφαση του Υπουργού, Υποδομών, Μεταφορών και Δικτύων μπορούν να τροποποιούνται τα δικαιολογητικά του άρθρου 4 και να ρυθμίζονται οι λεπτομέρειες εφαρμογής του παρόντος. "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/2/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Με απόφαση του Υπουργού, Υποδομών, Μεταφορών και Δικτύων μπορούν να τροποποιούνται τα δικαιολογητικά του άρθρου 4 και να ρυθμίζονται οι λεπτομέρειες εφαρμογής του παρόντος."@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/137> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/3>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Να τηρεί τα προβλεπόμενα στην κείμενη εθνική νομοθεσία, τους Κανονισμούς Ραδιοεπικοινωνιών (ITURRs) και τους Διεθνείς Κανονισμούς Τηλεπικοινωνιών (ITU-ITRs), όπως εκάστοτε ισχύουν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Να τηρεί τα προβλεπόμενα στην κείμενη εθνική νομοθεσία, τους Κανονισμούς Ραδιοεπικοινωνιών (ITURRs) και τους Διεθνείς Κανονισμούς Τηλεπικοινωνιών (ITU-ITRs), όπως εκάστοτε ισχύουν."@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Να τηρεί επικαιροποιημένα και ακριβή αρχεία των κινητών σταθμών ελληνικών εμπορικών πλοίων, για τους οποίους έχει την ευθύνη. "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Να τηρεί επικαιροποιημένα και ακριβή αρχεία των κινητών σταθμών ελληνικών εμπορικών πλοίων, για τους οποίους έχει την ευθύνη."@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/3/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Να τηρεί ξεχωριστό λογαριασμό στο λογιστικό της σύστημα, ως προς την εκκαθάριση των λογαριασμών κινητής ναυτικής και της κινητής ναυτικής δορυφορικής υπηρεσίας των ελληνικών εμπορικών πλοίων, για τους οποίους είναι υπεύθυνη. "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Να τηρεί ξεχωριστό λογαριασμό στο λογιστικό της σύστημα, ως προς την εκκαθάριση των λογαριασμών κινητής ναυτικής και της κινητής ναυτικής δορυφορικής υπηρεσίας των ελληνικών εμπορικών πλοίων, για τους οποίους είναι υπεύθυνη."@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/4/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Να αποστέλλει στην αρμόδια υπηρεσία του ΥΥΜΔ εντός του πρώτου δεκαπενθήμερου των μηνών Ιανουαρίου και Ιουλίου εκάστου έτους σε ηλεκτρονική μορφή ενημερωμένο κατάλογο των σταθμών ελληνικών εμπορικών πλοίων για τους οποίους έχει αναλάβει την ευθύνη με τα εξής στοιχεία: - Όνομα πλοίου/κινητού σταθμού (VESSEL) - Αριθμός ΙΜΟ (Ιnternational Μaritime Οrganisation) - Διεθνές Διακριτικό Σήμα (CALL SIGN) - Διακριτικό Σταθμού Πλοίου (MMSI)-(Maritime Mobile Service Identity) - Πλοιοκτήτρια Εταιρία / Έδρα ( SHIPOWNER) ή Διαχειρίστρια Εταιρία (ΟPERATOR/AGENT/MANAGER) - Ημερομηνία προσθήκης/διαγραφής "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Να αποστέλλει στην αρμόδια υπηρεσία του ΥΥΜΔ εντός του πρώτου δεκαπενθήμερου των μηνών Ιανουαρίου και Ιουλίου εκάστου έτους σε ηλεκτρονική μορφή ενημερωμένο κατάλογο των σταθμών ελληνικών εμπορικών πλοίων για τους οποίους έχει αναλάβει την ευθύνη με τα εξής στοιχεία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/4/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/4/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/4/passage/2> <http://legislation.di.uoa.gr/ontology/text> " - Όνομα πλοίου/κινητού σταθμού (VESSEL) - Αριθμός ΙΜΟ (Ιnternational Μaritime Οrganisation) - Διεθνές Διακριτικό Σήμα (CALL SIGN) - Διακριτικό Σταθμού Πλοίου (MMSI)-(Maritime Mobile Service Identity) - Πλοιοκτήτρια Εταιρία / Έδρα ( SHIPOWNER) ή Διαχειρίστρια Εταιρία (ΟPERATOR/AGENT/MANAGER) - Ημερομηνία προσθήκης/διαγραφής"@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/5>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/5/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Να αποστέλλει στην αρμόδια υπηρεσία του ΥΥΜΔ, εντός του πρώτου τριμήνου εκάστου έτους, ασφαλιστική και φορολογική ενημερότητα, καθώς και παράβολο υπέρ του δημοσίου (ΚΑΕ 3741 – παράβολα από κάθε αιτία) αξίας ίσου με το 1/2 του απαιτούμενου παραβόλου αναγνώρισης. "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Να αποστέλλει στην αρμόδια υπηρεσία του ΥΥΜΔ, εντός του πρώτου τριμήνου εκάστου έτους, ασφαλιστική και φορολογική ενημερότητα, καθώς και παράβολο υπέρ του δημοσίου (ΚΑΕ 3741 – παράβολα από κάθε αιτία) αξίας ίσου με το 1/2 του απαιτούμενου παραβόλου αναγνώρισης."@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/6>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/6/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Να ενημερώνει την αρμόδια υπηρεσία του ΥΥΜΔ εντός τριμήνου για οποιαδήποτε μεταβολή ως προς τους όρους και τις προϋποθέσεις αναγνώρισής της. "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Να ενημερώνει την αρμόδια υπηρεσία του ΥΥΜΔ εντός τριμήνου για οποιαδήποτε μεταβολή ως προς τους όρους και τις προϋποθέσεις αναγνώρισής της."@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/7>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/7/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Να προβαίνει στην κανονική εξόφληση των λογαριασμών ραδιοεπικοινωνιών των συμβεβλημένων με αυτήν ελληνικών εμπορικών πλοίων και να μην πραγματοποιεί απορρίψεις λογαριασμών ραδιοεπικοινωνιών των συμβεβλημένων με αυτήν ελληνικών εμπορικών πλοίων με αναδρομική ισχύ, σύμφωνα με τις ισχύουσες εκάστοτε διατάξεις της Διεθνούς Ένωσης Τηλεπικοινωνιών (ITU) International Telecommunication Union. "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Να προβαίνει στην κανονική εξόφληση των λογαριασμών ραδιοεπικοινωνιών των συμβεβλημένων με αυτήν ελληνικών εμπορικών πλοίων και να μην πραγματοποιεί απορρίψεις λογαριασμών ραδιοεπικοινωνιών των συμβεβλημένων με αυτήν ελληνικών εμπορικών πλοίων με αναδρομική ισχύ, σύμφωνα με τις ισχύουσες εκάστοτε διατάξεις της Διεθνούς Ένωσης Τηλεπικοινωνιών (ITU) International Telecommunication Union."@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/8>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/8/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/8/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/8/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Σε περίπτωση αλλαγής εκκαθαρίστριας εταιρείας, δύναται να εκδίδεται από την εκκαθαρίστρια, η οποία είχε προηγουμένως την ευθύνη εκκαθάρισης σχετικών λογαριασμών του πλοίου, βεβαίωση στην οποία αναγράφεται αναλυτικά η χρονική περίοδος για την οποία είχε την ευθύνη. "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/8/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/8/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/3/paragraph/8/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Η εν λόγω βεβαίωση υποβάλλεται στη νέα εκκαθαρίστρια εταιρεία, προκειμένου να αναλάβει την ευθύνη εκκαθάρισης λογαριασμών του πλοίου."@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/137> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/4>.
-<http://legislation.di.uoa.gr/pd/2014/137/article/4> <http://purl.org/dc/terms/title> "Έλεγχος – Κυρώσεις".<http://legislation.di.uoa.gr/pd/2014/137/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/4> <http://purl.org/dc/terms/title> "Έλεγχος – Κυρώσεις".
+<http://legislation.di.uoa.gr/pd/2014/137/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/4/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/4/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/4/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/4/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η αρμόδια υπηρεσία του ΥΥΜΔ δύναται να προβαίνει σε τακτικούς ή έκτακτους ελέγχους τήρησης των όρων και προϋποθέσεων αναγνώρισης. "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/4/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/4/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/4/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Σε περίπτωση διαπίστωσης μη τήρησης συγκεκριμένων όρων και προϋποθέσεων αναγνώρισης του παρόντος, η αρμόδια υπηρεσία του ΥΥΜΔ ενημερώνει την εκκαθαρίστρια και την καλεί να συμμορφωθεί αμελλητί."@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/4/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/4/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/4/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -134,19 +167,27 @@
 <http://legislation.di.uoa.gr/pd/2014/137/article/4/paragraph/2/case/4> <http://legislation.di.uoa.gr/ontology/text> " Εάν με τελεσίδικη δικαστική απόφαση καταδικαστεί ο νόμιμος εκπρόσωπος της εκκαθαρίστριας γιατα αδικήματα που αναφέρονται στο ως άνω άρθρο 3παρ. 3β του παρόντος. "@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/137> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/5>.
-<http://legislation.di.uoa.gr/pd/2014/137/article/5> <http://purl.org/dc/terms/title> "Μεταβατικές Διατάξεις".<http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/5> <http://purl.org/dc/terms/title> "Μεταβατικές Διατάξεις".
+<http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι αναγνωρίσεις εκκαθαριστριών, που έλαβαν χώρα πριν από την δημοσίευση του παρόντος και δεν έχουν ανακληθεί, εξακολουθούν να ισχύουν και προσμετρούνται στο συνολικό αριθμό εκκαθαριστριών, που προβλέπεται στην παράγραφο 1 του άρθρου 3 του παρόντος. "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> " 7400"@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/2/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Όλες οι εκκαθαρίστριες, που έχουν αναγνωρισθεί και λειτουργούν πριν από την δημοσίευση του παρόντος, υποχρεούνται να συμμορφωθούν με τις προϋποθέσεις του παρόντος εντός 6 μηνών από τη θέση του σε ισχύ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/5/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ειδικά στην περίπτωση που διαθέτουν περισσότερους του ενός κωδικούς, επιλέγουν εγγράφως εντός της ως άνω προθεσμίας τον κωδικό που επιθυμούν να διατηρήσουν, άλλως θα διατηρείται ο μικρότερος αριθμητικά κωδικός."@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/137> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/6>.
-<http://legislation.di.uoa.gr/pd/2014/137/article/6> <http://purl.org/dc/terms/title> "Καταργούμενες Διατάξεις".<http://legislation.di.uoa.gr/pd/2014/137/article/6/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/6> <http://purl.org/dc/terms/title> "Καταργούμενες Διατάξεις".
+<http://legislation.di.uoa.gr/pd/2014/137/article/6/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/6/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/6/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/6/paragraph/1/passage/1>.
@@ -154,9 +195,13 @@
 <http://legislation.di.uoa.gr/pd/2014/137/article/6/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/6/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/6/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "πρωτ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/137/article/6/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/6/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/6/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "79324/13.7.1994 (ΦΕΚ 583/Β΄/27-07-1994)απόφαση του Υπουργού Μεταφορών και Επικοινωνιώνόπως ισχύει καθώς και κάθε άλλη γενική ή ειδική διάτα-ξη που αντιβαίνει στις διατάξεις του παρόντος. "@el.
 <http://legislation.di.uoa.gr/pd/2014/137/article/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/137> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/7>.
-<http://legislation.di.uoa.gr/pd/2014/137/article/7> <http://purl.org/dc/terms/title> "Έναρξη ισχύος".<http://legislation.di.uoa.gr/pd/2014/137/article/7/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/137/article/7> <http://purl.org/dc/terms/title> "Έναρξη ισχύος".
+<http://legislation.di.uoa.gr/pd/2014/137/article/7/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/7/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/7/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/137/article/7/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/137/article/7/paragraph/1/passage/1>.
@@ -164,3 +209,4 @@
 <http://legislation.di.uoa.gr/pd/2014/137> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

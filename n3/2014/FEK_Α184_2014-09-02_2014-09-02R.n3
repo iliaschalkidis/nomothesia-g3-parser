@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/115> <http://purl.org/dc/terms/created> "2014-09-02"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/115> <http://legislation.di.uoa.gr/ontology/legislationID> "115"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/115> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/115> <http://purl.org/dc/terms/title> "Αποδοχή παραίτησης Υφυπουργού Παιδείας και Θρησκευμάτων.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/115/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/115/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 37 παρ. 1 του Συντάγματος. "@el.
@@ -25,3 +26,4 @@
 <http://legislation.di.uoa.gr/pd/2014/115> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

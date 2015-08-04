@@ -47,6 +47,9 @@
 <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/1/paragraph/1/passage/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/1/paragraph/1/passage/12>.
 <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/1/paragraph/1/passage/12> <http://legislation.di.uoa.gr/ontology/text> "α, γ, δ, ε, στ, και 17, 20, 21, 22 και 23 του Π.δ. "@el.
+<http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/1/paragraph/1/passage/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/1/paragraph/1/passage/13>.
+<http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/1/paragraph/1/passage/13> <http://legislation.di.uoa.gr/ontology/text> "63/2005. "@el.
 <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/amc/2015/Πράξη 2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/2>.
 <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -64,6 +67,9 @@
 <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/3/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/3/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/3/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "3, 10, 11 και 12 του Π.δ. "@el.
+<http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/3/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/3/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/3/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "63/2005. "@el.
 <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/amc/2015/Πράξη 2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/4>.
 <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -98,6 +104,9 @@
 <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/4/paragraph/1/passage/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/4/paragraph/1/passage/10>.
 <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/4/paragraph/1/passage/10> <http://legislation.di.uoa.gr/ontology/text> "Η πράξη αυτή να δημοσιευθεί στην Εφημερίδα της Κυβερνήσεως. "@el.
+<http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/4/paragraph/1/passage/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/4/paragraph/1/passage/11>.
+<http://legislation.di.uoa.gr/amc/2015/Πράξη 2/article/4/paragraph/1/passage/11> <http://legislation.di.uoa.gr/ontology/text> " "@el.
 <http://legislation.di.uoa.gr/amc/2015/Πράξη 2> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.

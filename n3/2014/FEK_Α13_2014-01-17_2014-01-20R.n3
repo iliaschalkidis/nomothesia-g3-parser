@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/8> <http://purl.org/dc/terms/created> "2014-01-17"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/8> <http://legislation.di.uoa.gr/ontology/legislationID> "8"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/8> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/8> <http://purl.org/dc/terms/title> "Άρθρο 1 Εφαρμογή της απόφασης 1929 (2010) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.). Απαγορεύονται οι επενδύσεις στο ελληνικό έδαφος, που αφορούν συμμετοχή του Ιράν, των υπηκόων του και φορέων που έχουν συσταθεί στο Ιράν ή υπάγονται στη δικαιοδοσία του, ή προσώπων ή φορέων που ενεργούν εκ μέρους τους ή σύμφωνα με οδηγίες τους, ή φορέων που ανήκουν σε ή ελέγχονται από αυτούς, σε οποιαδήποτε εμπορική δραστηριότητα που αφορά στην εξόρυξη ουρανίου, στην παραγωγή ή χρήση πυρηνικών υλικών και τεχνολογίας όπως ορίζονται στην Ενημερωτική Εγκύκλιο/254/Αναθ.9/Μέρος1(INFCIRC/254/Rev.9/ Part 1), η οποία μπορεί να ανευρεθεί στο διαδικτυακό τόπο http://www.un.org/sc/committees/1737/selecdocs. shtml, ιδίως δραστηριότητες εμπλουτισμού ουρανίου και επανεπεξεργασίας, όλες οι δραστηριότητες βαρέως ύδατος ή τεχνολογία που σχετίζεται με βαλλιστικούς πυραύλους με ικανότητα μεταφοράς πυρηνικών όπλων.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/8/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Το άρθρο 25 του καταστατικού Χάρτη του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.) όπως κυρώθηκε με τον Α.Ν. 585/1945 (Α΄ 242). "@el.
@@ -45,17 +46,20 @@
 <http://legislation.di.uoa.gr/pd/2014/8/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Απαγορεύεται η άμεση ή έμμεση προμήθεια, πώληση ή μεταφορά στο Ιράν, από το ελληνικό έδαφος ή μέσω αυτού ή από Έλληνες υπηκόους ή από άτομα που υπάγονται στη δικαιοδοσία της Ελληνικής Δημοκρατίας ή με τη χρήση σκαφών που φέρουν την ελληνική σημαία ή αεροσκαφών εγγεγραμμένων στην Ελλάδα και είτε προέρχονται από το ελληνικό έδαφος είτε όχι, οποιωνδήποτε αρμάτων μάχης, τεθωρακισμένων οχημάτων μάχης, συστημάτων πυροβολικού μεγάλου διαμετρήματος, μαχητικών αεροσκαφών, επιθετικών ελικοπτέρων, πολεμικών πλοίων, πυραύλων ή πυραυλικών συστημάτων όπως ορίζονται για τους σκοπούς του Μητρώου Συμβατικών Όπλων των Ηνωμένων Εθνών, ή συναφούς υλικού, συμπεριλαμβανομένων ανταλλακτικών, ή αντικειμένων όπως καθορίζονται από το Συμβούλιο Ασφαλείας ή την Επιτροπή που συστάθηκε σύμφωνα με την απόφαση 1737 (2006) του Συμβουλίου Ασφαλείας, η οποία εφεξής θα αναφέρεται ως «η Επιτροπή ». "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Απαγορεύεται η άμεση ή έμμεση προμήθεια, πώληση ή μεταφορά στο Ιράν, από το ελληνικό έδαφος ή μέσω αυτού ή από Έλληνες υπηκόους ή από άτομα που υπάγονται στη δικαιοδοσία της Ελληνικής Δημοκρατίας ή με τη χρήση σκαφών που φέρουν την ελληνική σημαία ή αεροσκαφών εγγεγραμμένων στην Ελλάδα και είτε προέρχονται από το ελληνικό έδαφος είτε όχι, οποιωνδήποτε αρμάτων μάχης, τεθωρακισμένων οχημάτων μάχης, συστημάτων πυροβολικού μεγάλου διαμετρήματος, μαχητικών αεροσκαφών, επιθετικών ελικοπτέρων, πολεμικών πλοίων, πυραύλων ή πυραυλικών συστημάτων όπως ορίζονται για τους σκοπούς του Μητρώου Συμβατικών Όπλων των Ηνωμένων Εθνών, ή συναφούς υλικού, συμπεριλαμβανομένων ανταλλακτικών, ή αντικειμένων όπως καθορίζονται από το Συμβούλιο Ασφαλείας ή την Επιτροπή που συστάθηκε σύμφωνα με την απόφαση 1737 (2006) του Συμβουλίου Ασφαλείας, η οποία εφεξής θα αναφέρεται ως «η Επιτροπή »."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/2/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Απαγορεύεται, περαιτέρω, η παροχή στο Ιράν από Έλληνες υπηκόους ή από το ελληνικό έδαφος ή μέσω αυτού, τεχνικής εκπαίδευσης, οικονομικών πόρων ή υπηρεσιών, συμβουλών, λοιπών υπηρεσιών ή συνδρομής που σχετίζονται με την προμήθεια, πώληση, μεταφορά, παροχή, κατασκευή, συντήρηση ή χρήση τέτοιων όπλων και συναφούς υλικού. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> " 158"@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/3/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι αρμόδιες ελληνικές αρχές μεριμνούν για την μη εκτεταμένη προμήθεια, πώληση, μεταφορά, παροχή, κατασκευή και χρήση όλων των άλλων, πέραν των αναφερομένων στην παράγραφο 1 ανωτέρω, όπλων και του συναφούς υλικού. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι αρμόδιες ελληνικές αρχές μεριμνούν για την μη εκτεταμένη προμήθεια, πώληση, μεταφορά, παροχή, κατασκευή και χρήση όλων των άλλων, πέραν των αναφερομένων στην παράγραφο 1 ανωτέρω, όπλων και του συναφούς υλικού."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/2>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -69,17 +73,17 @@
 <http://legislation.di.uoa.gr/pd/2014/8/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Απαγορεύεται η είσοδος στο ελληνικό έδαφος ή η διέλευση μέσω αυτού των ατόμων που ορίζονται στα Παραρτήματα Γ, Δ και Ε της απόφασης 1737 (2006), τα οποία παρατίθενται ως Μέρη Γ, Δ και Ε, αντίστοιχα, του Παραρτήματος Α του προεδρικού διατάγματος 10/2011 (Α΄25), στο Παράρτημα Ι της απόφασης 1747 (2007), το οποίο παρατίθεται ως Παράρτημα του προεδρικού διατάγματος 27/2012 (Α΄60), στο Παράρτημα Ι της απόφασης 1803 (2008), το οποίο παρατίθεται ως Παράρτημα A του προεδρικού διατάγματος 124/2012 (Α΄217) και στα Παραρτήματα Ι και ΙΙ της απόφασης 1929 (2010), τα οποία παρατίθενται ως Παραρτήματα Α και Β του παρόντος ή τα οποία ορίζονται από το Συμβούλιο Ασφαλείας ή την Επιτροπή, σύμφωνα με το άρθρο 7 του προεδρικού διατάγματος 10/2011 (Α΄25), εκτός των περιπτώσεων στις οποίες η είσοδος ή διέλευση αυτή αφορά δραστηριότητες που συνδέονται άμεσα με την παροχή στο Ιράν των αντικειμένων που παρατίθενται στο άρθρο 1, παράγραφος (β), εδάφια (i) και (ii) του προεδρικού διατάγματος 10/2011 (Α΄25), σύμφωνα με το άρθρο 1 του προεδρικού αυτού διατάγματος. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Απαγορεύεται η είσοδος στο ελληνικό έδαφος ή η διέλευση μέσω αυτού των ατόμων που ορίζονται στα Παραρτήματα Γ, Δ και Ε της απόφασης 1737 (2006), τα οποία παρατίθενται ως Μέρη Γ, Δ και Ε, αντίστοιχα, του Παραρτήματος Α του προεδρικού διατάγματος 10/2011 (Α΄25), στο Παράρτημα Ι της απόφασης 1747 (2007), το οποίο παρατίθεται ως Παράρτημα του προεδρικού διατάγματος 27/2012 (Α΄60), στο Παράρτημα Ι της απόφασης 1803 (2008), το οποίο παρατίθεται ως Παράρτημα A του προεδρικού διατάγματος 124/2012 (Α΄217) και στα Παραρτήματα Ι και ΙΙ της απόφασης 1929 (2010), τα οποία παρατίθενται ως Παραρτήματα Α και Β του παρόντος ή τα οποία ορίζονται από το Συμβούλιο Ασφαλείας ή την Επιτροπή, σύμφωνα με το άρθρο 7 του προεδρικού διατάγματος 10/2011 (Α΄25), εκτός των περιπτώσεων στις οποίες η είσοδος ή διέλευση αυτή αφορά δραστηριότητες που συνδέονται άμεσα με την παροχή στο Ιράν των αντικειμένων που παρατίθενται στο άρθρο 1, παράγραφος (β), εδάφια (i) και (ii) του προεδρικού διατάγματος 10/2011 (Α΄25), σύμφωνα με το άρθρο 1 του προεδρικού αυτού διατάγματος."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "H διάταξη της παραγράφου 1 δεν υποχρεώνει τις αρμόδιες αρχές της Ελληνικής Δημοκρατίας να αρνηθούν την είσοδο στο ελληνικό έδαφος σε Έλληνες υπηκόους. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "H διάταξη της παραγράφου 1 δεν υποχρεώνει τις αρμόδιες αρχές της Ελληνικής Δημοκρατίας να αρνηθούν την είσοδο στο ελληνικό έδαφος σε Έλληνες υπηκόους."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/3/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα μέτρα που επιβάλλονται βάσει της παραγράφου 1 δεν εφαρμόζονται όταν η Επιτροπή κρίνει, κατά περίπτωση, ότι η σχετική μετακίνηση δικαιολογείται για λόγους ανθρωπιστικής ανάγκης, συμπεριλαμβανομένων των θρησκευτικών υποχρεώσεων, ή στις περιπτώσεις που η Επιτροπή καταλήγει στο συμπέρασμα ότι μια εξαίρεση θα προωθούσε με άλλο τρόπο τους σκοπούς της απόφασης 1929 (2010) του Συμβουλίου Ασφαλείας του Ο.Η.Ε., συμπεριλαμβανομένων των περιπτώσεων στις οποίες εφαρμόζεται το Άρθρο XV του καταστατικού του Διεθνούς Οργανισμού Ατομικής Ενέργειας, που έχει κυρωθεί με το Νομοθετικό Διάταγμα 3730/1957 (Α΄149). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/3/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα μέτρα που επιβάλλονται βάσει της παραγράφου 1 δεν εφαρμόζονται όταν η Επιτροπή κρίνει, κατά περίπτωση, ότι η σχετική μετακίνηση δικαιολογείται για λόγους ανθρωπιστικής ανάγκης, συμπεριλαμβανομένων των θρησκευτικών υποχρεώσεων, ή στις περιπτώσεις που η Επιτροπή καταλήγει στο συμπέρασμα ότι μια εξαίρεση θα προωθούσε με άλλο τρόπο τους σκοπούς της απόφασης 1929 (2010) του Συμβουλίου Ασφαλείας του Ο.Η.Ε., συμπεριλαμβανομένων των περιπτώσεων στις οποίες εφαρμόζεται το Άρθρο XV του καταστατικού του Διεθνούς Οργανισμού Ατομικής Ενέργειας, που έχει κυρωθεί με το Νομοθετικό Διάταγμα 3730/1957 (Α΄149)."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/4>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -100,23 +104,32 @@
 <http://legislation.di.uoa.gr/pd/2014/8/article/5/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/5/paragraph/1/passage/3>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/5/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "2. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/5/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/5/paragraph/1/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/5/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Οι αρμόδιες ελληνικές αρχές επαγρυπνούν σχετικά με τις συναλλαγές εκείνες στις οποίες εμπλέκεται το Σώμα Φρουρών της Ισλαμικής Επανάστασης, οι οποίες θα μπορούσαν να συμβάλουν στις ευαίσθητες, από πλευράς διάδοσης, πυρηνικές δραστηριότητες του Ιράν ή στην ανάπτυξη συστημάτων μεταφοράς πυρηνικών όπλων. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/6>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Για τους σκοπούς των μέτρων που ορίζονται στα άρθρα 1, 2, 3, 4 και 5 του προεδρικού διατάγματος 10/2011 (Α΄25), ο κατάλογος αντικειμένων του εγγράφου S/2006/814 του Συμβουλίου Ασφαλείας, το οποίο παρατίθεται ως Παράρτημα Β του προαναφερθέντος προεδρικού διατάγματος, αντικαθίσταται από τον κατάλογο αντικειμένων της Ενημερωτικής Εγκυκλίου/254/ Αναθ.9/Μέρος 1 (INFCIRC/254/Rev.9/Part1) και της Ενημερωτικής Εγκυκλίου/254/Αναθ.7/Μέρος 2 (INFCIRC/254/ Rev.7/Part 2), και οποιαδήποτε περαιτέρω αντικείμενα εάν οι αρμόδιες ελληνικές αρχές κρίνουν ότι αυτά θα μπορούσαν να συμβάλουν σε δραστηριότητες που σχετίζονται με εμπλουτισμό, σε δραστηριότητες επανεπεξεργασίας ή σε δραστηριότητες που σχετίζονται με βαρύ ύδωρ ή στην ανάπτυξη συστημάτων μεταφοράς πυρηνικών όπλων. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Για τους σκοπούς των μέτρων που ορίζονται στα άρθρα 1, 2, 3, 4 και 5 του προεδρικού διατάγματος 10/2011 (Α΄25), ο κατάλογος αντικειμένων του εγγράφου S/2006/814 του Συμβουλίου Ασφαλείας, το οποίο παρατίθεται ως Παράρτημα Β του προαναφερθέντος προεδρικού διατάγματος, αντικαθίσταται από τον κατάλογο αντικειμένων της Ενημερωτικής Εγκυκλίου/254/ Αναθ.9/Μέρος 1 (INFCIRC/254/Rev.9/Part1) και της Ενημερωτικής Εγκυκλίου/254/Αναθ.7/Μέρος 2 (INFCIRC/254/ Rev.7/Part 2), και οποιαδήποτε περαιτέρω αντικείμενα εάν οι αρμόδιες ελληνικές αρχές κρίνουν ότι αυτά θα μπορούσαν να συμβάλουν σε δραστηριότητες που σχετίζονται με εμπλουτισμό, σε δραστηριότητες επανεπεξεργασίας ή σε δραστηριότητες που σχετίζονται με βαρύ ύδωρ ή στην ανάπτυξη συστημάτων μεταφοράς πυρηνικών όπλων."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Περαιτέρω, για τους σκοπούς των μέτρων που ορίζονται στα άρθρα 1, 2, 3, 4 και 5 του προεδρικού διατάγματος 10/2011 (Α΄25), ο κατάλογος αντικειμένων του εγγράφου S/2006/815 του Συμβουλίου Ασφαλείας, το οποίο παρατίθεται ως Παράρτημα Γ του προαναφερθέντος προεδρικού διατάγματος, αντικαθίσταται από τον κατάλογο αντικειμένων του εγγράφου S/2010/263 του Συμβουλίου Ασφαλείας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Περαιτέρω, για τους σκοπούς των μέτρων που ορίζονται στα άρθρα 1, 2, 3, 4 και 5 του προεδρικού διατάγματος 10/2011 (Α΄25), ο κατάλογος αντικειμένων του εγγράφου S/2006/815 του Συμβουλίου Ασφαλείας, το οποίο παρατίθεται ως Παράρτημα Γ του προαναφερθέντος προεδρικού διατάγματος, αντικαθίσταται από τον κατάλογο αντικειμένων του εγγράφου S/2010/263 του Συμβουλίου Ασφαλείας."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/3/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η Ενημερωτική Εγκύκλιος/254/Αναθ.9/Μέρος 1 (INFCIRC/254/Rev.9/Part1), η Ενημερωτική Εγκύκλιος/254/ Αναθ.7/Μέρος 2 (INFCIRC/254/Rev.7/Part2), καθώς και το έγγραφο S/2010/263 του Συμβουλίου Ασφαλείας μπορούν να ανευρεθούν στο διαδικτυακό τόπο http://www. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η Ενημερωτική Εγκύκλιος/254/Αναθ.9/Μέρος 1 (INFCIRC/254/Rev.9/Part1), η Ενημερωτική Εγκύκλιος/254/ Αναθ.7/Μέρος 2 (INFCIRC/254/Rev.7/Part2), καθώς και το έγγραφο S/2010/263 του Συμβουλίου Ασφαλείας μπορούν να ανευρεθούν στο διαδικτυακό τόπο http. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/3/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "//www. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/3/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/3/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/6/paragraph/3/passage/3> <http://legislation.di.uoa.gr/ontology/text> "un.org/sc/committees/1737/selecdocs.shtml."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/7>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/7/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -151,6 +164,9 @@
 <http://legislation.di.uoa.gr/pd/2014/8/article/10/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/10/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/10/paragraph/1/passage/3>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/10/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "2. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/10/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/10/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/10/paragraph/1/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/10/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Σε περίπτωση που, κατά την επιθεώρηση, βρεθούν αντικείμενα των οποίων η μεταφορά απαγορεύεται, οι αρμόδιες ελληνικές αρχές υποβάλλουν στην Επιτροπή, σε μεταγενέστερο στάδιο, μια μεταγενέστερη γραπτή έκθεση στην οποία περιλαμβάνονται σχετικές λεπτομέρειες αναφορικά με την επιθεώρηση, την κατάσχεση και τη διάθεση και σχετικές λεπτομέρειες αναφορικά με τη μεταφορά, συμπεριλαμβανομένης της περιγραφής των αντικειμένων, της προέλευσης και του επιδιωκόμενου προορισμού τους, εάν αυτές οι πληροφορίες δεν περιλαμβάνονται στην αρχική έκθεση. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/11>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/11/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -164,6 +180,9 @@
 <http://legislation.di.uoa.gr/pd/2014/8/article/11/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/11/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/11/paragraph/1/passage/3>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/11/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "2. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/11/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/11/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/11/paragraph/1/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/11/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Η ανωτέρω παράγραφος δεν έχει σκοπό να θίξει νόμιμες οικονομικές δραστηριότητες. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/12>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/12/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -226,51 +245,93 @@
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Βιομηχανικό Συγκρότημα Amin (Amin Industrial Complex): Το Βιομηχανικό Συγκρότημα Amin αναζήτησε θερμοστάτες, οι οποίοι μπορούν να χρησιμοποιηθούν στην πυρηνική έρευνα και σε πυρηνικές εγκαταστάσεις λειτουργίας/παραγωγής. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Βιομηχανικό Συγκρότημα Amin (Amin Industrial Complex). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Το Βιομηχανικό Συγκρότημα Amin ανήκει σε ή ελέγχεται από, ή ενεργεί εκ μέρους του Οργανισμού Αμυντικών Βιομηχανιών (DIO), ο οποίος κατονομάζεται στην απόφαση 1737 (2006). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Το Βιομηχανικό Συγκρότημα Amin αναζήτησε θερμοστάτες, οι οποίοι μπορούν να χρησιμοποιηθούν στην πυρηνική έρευνα και σε πυρηνικές εγκαταστάσεις λειτουργίας/παραγωγής. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/3>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία: P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Το Βιομηχανικό Συγκρότημα Amin ανήκει σε ή ελέγχεται από, ή ενεργεί εκ μέρους του Οργανισμού Αμυντικών Βιομηχανιών (DIO), ο οποίος κατονομάζεται στην απόφαση 1737 (2006). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/4>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Box 91735 – 549, Mashad, Ιράν, Amin Industrial Estate (Βιομηχανική Περιοχή Amin), Khalage Rd., Seyedi District, Mashad, Iράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/5>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Kaveh Complex, Khalaj Rd., Seyedi St., Mashad, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> " P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/6>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Box 91735 – 549, Mashad, Ιράν, Amin Industrial Estate (Βιομηχανική Περιοχή Amin), Khalage Rd., Seyedi District, Mashad, Iράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/7>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/7> <http://legislation.di.uoa.gr/ontology/text> "Kaveh Complex, Khalaj Rd., Seyedi St., Mashad, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/8>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/8> <http://legislation.di.uoa.gr/ontology/text> "Γνωστό επίσης και ως. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/9>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/1/passage/9> <http://legislation.di.uoa.gr/ontology/text> " Amin Industrial Compound και Βιομηχανική Εταιρεία Amin (Amin Industrial Company)."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Όμιλος Εξοπλιστικών Βιομηχανιών (Armament Industries Group): Ο Όμιλος Εξοπλιστικών Βιομηχανιών (AIG) κατασκευάζει και συντηρεί διάφορα μικρά όπλα και ελαφρύ εξοπλισμό, συμπεριλαμβανομένων πυροβόλων    μεγάλου και μέσου διαμετρήματος και σχετικής τεχνολογίας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Όμιλος Εξοπλιστικών Βιομηχανιών (Armament Industries Group). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ο Όμιλος Εξοπλιστικών Βιομηχανιών διεξάγει το μεγαλύτερο μέρος της προμηθευτικής του δραστηριότητας μέσω του Συγκροτήματος Βιομηχανιών Hadid (Hadid Industries Complex). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Ο Όμιλος Εξοπλιστικών Βιομηχανιών (AIG) κατασκευάζει και συντηρεί διάφορα μικρά όπλα και ελαφρύ εξοπλισμό, συμπεριλαμβανομένων πυροβόλων    μεγάλου και μέσου διαμετρήματος και σχετικής τεχνολογίας. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/3>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία: Sepah Islam Road, Karaj Special Road Km 10 (10ο χλμ Ειδικής Οδού Karaj), Ιράν, Pasdaran Ave., P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Ο Όμιλος Εξοπλιστικών Βιομηχανιών διεξάγει το μεγαλύτερο μέρος της προμηθευτικής του δραστηριότητας μέσω του Συγκροτήματος Βιομηχανιών Hadid (Hadid Industries Complex). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/5> <http://legislation.di.uoa.gr/ontology/text> " Sepah Islam Road, Karaj Special Road Km 10 (10ο χλμ Ειδικής Οδού Karaj), Ιράν, Pasdaran Ave., P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/6>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/2/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Box 19585/777, Τεχεράνη, Ιράν."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κέντρο Αμυντικής Τεχνολογίας και Επιστημονικής Έρευνας (Defense Technology and Science Research Center): Το Κέντρο Αμυντικής Τεχνολογίας και Επιστημονικής Έρευνας (DTSRC) ανήκει σε ή ελέγχεται από ή ενεργεί εκ μέρους του Υπουργείου Άμυνας και Διοικητικής Μέριμνας των Ενόπλων Δυνάμεων του Ιράν (MODAFL), το οποίο εποπτεύει την Έρευνα & Ανάπτυξη, την παραγωγή, τη συντήρηση, τις εξαγωγές και τις προμήθειες του Ιράν στον τομέα της άμυνας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κέντρο Αμυντικής Τεχνολογίας και Επιστημονικής Έρευνας (Defense Technology and Science Research Center). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία: Pasdaran Ave., P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Το Κέντρο Αμυντικής Τεχνολογίας και Επιστημονικής Έρευνας (DTSRC) ανήκει σε ή ελέγχεται από ή ενεργεί εκ μέρους του Υπουργείου Άμυνας και Διοικητικής Μέριμνας των Ενόπλων Δυνάμεων του Ιράν (MODAFL), το οποίο εποπτεύει την Έρευνα & Ανάπτυξη, την παραγωγή, τη συντήρηση, τις εξαγωγές και τις προμήθειες του Ιράν στον τομέα της άμυνας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3/passage/4> <http://legislation.di.uoa.gr/ontology/text> " Pasdaran Ave., P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/3/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Box 19585/777, Τεχεράνη, Ιράν."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/4/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Διεθνής Εταιρεία Doostan (Doostan International Company): Η Διεθνής Εταιρεία Doostan (DICO) προμηθεύει στοιχεία στο πρόγραμμα βαλλιστικών πυραύλων του Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Διεθνής Εταιρεία Doostan (Doostan International Company). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/4/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/4/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/4/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Η Διεθνής Εταιρεία Doostan (DICO) προμηθεύει στοιχεία στο πρόγραμμα βαλλιστικών πυραύλων του Ιράν."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Βιομηχανίες Farasakht (Farasakht Industries): Οι Βιομηχανίες Farasakht ανήκουν σε ή ελέγχονται από ή ενεργούν εκ μέρους της Ιρανικής Εταιρείας Κατασκευής Αεροσκαφών (Iran Aircraft Manufacturing Company), η οποία με τη σειρά της ανήκει σε ή ελέγχεται από τo Υπουργείο Άμυνας και Διοικητικής Μέριμνας των Ενόπλων Δυνάμεων (MODAFL). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Βιομηχανίες Farasakht (Farasakht Industries). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία: P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Οι Βιομηχανίες Farasakht ανήκουν σε ή ελέγχονται από ή ενεργούν εκ μέρους της Ιρανικής Εταιρείας Κατασκευής Αεροσκαφών (Iran Aircraft Manufacturing Company), η οποία με τη σειρά της ανήκει σε ή ελέγχεται από τo Υπουργείο Άμυνας και Διοικητικής Μέριμνας των Ενόπλων Δυνάμεων (MODAFL). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5/passage/4> <http://legislation.di.uoa.gr/ontology/text> " P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/5/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Box 83145-311, Kilometer 28 (28ο Χιλιόμετρο), Esfahan-Tehran Freeway (Αυτοκινητόδρομος Esfahan – Τεχεράνη), Shahin Shahr, Esfahan, Ιράν."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -278,24 +339,42 @@
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τράπεζα First East Export, P.L.C. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/2> <http://legislation.di.uoa.gr/ontology/text> "(First East Export Bank, P.L.C.): Η Τράπεζα First East Export, PLC ανήκει σε ή ελέγχεται από ή ενεργεί εκ μέρους της Τράπεζας Mellat. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/2> <http://legislation.di.uoa.gr/ontology/text> "(First East Export Bank, P.L.C.). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/3>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Τα τελευταία επτά χρόνια, η Τράπεζα Mellat έχει διευκολύνει συναλλαγές εκατοντάδων εκατομμυρίων δολαρίων για πυρηνικούς, πυραυλικούς και αμυντικούς φορείς του Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/3> <http://legislation.di.uoa.gr/ontology/text> " Η Τράπεζα First East Export, PLC ανήκει σε ή ελέγχεται από ή ενεργεί εκ μέρους της Τράπεζας Mellat. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/4>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία: Unit Level 10 (B1), Main Office Tower, Financial Park Labuan (Οικονομικό Πάρκο Labuan), Jalan Merdeka, 87000 WP Labuan, Μαλαισία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Τα τελευταία επτά χρόνια, η Τράπεζα Mellat έχει διευκολύνει συναλλαγές εκατοντάδων εκατομμυρίων δολαρίων για πυρηνικούς, πυραυλικούς και αμυντικούς φορείς του Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/6>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/6> <http://legislation.di.uoa.gr/ontology/text> " Unit Level 10 (B1), Main Office Tower, Financial Park Labuan (Οικονομικό Πάρκο Labuan), Jalan Merdeka, 87000 WP Labuan, Μαλαισία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/7>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/6/passage/7> <http://legislation.di.uoa.gr/ontology/text> "Αριθμός Μητρώου της Επιχείρησης LL06889 (Μαλαισία)."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εταιρεία Εργαλείων Κοπής Kaveh (Kaveh Cutting Tools Company): Η Εταιρεία Εργαλείων Κοπής Kaveh ανήκει σε ή ελέγχεται από, ή ενεργεί εκ μέρους, του Οργανισμού Αμυντικών Βιομηχανιών (DIO). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εταιρεία Εργαλείων Κοπής Kaveh (Kaveh Cutting Tools Company). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία: 3rd Km (3ο χλμ.) of Khalaj Road, Seyyedi Street, Mashad 91638, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Η Εταιρεία Εργαλείων Κοπής Kaveh ανήκει σε ή ελέγχεται από, ή ενεργεί εκ μέρους, του Οργανισμού Αμυντικών Βιομηχανιών (DIO). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/3>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Km 4 (4ο χλμ) of Khalaj Road, End of (Τέλος της) Seyedi Street, Mashad, Ιράν, P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/4> <http://legislation.di.uoa.gr/ontology/text> " 3rd Km (3ο χλμ.) of Khalaj Road, Seyyedi Street, Mashad 91638, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Km 4 (4ο χλμ) of Khalaj Road, End of (Τέλος της) Seyedi Street, Mashad, Ιράν, P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/6>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/7/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Box 91735-549, Mashad, Ιράν, Khalaj Rd., End of (Τέλος της) Seyyedi Alley, Mashad, Ιράν, Moqan St., Pasdaran St., Pasdaran Cross Rd., Τεχεράνη, Ιράν."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -306,78 +385,159 @@
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Babaie (M. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/3>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Babaie Industries): Οι Βιομηχανίες M. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Babaie Industries). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/4>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Babaie υπάγονται στον Όμιλο Βιομηχανιών Shahid Ahmad Kazemi (επισήμως Όμιλος Βιομηχανιών Πυραύλων Άμυνας Αέρος/Air Defense Missile Industries Group) του Οργανισμού Αεροδιαστημικών Βιομηχανιών του Ιράν (ΑΙΟ). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/4> <http://legislation.di.uoa.gr/ontology/text> " Οι Βιομηχανίες M. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/5>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Ο Οργανισμός Αεροδιαστημικών Βιομηχανιών (ΑΙΟ) ελέγχει τους οργανισμούς πυραύλων Βιομηχανικός Όμιλος Shahid Hemmat (SHIG) και Βιομηχανικός Όμιλος Shahid Bakeri (SBIG), οι οποίοι κατονομάζονται και οι δύο στην απόφαση 1737 (2006). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Babaie υπάγονται στον Όμιλο Βιομηχανιών Shahid Ahmad Kazemi (επισήμως Όμιλος Βιομηχανιών Πυραύλων Άμυνας Αέρος/Air Defense Missile Industries Group) του Οργανισμού Αεροδιαστημικών Βιομηχανιών του Ιράν (ΑΙΟ). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/6>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία: P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Ο Οργανισμός Αεροδιαστημικών Βιομηχανιών (ΑΙΟ) ελέγχει τους οργανισμούς πυραύλων Βιομηχανικός Όμιλος Shahid Hemmat (SHIG) και Βιομηχανικός Όμιλος Shahid Bakeri (SBIG), οι οποίοι κατονομάζονται και οι δύο στην απόφαση 1737 (2006). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/7>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/7> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/8>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/8> <http://legislation.di.uoa.gr/ontology/text> " P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/9>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/8/passage/9> <http://legislation.di.uoa.gr/ontology/text> "Box 16535-76, Τεχεράνη, 16548, Ιράν."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Πανεπιστήμιο Malek Ashtar (Malek Ashtar University): Υπάγεται στο Κέντρο Αμυντικής Τεχνολογίας και Επιστημονικής Έρευνας (DTSRC) εντός του Υπουργείου Άμυνας και Διοικητικής Μέριμνας των Ενόπλων Δυνάμεων (MODAFL). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Πανεπιστήμιο Malek Ashtar (Malek Ashtar University). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Περιλαμβάνει ερευνητικές ομάδες που υπάγονταν προηγουμένως στο Κέντρο Ερευνών Φυσικής (PHRC). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Υπάγεται στο Κέντρο Αμυντικής Τεχνολογίας και Επιστημονικής Έρευνας (DTSRC) εντός του Υπουργείου Άμυνας και Διοικητικής Μέριμνας των Ενόπλων Δυνάμεων (MODAFL). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/3>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Δεν επιτράπηκε σε επιθεωρητές του ΔΟΑΕ να επικοινωνήσουν με το προσωπικό ή να δουν έγγραφα υπό τον έλεγχο αυτού του οργανισμού προς επίλυση του εκκρεμούς ζητήματος της πιθανής στρατιωτικής διάστασης του πυρηνικού προγράμματος του Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Περιλαμβάνει ερευνητικές ομάδες που υπάγονταν προηγουμένως στο Κέντρο Ερευνών Φυσικής (PHRC). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Δεν επιτράπηκε σε επιθεωρητές του ΔΟΑΕ να επικοινωνήσουν με το προσωπικό ή να δουν έγγραφα υπό τον έλεγχο αυτού του οργανισμού προς επίλυση του εκκρεμούς ζητήματος της πιθανής στρατιωτικής διάστασης του πυρηνικού προγράμματος του Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/6>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/9/passage/6> <http://legislation.di.uoa.gr/ontology/text> " Corner of Imam Ali Highway and Babaei Highway (Γωνία Imam Ali Highway και Babaei Highway), Τεχεράνη, Ιράν."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ministry of Defense Logistics Export: H Ministry of Defense Logistics Export (MODLEX) πωλεί όπλα Ιρανικής παραγωγής σε πελάτες σε όλο τον κόσμο κατά παράβαση της απόφασης 1747 (2007), η οποία απαγορεύει στο Ιράν να πωλεί όπλα ή σχετικό υλικό. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ministry of Defense Logistics Export. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία: P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/2> <http://legislation.di.uoa.gr/ontology/text> " H Ministry of Defense Logistics Export (MODLEX) πωλεί όπλα Ιρανικής παραγωγής σε πελάτες σε όλο τον κόσμο κατά παράβαση της απόφασης 1747 (2007), η οποία απαγορεύει στο Ιράν να πωλεί όπλα ή σχετικό υλικό. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/3>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Box 16315 – 189, Τεχεράνη, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/4> <http://legislation.di.uoa.gr/ontology/text> " P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Box 16315 – 189, Τεχεράνη, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/6>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/10/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Βρίσκεται στη δυτική πλευρά της Dabestan Street, Abbas Abad District, Τεχεράνη, Ιράν."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κατασκευαστική Μηχανημάτων Mizan (Mizan Machinery Manufacturing): Η Κατασκευαστική Μηχανημάτων Mizan (3Μ) ανήκει σε ή ελέγχεται από ή ενεργεί εκ μέρους του Βιομηχανικού Ομίλου Shahid Hemmat (SHIG). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κατασκευαστική Μηχανημάτων Mizan (Mizan Machinery Manufacturing). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία: P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Η Κατασκευαστική Μηχανημάτων Mizan (3Μ) ανήκει σε ή ελέγχεται από ή ενεργεί εκ μέρους του Βιομηχανικού Ομίλου Shahid Hemmat (SHIG). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/4> <http://legislation.di.uoa.gr/ontology/text> " P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Box 16595-365, Τεχεράνη, Ιράν Γνωστή επίσης και ως. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/6>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/11/passage/6> <http://legislation.di.uoa.gr/ontology/text> " 3MG"@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εταιρεία Modern Industries Technique (Modern Industries Technique Company): Η Εταιρεία Modern Industries Technique (MITEC) είναι υπεύθυνη για το σχεδιασμό και την κατασκευή του αντιδραστήρα βαρέως ύδατος IR-40 στο Αράκ (Arak). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εταιρεία Modern Industries Technique (Modern Industries Technique Company). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Η Εταιρεία Modern Industries Technique (MITEC) έχει πρωτοστατήσει στις προμήθειες για την κατασκευή του αντιδραστήρα βαρέως ύδατος IR-40. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Η Εταιρεία Modern Industries Technique (MITEC) είναι υπεύθυνη για το σχεδιασμό και την κατασκευή του αντιδραστήρα βαρέως ύδατος IR-40 στο Αράκ (Arak). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Η Εταιρεία Modern Industries Technique (MITEC) έχει πρωτοστατήσει στις προμήθειες για την κατασκευή του αντιδραστήρα βαρέως ύδατος IR-40. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/5> <http://legislation.di.uoa.gr/ontology/text> " Αράκ, Ιράν Γνωστή επίσης και ως. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/6>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/12/passage/6> <http://legislation.di.uoa.gr/ontology/text> " Εταιρεία Rahkar (Rahkar Company), Βιομηχανίες Rahkar (Rahkar Industries), Εταιρεία Rahkar Sanaye (Rahkar Sanaye Company), Rahkar Sanaye Novin."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κέντρο Πυρηνικής Έρευνας για την Γεωργία και την Ιατρική (Nuclear Research Center for Agriculture and Medicine): Το Κέντρο Πυρηνικής Έρευνας για την Γεωργία και την Ιατρική (NFRPC) είναι ένα μεγάλο ερευνητικό συστατικό μέρος του Οργανισμού Ατομικής Ενέργειας του Ιράν (AEOI), ο οποίος κατονομάζεται στην απόφαση 1737 (2006). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κέντρο Πυρηνικής Έρευνας για την Γεωργία και την Ιατρική (Nuclear Research Center for Agriculture and Medicine). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Το Κέντρο Πυρηνικής Έρευνας για την Γεωργία και την Ιατρική (NFRPC) είναι το κέντρο του Οργανισμού Ατομικής Ενέργειας του Ιράν (ΑΕΟΙ) για την ανάπτυξη πυρηνικού καυσίμου και εμπλέκεται σε δραστηριότητες που σχετίζονται με εμπλουτισμό. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Το Κέντρο Πυρηνικής Έρευνας για την Γεωργία και την Ιατρική (NFRPC) είναι ένα μεγάλο ερευνητικό συστατικό μέρος του Οργανισμού Ατομικής Ενέργειας του Ιράν (AEOI), ο οποίος κατονομάζεται στην απόφαση 1737 (2006). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/3>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία: P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Το Κέντρο Πυρηνικής Έρευνας για την Γεωργία και την Ιατρική (NFRPC) είναι το κέντρο του Οργανισμού Ατομικής Ενέργειας του Ιράν (ΑΕΟΙ) για την ανάπτυξη πυρηνικού καυσίμου και εμπλέκεται σε δραστηριότητες που σχετίζονται με εμπλουτισμό. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/5> <http://legislation.di.uoa.gr/ontology/text> " P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/6>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Box 31585 – 4395, Karaj, Ιράν Γνωστό επίσης και ως. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/7>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/13/passage/7> <http://legislation.di.uoa.gr/ontology/text> " Κέντρο Αγροτικής Έρευνας και Πυρηνικής Ιατρικής (Center for Agricultural Research and Nuclear Medicine), Κέντρο Αγροτικής και Ιατρικής Έρευνας του Karaj (Karaji Agricultural and Medical Research Center)."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εταιρεία Βιομηχανικών Υπηρεσιών Pejman (Pejman Industrial Services Corporation): Η Εταιρεία Βιομηχανικών Υπηρεσιών Pejman ανήκει σε ή ελέγχεται από ή ενεργεί εκ μέρους του Βιομηχανικού Ομίλου Shahid Bakeri (SBIG). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εταιρεία Βιομηχανικών Υπηρεσιών Pejman (Pejman Industrial Services Corporation). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14/passage/2> <http://legislation.di.uoa.gr/ontology/text> " 162 Τοποθεσία: P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Η Εταιρεία Βιομηχανικών Υπηρεσιών Pejman ανήκει σε ή ελέγχεται από ή ενεργεί εκ μέρους του Βιομηχανικού Ομίλου Shahid Bakeri (SBIG). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14/passage/3> <http://legislation.di.uoa.gr/ontology/text> " 162 Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14/passage/4> <http://legislation.di.uoa.gr/ontology/text> " P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/14/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Box 16785-195, Τεχεράνη, Ιράν"@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/15>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/15/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/15> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/15/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/15/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εταιρεία Sabalan (Sabalan Company): Η ονομασία Sabalan είναι μια ονομασία που χρησιμοποιείται ως προκάλυμμα για τον Βιομηχανικό Όμιλο Shahid Hemmat (SHIG). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/15/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εταιρεία Sabalan (Sabalan Company). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/15/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/15> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/15/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/15/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Η ονομασία Sabalan είναι μια ονομασία που χρησιμοποιείται ως προκάλυμμα για τον Βιομηχανικό Όμιλο Shahid Hemmat (SHIG). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/15/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/15> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/15/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/15/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/15/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/15> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/15/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/15/passage/4> <http://legislation.di.uoa.gr/ontology/text> " Damavand Tehran Highway, Τεχεράνη, Ιράν."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/16>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/16/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -386,44 +546,89 @@
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/16/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/16> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/16/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/16/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Η ονομασία SAPICO είναι μια ονομασία που χρησιμοποιείται ως προκάλυμμα για τον Βιομηχανικό Όμιλο Shahid Hemmat (SHIG). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/16/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/16> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/16/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/16/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/16/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/16> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/16/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/16/passage/4> <http://legislation.di.uoa.gr/ontology/text> " Damavand Tehran Highway, Τεχεράνη, Ιράν."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/17>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/17/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/17> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/17/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/17/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Βιομηχανίες Shahid Karrazi (Shahid Karrazi Industries): Οι Βιομηχανίες Shahid Karrazi ανήκουν σε ή ελέγχονται από ή ενεργούν εκ μέρους του Βιομηχανικού Ομίλου Shahid Bakeri (SBIG). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/17/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Βιομηχανίες Shahid Karrazi (Shahid Karrazi Industries). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/17/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/17> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/17/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/17/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Οι Βιομηχανίες Shahid Karrazi ανήκουν σε ή ελέγχονται από ή ενεργούν εκ μέρους του Βιομηχανικού Ομίλου Shahid Bakeri (SBIG). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/17/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/17> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/17/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/17/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/17/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/17> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/17/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/17/passage/4> <http://legislation.di.uoa.gr/ontology/text> " Τεχεράνη, Ιράν"@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Βιομηχανίες Shahid Satarri (Shahid Satarri Industries): Οι Βιομηχανίες Shahid Satarri ανήκουν σε ή ελέγχονται από ή ενεργούν εκ μέρους του Βιομηχανικού Ομίλου Shahid Bakeri (SBIG). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Βιομηχανίες Shahid Satarri (Shahid Satarri Industries). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία: Νοτιοανατολική Τεχεράνη, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Οι Βιομηχανίες Shahid Satarri ανήκουν σε ή ελέγχονται από ή ενεργούν εκ μέρους του Βιομηχανικού Ομίλου Shahid Bakeri (SBIG). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/4> <http://legislation.di.uoa.gr/ontology/text> " Νοτιοανατολική Τεχεράνη, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Γνωστές επίσης και ως. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/6>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/18/passage/6> <http://legislation.di.uoa.gr/ontology/text> " Όμιλος Βιομηχανιών Εξοπλισμού Shahid Sattari (Shahid Sattari Group Equipment Industries)."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Βιομηχανίες Shahid Sayyade Shirazi (Shahid Sayyade Shirazi Industries): Οι Βιομηχανίες Shahid Sayyade Shirazi (SSSI) ανήκουν σε ή ελέγχονται από ή ενεργούν εκ μέρους του Οργανισμού Αμυντικών Βιομηχανιών (DIO). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Βιομηχανίες Shahid Sayyade Shirazi (Shahid Sayyade Shirazi Industries). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία: Δίπλα στην εταιρεία Nirou Battery Mfg. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Οι Βιομηχανίες Shahid Sayyade Shirazi (SSSI) ανήκουν σε ή ελέγχονται από ή ενεργούν εκ μέρους του Οργανισμού Αμυντικών Βιομηχανιών (DIO). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/3>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Co., Shahid Babaii Expressway, Nobonyad Square, Τεχεράνη, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/4>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Pasdaran St., P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/4> <http://legislation.di.uoa.gr/ontology/text> " Δίπλα στην εταιρεία Nirou Battery Mfg. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/5>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Box 16765, Τεχεράνη, 1835, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Co., Shahid Babaii Expressway, Nobonyad Square, Τεχεράνη, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/6>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Pasdaran St., P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/7>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/7> <http://legislation.di.uoa.gr/ontology/text> "Box 16765, Τεχεράνη, 1835, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/8>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/19/passage/8> <http://legislation.di.uoa.gr/ontology/text> "Babaei Highway – Δίπλα στην εταιρεία Niru M.F.G., Τεχεράνη, Ιράν."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Όμιλος Ειδικών Βιομηχανιών (Special Industries Group): Ο Όμιλος Ειδικών Βιομηχανιών (SIG) υπάγεται στον Οργανισμό Αμυντικών Βιομηχανιών (DIO). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Όμιλος Ειδικών Βιομηχανιών (Special Industries Group). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία: Pasdaran Avenue (Λεωφόρος Pasdaran), P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Ο Όμιλος Ειδικών Βιομηχανιών (SIG) υπάγεται στον Οργανισμό Αμυντικών Βιομηχανιών (DIO). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20/passage/4> <http://legislation.di.uoa.gr/ontology/text> " Pasdaran Avenue (Λεωφόρος Pasdaran), P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/20/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Box 19585/777, Τεχεράνη, Ιράν."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/21>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/21/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -435,131 +640,234 @@
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/21/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/21> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/21/passage/3>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/21/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Μεταξύ Απριλίου και Ιουλίου 2007, η Tiz Pars επιχείρησε να προμηθευτεί ένα μηχάνημα συγκόλλησης και κοπής πέντε αξόνων με ακτίνες λέιζερ, το οποίο θα μπορούσε να συμβάλει στο πυραυλικό πρόγραμμα του Ιράν, εκ μέρους του Βιομηχανικού Ομίλου Shahid Hemmat (SHIG). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/21/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/21> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/21/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/21/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/21/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/21> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/21/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/21/passage/5> <http://legislation.di.uoa.gr/ontology/text> " Damavand Tehran Highway, Τεχεράνη, Ιράν."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Βιομηχανίες Μεταλλουργίας Yazd (Yazd Metallurgy Industries): Οι Βιομηχανίες Μεταλλουργίας Yazd (ΥΜΙ) υπάγονται στον Οργανισμό Αμυντικών Βιομηχανιών (DIO). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Βιομηχανίες Μεταλλουργίας Yazd (Yazd Metallurgy Industries). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία: Pasdaran Avenue (Λεωφόρος Pasdaran), Δίπλα στη Βιομηχανία Τηλεπικοινωνιών (Telecommunication Industry), Τεχεράνη 16588, Ιράν, Postal Box (Ταχυδρομική Θυρίδα) 89195/878, Yazd, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Οι Βιομηχανίες Μεταλλουργίας Yazd (ΥΜΙ) υπάγονται στον Οργανισμό Αμυντικών Βιομηχανιών (DIO). "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/3>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/3> <http://legislation.di.uoa.gr/ontology/text> "P.O. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Τοποθεσία. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/4>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Box 89195-678, Yazd, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/4> <http://legislation.di.uoa.gr/ontology/text> " Pasdaran Avenue (Λεωφόρος Pasdaran), Δίπλα στη Βιομηχανία Τηλεπικοινωνιών (Telecommunication Industry), Τεχεράνη 16588, Ιράν, Postal Box (Ταχυδρομική Θυρίδα) 89195/878, Yazd, Ιράν. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/5>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Km 5 of Taft Road, Yazd, Ιράν (5ο Χλμ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/5> <http://legislation.di.uoa.gr/ontology/text> "P.O. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/6>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/6> <http://legislation.di.uoa.gr/ontology/text> "της Οδού Taft, Yazd, Ιράν). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Box 89195-678, Yazd, Ιράν. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/7>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/7> <http://legislation.di.uoa.gr/ontology/text> "Γνωστή επίσης και ως: Βιομηχανίες Κατασκευής Πυρομαχικών και Μεταλλουργίας Yazd (Yazd Ammunition Manufacturing and Metallurgy Industries), Διεύθυνση των Βιομηχανιών Πυρομαχικών και Μεταλλουργίας Yazd (Directorate of Yazd Ammunition and Metallurgy Industries). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/7> <http://legislation.di.uoa.gr/ontology/text> "Km 5 of Taft Road, Yazd, Ιράν (5ο Χλμ. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/8>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/8> <http://legislation.di.uoa.gr/ontology/text> "Άτομα Javad Rahiqi: Προϊστάμενος του Κέντρου Πυρηνικής Τεχνολογίας του Esfahan του Οργανισμού Ατομικής Ενέργειας του Ιράν (ΑΕΟΙ) (συμπληρωματικές πληροφορίες: Ημερομηνία Γέννησης: 24 Απριλίου 1954, Τόπος Γέννησης: Marshad). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/8> <http://legislation.di.uoa.gr/ontology/text> "της Οδού Taft, Yazd, Ιράν). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/9>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/9> <http://legislation.di.uoa.gr/ontology/text> "Γνωστή επίσης και ως. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/10>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/10> <http://legislation.di.uoa.gr/ontology/text> " Βιομηχανίες Κατασκευής Πυρομαχικών και Μεταλλουργίας Yazd (Yazd Ammunition Manufacturing and Metallurgy Industries), Διεύθυνση των Βιομηχανιών Πυρομαχικών και Μεταλλουργίας Yazd (Directorate of Yazd Ammunition and Metallurgy Industries). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/11>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/11> <http://legislation.di.uoa.gr/ontology/text> "Άτομα Javad Rahiqi. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/12>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/12> <http://legislation.di.uoa.gr/ontology/text> " Προϊστάμενος του Κέντρου Πυρηνικής Τεχνολογίας του Esfahan του Οργανισμού Ατομικής Ενέργειας του Ιράν (ΑΕΟΙ) (συμπληρωματικές πληροφορίες. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/13>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/13> <http://legislation.di.uoa.gr/ontology/text> " Ημερομηνία Γέννησης. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/14>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/14> <http://legislation.di.uoa.gr/ontology/text> " 24 Απριλίου 1954, Τόπος Γέννησης. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/15>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/15> <http://legislation.di.uoa.gr/ontology/text> " Marshad). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/16>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/22/passage/16> <http://legislation.di.uoa.gr/ontology/text> "Παράρτημα Β Φορείς οι οποίοι ανήκουν σε, ελέγχονται από ή ενεργούν εκ μέρους του Σώματος Φρουρών της Ισλαμικής Επανάστασης (IRGC)."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/23>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/23/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/23> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/23/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/23/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ίδρυμα Fater (ή Faater) (Fater (or Faater) Institute): Θυγατρικό της Khatam al–Anbiya (ΚΑΑ). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/23/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ίδρυμα Fater (ή Faater) (Fater (or Faater) Institute). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/23/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/23> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/23/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/23/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Θυγατρικό της Khatam al–Anbiya (ΚΑΑ). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/23/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/23> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/23/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/23/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Το Fater έχει συνεργαστεί με ξένους προμηθευτές, πιθανώς εκ μέρους άλλων εταιρειών της Κhatam al-Αnbiya (KAA) σε έργα του Σώματος Φρουρών της Ισλαμικής Επανάστασης (IRGC) στο Ιράν."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/24>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/24/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/24> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/24/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/24/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Gharagahe Sazandegi Ghaem: Η Gharagahe Sazandegi Ghaem ανήκει στην ή ελέγχεται από την Κhatam al–Αnbiya (KAA). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/24/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Gharagahe Sazandegi Ghaem. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/24/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/24> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/24/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/24/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Η Gharagahe Sazandegi Ghaem ανήκει στην ή ελέγχεται από την Κhatam al–Αnbiya (KAA)."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/25>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/25/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/25> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/25/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/25/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ghorb Karbala: Η Ghorb Karbala ανήκει στην ή ελέγχεται από την Khatam al–Αnbiya (KAA). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/25/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ghorb Karbala. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/25/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/25> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/25/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/25/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Η Ghorb Karbala ανήκει στην ή ελέγχεται από την Khatam al–Αnbiya (KAA)."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/26>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/26/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/26> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/26/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/26/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ghorb Nooh: Η Ghorb Nooh ανήκει στην ή ελέγχεται από την Khatam al–Αnbiya (KAA). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/26/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ghorb Nooh. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/26/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/26> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/26/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/26/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Η Ghorb Nooh ανήκει στην ή ελέγχεται από την Khatam al–Αnbiya (KAA)."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/27>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/27/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/27> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/27/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/27/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εταιρεία Hara (Hara Company): Ανήκει στην ή ελέγχεται από την Ghorb Nooh. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/27/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εταιρεία Hara (Hara Company). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/27/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/27> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/27/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/27/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Ανήκει στην ή ελέγχεται από την Ghorb Nooh."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/28>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/28/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/28> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/28/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/28/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ίδρυμα Συμβούλων Μηχανικών Imensazan (Imensazan Consultant Engineers Institute): Ανήκει στην ή ελέγχεται από ή ενεργεί εκ μέρους της Κhatam al–Αnbiya (KAA). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/28/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ίδρυμα Συμβούλων Μηχανικών Imensazan (Imensazan Consultant Engineers Institute). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/28/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/28> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/28/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/28/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Ανήκει στην ή ελέγχεται από ή ενεργεί εκ μέρους της Κhatam al–Αnbiya (KAA)."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Khatam al-Anbiya Construction Headquarters: Η Khatam al–Anbiya Construction Headquarters (ΚΑΑ) είναι μια εταιρεία που ανήκει στo Σώμα Φρουρών της Ισλαμικής Επανάστασης (IRGC), η οποία εμπλέκεται σε πολιτικά και στρατιωτικά κατασκευαστικά έργα μεγάλης κλίμακας και σε άλλες δραστηριότητες μηχανικής. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Khatam al-Anbiya Construction Headquarters. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Αναλαμβάνει σημαντικό μέρος εργασίας στα έργα του Οργανισμού Παθητικής Άμυνας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Η Khatam al–Anbiya Construction Headquarters (ΚΑΑ) είναι μια εταιρεία που ανήκει στo Σώμα Φρουρών της Ισλαμικής Επανάστασης (IRGC), η οποία εμπλέκεται σε πολιτικά και στρατιωτικά κατασκευαστικά έργα μεγάλης κλίμακας και σε άλλες δραστηριότητες μηχανικής. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Αναλαμβάνει σημαντικό μέρος εργασίας στα έργα του Οργανισμού Παθητικής Άμυνας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/29/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Συγκεκριμένα, οι θυγατρικές της Κhatam al–Αnbiya (ΚΑΑ) είχαν μεγάλη συμμετοχή στην κατασκευή της εγκατάστασης εμπλουτισμού ουρανίου στο Qom/Fordow."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/30>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/30/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/30> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/30/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/30/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Makin: Η Makin ανήκει στην ή ελέγχεται από ή ενεργεί εκ μέρους της Κhatam al–Anbiya (KAA) και είναι θυγατρική της ΚΑΑ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/30/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Makin. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/30/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/30> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/30/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/30/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Η Makin ανήκει στην ή ελέγχεται από ή ενεργεί εκ μέρους της Κhatam al–Anbiya (KAA) και είναι θυγατρική της ΚΑΑ."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/31>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/31/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/31> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/31/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/31/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Omran Sahel: Ανήκει στην ή ελέγχεται από την Ghorb Nooh. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/31/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Omran Sahel. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/31/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/31> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/31/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/31/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Ανήκει στην ή ελέγχεται από την Ghorb Nooh."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/32>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/32/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/32> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/32/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/32/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Oriental Oil Kish: Η Oriental Oil Kish ανήκει στην ή ελέγχεται από ή ενεργεί εκ μέρους της Κhatam al–Αnbiya (KAA). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/32/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Oriental Oil Kish. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/32/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/32> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/32/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/32/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Η Oriental Oil Kish ανήκει στην ή ελέγχεται από ή ενεργεί εκ μέρους της Κhatam al–Αnbiya (KAA)."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/33>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/33/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/33> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/33/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/33/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Rah Sahel: Η Rah Sahel ανήκει στην ή ελέγχεται από ή ενεργεί εκ μέρους της Κhatam al–Αnbiya (KAA). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/33/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Rah Sahel. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/33/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/33> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/33/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/33/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Η Rah Sahel ανήκει στην ή ελέγχεται από ή ενεργεί εκ μέρους της Κhatam al–Αnbiya (KAA)."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/34>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/34/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/34> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/34/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/34/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ίδρυμα Μηχανικής Rahab (Rahab Engineering Institute): Το Rahab ανήκει στην ή ελέγχεται από ή ενεργεί εκ μέρους της Κhatam al-Αnbiya (KAA) και είναι θυγατρικό της ΚΑΑ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/34/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ίδρυμα Μηχανικής Rahab (Rahab Engineering Institute). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/34/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/34> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/34/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/34/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Το Rahab ανήκει στην ή ελέγχεται από ή ενεργεί εκ μέρους της Κhatam al-Αnbiya (KAA) και είναι θυγατρικό της ΚΑΑ."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/35>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/35/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/35> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/35/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/35/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Σύμβουλοι Μηχανικοί Sahel (Sahel Consultant Engineers): Ανήκει στην ή ελέγχεται από την Ghorb Nooh. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/35/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Σύμβουλοι Μηχανικοί Sahel (Sahel Consultant Engineers). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/35/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/35> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/35/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/35/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Ανήκει στην ή ελέγχεται από την Ghorb Nooh."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/36>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/36/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/36> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/36/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/36/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Sepanir: Η Sepanir ανήκει στην ή ελέγχεται από ή ενεργεί εκ μέρους της Κhatam al-Αnbiya (KAA). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/36/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Sepanir. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/36/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/36> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/36/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/36/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Η Sepanir ανήκει στην ή ελέγχεται από ή ενεργεί εκ μέρους της Κhatam al-Αnbiya (KAA)."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/37>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/37/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/37> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/37/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/37/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εταιρεία Μηχανικής Sepasad (Sepasad Engineering Company): Η Εταιρεία Μηχανικής Sepasad ανήκει στην ή ελέγχεται από ή ενεργεί εκ μέρους της Κhatam alΑnbiya (KAA). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/37/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εταιρεία Μηχανικής Sepasad (Sepasad Engineering Company). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/37/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/37> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/37/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/37/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Η Εταιρεία Μηχανικής Sepasad ανήκει στην ή ελέγχεται από ή ενεργεί εκ μέρους της Κhatam alΑnbiya (KAA). "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/37/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/37> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/37/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/37/passage/3> <http://legislation.di.uoa.gr/ontology/text> " 163 Παράρτημα Γ Φορείς οι οποίοι ανήκουν στις, ελέγχονται από ή ενεργούν εκ μέρους των Ναυτιλιακών Γραμμών της Ισλαμικής Δημοκρατίας του Ιράν (Islamic Republic of Iran Shipping Lines, IRISL)"@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/38>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/38/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/38> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/38/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/38/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ναυτιλιακή Εταιρεία Irano Hind (Irano Hind Shipping Company) Τοποθεσία: 18 Mehrshad Street, Sadaghat Street, Opposite of Park Mellat (απέναντι από το Πάρκο Mellat), Vali-e-Asr Ave., Τεχεράνη, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/38/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ναυτιλιακή Εταιρεία Irano Hind (Irano Hind Shipping Company) Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/38/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/38> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/38/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/38/passage/2> <http://legislation.di.uoa.gr/ontology/text> " 18 Mehrshad Street, Sadaghat Street, Opposite of Park Mellat (απέναντι από το Πάρκο Mellat), Vali-e-Asr Ave., Τεχεράνη, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/38/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/38> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/38/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/38/passage/3> <http://legislation.di.uoa.gr/ontology/text> "265, Next to Mehrshad (δίπλα στη Mehrshad), Sedaghat St, Opposite of Mellat Park (απέναντι από το Πάρκο Mellat), Vali Asr Ave., Τεχεράνη 1 Α 001, Ιράν."@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/39>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/39/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/39> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/39/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/39/passage/1> <http://legislation.di.uoa.gr/ontology/text> "IRISL Benelux NV Τοποθεσία: Noorderlaan 139, Β-2030, Αμβέρσα (Antwerp), Βέλγιο, Αριθμός Φορολογικού Μητρώου (Α.Φ.Μ.).: ΒΕ480224531 (Βέλγιο) "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/39/passage/1> <http://legislation.di.uoa.gr/ontology/text> "IRISL Benelux NV Τοποθεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/39/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/39> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/39/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/39/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Noorderlaan 139, Β-2030, Αμβέρσα (Antwerp), Βέλγιο, Αριθμός Φορολογικού Μητρώου (Α.Φ.Μ.).. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/39/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/39> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/39/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/39/passage/3> <http://legislation.di.uoa.gr/ontology/text> " ΒΕ480224531 (Βέλγιο)"@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40/passage/1> <http://legislation.di.uoa.gr/ontology/text> "South Shipping Line Iran (SSL) Τοποθεσία: Apt. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40/passage/1> <http://legislation.di.uoa.gr/ontology/text> "South Shipping Line Iran (SSL) Τοποθεσία. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40/passage/2> <http://legislation.di.uoa.gr/ontology/text> "No 7, 3rd Floor, No 2, 4th Alley, Gandi Ave., Τεχεράνη, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Apt. "@el.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40/passage/3>.
-<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Qaem Magham Farahani St., Τεχεράνη, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40/passage/3> <http://legislation.di.uoa.gr/ontology/text> "No 7, 3rd Floor, No 2, 4th Alley, Gandi Ave., Τεχεράνη, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Qaem Magham Farahani St., Τεχεράνη, Ιράν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/8/article/20/paragraph/40/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Στoν Υπουργό Εξωτερικών αναθέτουμε τη δημοσίευση του παρόντος Διατάγματος, στον ίδιο δε Υπουργό και στους Υπουργούς Οικονομικών, Εθνικής Άμυνας, Ανάπτυξης και Ανταγωνιστικότητας, Υποδομών, Μεταφορών και Δικτύων, Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων, Δημόσιας Τάξης και Προστασίας του Πολίτη και Ναυτιλίας και Αιγαίου την εκτέλεσή του."@el.
 <http://legislation.di.uoa.gr/pd/2014/8> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

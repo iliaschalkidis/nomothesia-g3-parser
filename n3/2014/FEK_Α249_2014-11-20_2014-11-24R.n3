@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/165> <http://purl.org/dc/terms/created> "2014-11-20"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/165> <http://legislation.di.uoa.gr/ontology/legislationID> "165"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/165> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/165> <http://purl.org/dc/terms/title> "Καθορισμός εργατικού δικαιώματος εξόρυξης και μεταφοράς Ναξίας σμύριδας.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/165/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/165/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Το πρώτο εδάφιο της παρ. 3 του άρθρου 22 του ν. 2362/1995 (ΦΕΚ Α΄ 247), όπως η παράγραφος αυτή τροποποιήθηκε με το άρθρο 22 παρ. 3 του ν. 3871/2010 (ΦΕΚ Α΄ 141) και εξακολουθεί να ισχύει μέχρι την 31.12.2014, σύμφωνα με τις διατάξεις των άρθρων 14 παρ. 1 περ. β, 20 περ. ιβ, 177 παρ. 1 περ. α και 183 παρ. 1 και 2 του ν. 4270/2014 (ΦΕΚ Α΄ 143). "@el.
@@ -75,3 +76,4 @@
 <http://legislation.di.uoa.gr/pd/2014/165> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/9> <http://purl.org/dc/terms/created> "2014-01-23"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/9> <http://legislation.di.uoa.gr/ontology/legislationID> "9"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/9> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/9> <http://purl.org/dc/terms/title> "Χρήση του όρου «Επιμελητήριο» από το σωματείο με τίτλο «ΕΛΛΗΝΟ-ΚΑΖΑΧΙΚΟ ΕΜΠΟΡΙΚΟ ΚΑΙ ΒΙΟΜΗΧΑΝΙΚΟ ΕΠΙΜΕΛΗΤΗΡΙΟ ».  "@el.
 <http://legislation.di.uoa.gr/pd/2014/9/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/9/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις της παραγ. 3 του άρθρου 6 του ν.2081/1992 «Ρύθμιση του θεσμού των Επιμελητηρίων, τροποποίηση των διατάξεων του ν. 1712/1987 για τον εκσυγχρονισμό των επαγγελματικών οργανώσεων των εμπόρων, βιοτεχνών και λοιπών επαγγελματιών και άλλες διατάξεις» (Α 154), όπως αντικαταστάθηκε με την παραγ. 3 του άρθρου 25 του ν. 3419/2005 «Γενικό Εμπορικό Μητρώο (Γ.Ε.ΜΗ,) και εκσυγχρονισμός της Επιμελητηριακής Νομοθεσίας» (Α 297). "@el.

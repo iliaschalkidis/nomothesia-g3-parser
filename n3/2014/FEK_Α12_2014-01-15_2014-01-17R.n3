@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/6> <http://purl.org/dc/terms/created> "2014-01-15"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/6> <http://legislation.di.uoa.gr/ontology/legislationID> "6"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/6> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/6> <http://purl.org/dc/terms/title> "Ίδρυση Ενορίας Ιερού Ναού Αγίου Χριστόφορου, της Ιεράς Μητροπόλεως Νικοπόλεως και Πρεβέζης, στον οικισμό «Άνω Δρυμώνα και Δρυμώνα», της Τοπικής Κοινότητος Ανωγείου, του Δήμου Ζηρού, του Νομού Πρεβέζης.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/6/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/6/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) του άρθρου 36 παρ. 2 του ν. 590/1977 (Α΄ 146) «Περί του Καταστατικού Χάρτου της Εκκλησίας της Ελλάδος» σε συνδυασμό με τις διατάξεις των άρθρων 2 και 3 του Κανονισμού 8/1979 (Α1/1980) της Ιεράς Συνόδου της Εκκλησίας της Ελλάδος «Περί Ιερών Ναών και Ενοριών» και β) του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα, που κυρώθηκε με το άρθρο πρώτο του π.δ. 63/2005 (Α΄ 98), γ) των άρθρων 1, 2, 283 και 286 του ν. 3852/2010 (Α΄ 87) «Νέα Αρχιτεκτονική της Αυτοδιοίκησης και της Αποκεντρωμένης Διοίκησης - Πρόγραμμα Καλλικράτης», δ) του άρθρου 1 της 45892/11-8-10 υπουργικής αποφάσεως (Β΄ 1292) «Πρωτοβάθμιοι και Δευτεροβάθμιοι Οργανισμοί Τοπικής Αυτοδιοίκησης της Χώρας με το Ν. 3852/2010 και αναλογική κατανομή πληθυσμού στις δημοτικές κοινότητες του άρθρου 2, παρ. 4 του Ν. 3852/ 2010, ο οποίος δεν είναι δυνατόν να κατανεμηθεί, λόγω ελλιπών στοιχείων τόπου εγκατάστασης ». "@el.
@@ -29,7 +30,8 @@
 <http://legislation.di.uoa.gr/pd/2014/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/6/citation/7>.
 <http://legislation.di.uoa.gr/pd/2014/6/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/6/article/1>.
-<http://legislation.di.uoa.gr/pd/2014/6/article/1> <http://purl.org/dc/terms/title> "Ιδρύεται Ενορία Ιερού Ναού Αγίου Χριστοφόρου, της".<http://legislation.di.uoa.gr/pd/2014/6/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/6/article/1> <http://purl.org/dc/terms/title> "Ιδρύεται Ενορία Ιερού Ναού Αγίου Χριστοφόρου, της".
+<http://legislation.di.uoa.gr/pd/2014/6/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/6/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/6/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/6/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/6/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/6/article/1/paragraph/1/passage/1>.
@@ -41,9 +43,13 @@
 <http://legislation.di.uoa.gr/pd/2014/6/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/6/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/6/article/2/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/6/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. "@el.
+<http://legislation.di.uoa.gr/pd/2014/6/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/6/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/6/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/6/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Παιδείας και Θρησκευμάτων, αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος. "@el.
 <http://legislation.di.uoa.gr/pd/2014/6> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/7> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/12>.
 <http://legislation.di.uoa.gr/gazette/a/2014/12> <http://purl.org/dc/terms/title> "Α/2014/12".
@@ -51,6 +57,7 @@
 <http://legislation.di.uoa.gr/pd/2014/7> <http://purl.org/dc/terms/created> "2014-01-15"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/7> <http://legislation.di.uoa.gr/ontology/legislationID> "7"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/7> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/7> <http://purl.org/dc/terms/title> "Ίδρυση Ενορίας Ιερού Ναού Αγίου Χαραλάμπους, της Ιεράς Μητροπόλεως Νέας Σμύρνης, του Δήμου Νέας Σμύρνης, του Νομού Αττικής.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/7/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/7/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 36 παρ. 2 του ν. 590/1977 «Περί του Καταστατικού Χάρτου της Εκκλησίας της Ελλάδος» (Α΄ 146) σε συνδυασμό με τις διατάξεις των άρθρων 2 και 3 του Κανονισμού 8/1979 της Ιεράς Συνόδου της Εκκλησίας της Ελλάδος «Περί Ιερών Ναών και Ενοριών» (Α΄ 1/1980). "@el.
@@ -84,7 +91,8 @@
 <http://legislation.di.uoa.gr/pd/2014/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/7/citation/10>.
 <http://legislation.di.uoa.gr/pd/2014/7/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/7/article/1>.
-<http://legislation.di.uoa.gr/pd/2014/7/article/1> <http://purl.org/dc/terms/title> "Ιδρύεται Ενορία Ιερού Ναού Αγίου Χαραλάμπους, της".<http://legislation.di.uoa.gr/pd/2014/7/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/7/article/1> <http://purl.org/dc/terms/title> "Ιδρύεται Ενορία Ιερού Ναού Αγίου Χαραλάμπους, της".
+<http://legislation.di.uoa.gr/pd/2014/7/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/7/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/7/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/7/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/7/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/7/article/1/paragraph/1/passage/1>.
@@ -96,6 +104,10 @@
 <http://legislation.di.uoa.gr/pd/2014/7/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/7/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/7/article/2/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/7/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος αρχίζει από τη δημοσίευση του στην Εφημερίδα της Κυβερνήσεως. "@el.
+<http://legislation.di.uoa.gr/pd/2014/7/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/7/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/7/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/7/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Παιδείας και Θρησκευμάτων αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος. "@el.
 <http://legislation.di.uoa.gr/pd/2014/7> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

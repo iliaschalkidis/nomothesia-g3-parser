@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/38> <http://purl.org/dc/terms/created> "2014-03-24"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/38> <http://legislation.di.uoa.gr/ontology/legislationID> "38"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/38> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/38> <http://purl.org/dc/terms/title> "Τροποποίηση του Π.Δ/τος 180/1983 (A΄71) «Σύσταση Ειδικής Υπηρεσίας Δημοσίων Έργων (ΕΥΔΕ) για την εκτέλεση του έργου Αποχέτευσης και Επεξεργασίας Λυμάτων Μείζονος Πρωτεύουσας», όπως τροποποιημένο ισχύει.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/38/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/38/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α. Της παρ. 1 του άρθρου 5 του Ν. 679/1977, «Περί αυξήσεως θέσεων προσωπικού του Υπουργείου Δημοσίων Έργων και ρυθμίσεως συναφών θεμάτων», (Α΄245) όπως αυτές τροποποιήθηκαν και συμπληρώθηκαν με την παρ. 1, του άρθρου 23 του Ν. 1418/1984 (Α΄ 23). β. Του άρθρου 8 του Ν. 679/1977 (Α΄245), όπως αυτές τροποποιήθηκαν και συμπληρώθηκαν με τις παραγράφους 2 και 3 του άρθρου 5 του Ν. 2229/1994 (Α΄138), σύμφωνα με τις οποίες θα καλυφθεί η προκαλούμενη από το διάταγμα δαπάνη. γ. Του άρθρου 90 του Κώδικα που κυρώθηκε με το άρθρο πρώτο του Π.Δ/τος 63/2005 «Κωδικοποίηση της Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα» (Α΄98). δ. Της παρ. 3 του άρθρου 22 του Ν. 2362/1995 «περί Δημοσίου Λογιστικού ελέγχου των δαπανών του Κράτους και άλλες διατάξεις» (Α΄ 247). ε. Της παρ. 4 του άρθρου 1 του Ν. 2469/1997 «Περιορισμός και βελτίωση της αποτελεσματικότητας των κρατικών δαπανών και άλλες διατάξεις» (A΄ 38). στ) Του Π.Δ/τος 118/2013 «Τροποποίηση του π.δ. 85/2012 (Α΄141) -Ίδρυση Υπουργείου, Υποδομών, Μεταφορών και Δικτύων και Υπουργείου Πολιτισμού και Αθλητισμού και μετονομασία των Υπουργείων Ανάπτυξης, Ανταγωνιστικότητας, Υποδομών, Μεταφορών και Δικτύων και Παιδείας και Θρησκευμάτων, Πολιτισμού και Αθλητισμού σε Υπουργείο Ανάπτυξης και Ανταγωνιστικότητας και σε Υπουργείο Παιδείας και Θρησκευμάτων αντιστοίχως» (Α΄152). ζ) Του Π.Δ/τος 119/2013 «Διορισμός Αντιπροέδρου της Κυβέρνησης, Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α΄153). "@el.
@@ -43,6 +44,9 @@
 <http://legislation.di.uoa.gr/pd/2014/38/article/1/paragraph/1/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/38/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/38/article/1/paragraph/1/passage/6>.
 <http://legislation.di.uoa.gr/pd/2014/38/article/1/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> "1/2009 (Α΄1), παρατείνεται από τη λήξη της για ένα (1) έτος, ήτοι μέχρι 7.1.2015. "@el.
+<http://legislation.di.uoa.gr/pd/2014/38/article/1/paragraph/1/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/38/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/38/article/1/paragraph/1/passage/7>.
+<http://legislation.di.uoa.gr/pd/2014/38/article/1/paragraph/1/passage/7> <http://legislation.di.uoa.gr/ontology/text> " 1106 "@el.
 <http://legislation.di.uoa.gr/pd/2014/38/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/38> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/38/article/2>.
 <http://legislation.di.uoa.gr/pd/2014/38/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -50,6 +54,10 @@
 <http://legislation.di.uoa.gr/pd/2014/38/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/38/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/38/article/2/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/38/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος Διατάγματος αρχίζει από 7 Ιανουαρίου 2014. "@el.
+<http://legislation.di.uoa.gr/pd/2014/38/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/38/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/38/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/38/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Υποδομών, Μεταφορών και Δικτύων αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος Διατάγματος. "@el.
 <http://legislation.di.uoa.gr/pd/2014/38> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

@@ -5,3 +5,4 @@
 <http://legislation.di.uoa.gr/law/2014/258/2014> <http://purl.org/dc/terms/created> "2014-09-25"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/law/2014/258/2014> <http://legislation.di.uoa.gr/ontology/legislationID> "258/2014"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/law/2014/258/2014> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+

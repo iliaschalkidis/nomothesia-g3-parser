@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/amc/2014/11> <http://purl.org/dc/terms/created> "2014-04-11"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/amc/2014/11> <http://legislation.di.uoa.gr/ontology/legislationID> "11"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/amc/2014/11> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/amc/2014/11> <http://purl.org/dc/terms/title> "Ρύθμιση θεμάτων κατ’ εφαρμογή της παραγράφου 11 του άρθρου 6α του ν. 3864/2010 (Α΄ 119), όπως προστέθηκε με την υποπαράγραφο Α3 της παραγράφου Α του άρθρου δεύτερου του ν. 4254/2014 (Α΄ 85).  "@el.
 <http://legislation.di.uoa.gr/amc/2014/11/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/amc/2014/11/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Η αποτίμηση ενσωματώνεται στην εισήγηση της Τράπεζας της Ελλάδος προς το Υπουργικό Συμβούλιο. Σκοπός της αποτίμησης είναι να υπολογιστεί το ενεργητικό και το παθητικό του πιστωτικού ιδρύματος που ζητά την κεφαλαιακή ενίσχυση του Ταμείου Χρηματοπιστωτικής Σταθερότητας. "@el.

@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/146> <http://purl.org/dc/terms/created> "2014-10-29"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/146> <http://legislation.di.uoa.gr/ontology/legislationID> "146"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/146> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/146> <http://purl.org/dc/terms/title> "Ανακατανομή οργανικών θέσεων δικαστικών λειτουργών των πολιτικών και ποινικών δικαστηρίων της Χώρας.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/146/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/146/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) Του άρθρου 3 παρ. 2 περ. α΄, υποπερ. αα΄ του ν. 1756/1988 «Κώδικας Οργανισμού Δικαστηρίων και Κατάστασης Δικαστικών λειτουργών» (Α΄ 35) όπως διαμορφώθηκε με το άρθρο 6 παρ. 8 του ν. 2408/1996 (Α΄ 104). β) Του άρθρου 90 του «Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα» που κυρώθηκε με το άρθρο πρώτο του π.δ/τος 63/2005 (Α΄ 98). γ) Της παρ. 1 περ. α του άρθρου 6 του ν. 4285/2014 (Α΄191). "@el.
@@ -34,6 +35,9 @@
 <http://legislation.di.uoa.gr/pd/2014/146/article/1/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/146/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/146/article/1/paragraph/1/passage/4>.
 <http://legislation.di.uoa.gr/pd/2014/146/article/1/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "4285/2014 (Α΄191)]. "@el.
+<http://legislation.di.uoa.gr/pd/2014/146/article/1/paragraph/1/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/146/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/146/article/1/paragraph/1/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/146/article/1/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Οι ανωτέρω δέκα (10) οργανικές θέσεις Προέδρων Εφετών κατανέμονται στο Εφετείο Αθηνών, οριζομένου του συνολικού αριθμού αυτών σε εξήντα επτά (67), με ισάριθμη μείωση των οργανικών θέσεων των Εφετών, οριζομένου του συνολικού αριθμού αυτών σε διακόσιες σαράντα μία (241). "@el.
 <http://legislation.di.uoa.gr/pd/2014/146/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/146> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/146/article/2>.
 <http://legislation.di.uoa.gr/pd/2014/146/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -41,6 +45,10 @@
 <http://legislation.di.uoa.gr/pd/2014/146/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/146/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/146/article/2/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/146/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. "@el.
+<http://legislation.di.uoa.gr/pd/2014/146/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/146/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/146/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/146/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> " 7498 Στον Υπουργό Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος. "@el.
 <http://legislation.di.uoa.gr/pd/2014/146> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

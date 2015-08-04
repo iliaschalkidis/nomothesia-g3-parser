@@ -5,24 +5,34 @@
 <http://legislation.di.uoa.gr/pd/2014/24> <http://purl.org/dc/terms/created> "2014-02-17"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/24> <http://legislation.di.uoa.gr/ontology/legislationID> "24"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/24> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/24> <http://purl.org/dc/terms/title> "Διάλυση της Σχολής Ηλεκτρονικού Πολέμου στο Στρατό Ξηράς.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/24/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/24> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/24/article/1>.
-<http://legislation.di.uoa.gr/pd/2014/24/article/1> <http://purl.org/dc/terms/title> "Διάλυση Σχολής Ηλεκτρονικού Πολέμου".<http://legislation.di.uoa.gr/pd/2014/24/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/24/article/1> <http://purl.org/dc/terms/title> "Διάλυση Σχολής Ηλεκτρονικού Πολέμου".
+<http://legislation.di.uoa.gr/pd/2014/24/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/24/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/24/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/24/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/24/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/24/article/1/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/24/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Διαλύεται η Σχολή Ηλεκτρονικού Πολέμου (ΣΗΠ), όπωςαυτή συγκροτήθηκε με το π.δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/24/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/24/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/24/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/24/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "6/2008 (ΦΕΚ Α΄ 18). "@el.
 <http://legislation.di.uoa.gr/pd/2014/24/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/24> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/24/article/2>.
-<http://legislation.di.uoa.gr/pd/2014/24/article/2> <http://purl.org/dc/terms/title> "Καταργούμενες διατάξεις".<http://legislation.di.uoa.gr/pd/2014/24/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/24/article/2> <http://purl.org/dc/terms/title> "Καταργούμενες διατάξεις".
+<http://legislation.di.uoa.gr/pd/2014/24/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/24/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/24/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/24/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/24/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/24/article/2/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/24/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Από τη θέση σε ισχύ του παρόντος καταργούνται οιδιατάξεις του π.δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/24/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/24/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/24/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/24/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "6/2008 (ΦΕΚ Α΄ 18). "@el.
 <http://legislation.di.uoa.gr/pd/2014/24/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/24> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/24/article/3>.
-<http://legislation.di.uoa.gr/pd/2014/24/article/3> <http://purl.org/dc/terms/title> "Έναρξη Ισχύος του Προεδρικού Διατάγματος".<http://legislation.di.uoa.gr/pd/2014/24/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/24/article/3> <http://purl.org/dc/terms/title> "Έναρξη Ισχύος του Προεδρικού Διατάγματος".
+<http://legislation.di.uoa.gr/pd/2014/24/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/24/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/24/article/3/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/24/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/24/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/24/article/3/paragraph/1/passage/1>.
@@ -30,3 +40,4 @@
 <http://legislation.di.uoa.gr/pd/2014/24> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/65> <http://purl.org/dc/terms/created> "2014-05-06"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/65> <http://legislation.di.uoa.gr/ontology/legislationID> "65"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/65> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/65> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/65/2014-05-06>.
 <http://legislation.di.uoa.gr/pd/2014/65> <http://purl.org/dc/terms/title> "Ρυθμιστικά μέτρα για την αλιεία του αχινού του είδους Paracentrotus lividus.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/65/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
@@ -48,7 +49,8 @@
 <http://legislation.di.uoa.gr/pd/2014/65> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/citation/13>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/65> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/1>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/1> <http://purl.org/dc/terms/title> "Σκοπός- Πεδίο Εφαρμογής".<http://legislation.di.uoa.gr/pd/2014/65/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/1> <http://purl.org/dc/terms/title> "Σκοπός- Πεδίο Εφαρμογής".
+<http://legislation.di.uoa.gr/pd/2014/65/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/1/paragraph/1/passage/1>.
@@ -81,7 +83,8 @@
 <http://legislation.di.uoa.gr/pd/2014/65/article/1/paragraph/2/case/3> <http://legislation.di.uoa.gr/ontology/text> " ερασιτέχνες αλιείς. "@el.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/65> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/2>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/2> <http://purl.org/dc/terms/title> "Άδεια αλίευσης αχινών σε επαγγελματικά αλιευτικά σκάφη".<http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/2> <http://purl.org/dc/terms/title> "Άδεια αλίευσης αχινών σε επαγγελματικά αλιευτικά σκάφη".
+<http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/1/passage/1>.
@@ -89,6 +92,9 @@
 <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "666/1966 (Α΄160) και του π.δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "261/1991 (Α΄98), πρέπει να διαθέτουν και τη σχετική άδεια αλίευσης αχινών."@el.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -97,11 +103,14 @@
 <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/2/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Η αίτηση του ενδιαφερομένου συνοδεύεται από αντίγραφο της αλιευτικής άδειας της παραγράφου 1. "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/2/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/2/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/2/passage/3> <http://legislation.di.uoa.gr/ontology/text> " 3782"@el.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/3/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η άδεια αλίευσης αχινών έχει διάρκεια ενός (1) έτους, με έναρξη ισχύος την 1η Δεκεμβρίου κάθε έτους. "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η άδεια αλίευσης αχινών έχει διάρκεια ενός (1) έτους, με έναρξη ισχύος την 1η Δεκεμβρίου κάθε έτους."@el.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -116,25 +125,36 @@
 <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/4/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/4/passage/4>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/4/passage/4> <http://legislation.di.uoa.gr/ontology/text> "(ΕΚ) αριθ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/4/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/4/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/2/paragraph/4/passage/5> <http://legislation.di.uoa.gr/ontology/text> "1224/2009 του Συμβουλίου."@el.
 <http://legislation.di.uoa.gr/pd/2014/65/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/65> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/3>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/3> <http://purl.org/dc/terms/title> "Αλιευτικά εργαλεία".<http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/3> <http://purl.org/dc/terms/title> "Αλιευτικά εργαλεία".
+<http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η αλίευση αχινών πραγματοποιείται αποκλειστικά με:α) Πιρούνα ή χέρα, με χειρισμό με το χέρι χωρίς τηβοήθεια οποιουδήποτε μηχανικού μέσου. "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η αλίευση αχινών πραγματοποιείται αποκλειστικά με. "@el.
 <http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Το μεταλλικόμέρος της πιρούνας ή της χέρας πρέπει να έχει ελάχι-στο πλάτος τα 6 εκ., ήβ) ελεύθερη κατάδυση ή καταδυτική συσκευή και σύ-στημα παροχής αέρα, σύμφωνα με την περ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "α) Πιρούνα ή χέρα, με χειρισμό με το χέρι χωρίς τηβοήθεια οποιουδήποτε μηχανικού μέσου. "@el.
 <http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/3>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "γ) της παρ.2 του άρθρου 1 του π.δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Το μεταλλικόμέρος της πιρούνας ή της χέρας πρέπει να έχει ελάχι-στο πλάτος τα 6 εκ., ήβ) ελεύθερη κατάδυση ή καταδυτική συσκευή και σύ-στημα παροχής αέρα, σύμφωνα με την περ. "@el.
 <http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/4>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "86/1998 (Α΄78), όπως ισχύει. "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "γ) της παρ.2 του άρθρου 1 του π.δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "86/1998 (Α΄78), όπως ισχύει. "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/6>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/3/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Οχρησιμοποιούμενος από το δύτη αναπνευστικός σω-λήνας παροχής αέρα από το σκάφος πρέπει να έχεισυνολικό μήκος έως 10 μέτρα. "@el.
 <http://legislation.di.uoa.gr/pd/2014/65/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/65> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/4>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/4> <http://purl.org/dc/terms/title> "Επιτρεπόμενες περίοδοι, περιοχές και ποσότητες αλίευσης αχινών".<http://legislation.di.uoa.gr/pd/2014/65/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/4> <http://purl.org/dc/terms/title> "Επιτρεπόμενες περίοδοι, περιοχές και ποσότητες αλίευσης αχινών".
+<http://legislation.di.uoa.gr/pd/2014/65/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/4/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/4/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/4/paragraph/1/passage/1>.
@@ -156,16 +176,21 @@
 <http://legislation.di.uoa.gr/pd/2014/65/article/4/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/4/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/4/paragraph/2/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/4/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ο μέγιστος αριθμός των επιτρεπόμενων αλιευομένων ατόμων αχινού ανά σκάφος ορίζεται στα εξακόσια (600) άτομα ανά ημέρα. "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/4/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/4/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/4/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/4/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Οι επαγγελματίες αλιείς οι οποίοι διαθέτουν άδεια αλίευσης αχινών σύμφωνα με το άρθρο 2, υποχρεούνται να υποβάλουν κάθε μήνα στην αρμόδια υπηρεσία αλιείας της οικείας Περιφερειακής Ενότητας, μηνιαία αναφορά της ποσότητας των αχινών που αλιεύθηκε."@el.
 <http://legislation.di.uoa.gr/pd/2014/65/article/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/65> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/5>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/5> <http://purl.org/dc/terms/title> "Ελάχιστο μέγεθος αλιευόμενου αχινού".<http://legislation.di.uoa.gr/pd/2014/65/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/5> <http://purl.org/dc/terms/title> "Ελάχιστο μέγεθος αλιευόμενου αχινού".
+<http://legislation.di.uoa.gr/pd/2014/65/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/5/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/5/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/5/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/5/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Απαγορεύεται η αλίευση, η διατήρηση επί του σκά-φους, η μεταφόρτωση, η εκφόρτωση, η μεταφορά, ηαποθήκευση, η έκθεση με σκοπό την πώληση, η διάθεσηπρος πώληση και η εμπορία των προερχόμενων απότην αλίευση αχινών, εφόσον οι διαστάσεις των ατόμωνείναι μικρότερες από τα 5 εκατοστά κατά τη διάμετρο,χωρίς τα αγκάθια. "@el.
 <http://legislation.di.uoa.gr/pd/2014/65/article/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/65> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/6>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/6> <http://purl.org/dc/terms/title> "Ερασιτεχνική αλίευση αχινών".<http://legislation.di.uoa.gr/pd/2014/65/article/6/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/6> <http://purl.org/dc/terms/title> "Ερασιτεχνική αλίευση αχινών".
+<http://legislation.di.uoa.gr/pd/2014/65/article/6/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/6/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/6/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/6/paragraph/1/passage/1>.
@@ -176,29 +201,36 @@
 <http://legislation.di.uoa.gr/pd/2014/65/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στην παράγραφο 1 του άρθρου 2 προστίθεται περίπτωση ζ΄ ως εξής: . "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στην παράγραφο 1 του άρθρου 2 προστίθεται περίπτωση ζ΄ ως εξής:"@el.
 <http://legislation.di.uoa.gr/pd/2014/65>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/modification/1>.
 <http://legislation.di.uoa.gr/pd/2014/65>  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/modification/1>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/modification/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/modification/1>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/modification/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/modification/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/modification/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/modification/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ζ) Με τα εργαλεία πιρούνα ή χέρα, με χειρισμό με το χέρι χωρίς τη βοήθεια οποιουδήποτε μηχανικού μέσου, καθώς και με ελεύθερη κατάδυση, για την αλιεία αχινών "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/passage/1/modification/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/passage/1/modification/1>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/passage/1/modification/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/passage/1/modification/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/passage/1/modification/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/passage/1/modification/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ζ) Με τα εργαλεία πιρούνα ή χέρα, με χειρισμό με το χέρι χωρίς τη βοήθεια οποιουδήποτε μηχανικού μέσου, καθώς και με ελεύθερη κατάδυση, για την αλιεία αχινών "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> " ."@el.
 <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στην παράγραφο 2 του άρθρου 2 προστίθεται περίπτωση γ΄ ως εξής: . "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στην παράγραφο 2 του άρθρου 2 προστίθεται περίπτωση γ΄ ως εξής:"@el.
 <http://legislation.di.uoa.gr/pd/2014/65>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/modification/2>.
 <http://legislation.di.uoa.gr/pd/2014/65>  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/modification/2>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/modification/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/modification/2>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/modification/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/modification/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/modification/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/modification/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "γ) Μέχρι είκοσι (20) άτομα αχινών ανά ημέρα ανά ερασιτέχνη αλιέα και τριάντα (30) άτομα αχινών ανά ημέρα συνολικά ανά ερασιτεχνικό σκάφος "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/passage/1/modification/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/passage/1/modification/2>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/passage/1/modification/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/passage/1/modification/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/passage/1/modification/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/passage/1/modification/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "γ) Μέχρι είκοσι (20) άτομα αχινών ανά ημέρα ανά ερασιτέχνη αλιέα και τριάντα (30) άτομα αχινών ανά ημέρα συνολικά ανά ερασιτεχνικό σκάφος "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/7/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> " ."@el.
 <http://legislation.di.uoa.gr/pd/2014/65/article/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/65> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/8>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/8> <http://purl.org/dc/terms/title> "Μέτρα για τη διατήρηση του πληθυσμού του αχινού".<http://legislation.di.uoa.gr/pd/2014/65/article/8/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/8> <http://purl.org/dc/terms/title> "Μέτρα για τη διατήρηση του πληθυσμού του αχινού".
+<http://legislation.di.uoa.gr/pd/2014/65/article/8/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/8/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/8/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/8/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/8/paragraph/1/passage/1>.
@@ -206,9 +238,13 @@
 <http://legislation.di.uoa.gr/pd/2014/65/article/8/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/8/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/8/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/8/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "5 του άρθρου 10 του ν.δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/8/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/8/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/8/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/8/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "420/1970 (Α΄27). "@el.
 <http://legislation.di.uoa.gr/pd/2014/65/article/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/65> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/9>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/9> <http://purl.org/dc/terms/title> "Κυρώσεις".<http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/9> <http://purl.org/dc/terms/title> "Κυρώσεις".
+<http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/1/passage/1>.
@@ -237,14 +273,21 @@
 <http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/1/passage/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/1/passage/9>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/1/passage/9> <http://legislation.di.uoa.gr/ontology/text> "2 του άρθρου 20 του ιδίου ως άνω ν.δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/1/passage/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/1/passage/10>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/1/passage/10> <http://legislation.di.uoa.gr/ontology/text> "420/1970 (Α΄27), κατά περίπτωση."@el.
 <http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/2/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα παρανόμως αλιευθέντα άτομα αχινού από επαγγελματική και ερασιτεχνική αλιεία, εφόσον είναι ζωντανά επιστρέφονται στη θάλασσα. "@el.
+<http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/9/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Τα νεκρά άτομα κατάσχονται και εκποιούνται από τις αρμόδιες αρχές σύμφωνα με τις κτηνιατρικές διατάξεις, όπως κάθε φορά ισχύουν."@el.
 <http://legislation.di.uoa.gr/pd/2014/65/article/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/65> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/10>.
-<http://legislation.di.uoa.gr/pd/2014/65/article/10> <http://purl.org/dc/terms/title> "Έναρξη ισχύος".<http://legislation.di.uoa.gr/pd/2014/65/article/10/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/65/article/10> <http://purl.org/dc/terms/title> "Έναρξη ισχύος".
+<http://legislation.di.uoa.gr/pd/2014/65/article/10/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/10/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/10/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/65/article/10/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/65/article/10/paragraph/1/passage/1>.
@@ -252,3 +295,4 @@
 <http://legislation.di.uoa.gr/pd/2014/65> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/139> <http://purl.org/dc/terms/created> "2014-10-16"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/139> <http://legislation.di.uoa.gr/ontology/legislationID> "139"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/139> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/139> <http://purl.org/dc/terms/title> "Χαρακτηρισμός μαρτυρικών πόλεων και μαρτυρικών χωριών.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/139/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/139/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις της παραγράφου 5 του άρθρου 18 του Ν. 2503/1997 «Διοίκηση, οργάνωση, στελέχωση της Περιφέρειας, ρύθμιση θεμάτων για την τοπική αυτοδιοίκηση και άλλες διατάξεις» (Α΄ 107). "@el.
@@ -29,7 +30,8 @@
 <http://legislation.di.uoa.gr/pd/2014/139> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/139/citation/7>.
 <http://legislation.di.uoa.gr/pd/2014/139/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/139> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/139/article/1>.
-<http://legislation.di.uoa.gr/pd/2014/139/article/1> <http://purl.org/dc/terms/title> "Η δημοτική ενότητα Κορμίστας του Δήμου Αμφίπολης".<http://legislation.di.uoa.gr/pd/2014/139/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/139/article/1> <http://purl.org/dc/terms/title> "Η δημοτική ενότητα Κορμίστας του Δήμου Αμφίπολης".
+<http://legislation.di.uoa.gr/pd/2014/139/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/139/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/139/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/139/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/139/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/139/article/1/paragraph/1/passage/1>.
@@ -41,9 +43,13 @@
 <http://legislation.di.uoa.gr/pd/2014/139/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/139/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/139/article/2/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/139/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. "@el.
+<http://legislation.di.uoa.gr/pd/2014/139/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/139/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/139/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/139/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Εσωτερικών αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος. "@el.
 <http://legislation.di.uoa.gr/pd/2014/139> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/140> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/230>.
 <http://legislation.di.uoa.gr/gazette/a/2014/230> <http://purl.org/dc/terms/title> "Α/2014/230".
@@ -51,6 +57,7 @@
 <http://legislation.di.uoa.gr/pd/2014/140> <http://purl.org/dc/terms/created> "2014-10-16"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/140> <http://legislation.di.uoa.gr/ontology/legislationID> "140"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/140> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/140> <http://purl.org/dc/terms/title> "Πειθαρχική ευθύνη των μελών της Εθνικής Επιτροπής Τηλεπικοινωνιών και Ταχυδρομείων (Ε.Ε.Τ.Τ.) – Πειθαρχική διαδικασία.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/140/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/140/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α. Του άρθρου 10 παρ. 3 του Ν. 4070/2012 «Ρυθμίσεις  7446 Ηλεκτρονικών Επικοινωνιών, Μεταφορών, Δημοσίων Έργων και άλλες διατάξεις» (A΄ 82), όπως ισχύει. β. Του άρθρου 90 του Kώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα, που κυρώθηκε με το άρθρο πρώτο του π.δ. 63/2005 (Α΄ 98), όπως ισχύει. γ. Του π.δ. 293/1999 «Οργανισμός του Υπουργείου Μεταφορών και Επικοινωνιών» (A΄ 263), όπως ισχύει. δ. Του άρθρου 1 του π.δ. 118/2013 «Τροποποίηση του π.δ. 85/2012 (Α΄ 141) - Ίδρυση Υπουργείου Υποδομών, Μεταφορών και Δικτύων και Υπουργείου Πολιτισμού και Αθλητισμού και μετονομασία των Υπουργείων Ανάπτυξης, Ανταγωνιστικότητας, Υποδομών, Μεταφορών και Δικτύων και Παιδείας και Θρησκευμάτων, Πολιτισμού και Αθλητισμού σε Υπουργείο Ανάπτυξης και Ανταγωνιστικότητας και σε Υπουργείο Παιδείας και Θρησκευμάτων αντιστοίχως» (Α΄ 152). "@el.

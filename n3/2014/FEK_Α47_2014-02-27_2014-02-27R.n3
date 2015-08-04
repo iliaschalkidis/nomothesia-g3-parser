@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/law/2014/4240> <http://purl.org/dc/terms/created> "2014-02-27"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/law/2014/4240> <http://legislation.di.uoa.gr/ontology/legislationID> "4240"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/law/2014/4240> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/law/2014/4240> <http://purl.org/dc/terms/title> "Κύρωση της Συμφωνίας μεταξύ της Κυβέρνησης της Ελ- ληνικής Δημοκρατίας και του Κράτους του Γκέρνσεϋ για την ανταλλαγή πληροφοριών σχετικά με φορο- λογικά θέματα. Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ "@el.
 <http://legislation.di.uoa.gr/law/2014/4240/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4240> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4240/article/1>.
@@ -13,6 +14,12 @@
 <http://legislation.di.uoa.gr/law/2014/4240/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4240/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4240/article/1/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/law/2014/4240/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνεται και έχει την ισχύ, που ορίζει το άρθρο 28 παρ. "@el.
+<http://legislation.di.uoa.gr/law/2014/4240/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4240/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4240/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2014/4240/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "1 του Συντάγματος, η Συμφωνία μεταξύ της Ελληνικής Δημοκρατίας και του Κράτους του Γκέρνσεϋ για την ανταλλαγή πληροφοριών σχετικά με φορολογικά θέματα, που υπογράφηκε στη Σιγκαπούρη στις 29 Σεπτεμβρίου 2010 και στο Γκέρνσεϋ στις 8 Οκτωβρίου 2010, το κείμενο της οποίας, σε πρωτότυπο στην αγγλική γλώσσα και σε μετάφραση στην ελληνική, έχει ως ακολούθως:"@el.
+<http://legislation.di.uoa.gr/law/2014/4240/article/1/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4240/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4240/article/1/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/law/2014/4240/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "  760     762     764     766     768     770     772     774     776     778     780     782     784     786     788     790     792     794     796 "@el.
 <http://legislation.di.uoa.gr/law/2014/4240/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4240> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4240/article/2>.
 <http://legislation.di.uoa.gr/law/2014/4240/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -20,6 +27,10 @@
 <http://legislation.di.uoa.gr/law/2014/4240/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4240/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4240/article/2/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/law/2014/4240/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 14 παράγραφος 1 αυτής. "@el.
+<http://legislation.di.uoa.gr/law/2014/4240/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4240/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4240/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2014/4240/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως νόμου του Κράτους. "@el.
 <http://legislation.di.uoa.gr/law/2014/4240> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/amc/2014/2> <http://purl.org/dc/terms/created> "2014-01-13"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/amc/2014/2> <http://legislation.di.uoa.gr/ontology/legislationID> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/amc/2014/2> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/amc/2014/2> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/amc/2014/2/2014-01-13>.
 <http://legislation.di.uoa.gr/amc/2014/2> <http://purl.org/dc/terms/title> "Τροποποίηση και συμπλήρωση της 2/25.1.2013 Πράξης Υπουργικού Συμβουλίου «Σύσταση και συγκρότηση Ομάδας Συντονισμού Έργου με την ονομασία "Επιχειρησιακή Συντονιστική Επιτροπή» για την υλοποίηση, παρακολούθηση και συντονισμό των δράσεων της Εθνικής Στρατηγικής για τη Διευκόλυνση του Εξωτερικού Εμπορίου» (Α΄ 19).  "@el.
 <http://legislation.di.uoa.gr/amc/2014/2/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
@@ -25,53 +26,69 @@
 <http://legislation.di.uoa.gr/amc/2014/2/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στο άρθρο 1 της 2/25.1.2013 Πράξης Υπουργικού Συμβουλίου προστίθενται παράγραφοι 3 και 4 ως εξής: . "@el.
-<http://legislation.di.uoa.gr/amc/2014/2>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <http://legislation.di.uoa.gr/amc/2014/2/article/1/modification/1>.
-<http://legislation.di.uoa.gr/amc/2014/2>  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <http://legislation.di.uoa.gr/amc/2014/2/article/1/modification/1>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/modification/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/modification/1>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/modification/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/modification/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/modification/1/passage/1>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/modification/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "3. Η Επιχειρησιακή Συντονιστική Επιτροπή της παραγράφου 1 του παρόντος άρθρου υπάγεται στη Συντονιστική Επιτροπή Εξωστρέφειας της παραγράφου 1 του άρθρου 1 της Υ 216/2012 απόφασης του Πρωθυπουργού, όπως ισχύει. 4. Τα μέλη της Επιχειρησιακής Συντονιστικής Επιτροπής δύνανται να αντικατασταθούν οποτεδήποτε, ήτοι και πριν από την ολοκλήρωση της διάρκειας του Έργου με απόφαση της Συντονιστικής Επιτροπής Εξωστρέφειας της παραγράφου 1 του άρθρου 1 της Υ 216/2012 απόφασης του Πρωθυπουργού, όπως ισχύει "@el.
+<http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στο άρθρο 1 της 2/25.1.2013 Πράξης Υπουργικού Συμβουλίου προστίθενται παράγραφοι 3 και 4 ως εξής:"@el.
+<http://legislation.di.uoa.gr/amc/2014/2>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/modification/1>.
+<http://legislation.di.uoa.gr/amc/2014/2>  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/modification/1>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/passage/1/modification/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/passage/1/modification/1>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/passage/1/modification/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/passage/1/modification/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/passage/1/modification/1/passage/1>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/passage/1/modification/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "3. Η Επιχειρησιακή Συντονιστική Επιτροπή της παραγράφου 1 του παρόντος άρθρου υπάγεται στη Συντονιστική Επιτροπή Εξωστρέφειας της παραγράφου 1 του άρθρου 1 της Υ 216/2012 απόφασης του Πρωθυπουργού, όπως ισχύει. 4. Τα μέλη της Επιχειρησιακής Συντονιστικής Επιτροπής δύνανται να αντικατασταθούν οποτεδήποτε, ήτοι και πριν από την ολοκλήρωση της διάρκειας του Έργου με απόφαση της Συντονιστικής Επιτροπής Εξωστρέφειας της παραγράφου 1 του άρθρου 1 της Υ 216/2012 απόφασης του Πρωθυπουργού, όπως ισχύει "@el.
+<http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> " . "@el.
 <http://legislation.di.uoa.gr/amc/2014/2/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/amc/2014/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/2>.
 <http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/amc/2014/2/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μετά το τελευταίο εδάφιο της περίπτωσης β της παραγράφου 2 του άρθρου 7 της 2/25.1.2013 Πράξης Υπουργικού Συμβουλίου προστίθεται το ακόλουθο εδάφιο: «Η στελέχωση υλοποιείται με απόσπαση ή με μετακίνηση, κατά παρέκκλιση των κείμενων διατάξεων και οι σχετικές πιστώσεις βαρύνουν το φορέα από τον οποίο προέρχεται το προσωπικό ». "@el.
-<http://legislation.di.uoa.gr/amc/2014/2>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <http://legislation.di.uoa.gr/amc/2014/2/article/2/modification/2>.
-<http://legislation.di.uoa.gr/amc/2014/2>  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <http://legislation.di.uoa.gr/amc/2014/2/article/2/modification/2>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/modification/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/modification/2>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/modification/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/modification/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/modification/2/passage/1>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/modification/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "δ. Τα μέλη της ορίζονται και αντικαθίστανται με απόφαση της Συντονιστικής Επιτροπής Εξωστρέφειας που συστάθηκε με την Υ 216/2012 απόφαση του Πρωθυπουργού, όπως ισχύει "@el.
+<http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μετά το τελευταίο εδάφιο της περίπτωσης β της παραγράφου 2 του άρθρου 7 της 2/25.1.2013 Πράξης Υπουργικού Συμβουλίου προστίθεται το ακόλουθο εδάφιο:"@el.
+<http://legislation.di.uoa.gr/amc/2014/2>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/modification/2>.
+<http://legislation.di.uoa.gr/amc/2014/2>  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/modification/2>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/passage/1/modification/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/passage/1/modification/2>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/passage/1/modification/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/passage/1/modification/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/passage/1/modification/2/passage/1>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/passage/1/modification/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "δ. Τα μέλη της ορίζονται και αντικαθίστανται με απόφαση της Συντονιστικής Επιτροπής Εξωστρέφειας που συστάθηκε με την Υ 216/2012 απόφαση του Πρωθυπουργού, όπως ισχύει "@el.
+<http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> " «Η στελέχωση υλοποιείται με απόσπαση ή με μετακίνηση, κατά παρέκκλιση των κείμενων διατάξεων και οι σχετικές πιστώσεις βαρύνουν το φορέα από τον οποίο προέρχεται το προσωπικό ». "@el.
 <http://legislation.di.uoa.gr/amc/2014/2/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/amc/2014/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/3>.
 <http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/amc/2014/2/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1>.
 <http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η περίπτωση δ της παραγράφου 2 του άρθρου 7 της 2/25.1.2013 Πράξης Υπουργικού Συμβουλίου αντικαθίσταται ως εξής: . "@el.
-<http://legislation.di.uoa.gr/amc/2014/2>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <http://legislation.di.uoa.gr/amc/2014/2/article/3/modification/3>.
-<http://legislation.di.uoa.gr/amc/2014/2>  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <http://legislation.di.uoa.gr/amc/2014/2/article/3/modification/3>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/modification/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/modification/3>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/modification/3/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/modification/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/modification/3/article/1>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/modification/3/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/modification/3/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/modification/3/article/1/paragraph/1>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/modification/3/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/modification/3/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/modification/3/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/modification/3/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Άρθρο 8 Θητεία Επιτροπής και Ομάδας Επιχειρησιακής Υποστήριξης Η διάρκεια της Επιτροπής και της Ομάδας Επιχει- ρησιακής Υποστήριξης, όπως και η αρχική θητεία των μελών τους ακολουθεί τη διάρκεια του Έργου. "@el.
+<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η περίπτωση δ της παραγράφου 2 του άρθρου 7 της 2/25.1.2013 Πράξης Υπουργικού Συμβουλίου αντικαθίσταται ως εξής:"@el.
+<http://legislation.di.uoa.gr/amc/2014/2>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/modification/3>.
+<http://legislation.di.uoa.gr/amc/2014/2>  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/modification/3>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1/modification/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1/modification/3>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1/modification/3/article/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1/modification/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1/modification/3/article/8>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1/modification/3/article/8> <http://purl.org/dc/terms/title> "Θητεία Επιτροπής και Ομάδας".
+<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1/modification/3/article/8/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1/modification/3/article/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1/modification/3/article/8/paragraph/1>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1/modification/3/article/8/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1/modification/3/article/8/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1/modification/3/article/8/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1/modification/3/article/8/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Επιχειρησιακής ΥποστήριξηςΗ διάρκεια της Επιτροπής και της Ομάδας Επιχει-ρησιακής Υποστήριξης, όπως και η αρχική θητεία τωνμελών τους ακολουθεί τη διάρκεια του Έργου. "@el.
+<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1/modification/3/article/8/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1/modification/3/article/8/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1/modification/3/article/8/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/1/modification/3/article/8/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Τα μέληδύνανται να αντικατασταθούν οποτεδήποτε, ήτοι καιπριν από την ολοκλήρωση της διάρκειας του Έργου, μεαπόφαση της Συντονιστικής Επιτροπής Εξωστρέφειαςπου συστάθηκε με την Υ 216/2012 απόφαση του Πρω-θυπουργού, όπως ισχύει "@el.
+<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/3/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> " . "@el.
 <http://legislation.di.uoa.gr/amc/2014/2/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/amc/2014/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/4>.
 <http://legislation.di.uoa.gr/amc/2014/2/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/amc/2014/2/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/4/paragraph/1>.
 <http://legislation.di.uoa.gr/amc/2014/2/article/4/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2014/2/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/4/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/amc/2014/2/article/4/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το άρθρο 8 της 2/25.1.2013 Πράξης Υπουργικού Συμβουλίου αντικαθίσταται ως εξής: . "@el.
+<http://legislation.di.uoa.gr/amc/2014/2/article/4/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το άρθρο 8 της 2/25.1.2013 Πράξης Υπουργικού Συμβουλίου αντικαθίσταται ως εξής:"@el.
+<http://legislation.di.uoa.gr/amc/2014/2/article/4/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/4/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/4/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> " . "@el.
 <http://legislation.di.uoa.gr/amc/2014/2/article/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/amc/2014/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/5>.
 <http://legislation.di.uoa.gr/amc/2014/2/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -82,6 +99,10 @@
 <http://legislation.di.uoa.gr/amc/2014/2/article/5/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2014/2/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/5/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/amc/2014/2/article/5/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Η πράξη αυτή να δημοσιευθεί στην Εφημερίδα της Κυβερνήσεως. "@el.
+<http://legislation.di.uoa.gr/amc/2014/2/article/5/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/2/article/5/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/amc/2014/2/article/5/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> " "@el.
 <http://legislation.di.uoa.gr/amc/2014/2> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

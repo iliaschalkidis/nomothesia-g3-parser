@@ -61,26 +61,32 @@
 <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Χαλκιδικής, στο Δήμο Αριστοτέλη και συστήνεται Νομικό Πρόσωπο Δημοσίου Δικαίου με την επωνυμία «Δημοτικό Λιμενικό Ταμείο Αριστοτέλη», που θα ασκεί τις εν λόγω αρμοδιότητες. "@el.
+<http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> " 28"@el.
 <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/7/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το «Δημοτικό Λιμενικό Ταμείο Αριστοτέλη» με τη δημοσίευση του παρόντος υπεισέρχεται, αυτοδικαίως σε όλα τα κινητά και ακίνητα περιουσιακά στοιχεία, πόρους, δικαιώματα, εν γένει, και υποχρεώσεις του Λιμενικού Ταμείου Χαλκιδικής που αφορούν στο Δήμο Αριστοτέλη. "@el.
+<http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το «Δημοτικό Λιμενικό Ταμείο Αριστοτέλη» με τη δημοσίευση του παρόντος υπεισέρχεται, αυτοδικαίως σε όλα τα κινητά και ακίνητα περιουσιακά στοιχεία, πόρους, δικαιώματα, εν γένει, και υποχρεώσεις του Λιμενικού Ταμείου Χαλκιδικής που αφορούν στο Δήμο Αριστοτέλη."@el.
 <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/7/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/3/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Εσωτερικών αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος. "@el.
+<http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Εσωτερικών αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.
 <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/7/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/4/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το γεγονός ότι από τις διατάξεις του παρόντος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού. "@el.
+<http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το γεγονός ότι από τις διατάξεις του παρόντος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού."@el.
 <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/7/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/5>.
 <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/5/passage/1>.
 <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Την αριθμ. "@el.
+<http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/5/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/5/passage/2>.
+<http://legislation.di.uoa.gr/pd/2015/7/article/1/paragraph/5/passage/2> <http://legislation.di.uoa.gr/ontology/text> "7/2015 γνωμοδότηση του Συμβουλίου της Επικρατείας, επί της πρότασης του Υπουργού Εσωτερικών και του Υπουργού Ναυτιλίας και Αιγαίου, αοφασίζουμε"@el.
 <http://legislation.di.uoa.gr/pd/2015/7> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
@@ -145,16 +151,19 @@
 <http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μεταφέρονται οι αρμοδιότητες του Λιμενικού Ταμείου Νομού Λακωνίας, που αφορούν στο Δήμο Ανατολικής Μάνης Ν. "@el.
+<http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Λακωνίας, στο Δήμο Ανατολικής Μάνης και συστήνεται Νομικό Πρόσωπο Δημοσίου Δικαίου με την επωνυμία «Δημοτικό Λιμενικό Ταμείο Ανατολικής Μάνης» με έδρα τη Δημοτική Κοινότητα Γυθείου του Δήμου Ανατολικής Μάνης, που θα ασκεί τις εν λόγω αρμοδιότητες."@el.
 <http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το «Δημοτικό Λιμενικό Ταμείο Ανατολικής Μάνης» με τη δημοσίευση του παρόντος υπεισέρχεται, αυτοδικαίως, σε όλα, τα κινητά και ακίνητα περιουσιακά στοιχεία, πόρους, δικαιώματα, εν γένει και υποχρεώσεις του Λιμενικού Ταμείου Νομού Λακωνίας, που αφορούν στο Δήμο Ανατολικής Μάνης. "@el.
+<http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το «Δημοτικό Λιμενικό Ταμείο Ανατολικής Μάνης» με τη δημοσίευση του παρόντος υπεισέρχεται, αυτοδικαίως, σε όλα, τα κινητά και ακίνητα περιουσιακά στοιχεία, πόρους, δικαιώματα, εν γένει και υποχρεώσεις του Λιμενικού Ταμείου Νομού Λακωνίας, που αφορούν στο Δήμο Ανατολικής Μάνης."@el.
 <http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/3/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Εσωτερικών αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος. "@el.
+<http://legislation.di.uoa.gr/pd/2015/9/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Εσωτερικών αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.
 <http://legislation.di.uoa.gr/pd/2015/9> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
@@ -222,16 +231,19 @@
 <http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μεταφέρονται οι αρμοδιότητες του Λιμενικού Ταμείου Χαλκιδικής που αφορούν στο Δήμο Νέας Προποντίδας Ν. "@el.
+<http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Χαλκιδικής στο Δήμο Νέας Προποντίδας και συστήνεται Νομικό Πρόσωπο Δημοσίου Δικαίου με την επωνυμία «Δημοτικό Λιμενικό Ταμείο Νέας Προποντίδας», με έδρα τα Νέα Μουδανιά, που θα ασκεί τις εν λόγω αρμοδιότητες."@el.
 <http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/10/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το «Δημοτικό Λιμενικό Ταμείο Νέας Προποντίδας» με τη δημοσίευση του παρόντος υπεισέρχεται, αυτοδικαίως σε όλα τα κινητά και ακίνητα περιουσιακά στοιχεία, πόρους, δικαιώματα, εν γένει, και υποχρεώσεις του Λιμενικού Ταμείου Χαλκιδικής που αφορούν στο Δήμο Νέας Προποντίδας. "@el.
+<http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το «Δημοτικό Λιμενικό Ταμείο Νέας Προποντίδας» με τη δημοσίευση του παρόντος υπεισέρχεται, αυτοδικαίως σε όλα τα κινητά και ακίνητα περιουσιακά στοιχεία, πόρους, δικαιώματα, εν γένει, και υποχρεώσεις του Λιμενικού Ταμείου Χαλκιδικής που αφορούν στο Δήμο Νέας Προποντίδας."@el.
 <http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/10/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/3/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Εσωτερικών αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος. "@el.
+<http://legislation.di.uoa.gr/pd/2015/10/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Εσωτερικών αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.
 <http://legislation.di.uoa.gr/pd/2015/10> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
@@ -302,16 +314,19 @@
 <http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/1/passage/3>.
 <http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Αγ. "@el.
+<http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/1/passage/4>.
+<http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Νικολάου του Δήμου Σιθωνίας, που θα ασκεί τις εν λόγω αρμοδιότητες."@el.
 <http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/11/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το «Δημοτικό Λιμενικό Ταμείο Σιθωνίας» με τη δημοσίευση του παρόντος υπεισέρχεται, αυτοδικαίως, σε όλα τα κινητά και ακίνητα περιουσιακά στοιχεία, πόρους, δικαιώματα, εν γένει, και υποχρεώσεις του Λιμενικού Ταμείου Χαλκιδικής που αφορούν στο Δήμο Σιθωνίας. "@el.
+<http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το «Δημοτικό Λιμενικό Ταμείο Σιθωνίας» με τη δημοσίευση του παρόντος υπεισέρχεται, αυτοδικαίως, σε όλα τα κινητά και ακίνητα περιουσιακά στοιχεία, πόρους, δικαιώματα, εν γένει, και υποχρεώσεις του Λιμενικού Ταμείου Χαλκιδικής που αφορούν στο Δήμο Σιθωνίας."@el.
 <http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/11/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/3/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Εσωτερικών αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος. "@el.
+<http://legislation.di.uoa.gr/pd/2015/11/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Εσωτερικών αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.
 <http://legislation.di.uoa.gr/pd/2015/11> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.

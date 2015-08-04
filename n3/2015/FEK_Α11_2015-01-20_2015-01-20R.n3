@@ -38,7 +38,7 @@
 <http://legislation.di.uoa.gr/pd/2015/13/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Αυτός ο Κανονισμός εφαρμόζεται σε όλο το στρατιωτικό προσωπικό των ΕΔ ανεξαρτήτως Κλάδου στον οποίο ανήκει. "@el.
+<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Αυτός ο Κανονισμός εφαρμόζεται σε όλο το στρατιωτικό προσωπικό των ΕΔ ανεξαρτήτως Κλάδου στον οποίο ανήκει."@el.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -47,6 +47,9 @@
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/2/passage/2>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Από την παραπάνω ημερομηνία καταργούνται οι διατάξεις των 130/1984 (Α΄ 42) και 210/1993 (Α΄ 89) Προεδρικών διαταγμάτων οι οποίες ρυθμίζουν τα ίδια θέματα με διαφορετικό τρόπο, καθώς και κάθε άλλη γενική ή ειδική διάταξη που αντίκειται στις διατάξεις του παρόντος και ρυθμίζει τα ίδια θέματα. "@el.
+<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/2/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/2/passage/3>.
+<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/2/passage/3> <http://legislation.di.uoa.gr/ontology/text> "ΔΙΑΚΛΑΔΙΚΟΣ ΚΑΝΟΝΙΣΜΟΣ ΗΘΙΚΩΝ ΑΜΟΙΒΩΝ ΠΟΥ ΑΠΟΝΕΜΟΝΤΑΙ ΜΕ ΔΙΑΤΑΓΗ ΚΕΦΑΛΑΙΟ Α΄ ΜΕΡΟΣ ΠΡΩΤΟ ΓΕΝΙΚΕΣ ΔΙΑΤΑΞΕΙΣ"@el.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -58,11 +61,17 @@
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/3/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/3/passage/3>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/3/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Για το λόγο αυτό, πρέπει να γίνονται ευρύτατα γνωστές. "@el.
+<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/3/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/3/passage/4>.
+<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/3/passage/4> <http://legislation.di.uoa.gr/ontology/text> "ΣΚΟΠΟΣ"@el.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/4/passage/1>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ο Κανονισμός αποσκοπεί στην παρουσίαση των ηθικών αμοιβών που απονέμονται με διαταγή, οι οποίες είναι κοινές για όλο το στρατιωτικό προσωπικό των ΕΔ ανεξαρτήτως Κλάδου στον οποίο ανήκουν για την ενίσχυση του ηθικού και παροχής κινήτρων σε αυτό. "@el.
+<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/4/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/4/passage/2>.
+<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/4/passage/2> <http://legislation.di.uoa.gr/ontology/text> "ΕΚΤΕΛΕΣΗ"@el.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/5>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -175,12 +184,12 @@
 <http://legislation.di.uoa.gr/pd/2015/13/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/11>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/11/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/11/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/11/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Για την απονομή Επαίνου, Εύφημης Μνείας, Ευαρέσκειας και Συγχαρητηρίων, απαιτείται, η ιεραρχική υποβολή, πλήρως αιτιολογημένης πρότασης, στην οποία θα αναφέρονται με κάθε λεπτομέρεια τα περιστατικά και οι λόγοι, που δικαιολογούν την προτεινόμενη απονομή. "@el.
+<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/11/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Για την απονομή Επαίνου, Εύφημης Μνείας, Ευαρέσκειας και Συγχαρητηρίων, απαιτείται, η ιεραρχική υποβολή, πλήρως αιτιολογημένης πρότασης, στην οποία θα αναφέρονται με κάθε λεπτομέρεια τα περιστατικά και οι λόγοι, που δικαιολογούν την προτεινόμενη απονομή."@el.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/12>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/12/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/12/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/12/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η αιτιολογημένη πρόταση δεν αποτελεί προαπαιτούμενο, όταν η απονομή γίνεται αυτεπάγγελτα, επειδή αυτοί που ασκούν το σχετικό δικαίωμα, έχουν διαπιστώσει, από προσωπική αντίληψη στη διάρκεια επιθεωρήσεων ή με άλλο τρόπο, ότι συντρέχουν οι απαραίτητοι όροι, που δικαιολογούν την απονομή. "@el.
+<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/12/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η αιτιολογημένη πρόταση δεν αποτελεί προαπαιτούμενο, όταν η απονομή γίνεται αυτεπάγγελτα, επειδή αυτοί που ασκούν το σχετικό δικαίωμα, έχουν διαπιστώσει, από προσωπική αντίληψη στη διάρκεια επιθεωρήσεων ή με άλλο τρόπο, ότι συντρέχουν οι απαραίτητοι όροι, που δικαιολογούν την απονομή."@el.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/13>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/13/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -189,11 +198,14 @@
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/13/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/13/passage/2>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/13/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Η ίδια διαδικασία εφαρμόζεται και σε περίπτωση που το εμπλεκόμενο προσωπικό ανήκει σε Μονάδες, διαφορετικής υπαγωγής. "@el.
+<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/13/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/13/passage/3>.
+<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/13/passage/3> <http://legislation.di.uoa.gr/ontology/text> "ΜΕΡΟΣ ΤΕΤΑΡΤΟ ΚΟΙΝΟΠΟΙΗΣΗ, ΕΠΙΔΟΣΗ, ΚΑΤΑΧΩΡΙΣΗ"@el.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/14>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/14/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/14> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/14/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/14/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κάθε απονομή ηθικής αμοιβής κοινοποιείται με την Ημερήσια Διαταγή της Μονάδας-Υπηρεσίας, εντός μηνός από τη λήψη της σχετικής διαταγής. "@el.
+<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/14/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κάθε απονομή ηθικής αμοιβής κοινοποιείται με την Ημερήσια Διαταγή της Μονάδας-Υπηρεσίας, εντός μηνός από τη λήψη της σχετικής διαταγής."@el.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/15>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/15/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -227,6 +239,9 @@
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/17/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/17> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/17/passage/1>.
 <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/17/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στελέχη που, σύμφωνα με τον παρόντα κανονισμό, έχουν αποκτήσει μετά την κατάταξή τους στις ΕΔ τις προϋποθέσεις απονομής ηθικής αμοιβής σύμφωνα με την παράγραφο 7α (2) έως (6) και 7β (2), πριν από την ημερομηνία έκδοσής του, μπορούν να υποβάλλουν ιεραρχικά αναφορά με τα απαραίτητα δικαιολογητικά εντός εξαμήνου από την ημερομηνία έναρξης της ισχύος του. "@el.
+<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/17/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/17> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/17/passage/2>.
+<http://legislation.di.uoa.gr/pd/2015/13/article/2/paragraph/17/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Άρθρο τρίτο Στον Υπουργό Εθνικής Άμυνας αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.
 <http://legislation.di.uoa.gr/pd/2015/13> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.

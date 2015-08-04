@@ -5,4 +5,5 @@
 <http://legislation.di.uoa.gr/pd/2014/120> <http://purl.org/dc/terms/created> "2014-09-12"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/120> <http://legislation.di.uoa.gr/ontology/legislationID> "120"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/120> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/120> <http://purl.org/dc/terms/title> "Τροποποίηση κατανομής των υποθέσεων στα τρία Ποινικά Τμήματα του Αρείου Πάγου.  "@el.

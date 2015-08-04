@@ -5,17 +5,29 @@
 <http://legislation.di.uoa.gr/law/2014/4299> <http://purl.org/dc/terms/created> "2014-10-03"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/law/2014/4299> <http://legislation.di.uoa.gr/ontology/legislationID> "4299"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/law/2014/4299> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/law/2014/4299> <http://purl.org/dc/terms/title> "Κύρωση της Σύμβασης Μίσθωσης μεταξύ της Ελληνι- κής Δημοκρατίας και των εταιριών Ελληνικά Πετρέ- λαια Α.Ε., Edison International S.p.A. και Petroceltic Resources plc για την παραχώρηση του δικαιώμα- τος έρευνας και εκμετάλλευσης υδρογονανθράκων στη θαλάσσια περιοχή ΠΑΤΡΑΪΚΟΣ ΚΟΛΠΟΣ (Δυτικά). Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ "@el.
 <http://legislation.di.uoa.gr/law/2014/4299/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4299> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4299/article/1>.
-<http://legislation.di.uoa.gr/law/2014/4299/article/1> <http://purl.org/dc/terms/title> "Κύρωση της Σύμβασης παραχώρησης".<http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4299/article/1> <http://purl.org/dc/terms/title> "Κύρωση της Σύμβασης παραχώρησης".
+<http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4299/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνεται και αποκτά ισχύ νόμου η Σύμβαση Μίσθω-σης για την παραχώρηση του δικαιώματος έρευνας καιεκμετάλλευσης υδρογονανθράκων στη θαλάσσια πε-ριοχή ΠΑΤΡΑΪΚΟΣ ΚΟΛΠΟΣ (Δυτικά), που υπογράφηκεστην Αθήνα στις 14 Μαΐου 2014, μεταξύ αφενός της Ελ-ληνικής Δημοκρατίας, νομίμως εκπροσωπούμενης απότον Υπουργό Περιβάλλοντος, Ενέργειας και ΚλιματικήςΑλλαγής και αφετέρου: 1) της εταιρίας με την επωνυ-μία «Ελληνικά Πετρέλαια» (ΕΛ.ΠΕ. "@el.
+<http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνεται και αποκτά ισχύ νόμου η Σύμβαση Μίσθω-σης για την παραχώρηση του δικαιώματος έρευνας καιεκμετάλλευσης υδρογονανθράκων στη θαλάσσια πε-ριοχή ΠΑΤΡΑΪΚΟΣ ΚΟΛΠΟΣ (Δυτικά), που υπογράφηκεστην Αθήνα στις 14 Μαΐου 2014, μεταξύ αφενός της Ελ-ληνικής Δημοκρατίας, νομίμως εκπροσωπούμενης απότον Υπουργό Περιβάλλοντος, Ενέργειας και ΚλιματικήςΑλλαγής και αφετέρου. "@el.
+<http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> " 1) της εταιρίας με την επωνυ-μία «Ελληνικά Πετρέλαια» (ΕΛ.ΠΕ. "@el.
+<http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Α.Ε.), 2) της εταιρίαςμε την επωνυμία «Edison International S.p.A..»εταιρίας με την επωνυμία «Petroceltic Resources plc»,το κείμενο της οποίας ακολουθεί στην ελληνική καιαγγλική γλώσσα. "@el.
+<http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1/passage/4>.
+<http://legislation.di.uoa.gr/law/2014/4299/article/1/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> " 6944   6946   6948   6950   6952   6954   6956   6958   6960   6962   6964   6966   6968   6970   6972   6974   6976   6978   6980   6982   6984   6986   6988   6990   6992   6994   6996   6998   7000   7002   7004   7006   7008   7010   7012   7014   7016   7018   7020   7022   7024   7026   7028   7030   7032   7034   7036   7038   7040   7042   7044   7046   7048   7050   7052   7054   7056   7058   7060   7062   7064   7066   7068   7070   7072   7074   7076   7078   7080   7082   7084   7086   7088   7090   7092   7094   7096   7098   7100   7102   7104   7106   7108   7110   7112   7114   7116   7118   7120   7122   7124   7126   7128   7130   "@el.
 <http://legislation.di.uoa.gr/law/2014/4299/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4299> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4299/article/2>.
-<http://legislation.di.uoa.gr/law/2014/4299/article/2> <http://purl.org/dc/terms/title> "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην".<http://legislation.di.uoa.gr/law/2014/4299/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4299/article/2> <http://purl.org/dc/terms/title> "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην".
+<http://legislation.di.uoa.gr/law/2014/4299/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4299/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4299/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/law/2014/4299/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4299/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4299/article/2/paragraph/1/passage/1>.
@@ -23,3 +35,4 @@
 <http://legislation.di.uoa.gr/law/2014/4299> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

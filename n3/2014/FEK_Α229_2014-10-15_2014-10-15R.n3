@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/138> <http://purl.org/dc/terms/created> "2014-10-15"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/138> <http://legislation.di.uoa.gr/ontology/legislationID> "138"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/138> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/138> <http://purl.org/dc/terms/title> "Πολιτική Διάθεσης Μετεωρολογικών Δεδομένων, Προϊόντων και Υπηρεσιών από την Εθνική Μετεωρολογική Υπηρεσία (ΕΜΥ).  "@el.
 <http://legislation.di.uoa.gr/pd/2014/138/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/138/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) Του άρθρου 25 παρ. 8 του ν. 2292/1995 «Οργάνωση και λειτουργία Υπουργείου Εθνικής Άμυνας, διοίκηση και έλεγχος των Ενόπλων Δυνάμεων και άλλες διατάξεις» (Α΄35), β) των άρθρων 1-13 του ν. 3448/2006 «Για την περαιτέρω χρήση πληροφοριών του δημόσιου τομέα και τη ρύθμιση θεμάτων αρμοδιότητας Υπουργείου Εσωτερικών, δημόσιας Διοίκησης και Αποκέντρωσης» (Α΄57) και δη του άρθρ. 7 παρ.1, γ) του άρθρου 90 του π.δ. 63/2005 «Κωδικοποίηση της νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα» (Α΄ 98). "@el.

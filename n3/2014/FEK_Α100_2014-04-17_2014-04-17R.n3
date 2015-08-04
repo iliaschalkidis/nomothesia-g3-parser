@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/57> <http://purl.org/dc/terms/created> "2014-04-17"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/57> <http://legislation.di.uoa.gr/ontology/legislationID> "57"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/57> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/57> <http://purl.org/dc/terms/title> "Αποδοχή παραίτησης Υφυπουργού στον Πρωθυπουργό.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/57/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/57> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/57/article/1>.
@@ -16,3 +17,4 @@
 <http://legislation.di.uoa.gr/pd/2014/57> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/13> <http://purl.org/dc/terms/created> "2014-01-29"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/13> <http://legislation.di.uoa.gr/ontology/legislationID> "13"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/13> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/13> <http://purl.org/dc/terms/title> "Μετονομασία της «Τοπικής Κοινότητας Σικυώνος» του Δήμου Σικυωνίων σε «Τοπική Κοινότητα Αρχαίας Σικυώνας-Βασιλικού ».  "@el.
 <http://legislation.di.uoa.gr/pd/2014/13/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/13/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 7 παρ. 1 του Κώδικα Δήμων και Κοινοτήτων, όπως κυρώθηκε με το άρθρο πρώτο του N. 3463/2006 (Α΄ 114). "@el.

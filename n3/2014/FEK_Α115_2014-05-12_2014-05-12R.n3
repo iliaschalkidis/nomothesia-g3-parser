@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/71> <http://purl.org/dc/terms/created> "2014-05-12"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/71> <http://legislation.di.uoa.gr/ontology/legislationID> "71"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/71> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/71> <http://purl.org/dc/terms/title> "Αναθεώρηση Οργανισμού Σώματος Ελλήνων Προσκόπων (ΣΕΠ).  "@el.
 <http://legislation.di.uoa.gr/pd/2014/71/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/71/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις των παρ. 1 και 3 του άρθρου 2 του N. 440/1976 «περί τροποποιήσεως του δια του Νόμου 2017/1920 κυρωθέντος από 31.3.1919 Ν.Δ/τος «περί τροποποιήσεως του Νόμου 1066/1917 “περί ιδρύσεως Σώματος Ελλήνων Προσκόπων”» (Α΄ 257). "@el.
@@ -28,6 +29,10 @@
 <http://legislation.di.uoa.gr/pd/2014/71/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/71/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/71/article/1/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/71/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Νομική Υπόσταση 1. "@el.
+<http://legislation.di.uoa.gr/pd/2014/71/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/71/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/71/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/71/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Το Σώμα Ελλήνων Προσκόπων (Σ.Ε.Π.) που συστήθηκε με το Νόμο 1066/1917 (Α΄ 268) εδρεύει στην "@el.
 <http://legislation.di.uoa.gr/pd/2014/71> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

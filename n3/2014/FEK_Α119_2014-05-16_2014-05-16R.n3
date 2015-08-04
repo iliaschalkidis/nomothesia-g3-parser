@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/73> <http://purl.org/dc/terms/created> "2014-05-16"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/73> <http://legislation.di.uoa.gr/ontology/legislationID> "73"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/73> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/73> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/73/2014-05-16>.
 <http://legislation.di.uoa.gr/pd/2014/73> <http://purl.org/dc/terms/title> "Προσαρμογή διατάξεων της σχετικής με το άρτιο μέρισμα των μονίμων υπαλλήλων – ασφαλισμένων του Μετοχικού Ταμείου Αεροπορίας νομοθεσίας προς το δεύτερο κεφάλαιο «Σύστημα βαθμολογικών προαγωγών και μισθολογικής εξέλιξης των υπαλλήλων του Κράτους, των Οργανισμών τοπικής αυτοδιοίκησης Α΄ και Β΄ βαθμού και άλλων φορέων του δημόσιου τομέα και συναφείς διατάξεις» του Ν. 4024/2011 (ΦΕΚ Α΄226).  "@el.
 <http://legislation.di.uoa.gr/pd/2014/73/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
@@ -32,3 +33,4 @@
 <http://legislation.di.uoa.gr/pd/2014/73> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

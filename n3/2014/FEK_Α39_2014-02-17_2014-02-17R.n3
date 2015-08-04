@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/amc/2014/6> <http://purl.org/dc/terms/created> "2014-02-17"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/amc/2014/6> <http://legislation.di.uoa.gr/ontology/legislationID> "6"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/amc/2014/6> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/amc/2014/6> <http://purl.org/dc/terms/title> "Σύσταση Κυβερνητικού Συμβουλίου Διαχείρισης Ιδιωτικού Χρέους.  "@el.
 <http://legislation.di.uoa.gr/amc/2014/6/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/amc/2014/6/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) του άρθρου 82 παρ. 2 του Συντάγματος, β) των άρθρων 15 παρ. 2 και 3, 16, 25 παρ. 1, 59 και 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα (π.δ. 63/2005, Α΄ 98), γ) του άρθρου 1 του ν. 4224/2013 (Α΄ 288). "@el.
@@ -27,17 +28,23 @@
 <http://legislation.di.uoa.gr/amc/2014/6/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Συνιστάται Κυβερνητικό Συμβούλιο Διαχείρισης Ιδιωτικού Χρέους, το οποίο αποτελείται από τους Υπουργούς Οικονομικών, Ανάπτυξης και Ανταγωνιστικότητας, Εργασίας, Κοινωνικής Ασφάλισης και Πρόνοιας και Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων. "@el.
+<http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Συνιστάται Κυβερνητικό Συμβούλιο Διαχείρισης Ιδιωτικού Χρέους, το οποίο αποτελείται από τους Υπουργούς Οικονομικών, Ανάπτυξης και Ανταγωνιστικότητας, Εργασίας, Κοινωνικής Ασφάλισης και Πρόνοιας και Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων."@el.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/2>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/2/passage/1>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Πρόεδρος του Συμβουλίου ορίζεται ο Υπουργός Οικονομικών, ο οποίος το συγκαλεί σε τακτά χρονικά διαστήματα και όποτε κρίνεται αναγκαίο, συντονίζει το όργανο και εποπτεύει τις εργασίες του. "@el.
+<http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Το Συμβούλιο συνεδριάζει, ύστερα από πρόσκληση του Προέδρου του, στην οποία ορίζεται ως εισηγητής ο κατά περίπτωση αρμόδιος Υπουργός."@el.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/3>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/3/passage/1>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το Συμβούλιο βρίσκεται σε απαρτία, την οποία διαπιστώνει ο Πρόεδρός του, όταν παρίστανται τα τρία τουλάχιστον μέλη του. "@el.
+<http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/3/passage/2>.
+<http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Οι εισηγήσεις των αρμοδίων καθ’ ύλην Υπουργών κοινοποιούνται σε όλα τα μέλη του Συμβουλίου τουλάχιστον δύο (2) ημέρες πριν τη συνεδρίαση του οργάνου."@el.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/4>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -62,19 +69,19 @@
 <http://legislation.di.uoa.gr/amc/2014/6/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/5>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/5/passage/1>.
-<http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Προς εκπλήρωση της εντολής του το Συμβούλιο απευθύνεται στο Διοικητή της Τράπεζας της Ελλάδος προς διατύπωση γνώμης επί ζητημάτων αρμοδιότητάς της και ο Διοικητής συμμετέχει, ύστερα από πρόσκληση του Προέδρου, ως παρατηρητής. "@el.
+<http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Προς εκπλήρωση της εντολής του το Συμβούλιο απευθύνεται στο Διοικητή της Τράπεζας της Ελλάδος προς διατύπωση γνώμης επί ζητημάτων αρμοδιότητάς της και ο Διοικητής συμμετέχει, ύστερα από πρόσκληση του Προέδρου, ως παρατηρητής."@el.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/6>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/6/passage/1>.
-<http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η γραμματειακή και τεχνική εξυπηρέτηση του Συμβουλίου ανατίθεται στο γραφείο του Γενικού Γραμματέα Συντονισμού. "@el.
+<http://legislation.di.uoa.gr/amc/2014/6/article/1/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η γραμματειακή και τεχνική εξυπηρέτηση του Συμβουλίου ανατίθεται στο γραφείο του Γενικού Γραμματέα Συντονισμού."@el.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/amc/2014/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/2>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Συνιστάται Ομάδα Υποστήριξης για την προετοιμασία και την υποστήριξη του έργου του Κυβερνητικού Συμβουλίου Διαχείρισης Ιδιωτικού Χρέους. "@el.
+<http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Συνιστάται Ομάδα Υποστήριξης για την προετοιμασία και την υποστήριξη του έργου του Κυβερνητικού Συμβουλίου Διαχείρισης Ιδιωτικού Χρέους."@el.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/2>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -103,11 +110,14 @@
 <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/3/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/3/passage/4>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/3/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Με απόφαση του Κυβερνητικού Συμβουλίου ορίζεται ο συντονιστής της Ομάδας Υποστήριξης. "@el.
+<http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/3/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/3/passage/5>.
+<http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/3/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Ο Συντονιστής μπορεί να είναι και πρόσωπο που δεν εμπίπτει στις κατηγορίες της παραγράφου 2 του παρόντος άρθρου και είναι αρμόδιος για την εσωτερική οργάνωση και λειτουργία της Ομάδας Υποστήριξης."@el.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/4>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/4/passage/1>.
-<http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η Ομάδα Υποστήριξης επικουρείται στο έργο της και στις συνεδριάσεις της μπορεί να μετέχουν, ύστερα από πρόσκληση του Συντονιστή της εκπρόσωποι φορέων, όπως η Ελληνική Ένωση Τραπεζών, στελέχη της δημόσιας διοίκησης, καθώς και εμπειρογνώμονες, ιδιώτες ή μη, με διεθνή εμπειρία. "@el.
+<http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η Ομάδα Υποστήριξης επικουρείται στο έργο της και στις συνεδριάσεις της μπορεί να μετέχουν, ύστερα από πρόσκληση του Συντονιστή της εκπρόσωποι φορέων, όπως η Ελληνική Ένωση Τραπεζών, στελέχη της δημόσιας διοίκησης, καθώς και εμπειρογνώμονες, ιδιώτες ή μη, με διεθνή εμπειρία."@el.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/5>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -116,6 +126,9 @@
 <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/5/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/5/passage/2>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/5/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Σε περίπτωση κωλύματος του συντονιστή, καθήκοντα συντονιστή ασκεί ο αρμόδιος Γενικός Γραμματέας ανάλογα με το θέμα της διάταξης. "@el.
+<http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/5/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/5/passage/3>.
+<http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/5/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Η Ομάδα Υποστήριξης συνεδριάζει τακτικά και όποτε κρίνεται σκόπιμο."@el.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/6>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/2/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -152,6 +165,9 @@
 <http://legislation.di.uoa.gr/amc/2014/6/article/3/paragraph/1/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/3/paragraph/1/passage/5>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/3/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "2. "@el.
+<http://legislation.di.uoa.gr/amc/2014/6/article/3/paragraph/1/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/6/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/3/paragraph/1/passage/6>.
+<http://legislation.di.uoa.gr/amc/2014/6/article/3/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Οι δράσεις της Ομάδας Υποστήριξης, όπως αυτές συμφωνούνται από το Κυβερνητικό Συμβούλιο, μπορεί να χρηματοδοτούνται από το πρόγραμμα δημοσίων επενδύσεων και από επιχειρησιακά προγράμματα "@el.
 <http://legislation.di.uoa.gr/amc/2014/6/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/amc/2014/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/4>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -162,6 +178,10 @@
 <http://legislation.di.uoa.gr/amc/2014/6/article/4/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/4/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/amc/2014/6/article/4/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ειδικά για τα χρηματοπιστωτικά ιδρύματα, συντάσσεται μνημόνιο συνεργασίας μεταξύ της Ένωσης Ελληνικών Τραπεζών και του Υπουργείου Ανάπτυξης για την επίτευξη των στόχων της παρούσης. "@el.
+<http://legislation.di.uoa.gr/amc/2014/6/article/4/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2014/6/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2014/6/article/4/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/amc/2014/6/article/4/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Η Πράξη αυτή να δημοσιευθεί στην Εφημερίδα της Κυβερνήσεως. "@el.
 <http://legislation.di.uoa.gr/amc/2014/6> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

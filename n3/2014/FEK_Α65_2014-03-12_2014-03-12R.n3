@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/35> <http://purl.org/dc/terms/created> "2014-03-12"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/35> <http://legislation.di.uoa.gr/ontology/legislationID> "35"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/35> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/35> <http://purl.org/dc/terms/title> "΄Ελεγχος επενδυτικών σχεδίων που υπάγονται στους ν. 3299/2004 (A΄ 261) και ν.3908/2011 (A΄ 83) από Πιστοποιημένους Φορείς.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/35/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/35/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α. Των παρ. 1 και 2 του άρθρου 23 του ν. 4146/2013 «Διαμόρφωση Φιλικού Αναπτυξιακού Περιβάλλοντος για τις Στρατηγικές και Ιδιωτικές Επενδύσεις και άλλες διατάξεις» (Α΄ 90). β. Του άρθρου 11 παρ. 5 περιπτώσεις α, ε και στ και παρ. 7 του ν. 3908/2011 «Ενίσχυση Ιδιωτικών Επενδύσεων για την Οικονομική Ανάπτυξη, την Επιχειρηματικότητα και την Περιφερειακή Συνοχή» (Α΄ 8). γ. Του π.δ. 33/2011 «Διαδικασία αξιολόγησης και ελέγχου των επενδυτικών σχεδίων που υπάγονται στο ν. 3908/2011» (Α΄ 83). δ. Του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα (άρθρο πρώτο του π.δ. 63/2005, Α΄ 98). ε. Του π.δ. 65/2011 (Α΄ 147). στ. Του π.δ. 85/2012 «΄Ιδρυση και μετονομασία Υπουργείων, μεταφορά και κατάργηση υπηρεσιών» (Α΄ 141), όπως τροποποιήθηκε και ισχύει με το π.δ. 118/2013 (Α΄ 152). ζ. Του π.δ. 119/2013 «Διορισμός Αντιπροέδρου της Κυβέρνησης, Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α΄ 153). η. Της υπ’ αριθ. 27857/ΔΙΟΕ/547/26-06-2013 κοινής απόφασης του Πρωθυπουργού και του Υπουργού Ανάπτυξης και Ανταγωνιστικότητας «Ανάθεση αρμοδιοτήτων στον Υφυπουργό Ανάπτυξης και Ανταγωνιστικότητας, Παναγιώτη Μηταράκη» (B΄ 1653). "@el.
@@ -17,11 +18,12 @@
 <http://legislation.di.uoa.gr/pd/2014/35> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/citation/3>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/35> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/1>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/1> <http://purl.org/dc/terms/title> "Έλεγχος επενδυτικών σχεδίων από Πιστοποιημένους Φορείς".<http://legislation.di.uoa.gr/pd/2014/35/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/1> <http://purl.org/dc/terms/title> "Έλεγχος επενδυτικών σχεδίων από Πιστοποιημένους Φορείς".
+<http://legislation.di.uoa.gr/pd/2014/35/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα επενδυτικά σχέδια που υπάγονται στους νόμους 3299/2004 και 3908/2011 δύνανται να ελέγχονται τόσο κατά την διαδικασία υλοποίησης τους, όσο και κατά την ολοκλήρωση τους, από Πιστοποιημένους Φορείς, σύμφωνα με τις διατάξεις του παρόντος. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα επενδυτικά σχέδια που υπάγονται στους νόμους 3299/2004 και 3908/2011 δύνανται να ελέγχονται τόσο κατά την διαδικασία υλοποίησης τους, όσο και κατά την ολοκλήρωση τους, από Πιστοποιημένους Φορείς, σύμφωνα με τις διατάξεις του παρόντος."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/1/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -42,47 +44,61 @@
 <http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κριτήρια και προϋποθέσεις για την πιστοποίηση των φορέων Οι Πιστοποιημένους Φορείς της παρ. "@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "1 του άρθρου 1 οφείλουν να πληρούν σωρευτικά τα ακόλουθα κριτήρια και προϋποθέσεις: α. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "1 του άρθρου 1 οφείλουν να πληρούν σωρευτικά τα ακόλουθα κριτήρια και προϋποθέσεις. "@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/3>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "σύννομη ίδρυση και λειτουργία ως ανώνυμη εταιρεία εγκατεστημένη στην Ελληνική Επικράτεια, β. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> " α. "@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/4>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "τεχνογνωσία και υλικοτεχνική υποδομή διενέργειας ελέγχων επενδύσεων, γ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "σύννομη ίδρυση και λειτουργία ως ανώνυμη εταιρεία εγκατεστημένη στην Ελληνική Επικράτεια, β. "@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/5>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "εγγυοδοτική ικανότητα, δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "τεχνογνωσία και υλικοτεχνική υποδομή διενέργειας ελέγχων επενδύσεων, γ. "@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/6>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> "πιστοποίηση διαδικασιών εσωτερικού ελέγχου, ε. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> "εγγυοδοτική ικανότητα, δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/7>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/7> <http://legislation.di.uoa.gr/ontology/text> "πιστοποίηση διαδικασιών εσωτερικού ελέγχου, ε. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/8>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/2/paragraph/1/passage/8> <http://legislation.di.uoa.gr/ontology/text> "ασφάλιση επαγγελματικού κινδύνου και αστικής ευθύνης έναντι του Ελληνικού Δημοσίου. "@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/35> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/3>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/3> <http://purl.org/dc/terms/title> "Διαδικασία πιστοποίησης φορέων".<http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/3> <http://purl.org/dc/terms/title> "Διαδικασία πιστοποίησης φορέων".
+<http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μετά από σχετική πρόσκληση εκδήλωσης ενδιαφέροντος του Υπουργείου Ανάπτυξης και Ανταγωνιστικότητας, με την οποία εξειδικεύονται οι προδιαγραφές του άρθρου 2, οι υποψήφιοι για την πιστοποίηση φορείς υποβάλλουν, δια του νόμιμου εκπροσώπου τους, αίτηση - αναγγελία στη Γενική Διεύθυνση Ιδιωτικών Επενδύσεων του Υπουργείου Ανάπτυξης και Ανταγωνιστικότητας, συνοδευόμενη από τα απαιτούμενα δικαι 1022 ολογητικά, προκειμένου να λάβουν πιστοποίηση Φορέα Ελέγχου Επενδυτικών Σχεδίων των νόμων 3299/2004 και 3908/2011. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μετά από σχετική πρόσκληση εκδήλωσης ενδιαφέροντος του Υπουργείου Ανάπτυξης και Ανταγωνιστικότητας, με την οποία εξειδικεύονται οι προδιαγραφές του άρθρου 2, οι υποψήφιοι για την πιστοποίηση φορείς υποβάλλουν, δια του νόμιμου εκπροσώπου τους, αίτηση - αναγγελία στη Γενική Διεύθυνση Ιδιωτικών Επενδύσεων του Υπουργείου Ανάπτυξης και Ανταγωνιστικότητας, συνοδευόμενη από τα απαιτούμενα δικαι 1022 ολογητικά, προκειμένου να λάβουν πιστοποίηση Φορέα Ελέγχου Επενδυτικών Σχεδίων των νόμων 3299/2004 και 3908/2011."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μετά την υποβολή της αίτησης διενεργούνται: (α) διοικητικός έλεγχος του περιεχομένου του φακέλου της αίτησης, και (β) αυτοψία – επιθεώρηση, από το Αυτοτελές Τμήμα Επιθεώρησης Στρατηγικών και Ιδιωτικών Επενδύσεων του άρθρου 15 του ν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μετά την υποβολή της αίτησης διενεργούνται. "@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "4146/2013. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> " (α) διοικητικός έλεγχος του περιεχομένου του φακέλου της αίτησης, και (β) αυτοψία – επιθεώρηση, από το Αυτοτελές Τμήμα Επιθεώρησης Στρατηγικών και Ιδιωτικών Επενδύσεων του άρθρου 15 του ν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2/passage/3> <http://legislation.di.uoa.gr/ontology/text> "4146/2013. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/2/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Εφόσον πληρούνται οι προδιαγραφές και οι απαιτήσεις του άρθρου 2, εκδίδεται ύστερα από εισηγήση της Γενικής Διεύθυνσης Ιδιωτικών Επενδύσεων του Υπουργείου Ανάπτυξης και Ανταγωνιστικότητας απόφαση του Υπουργού Ανάπτυξης και Ανταγωνιστικότητας με την οποία ο φορέας χαρακτηρίζεται ως «Πιστοποιημένος Φορέας Ελέγχων Επενδυτικών Σχεδίων των νόμων 3299/2004 και 3908/2011 »."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/3/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Πιστωτικά ιδρύματα που λειτουργούν νόμιμα στην Ελλάδα τεκμαίρεται ότι πληρούν τις προϋποθέσεις του άρθρου 2 και χαρακτηρίζονται ως «Πιστοποιημένοι Φορείς Ελέγχων Επενδυτικών σχεδίων των νόμων 3299/ 2004 και 3908/2011», μετά από αίτηση-αναγγελία του νόμιμου εκπροσώπου τους προς τη Γενική Διεύθυνση Ιδιωτικών Επενδύσεων του Υπουργείου Ανάπτυξης και Ανταγωνιστικότητας και την έκδοση σχετικής απόφασης χαρακτηρισμού από τον Υπουργό Ανάπτυξης και Ανταγωνιστικότητας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Πιστωτικά ιδρύματα που λειτουργούν νόμιμα στην Ελλάδα τεκμαίρεται ότι πληρούν τις προϋποθέσεις του άρθρου 2 και χαρακτηρίζονται ως «Πιστοποιημένοι Φορείς Ελέγχων Επενδυτικών σχεδίων των νόμων 3299/ 2004 και 3908/2011», μετά από αίτηση-αναγγελία του νόμιμου εκπροσώπου τους προς τη Γενική Διεύθυνση Ιδιωτικών Επενδύσεων του Υπουργείου Ανάπτυξης και Ανταγωνιστικότητας και την έκδοση σχετικής απόφασης χαρακτηρισμού από τον Υπουργό Ανάπτυξης και Ανταγωνιστικότητας."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/4/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Με ευθύνη της Γενικής Διεύθυνσης Ιδιωτικών Επενδύσεων της Γενικής Γραμματείας Στρατηγικών και Ιδιωτικών Επενδύσεων του Υπουργείου Ανάπτυξης και Ανταγωνιστικότητας, αναρτάται και επικαιροποιείται σε ιστοσελίδα, ο διαδικτυακός τόπος της οποίας ανακοινώνεται μέσω της ιστοσελίδας του Υπουργείου Ανάπτυξης και Ανταγωνιστικότητας, κατάλογος που περιλαμβάνει κατ’ ελάχιστον τους Πιστοποιημένους Φορείς, τα στοιχεία επικοινωνίας τους και τα αρμόδια στελέχη τους. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/3/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Με ευθύνη της Γενικής Διεύθυνσης Ιδιωτικών Επενδύσεων της Γενικής Γραμματείας Στρατηγικών και Ιδιωτικών Επενδύσεων του Υπουργείου Ανάπτυξης και Ανταγωνιστικότητας, αναρτάται και επικαιροποιείται σε ιστοσελίδα, ο διαδικτυακός τόπος της οποίας ανακοινώνεται μέσω της ιστοσελίδας του Υπουργείου Ανάπτυξης και Ανταγωνιστικότητας, κατάλογος που περιλαμβάνει κατ’ ελάχιστον τους Πιστοποιημένους Φορείς, τα στοιχεία επικοινωνίας τους και τα αρμόδια στελέχη τους."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/35> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/4> <http://purl.org/dc/terms/title> "Διαδικασία ανάθεσης ελέγχου σε Πιστοποιημένους Φορείς".<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4> <http://purl.org/dc/terms/title> "Διαδικασία ανάθεσης ελέγχου σε Πιστοποιημένους Φορείς".
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/1/passage/1>.
@@ -96,6 +112,9 @@
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/1/passage/4>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Αντίγραφο της έντυπης αίτησης αποστέλλεται στην αρμόδια υπηρεσία. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/1/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/1/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Η αίτηση πρέπει να συνοδεύεται από το σύνολο των αναγκαίων δικαιολογητικών που ορίζονται στην προβλεπόμενη από την παράγραφο 6 του άρθρου 11 του νόμου 3908/2011 απόφαση, προκειμένου να πιστοποιηθεί είτε ότι έχει υλοποιηθεί το επενδυτικό σχέδιο σε ποσοστό ίσο τουλάχιστον με το 50%, είτε ότι έχει ολοκληρωθεί το φυσικό και οικονομικό αντικείμενο και έχει αρχίσει η παραγωγική λειτουργία της επένδυσης."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -110,6 +129,9 @@
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/2/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/2/passage/4>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/2/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Η αρμόδια υπηρεσία υποχρεούται να δημοσιεύσει αμελλητί στο ΠΣΚΕ – Επ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/2/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/2/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/2/passage/5> <http://legislation.di.uoa.gr/ontology/text> "τον ορισμό κλιμακίου ελέγχου από τον Πιστοποιημένο Φορέα, με παράλληλη τοιχοκόλληση στο κεντρικό κτήριό της."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -118,6 +140,9 @@
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/3/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "ή AT.Ε.Ι. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/3/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/3/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/3/passage/3> <http://legislation.di.uoa.gr/ontology/text> "και εμπειρία σχετικά με τον έλεγχο των επενδυτικών σχεδίων."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -140,26 +165,32 @@
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/5/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/5/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/5/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Καθένα από τα μέλη του κλιμακίου ελέγχου ασκεί το ελεγκτικό έργο που του ανατέθηκε. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/5/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/5/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/5/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Τα επενδυτικά σχέδια ελέγχονται ως προς το φυσικό και οικονομικό τους αντικείμενο στον τόπο υλοποίησής τους, και εφόσον απαιτείται, στην έδρα των φορέων εάν εκεί τηρούνται οι πρωτότυποι τεχνικοί φάκελοι και τα παραστατικά δαπανών."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/6>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/6/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι ελεγκτές-φυσικά πρόσωπα που ορίζονται από τους Πιστοποιημένους Φορείς Ελέγχου Επενδυτικών Σχεδίων των νόμων 3299/2004 και 3908/2011 υποχρεούνται στην υποβολή δήλωσης για τον έλεγχο της περιουσιακής κατάστασης τους, σύμφωνα με τις διατάξεις του ν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/6/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/6/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/6/passage/2> <http://legislation.di.uoa.gr/ontology/text> "3213/2003, όπως ισχύει."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/7>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/7/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Δεν επιτρέπεται η ύπαρξη άλλης επαγγελματικής σχέσης μεταξύ των ελεγκτών-φυσικών προσώπων που ορίζονται από Πιστοποιημένο Φορέα και της ελεγχόμενης επιχείρησης (και των συνδεδεμένων ή συνεργαζόμενων με αυτήν επιχειρήσεων) για χρονικό διάστημα δύο ετών πριν και μετά τη διενέργεια του ελέγχου, ώστε να αποκλείεται η δημιουργία σχέσεων που θα μπορούσαν να επηρεάσουν το έργο του. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Δεν επιτρέπεται η ύπαρξη άλλης επαγγελματικής σχέσης μεταξύ των ελεγκτών-φυσικών προσώπων που ορίζονται από Πιστοποιημένο Φορέα και της ελεγχόμενης επιχείρησης (και των συνδεδεμένων ή συνεργαζόμενων με αυτήν επιχειρήσεων) για χρονικό διάστημα δύο ετών πριν και μετά τη διενέργεια του ελέγχου, ώστε να αποκλείεται η δημιουργία σχέσεων που θα μπορούσαν να επηρεάσουν το έργο του."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/8>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/8/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/8/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/8/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι Πιστοποιημένοι Φορείς υποχρεούνται να καταρτίσουν και να ανανεώνουν έκθεση διαφάνειας στην    ιστοσελίδα τους στην οποία να τεκμηριώνεται η συμμόρφωση με τη βασική αρχή της ανεξαρτησίας από τις ελεγχόμενες οντότητες. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/8/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι Πιστοποιημένοι Φορείς υποχρεούνται να καταρτίσουν και να ανανεώνουν έκθεση διαφάνειας στην    ιστοσελίδα τους στην οποία να τεκμηριώνεται η συμμόρφωση με τη βασική αρχή της ανεξαρτησίας από τις ελεγχόμενες οντότητες."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/9>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/9/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/9/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/9/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι Πιστοποιημένοι Φορείς και οι ελεγκτές-φυσικά πρόσωπα που ορίζονται από αυτούς, οφείλουν να μεριμνούν και να διαφυλάσσουν το επαγγελματικό απόρρητο των επιχειρήσεων που ελέγχουν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/9/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι Πιστοποιημένοι Φορείς και οι ελεγκτές-φυσικά πρόσωπα που ορίζονται από αυτούς, οφείλουν να μεριμνούν και να διαφυλάσσουν το επαγγελματικό απόρρητο των επιχειρήσεων που ελέγχουν."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/10>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/10/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -168,23 +199,30 @@
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/10/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/10/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/10/passage/2> <http://legislation.di.uoa.gr/ontology/text> "4 του άρθρου 3 και ανακαλούνται οι αποφάσεις των παρ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/10/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/10/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/10/passage/3> <http://legislation.di.uoa.gr/ontology/text> "2 και 3 του ίδιου άρθρου, και (β) με απόφαση του Υπουργού Ανάπτυξης και Ανταγωνιστικότητας οι εν λόγω Πιστοποιημένοι Φορείς καταβάλλουν υπέρ του Ελληνικού Δημοσίου χρηματικό ποσό μέχρι του ποσού της ανακτώμενης ενίσχυσης προσαυξημένου κατά 50%, ανάλογα με το βαθμό της υπαιτιότητας των Πιστοποιημένου Φορέων και των ελεγκτών – φυσικών προσώπων που ορίζονται από αυτούς."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/11>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/11/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/11/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/11/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η αμοιβή του Πιστοποιημένου Φορέα καθορίζεται με ελεύθερη διαπραγμάτευση με τον φορέα της ελεγχόμενης επένδυσης. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/11/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η αμοιβή του Πιστοποιημένου Φορέα καθορίζεται με ελεύθερη διαπραγμάτευση με τον φορέα της ελεγχόμενης επένδυσης."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/12>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/12/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/12/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/12/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Με απόφαση του Υπουργού Ανάπτυξης και Ανταγωνιστικότητας δύνανται να ρυθμίζονται επιμέρους λεπτομέρειες εφαρμογής που αφορούν στη διαδικασία ανάθεσης ελέγχου σε Πιστοποιημένους Φορείς στο πλαίσιο του παρόντος άρθρου. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/4/paragraph/12/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Με απόφαση του Υπουργού Ανάπτυξης και Ανταγωνιστικότητας δύνανται να ρυθμίζονται επιμέρους λεπτομέρειες εφαρμογής που αφορούν στη διαδικασία ανάθεσης ελέγχου σε Πιστοποιημένους Φορείς στο πλαίσιο του παρόντος άρθρου."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/35> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/5> <http://purl.org/dc/terms/title> "Διαδικασία έκδοσης απόφασης από τη Διοίκηση".<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/5> <http://purl.org/dc/terms/title> "Διαδικασία έκδοσης απόφασης από τη Διοίκηση".
+<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μετά το πέρας του ελεγκτικού έργου του κλιμακίου ελέγχου που έχει οριστεί από τον Πιστοποιημένο Φορέα, ο Πιστοποιημένος Φορέας συντάσσει έκθεση ελέγχου μέσω της ενσωματωμένης μεθοδολογίας και τυποποιημένων φορμών του ΠΣΚΕ - Επ., καθώς επίσης σύμφωνα με τον Οδηγό Ελέγχου Επενδύσεων της παραγράφου 3 του άρθρου 11 του π.δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "33/2011."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -196,6 +234,9 @@
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/2/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/2/passage/3>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/2/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Οι Πιστοποιημένοι Φορείς υποχρεούνται να διατηρούν τον αναλυτικό φάκελο τεκμηρίωσης για όσο χρονικό διάστημα απαιτείται σύμφωνα με την εθνική και κοινοτική νομοθεσία και υποχρεούνται να παρέχουν το σχετικό φάκελο τεκμηρίωσης οποτεδήποτε αυτό ζητηθεί από τις αρμόδιες ελεγκτικές υπηρεσίες. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/2/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/2/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/2/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Το χρονικό αυτό διάστημα δεν μπορεί να είναι μικρότερο από επτά (7) έτη από την ημερομηνία που υποβάλλεται η Έκθεση ελέγχου."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -210,11 +251,14 @@
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/3/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/3/passage/4>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/3/passage/4> <http://legislation.di.uoa.gr/ontology/text> "3299/2004 και στην παράγραφο 4 του άρθρου 11 του ν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/3/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/3/passage/5>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/3/passage/5> <http://legislation.di.uoa.gr/ontology/text> "3908/2011."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/4/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Έργο του Τετραμελούς Γνωμοδοτικού Οργάνου είναι η γνωμοδότηση για την κατά νόμο πληρότητα των εκθέσεων ελέγχου των Πιστοποιημένων Φορέων και των συνημμένων σε αυτές δικαιολογητικών, μετά από σχετική εισήγηση στελέχους της αρμόδιας υπηρεσίας, εξειδικευμένου σε θέματα ελέγχου επενδυτικών σχεδίων. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Έργο του Τετραμελούς Γνωμοδοτικού Οργάνου είναι η γνωμοδότηση για την κατά νόμο πληρότητα των εκθέσεων ελέγχου των Πιστοποιημένων Φορέων και των συνημμένων σε αυτές δικαιολογητικών, μετά από σχετική εισήγηση στελέχους της αρμόδιας υπηρεσίας, εξειδικευμένου σε θέματα ελέγχου επενδυτικών σχεδίων."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/5>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -223,6 +267,9 @@
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/5/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/5/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/5/passage/2> <http://legislation.di.uoa.gr/ontology/text> "3299/2004 και στην παράγραφο 4 του άρθρου 11 του ν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/5/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/5/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/5/passage/3> <http://legislation.di.uoa.gr/ontology/text> "3908/2011."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/6>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -234,14 +281,18 @@
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/6/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/6/passage/3>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/6/passage/3> <http://legislation.di.uoa.gr/ontology/text> "3299/2004 και στην παράγραφο 4 του άρθρου 11 του ν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/6/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/6/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/6/passage/4> <http://legislation.di.uoa.gr/ontology/text> "3908/2011."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/7>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/7/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Με απόφαση του Υπουργού Ανάπτυξης και Ανταγωνιστικότητας δύνανται να ρυθμίζονται επιμέρους λεπτομέρειες εφαρμογής που αφορούν στη διαδικασία έκδοσης απόφασης από τη Διοίκηση στο πλαίσιο του παρόντος άρθρου. "@el.
+<http://legislation.di.uoa.gr/pd/2014/35/article/5/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Με απόφαση του Υπουργού Ανάπτυξης και Ανταγωνιστικότητας δύνανται να ρυθμίζονται επιμέρους λεπτομέρειες εφαρμογής που αφορούν στη διαδικασία έκδοσης απόφασης από τη Διοίκηση στο πλαίσιο του παρόντος άρθρου."@el.
 <http://legislation.di.uoa.gr/pd/2014/35/article/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/35> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/6>.
-<http://legislation.di.uoa.gr/pd/2014/35/article/6> <http://purl.org/dc/terms/title> "Έναρξη ισχύος".<http://legislation.di.uoa.gr/pd/2014/35/article/6/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/35/article/6> <http://purl.org/dc/terms/title> "Έναρξη ισχύος".
+<http://legislation.di.uoa.gr/pd/2014/35/article/6/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/6/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/6/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/35/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/35/article/6/paragraph/1/passage/1>.
@@ -249,3 +300,4 @@
 <http://legislation.di.uoa.gr/pd/2014/35> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

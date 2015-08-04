@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/law/2014/4290> <http://purl.org/dc/terms/created> "2014-09-24"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/law/2014/4290> <http://legislation.di.uoa.gr/ontology/legislationID> "4290"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/law/2014/4290> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/law/2014/4290> <http://purl.org/dc/terms/title> "Κύρωση της Συμφωνίας μεταξύ της Κυβέρνησης της Ελληνι- κής Δημοκρατίας και της Κυβέρνησης της Δημοκρατίας της Νοτίου Αφρικής περί Οικονομικής Συνεργασίας. Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ "@el.
 <http://legislation.di.uoa.gr/law/2014/4290/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4290> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4290/article/1>.
@@ -13,6 +14,12 @@
 <http://legislation.di.uoa.gr/law/2014/4290/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4290/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4290/article/1/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/law/2014/4290/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνεται και έχει την ισχύ που ορίζει το άρθρο 28 παρ. "@el.
+<http://legislation.di.uoa.gr/law/2014/4290/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4290/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4290/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2014/4290/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "1 του Συντάγματος η Συμφωνία μεταξύ της Κυβέρνησης της Ελληνικής Δημοκρατίας και της Κυβέρνησης της Δημοκρατίας της Νοτίου Αφρικής περί Οικονομικής Συνεργασίας, που υπογράφηκε στο Κέηπ Τάουν, στις 6 Νοεμβρίου 2012, το κείμενο της οποίας σε πρωτότυπο στην ελληνική και αγγλική γλώσσα έχει ως εξής:"@el.
+<http://legislation.di.uoa.gr/law/2014/4290/article/1/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4290/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4290/article/1/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/law/2014/4290/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "  6566     6568     6570     6572     6574     6576     6578 "@el.
 <http://legislation.di.uoa.gr/law/2014/4290/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4290> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4290/article/2>.
 <http://legislation.di.uoa.gr/law/2014/4290/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -20,6 +27,10 @@
 <http://legislation.di.uoa.gr/law/2014/4290/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4290/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4290/article/2/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/law/2014/4290/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 9 παράγραφος 1 αυτής. "@el.
+<http://legislation.di.uoa.gr/law/2014/4290/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4290/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4290/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2014/4290/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως νόμου του Κράτους. "@el.
 <http://legislation.di.uoa.gr/law/2014/4290> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

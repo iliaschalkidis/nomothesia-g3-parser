@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/50> <http://purl.org/dc/terms/created> "2014-04-04"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/50> <http://legislation.di.uoa.gr/ontology/legislationID> "50"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/50> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/50> <http://purl.org/dc/terms/title> "Εφαρμογή της απόφασης 1980 (2011) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.) σχετικά με την ακτή του Ελεφαντοστού.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/50/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/50/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Το άρθρο 25 του Καταστατικού Χάρτη του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.) όπως κυρώθηκε με τον Α.Ν. 585/1945 (Α΄242). "@el.
@@ -67,6 +68,9 @@
 <http://legislation.di.uoa.gr/pd/2014/50/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/50/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/50/article/1/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/50/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "251/2005 (Α΄299), το άρθρο 3 του Π.Δ. 110/2013 «Περί εφαρμογής της απόφασης 1946 (2010) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)» (Α΄ 145) και το άρθρο Μόνο του Π.Δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/50/article/1/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/50/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/50/article/1/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/50/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "19/2014 «Περί εφαρμογής της απόφασης 1975 (2011) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)» (Α΄26). "@el.
 <http://legislation.di.uoa.gr/pd/2014/50/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/50> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/50/article/2>.
 <http://legislation.di.uoa.gr/pd/2014/50/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -77,6 +81,9 @@
 <http://legislation.di.uoa.gr/pd/2014/50/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/50/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/50/article/2/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/50/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "249/2006 (Α΄262). "@el.
+<http://legislation.di.uoa.gr/pd/2014/50/article/2/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/50/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/50/article/2/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/50/article/2/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> " 1382 "@el.
 <http://legislation.di.uoa.gr/pd/2014/50/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/50> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/50/article/3>.
 <http://legislation.di.uoa.gr/pd/2014/50/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -84,6 +91,9 @@
 <http://legislation.di.uoa.gr/pd/2014/50/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/50/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/50/article/3/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/50/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Από την 28η Απριλίου 2011, ημερομηνία υιοθέτησης της απόφασης 1980 (2011) του Συμβουλίου Ασφαλείας του Ο.Η.Ε., υπόκειται στα μέτρα που έχουν επιβληθεί με το άρθρο 1 του Π.Δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/50/article/3/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/50/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/50/article/3/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/50/article/3/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "251/2005 (Α΄299) η προμήθεια οχημάτων στις δυνάμεις ασφαλείας της Ακτής του Ελεφαντοστού. "@el.
 <http://legislation.di.uoa.gr/pd/2014/50/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/50> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/50/article/4>.
 <http://legislation.di.uoa.gr/pd/2014/50/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -94,6 +104,9 @@
 <http://legislation.di.uoa.gr/pd/2014/50/article/4/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/50/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/50/article/4/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/50/article/4/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "(ε) του Π.Δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/50/article/4/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/50/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/50/article/4/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/50/article/4/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "251/2005 (Α΄299) εφαρμόζεται μόνο στα όπλα και το συναφές υλικό, τα οχήματα και την παροχή τεχνικής εκπαίδευσης και βοήθειας για την υποστήριξη της διαδικασίας Μεταρρύθμισης του Τομέα Ασφάλειας της Ακτής του Ελεφαντοστού, κατόπιν επίσημου αιτήματος της Κυβέρνησης της Ακτής του Ελεφαντοστού που θα έχει εγκριθεί εκ των προτέρων από την Επιτροπή Κυρώσεων, η οποία έχει συσταθεί σύμφωνα με την παράγραφο 14 της απόφασης 1572 (2004) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών. "@el.
 <http://legislation.di.uoa.gr/pd/2014/50/article/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/50> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/50/article/5>.
 <http://legislation.di.uoa.gr/pd/2014/50/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -104,6 +117,10 @@
 <http://legislation.di.uoa.gr/pd/2014/50/article/5/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/50/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/50/article/5/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/50/article/5/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "61/2013 «Περί εφαρμογής της απόφασης 1893 (2009) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)» (Α΄112), σχετικά με τη διασφάλιση δειγμάτων ακατέργαστων διαμαντιών για σκοπούς επιστημονικής έρευνας, η οποία συντονίζεται από τη Διαδικασία Κίμπερλυ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/50/article/5/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/50/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/50/article/5/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/50/article/5/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Εξωτερικών αναθέτουμε τη δημοσίευση του παρόντος Διατάγματος, στον ίδιο δε Υπουργό και στους Υπουργούς Οικονομικών, Εθνικής Άμυνας, Ανάπτυξης και Ανταγωνιστικότητας, Υποδομών, Μεταφορών και Δικτύων, Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων, Δημόσιας Τάξης και Προστασίας του Πολίτη και Ναυτιλίας και Αιγαίου την εκτέλεσή του. "@el.
 <http://legislation.di.uoa.gr/pd/2014/50> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

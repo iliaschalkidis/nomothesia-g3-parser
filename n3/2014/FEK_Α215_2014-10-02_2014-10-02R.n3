@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/law/2014/4297> <http://purl.org/dc/terms/created> "2014-10-02"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/law/2014/4297> <http://legislation.di.uoa.gr/ontology/legislationID> "4297"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/law/2014/4297> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/law/2014/4297> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/law/2014/4297/2014-10-02>.
 <http://legislation.di.uoa.gr/law/2014/4297> <http://purl.org/dc/terms/title> "Διαδικασία επιλογής υποψηφίων δικαστών και γενι- κών εισαγγελέων για το Δικαστήριο της Ευρωπα- ϊκής Ένωσης και υποψηφίων δικαστών για το Γενι- κό Δικαστήριο της Ευρωπαϊκής ΄Ενωσης και άλλες διατάξεις. Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ "@el.
 <http://legislation.di.uoa.gr/law/2014/4297/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
@@ -16,7 +17,8 @@
 <http://legislation.di.uoa.gr/law/2014/4297/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι διατάξεις του παρόντος νόμου εφαρμόζονται για την επιλογή υποψηφίων δικαστών και γενικών εισαγγελέων για το Δικαστήριο της Ευρωπαϊκής ΄Ενωσης και υποψηφίων δικαστών για το Γενικό Δικαστήριο της Ευρωπαϊκής Ένωσης, όταν η θέση δικαστή ή γενικού εισαγγελέα κενωθεί λόγω λήξης και μη ανανέωσης της θητείας του, παραίτησης ή θανάτου αυτού. "@el.
 <http://legislation.di.uoa.gr/law/2014/4297/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4297> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/2>.
-<http://legislation.di.uoa.gr/law/2014/4297/article/2> <http://purl.org/dc/terms/title> "Οι υποψήφιοι δικαστές και γενικοί εισαγγελείς για το".<http://legislation.di.uoa.gr/law/2014/4297/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4297/article/2> <http://purl.org/dc/terms/title> "Οι υποψήφιοι δικαστές και γενικοί εισαγγελείς για το".
+<http://legislation.di.uoa.gr/law/2014/4297/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4297/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/law/2014/4297/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4297/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/2/paragraph/1/passage/1>.
@@ -43,6 +45,9 @@
 <http://legislation.di.uoa.gr/law/2014/4297/article/3/paragraph/1/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4297/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/3/paragraph/1/passage/6>.
 <http://legislation.di.uoa.gr/law/2014/4297/article/3/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> "2. "@el.
+<http://legislation.di.uoa.gr/law/2014/4297/article/3/paragraph/1/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4297/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/3/paragraph/1/passage/7>.
+<http://legislation.di.uoa.gr/law/2014/4297/article/3/paragraph/1/passage/7> <http://legislation.di.uoa.gr/ontology/text> "Τα πρόσωπα που επιθυμούν να καταλάβουν θέση στο Γενικό Δικαστήριο της Ευρωπαϊκής ΄Ενωσης, πρέπει να παρέχουν πλήρη εχέγγυα ανεξαρτησίας και να έχουν την απαιτούμενη ικανότητα για την άσκηση υψηλών δικαστικών καθηκόντων. "@el.
 <http://legislation.di.uoa.gr/law/2014/4297/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4297> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/4>.
 <http://legislation.di.uoa.gr/law/2014/4297/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -71,6 +76,9 @@
 <http://legislation.di.uoa.gr/law/2014/4297/article/4/paragraph/1/passage/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4297/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/4/paragraph/1/passage/8>.
 <http://legislation.di.uoa.gr/law/2014/4297/article/4/paragraph/1/passage/8> <http://legislation.di.uoa.gr/ontology/text> "2. "@el.
+<http://legislation.di.uoa.gr/law/2014/4297/article/4/paragraph/1/passage/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4297/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/4/paragraph/1/passage/9>.
+<http://legislation.di.uoa.gr/law/2014/4297/article/4/paragraph/1/passage/9> <http://legislation.di.uoa.gr/ontology/text> "Με απόφαση του Υπουργού Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων ρυθμίζονται ο τόπος και χρόνος συγκλήσεως της Επιτροπής, καθώς και κάθε άλλη αναγκαία λεπτομέρεια σχετικά με τη λειτουργία της. "@el.
 <http://legislation.di.uoa.gr/law/2014/4297/article/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4297> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/5>.
 <http://legislation.di.uoa.gr/law/2014/4297/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -81,6 +89,9 @@
 <http://legislation.di.uoa.gr/law/2014/4297/article/5/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4297/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/5/paragraph/1/passage/2>.
 <http://legislation.di.uoa.gr/law/2014/4297/article/5/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Τα πρόσωπα που επιθυμούν να καταλάβουν θέση στο Δικαστήριο της Ευρωπαϊκής ΄Ενωσης πρέπει να Η Επιτροπή, αφού εξετάσει τους φακέλους των ενδιαφερομένων καλεί σε συνέντευξη εκείνους που κατά  6708 την κρίση της συγκεντρώνουν τα τυπικά και ουσιαστικά προσόντα για την κατάληψη της σχετικής θέσης. "@el.
+<http://legislation.di.uoa.gr/law/2014/4297/article/5/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4297/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/5/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/law/2014/4297/article/5/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Μετά την πραγματοποίηση των συνεντεύξεων, η Επιτροπή διατυπώνει προς τον Υπουργό Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων αιτιολογημένη γνώμη σχετικά με την επάρκεια των υποψηφίων για την άσκηση των καθηκόντων δικαστή και γενικού εισαγγελέα του Δικαστηρίου της Ευρωπαϊκής Ένωσης και δικαστή του Γενικού Δικαστηρίου της Ευρωπαϊκής ΄Ενωσης και προκρίνει τους τρεις πλέον κατάλληλους υποψηφίους για κάθε θέση. "@el.
 <http://legislation.di.uoa.gr/law/2014/4297/article/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4297> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/6>.
 <http://legislation.di.uoa.gr/law/2014/4297/article/6/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
@@ -102,16 +113,23 @@
 <http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το τελευταίο εδάφιο του άρθρου 50 του ν. "@el.
-<http://legislation.di.uoa.gr/law/2014/4297>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <http://legislation.di.uoa.gr/law/2014/4297/article/8/modification/1>.
-<http://legislation.di.uoa.gr/law/2014/4297>  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <http://legislation.di.uoa.gr/law/2014/4297/article/8/modification/1>.
-<http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/modification/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
-<http://legislation.di.uoa.gr/law/2014/4297/article/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/modification/1>.
-<http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/modification/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
-<http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/modification/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/modification/1/passage/1>.
-<http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/modification/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα άρθρα 1, 3 και 9, οι παράγραφοι 1, 2 και 9 του άρθρου 4, καθώς και το Παράρτημα III του άρθρου 8 της ως άνω κ.υ.α. καταργούνται. "@el.
+<http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "4277/2014 (Α’ 56) αντικαθίσταται ως εξής:"@el.
+<http://legislation.di.uoa.gr/law/2014/4297>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/modification/1>.
+<http://legislation.di.uoa.gr/law/2014/4297>  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/modification/1>.
+<http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/passage/2/modification/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
+<http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/passage/2/modification/1>.
+<http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/passage/2/modification/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/passage/2/modification/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/passage/2/modification/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/passage/2/modification/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα άρθρα 1, 3 και 9, οι παράγραφοι 1, 2 και 9 του άρθρου 4, καθώς και το Παράρτημα III του άρθρου 8 της ως άνω κ.υ.α. καταργούνται. "@el.
+<http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/law/2014/4297/article/8/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "  "@el.
 <http://legislation.di.uoa.gr/law/2014/4297/article/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4297> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/9>.
-<http://legislation.di.uoa.gr/law/2014/4297/article/9> <http://purl.org/dc/terms/title> "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.".<http://legislation.di.uoa.gr/law/2014/4297/article/9/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2014/4297/article/9> <http://purl.org/dc/terms/title> "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.".
+<http://legislation.di.uoa.gr/law/2014/4297/article/9/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4297/article/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/9/paragraph/1>.
 <http://legislation.di.uoa.gr/law/2014/4297/article/9/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4297/article/9/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4297/article/9/paragraph/1/passage/1>.
@@ -119,3 +137,4 @@
 <http://legislation.di.uoa.gr/law/2014/4297> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

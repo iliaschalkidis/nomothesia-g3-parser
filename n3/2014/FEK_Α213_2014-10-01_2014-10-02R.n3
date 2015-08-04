@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/133> <http://purl.org/dc/terms/created> "2014-10-01"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/133> <http://legislation.di.uoa.gr/ontology/legislationID> "133"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/133> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/133> <http://purl.org/dc/terms/title> "Καθορισμός των προϋποθέσεων άσκησης επαγγέλματος Διαιτολόγου - Διατροφολόγου.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/133/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/133/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) της παρ. 4 του άρθρου 52 του ν. 2519/1997 «Ανάπτυξη και εκσυγχρονισμός του Εθνικού Συστήματος Υγείας, οργάνωση των υγειονομικών υπηρεσιών, ρυθμίσεις για το φάρμακο και άλλες διατάξεις» (ΦΕΚ Α΄ 165) όπως τροποποιήθηκε με το άρθρο 39 του ν. 4058/2012 «Παροχή υπηρεσιών ασφαλείας από ένοπλους φρουρούς σε εμπορικά πλοία και άλλες διατάξεις» (ΦΕΚ Α΄ 63), β) των παρ. 1 και 2 του άρθρου 1, των παρ. 1 και 2 του άρθρου 2 και της παρ. 1 του άρθρου 3 του ν. 3919/2011 «Αρχή της επαγγελματικής ελευθερίας, κατάργηση αδικαιολόγητων περιορισμών στην πρόσβαση και άσκηση επαγγελμάτων» (ΦΕΚ Α΄ 32), όπως τροποποιήθηκε και ισχύει. "@el.
@@ -25,11 +26,14 @@
 <http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Πτυχίο Ανώτατης Εκπαίδευσης (Πανεπιστημιακής ή Τεχνολογικής) της Ελλάδος, του Τμήματος Επιστήμης Διαιτολογίας – Διατροφής του Χαροκοπείου Πανεπιστημίου ή του Τμήματος Διατροφής – Διαιτολογίας του ΑΤΕΙ Θεσσαλονίκης ή του Τμήματος Διατροφής – Διαιτολογίας του ΑΤΕΙ Κρήτης (Παράρτημα Σητείας) ή του Τμήματος Διατροφής – Διαιτολογίας του ΑΤΕΙ Λάρισας (Παράρτημα Καρδίτσας) ή Πτυχίο της αλλοδαπής που είναι ισότιμο και αντίστοιχο προς τα παραπάνω ή απόφαση αναγνώρισης επαγγελματικών προσόντων του Συμβουλίου Αναγνώρισης Επαγγελματικών Προσόντων (ΣΑΕΠ) σύμφωνα με τις διατάξεις του π.δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "38/2010 (Οδηγία 2005/36/ΕΚ), όπως τροποποιήθηκε και ισχύει."@el.
 <http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Αναγνωρισμένος ισότιμος τίτλος της αλλοδαπής Για την ισοτιμία των Πτυχίων των Τμημάτων Διαιτολογίας – Διατροφής του εξωτερικού αποφαίνεται το Δ.Ο.Α.Τ.Α.Π ή οποιοσδήποτε άλλος φορέας θεσμοθετηθεί από τα αρμόδια πολιτειακά όργανα, με τη χορήγηση πράξης αναγνώρισης ισοτιμίας και αντιστοιχίας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Αναγνωρισμένος ισότιμος τίτλος της αλλοδαπής Για την ισοτιμία των Πτυχίων των Τμημάτων Διαιτολογίας – Διατροφής του εξωτερικού αποφαίνεται το Δ.Ο.Α.Τ.Α.Π ή οποιοσδήποτε άλλος φορέας θεσμοθετηθεί από τα αρμόδια πολιτειακά όργανα, με τη χορήγηση πράξης αναγνώρισης ισοτιμίας και αντιστοιχίας."@el.
 <http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -70,9 +74,13 @@
 <http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/4/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/4/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/4/passage/2> <http://legislation.di.uoa.gr/ontology/text> "με βάση το οποίο καθορίζονται τα επαγγελματικά δικαιώματα της αντίστοιχης κατηγορίας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/4/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/4/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/133/article/1/paragraph/4/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Η αρχή δύναται, εντός τριών μηνών από τη λήψη της αναγγελίας, να απαγορεύσει την άσκηση του επαγγέλματος, στην περίπτωση που δεν συγκεντρώνονται οι νόμιμες προϋποθέσεις προς τούτο ή δεν προκύπτει η συνδρομή τους από τα υποβληθέντα στοιχεία."@el.
 <http://legislation.di.uoa.gr/pd/2014/133/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/133> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/2>.
-<http://legislation.di.uoa.gr/pd/2014/133/article/2> <http://purl.org/dc/terms/title> "Προσωρινή ή οριστική απαγόρευση άσκησης του επαγγέλματος".<http://legislation.di.uoa.gr/pd/2014/133/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/133/article/2> <http://purl.org/dc/terms/title> "Προσωρινή ή οριστική απαγόρευση άσκησης του επαγγέλματος".
+<http://legislation.di.uoa.gr/pd/2014/133/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/2/paragraph/1/passage/1>.
@@ -90,7 +98,7 @@
 <http://legislation.di.uoa.gr/pd/2014/133/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/2/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/2/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/2/paragraph/2/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/133/article/2/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Προσωρινή απαγόρευση, η οποία δεν υπερβαίνει το χρονικό διάστημα του ενός (1) έτους, επιβάλλεται για παραβάσεις της παραγράφου 1 α΄ του παρόντος άρθρου, ανάλογα με τη βαρύτητα της πράξεως, με αιτιολογημένη απόφαση του οικείου Περιφερειάρχη, μετά από εισήγηση του αρμόδιου οργάνου ελέγχου των παραβάσεων αυτών, στην περίπτωση δε στέρησης των πολιτικών δικαιωμάτων για όσο διάστημα διαρκεί η στέρηση αυτή. "@el.
+<http://legislation.di.uoa.gr/pd/2014/133/article/2/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Προσωρινή απαγόρευση, η οποία δεν υπερβαίνει το χρονικό διάστημα του ενός (1) έτους, επιβάλλεται για παραβάσεις της παραγράφου 1 α΄ του παρόντος άρθρου, ανάλογα με τη βαρύτητα της πράξεως, με αιτιολογημένη απόφαση του οικείου Περιφερειάρχη, μετά από εισήγηση του αρμόδιου οργάνου ελέγχου των παραβάσεων αυτών, στην περίπτωση δε στέρησης των πολιτικών δικαιωμάτων για όσο διάστημα διαρκεί η στέρηση αυτή."@el.
 <http://legislation.di.uoa.gr/pd/2014/133/article/2/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/2/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/2/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -104,11 +112,15 @@
 <http://legislation.di.uoa.gr/pd/2014/133/article/2/paragraph/3/case/3> <http://legislation.di.uoa.gr/ontology/text> " παράβασης του άρθρου 3 παρ. 1 και 2 του παρόντοςήτοι άσκησης καθηκόντων καθ’ υπέρβαση ή παράβασητων καθορισθέντων επαγγελματικών δικαιωμάτων σύμφωνα με την ισχύουσα νομοθεσία. "@el.
 <http://legislation.di.uoa.gr/pd/2014/133/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/133> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/3>.
-<http://legislation.di.uoa.gr/pd/2014/133/article/3> <http://purl.org/dc/terms/title> "Πλαίσιο άσκησης του επαγγέλματος".<http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/133/article/3> <http://purl.org/dc/terms/title> "Πλαίσιο άσκησης του επαγγέλματος".
+<http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι Διαιτολόγοι – Διατροφολόγοι που πληρούν τις προϋποθέσεις νόμιμης άσκησης του επαγγέλματος και έχουν λάβει τη σχετική βεβαίωση σύμφωνα με τις διατάξεις του άρθρου 1 του παρόντος, παρέχουν τις υπηρεσίες τους σύμφωνα με τα καθορισθέντα επαγγελματικά τους δικαιώματα όπως αυτά προκύπτουν από τα π.δ. 311/1997 (ΦΕΚ Α΄ 221) και π.δ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "78/1989 (ΦΕΚ Α΄ 36)."@el.
 <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/2>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -120,14 +132,21 @@
 <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/2/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/2/passage/3>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/2/passage/3> <http://legislation.di.uoa.gr/ontology/text> "3215/ 1998 ΥΑ «Προϋποθέσεις εγκατάστασης και λειτουργίας Μονάδων αδυνατίσματος και διαιτολογικών μονάδων» (ΦΕΚ Β΄ 655), όπως αυτή τροποποιήθηκε με την υπ’ αριθ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/2/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/2/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/2/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Α5/οικ.4564/1998 ΥΑ (ΦΕΚ Β΄ 919) και ισχύει."@el.
 <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/3/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η εποπτεία του έργου του Διαιτολόγου – Διατροφολόγου ως ελεύθερου επαγγελματία αποτελεί έργο των αρμοδίων Περιφερειών. "@el.
+<http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/3/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/133/article/3/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Κατά την άσκηση της εποπτείας διασφαλίζονται οι διατάξεις του παρόντος Διατάγματος για τη διαφύλαξη της Δημόσιας Υγείας και του ιδιωτικού απόρρητου."@el.
 <http://legislation.di.uoa.gr/pd/2014/133/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/133> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/4>.
-<http://legislation.di.uoa.gr/pd/2014/133/article/4> <http://purl.org/dc/terms/title> "Μεταβατικές διατάξεις".<http://legislation.di.uoa.gr/pd/2014/133/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/133/article/4> <http://purl.org/dc/terms/title> "Μεταβατικές διατάξεις".
+<http://legislation.di.uoa.gr/pd/2014/133/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/4/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/4/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/4/paragraph/1/passage/1>.
@@ -138,6 +157,10 @@
 <http://legislation.di.uoa.gr/pd/2014/133/article/4/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/4/paragraph/1/passage/3>.
 <http://legislation.di.uoa.gr/pd/2014/133/article/4/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Κρήτης (Παράρτημα Σητείας) ή του ΤμήματοςΔιατροφής – Διαιτολογίας του Α.Τ.Ε.Ι. "@el.
+<http://legislation.di.uoa.gr/pd/2014/133/article/4/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/133/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/133/article/4/paragraph/1/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/133/article/4/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Λάρισας (Παράρ-τημα Καρδίτσας) ή ισοτίμου της αλλοδαπής, οι οποίοιασκούν το επάγγελμα του Διαιτολόγου – Διατροφολόγουκατά τη δημοσίευση του παρόντος Διατάγματος, υπο-χρεούνται μέσα σε αποκλειστική προθεσμία δύο (2) ετώναπό τη δημοσίευση του παρόντος να εφοδιαστούν με τηνπροβλεπόμενη βεβαίωση ότι πληρούν τις απαιτούμενεςπροϋποθέσεις για τη νόμιμη άσκηση του επαγγέλματος.Στον Υπουργό Υγείας αναθέτουμε τη δημοσίευση καιεκτέλεση του παρόντος Διατάγματος. "@el.
 <http://legislation.di.uoa.gr/pd/2014/133> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

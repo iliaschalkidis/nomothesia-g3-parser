@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/51> <http://purl.org/dc/terms/created> "2014-04-09"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/51> <http://legislation.di.uoa.gr/ontology/legislationID> "51"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/51> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/51> <http://purl.org/dc/terms/title> "Ρύθμιση θεμάτων Ελληνικής Αστυνομίας.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/51/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/51/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 39 παρ. 1 του ν.4249/2014 «Αναδιοργάνωση της Ελληνικής Αστυνομίας, του Πυροσβεστικού Σώματος και της Γενικής Γραμματείας Πολιτικής Προστασίας, αναβάθμιση Υπηρεσιών του Υπουργείου Δημόσιας Τάξης και Προστασίας του Πολίτη και ρύθμιση λοιπών θεμάτων αρμοδιότητας Υπουργείου Δημόσιας Τάξης και Προστασίας του Πολίτη και άλλες διατάξεις» (Α΄ 73). "@el.
@@ -35,7 +36,8 @@
 <http://legislation.di.uoa.gr/pd/2014/51> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/51/citation/9>.
 <http://legislation.di.uoa.gr/pd/2014/51/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/51> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/51/article/1>.
-<http://legislation.di.uoa.gr/pd/2014/51/article/1> <http://purl.org/dc/terms/title> "Ρύθμιση θεμάτων υπηρεσιών Ελληνικής Αστυνομίας".<http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2014/51/article/1> <http://purl.org/dc/terms/title> "Ρύθμιση θεμάτων υπηρεσιών Ελληνικής Αστυνομίας".
+<http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/51/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/1/passage/1>.
@@ -57,11 +59,17 @@
 <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/2/passage/2>.
 <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Οι Γενικές Αστυνομικές Διευθύνσεις Αττικής και Θεσσαλονίκης εδρεύουν στην Αττική και τη Θεσσαλονίκη, αντίστοιχα και συγκροτούνται από την Επιτελική τους Υπηρεσία και τις Διευθύνσεις που υπάγονται σε αυτές. "@el.
+<http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/2/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/2/passage/3>.
+<http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/2/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Οι Περιφερειακές Αστυνομικές Διευθύνσεις συγκροτούνται από την επιτελική τους Υπηρεσία και τις Αστυνομικές Υπηρεσίες που υπάγονται σ' αυτές."@el.
 <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/51/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/3>.
 <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/3/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι Διευθύνσεις Ασφάλειας Αττικής και Θεσσαλονίκης οι οποίες εδρεύουν στην Αττική και Θεσσαλονίκη αντίστοιχα και οι Περιφερειακές Διευθύνσεις Ασφάλειας ασκούν,  1492 μέσα στα όρια της τοπικής τους δικαιοδοσίας, τις αρμοδιότητες δημόσιας και κρατικής ασφάλειας με την επιφύλαξη των διατάξεων των άρθρων 17 παράγραφοι 7, 8, 9, 10 και 11, 24 και 32 παράγραφος 2 του ν. "@el.
+<http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/3/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "4249/2014 (Α΄ 73) και συντονίζουν, εποπτεύουν και ελέγχουν τις Υπηρεσίες που υπάγονται σε αυτές, στην εκπλήρωση της αποστολής τους."@el.
 <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/51/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/4>.
 <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
@@ -73,6 +81,10 @@
 <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/4/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/4/passage/3>.
 <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/4/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Αντιστρατήγου ή του Υποστρατήγου της Ελληνικής Αστυνομίας. "@el.
+<http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/4/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/4/passage/4>.
+<http://legislation.di.uoa.gr/pd/2014/51/article/1/paragraph/4/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Άρθρο 2"@el.
 <http://legislation.di.uoa.gr/pd/2014/51> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

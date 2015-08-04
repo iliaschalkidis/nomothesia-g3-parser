@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/pd/2014/47> <http://purl.org/dc/terms/created> "2014-04-04"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/47> <http://legislation.di.uoa.gr/ontology/legislationID> "47"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/47> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/pd/2014/47> <http://purl.org/dc/terms/title> "Ίδρυση της Ανδρώας Ιεράς Κοινοβιακής Μονής Αγίου Γεωργίου, της Ιεράς Μητροπόλεως Μάνης, η οποία ευρίσκεται στην Τοπική Κοινότητα Αλτομυρών, της Δημοτικής Ενότητας Αβίας, του Δήμου Δυτικής Μάνης, της Περιφερειακής Ενότητας Μεσσηνίας, της Περιφέρειας Πελοποννήσου.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/47/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/pd/2014/47/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 39 παρ. 3 του Ν. 590/1977 «Περί του Καταστατικού Χάρτου της Εκκλησίας της Ελλάδος» (Α΄ 146) σε συνδυασμό με τις διατάξεις του άρθρου 2 παρ. α΄ του αριθμ. 39/1972 Κανονισμού της Ιεράς Συνόδου της Εκκλησίας της Ελλάδος «Περί των εν Ελλάδι Ορθοδόξων Ιερών Μονών και των Ησυχαστηρίων» (Α΄103). "@el.
@@ -41,6 +42,10 @@
 <http://legislation.di.uoa.gr/pd/2014/47/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/47/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/47/article/2/paragraph/1/passage/1>.
 <http://legislation.di.uoa.gr/pd/2014/47/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. "@el.
+<http://legislation.di.uoa.gr/pd/2014/47/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/47/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/47/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2014/47/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Παιδείας και Θρησκευμάτων αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος. "@el.
 <http://legislation.di.uoa.gr/pd/2014/47> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+

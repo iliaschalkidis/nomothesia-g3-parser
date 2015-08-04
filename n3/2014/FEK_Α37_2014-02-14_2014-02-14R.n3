@@ -5,6 +5,7 @@
 <http://legislation.di.uoa.gr/amc/2014/5> <http://purl.org/dc/terms/created> "2014-02-14"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/amc/2014/5> <http://legislation.di.uoa.gr/ontology/legislationID> "5"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/amc/2014/5> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+
 <http://legislation.di.uoa.gr/amc/2014/5> <http://purl.org/dc/terms/title> "Σύσταση Διυπουργικής Επιτροπής για τη Βιομηχανική Πολιτική.  "@el.
 <http://legislation.di.uoa.gr/amc/2014/5/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
 <http://legislation.di.uoa.gr/amc/2014/5/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) του άρθρου 82 παρ. 2 του Συντάγματος, β) των άρθρων 15 παρ. 2γ και 3, 16, 25 παρ. 1, 59 και 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά όργανα (π.δ. 63/2005, Α΄ 98), "@el.
@@ -31,3 +32,4 @@
 <http://legislation.di.uoa.gr/amc/2014/5> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
 <http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
+
