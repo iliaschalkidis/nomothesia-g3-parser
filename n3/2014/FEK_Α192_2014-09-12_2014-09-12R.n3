@@ -1,9 +1,9 @@
-ο»Ώ<http://legislation.di.uoa.gr/pd/2014/120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/120> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/192>.
-<http://legislation.di.uoa.gr/gazette/a/2014/192> <http://purl.org/dc/terms/title> "Ξ‘/2014/192".
+<http://legislation.di.uoa.gr/gazette/a/2014/192> <http://purl.org/dc/terms/title> "Α/2014/192".
 <http://legislation.di.uoa.gr/pd/2014/120> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/120> <http://purl.org/dc/terms/created> "2014-09-12"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/120> <http://legislation.di.uoa.gr/ontology/legislationID> "120"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/pd/2014/120> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/pd/2014/120> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
-<http://legislation.di.uoa.gr/pd/2014/120> <http://purl.org/dc/terms/title> "Ξ¤ΟΞΏΟ€ΞΏΟ€ΞΏΞ―Ξ·ΟƒΞ· ΞΊΞ±Ο„Ξ±Ξ½ΞΏΞΌΞ®Ο‚ Ο„Ο‰Ξ½ Ο…Ο€ΞΏΞΈΞ­ΟƒΞµΟ‰Ξ½ ΟƒΟ„Ξ± Ο„ΟΞ―Ξ± Ξ ΞΏΞΉΞ½ΞΉΞΊΞ¬ Ξ¤ΞΌΞ®ΞΌΞ±Ο„Ξ± Ο„ΞΏΟ… Ξ‘ΟΞµΞ―ΞΏΟ… Ξ Ξ¬Ξ³ΞΏΟ….  "@el.
+<http://legislation.di.uoa.gr/pd/2014/120> <http://purl.org/dc/terms/title> "Τροποποίηση κατανομής των υποθέσεων στα τρία Ποινικά Τμήματα του Αρείου Πάγου.  "@el.

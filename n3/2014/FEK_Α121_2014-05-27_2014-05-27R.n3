@@ -1,32 +1,33 @@
-ο»Ώ<http://legislation.di.uoa.gr/pd/2014/75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/75> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/121>.
-<http://legislation.di.uoa.gr/gazette/a/2014/121> <http://purl.org/dc/terms/title> "Ξ‘/2014/121".
+<http://legislation.di.uoa.gr/gazette/a/2014/121> <http://purl.org/dc/terms/title> "Α/2014/121".
 <http://legislation.di.uoa.gr/pd/2014/75> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/75> <http://purl.org/dc/terms/created> "2014-05-27"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/75> <http://legislation.di.uoa.gr/ontology/legislationID> "75"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/pd/2014/75> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/pd/2014/75> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
-<http://legislation.di.uoa.gr/pd/2014/75> <http://purl.org/dc/terms/title> "ΞΞ΄ΟΟ…ΟƒΞ· Ξ‘Ξ½Ξ΄ΟΟΞ±Ο‚ Ξ™ΞµΟΞ¬Ο‚ ΞΞΏΞΉΞ½ΞΏΞ²ΞΉΞ±ΞΊΞ®Ο‚ ΞΞΏΞ½Ξ®Ο‚ Ξ‘Ξ³Ξ―Ξ±Ο‚ ΞΟƒΞΉΞΏΟ€Ξ±ΟΞΈΞµΞ½ΞΏΞΌΞ¬ΟΟ„Ο…ΟΞΏΟ‚ Ξ Ξ±ΟΞ±ΟƒΞΊΞµΟ…Ξ®Ο‚, Ο„Ξ·Ο‚ Ξ™ΞµΟΞ¬Ο‚ ΞΞ·Ο„ΟΞΏΟ€ΟΞ»ΞµΟ‰Ο‚ Ξ£ΞµΟΟΟΞ½ ΞΊΞ±ΞΉ ΞΞΉΞ³ΟΞ―Ο„Ξ·Ο‚, Ο€ΞΏΟ… Ξ²ΟΞ―ΟƒΞΊΞµΟ„Ξ±ΞΉ ΟƒΟ„Ξ· Ξ”Ξ·ΞΌΞΏΟ„ΞΉΞΊΞ® ΞΞΏΞΉΞ½ΟΟ„Ξ·Ο„Ξ± Ξ£ΞµΟΟΟΞ½, Ο„Ξ·Ο‚ Ξ”Ξ·ΞΌΞΏΟ„ΞΉΞΊΞ®Ο‚ Ξ•Ξ½ΟΟ„Ξ·Ο„Ξ±Ο‚ Ξ£ΞµΟΟΟΞ½, Ο„ΞΏΟ… Ξ”Ξ®ΞΌΞΏΟ… Ξ£ΞµΟΟΟΞ½, Ο„Ξ·Ο‚ Ξ ΞµΟΞΉΟ†ΞµΟΞµΞΉΞ±ΞΊΞ®Ο‚ Ξ•Ξ½ΟΟ„Ξ·Ο„Ξ±Ο‚ Ξ£ΞµΟΟΟΞ½, Ο„Ξ·Ο‚ Ξ ΞµΟΞΉΟ†Ξ­ΟΞµΞΉΞ±Ο‚ ΞΞµΞ½Ο„ΟΞΉΞΊΞ®Ο‚ ΞΞ±ΞΊΞµΞ΄ΞΏΞ½Ξ―Ξ±Ο‚.  "@el.
+<http://legislation.di.uoa.gr/pd/2014/75> <http://purl.org/dc/terms/title> "Ίδρυση Ανδρώας Ιεράς Κοινοβιακής Μονής Αγίας Οσιοπαρθενομάρτυρος Παρασκευής, της Ιεράς Μητροπόλεως Σερρών και Νιγρίτης, που βρίσκεται στη Δημοτική Κοινότητα Σερρών, της Δημοτικής Ενότητας Σερρών, του Δήμου Σερρών, της Περιφερειακής Ενότητας Σερρών, της Περιφέρειας Κεντρικής Μακεδονίας.  "@el.
+<http://legislation.di.uoa.gr/pd/2014/75> <http://legislation.di.uoa.gr/ontology/place> <http://geo.linkedopendata.gr/gag/id/2>.
 <http://legislation.di.uoa.gr/pd/2014/75/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/75/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 39 Ο€Ξ±Ο. 3 Ο„ΞΏΟ… Ξ. 590/1977 Β«Ξ ΞµΟΞ― Ο„ΞΏΟ… ΞΞ±Ο„Ξ±ΟƒΟ„Ξ±Ο„ΞΉΞΊΞΏΟ Ξ§Ξ¬ΟΟ„ΞΏΟ… Ο„Ξ·Ο‚ Ξ•ΞΊΞΊΞ»Ξ·ΟƒΞ―Ξ±Ο‚ Ο„Ξ·Ο‚ Ξ•Ξ»Ξ»Ξ¬Ξ΄ΞΏΟ‚Β» (Ξ‘Ξ„ 146) ΟƒΞµ ΟƒΟ…Ξ½Ξ΄Ο…Ξ±ΟƒΞΌΟ ΞΌΞµ Ο„ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 2 Ο€Ξ±Ο. Ξ±Ξ„ Ο„ΞΏΟ… Ξ±ΟΞΉΞΈΞΌ. 39/1972 ΞΞ±Ξ½ΞΏΞ½ΞΉΟƒΞΌΞΏΟ Ο„Ξ·Ο‚ Ξ™ΞµΟΞ¬Ο‚ Ξ£Ο…Ξ½ΟΞ΄ΞΏΟ… Ο„Ξ·Ο‚ Ξ•ΞΊΞΊΞ»Ξ·ΟƒΞ―Ξ±Ο‚ Ο„Ξ·Ο‚ Ξ•Ξ»Ξ»Ξ¬Ξ΄ΞΏΟ‚ Β«Ξ ΞµΟΞ― Ο„Ο‰Ξ½ ΞµΞ½ Ξ•Ξ»Ξ»Ξ¬Ξ΄ΞΉ ΞΟΞΈΞΏΞ΄ΟΞΎΟ‰Ξ½ Ξ™ΞµΟΟΞ½ ΞΞΏΞ½ΟΞ½ ΞΊΞ±ΞΉ Ο„Ο‰Ξ½ Ξ—ΟƒΟ…Ο‡Ξ±ΟƒΟ„Ξ·ΟΞ―Ο‰Ξ½Β» (Ξ‘Ξ„ 103). "@el.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 39 παρ. 3 του Ν. 590/1977 «Περί του Καταστατικού Χάρτου της Εκκλησίας της Ελλάδος» (Α΄ 146) σε συνδυασμό με τις διατάξεις του άρθρου 2 παρ. α΄ του αριθμ. 39/1972 Κανονισμού της Ιεράς Συνόδου της Εκκλησίας της Ελλάδος «Περί των εν Ελλάδι Ορθοδόξων Ιερών Μονών και των Ησυχαστηρίων» (Α΄ 103). "@el.
 <http://legislation.di.uoa.gr/pd/2014/75> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/citation/1>.
 <http://legislation.di.uoa.gr/pd/2014/75/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/75/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΏ Ξ .Ξ”. 119/2013 Β«Ξ”ΞΉΞΏΟΞΉΟƒΞΌΟΟ‚ Ξ‘Ξ½Ο„ΞΉΟ€ΟΞΏΞ­Ξ΄ΟΞΏΟ… Ο„Ξ·Ο‚ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ·Ο‚, Ξ¥Ο€ΞΏΟ…ΟΞ³ΟΞ½, Ξ‘Ξ½Ξ±Ο€Ξ»Ξ·ΟΟ‰Ο„ΟΞ½ Ξ¥Ο€ΞΏΟ…ΟΞ³ΟΞ½ ΞΊΞ±ΞΉ Ξ¥Ο†Ο…Ο€ΞΏΟ…ΟΞ³ΟΞ½Β» (Ξ‘Ξ„ 153). "@el.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το Π.Δ. 119/2013 «Διορισμός Αντιπροέδρου της Κυβέρνησης, Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α΄ 153). "@el.
 <http://legislation.di.uoa.gr/pd/2014/75> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/citation/2>.
 <http://legislation.di.uoa.gr/pd/2014/75/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/75/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 90 Ο„ΞΏΟ… ΞΟΞ΄ΞΉΞΊΞ± ΞΞΏΞΌΞΏΞΈΞµΟƒΞ―Ξ±Ο‚ Ξ³ΞΉΞ± Ο„Ξ·Ξ½ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ· ΞΊΞ±ΞΉ Ο„Ξ± ΞΟ…Ξ²ΞµΟΞ½Ξ·Ο„ΞΉΞΊΞ¬ ΞΟΞ³Ξ±Ξ½Ξ± (Ξ¬ΟΞΈΟΞΏ Ο€ΟΟΟ„ΞΏ Ο„ΞΏΟ… Ξ .Ξ”/Ο„ΞΏΟ‚ 63/2005, (Ξ‘Ξ„ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα (άρθρο πρώτο του Π.Δ/τος 63/2005, (Α΄ 98). "@el.
 <http://legislation.di.uoa.gr/pd/2014/75> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/citation/3>.
 <http://legislation.di.uoa.gr/pd/2014/75/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/75/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ· ΟƒΟΞΌΟ†Ο‰Ξ½Ξ· Ξ³Ξ½ΟΞΌΞ· Ο„ΞΏΟ… Ξ•Ο€ΞΉΟ‡Ο‰ΟΞ―ΞΏΟ… ΞΞ·Ο„ΟΞΏΟ€ΞΏΞ»Ξ―Ο„ΞΏΟ… Ο„Ξ·Ο‚ Ξ™ΞµΟΞ¬Ο‚ ΞΞ·Ο„ΟΞΏΟ€ΟΞ»ΞµΟ‰Ο‚ Ξ£ΞµΟΟΟΞ½ ΞΞΉΞ³ΟΞ―Ο„Ξ·Ο‚ (Ξ±Ο€ΟΟ†Ξ±ΟƒΞ· Ξ±ΟΞΉΞΈΞΌ. 105/25-10-2013). "@el.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Τη σύμφωνη γνώμη του Επιχωρίου Μητροπολίτου της Ιεράς Μητροπόλεως Σερρών Νιγρίτης (απόφαση αριθμ. 105/25-10-2013). "@el.
 <http://legislation.di.uoa.gr/pd/2014/75> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/citation/4>.
 <http://legislation.di.uoa.gr/pd/2014/75/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/75/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ·Ξ½ Ξ­Ξ³ΞΊΟΞΉΟƒΞ· Ο„Ξ·Ο‚ Ξ”ΞΉΞ±ΟΞΊΞΏΟΟ‚ Ξ™ΞµΟΞ¬Ο‚ Ξ£Ο…Ξ½ΟΞ΄ΞΏΟ… Ο„Ξ·Ο‚ Ξ•ΞΊΞΊΞ»Ξ·ΟƒΞ―Ξ±Ο‚ Ο„Ξ·Ο‚ Ξ•Ξ»Ξ»Ξ¬Ξ΄ΞΏΟ‚, Ο€ΞΏΟ… Ξ΄ΟΞΈΞ·ΞΊΞµ ΟƒΟ„Ξ·Ξ½ Ξ™Ξ„/10-12-2013 Ξ£Ο…Ξ½ΞµΞ΄ΟΞ―Ξ± Ο„Ξ·Ο‚ 157Ξ·Ο‚ Ξ£Ο…Ξ½ΞΏΞ΄ΞΉΞΊΞ®Ο‚ Ξ ΞµΟΞΉΟΞ΄ΞΏΟ…. "@el.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Την έγκριση της Διαρκούς Ιεράς Συνόδου της Εκκλησίας της Ελλάδος, που δόθηκε στην Ι΄/10-12-2013 Συνεδρία της 157ης Συνοδικής Περιόδου. "@el.
 <http://legislation.di.uoa.gr/pd/2014/75> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/citation/5>.
 <http://legislation.di.uoa.gr/pd/2014/75/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/75/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΏ Ξ³ΞµΞ³ΞΏΞ½ΟΟ‚ ΟΟ„ΞΉ Ξ±Ο€Ο Ο„ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚ Ξ±Ο…Ο„ΞΏΟ Ξ΄ΞµΞ½ Ο€ΟΞΏΞΊΞ±Ξ»ΞµΞ―Ο„Ξ±ΞΉ Ξ΄Ξ±Ο€Ξ¬Ξ½Ξ· ΟƒΞµ Ξ²Ξ¬ΟΞΏΟ‚ Ο„ΞΏΟ… ΞΟΞ±Ο„ΞΉΞΊΞΏΟ Ξ ΟΞΏΟ‹Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΞΌΞΏΟ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος αυτού δεν προκαλείται δαπάνη σε βάρος του Κρατικού Προϋπολογισμού. "@el.
 <http://legislation.di.uoa.gr/pd/2014/75> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/citation/6>.
 <http://legislation.di.uoa.gr/pd/2014/75/citation/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/75/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ·Ξ½ Ξ±ΟΞΉΞΈΞΌ. 65/2014 Ξ³Ξ½Ο‰ΞΌΞΏΞ΄ΟΟ„Ξ·ΟƒΞ· Ο„ΞΏΟ… Ξ£Ο…ΞΌΞ²ΞΏΟ…Ξ»Ξ―ΞΏΟ… Ο„Ξ·Ο‚ Ξ•Ο€ΞΉΞΊΟΞ±Ο„ΞµΞ―Ξ±Ο‚, ΞΌΞµ Ο€ΟΟΟ„Ξ±ΟƒΞ· Ο„ΞΏΟ… Ξ¥Ο€ΞΏΟ…ΟΞ³ΞΏΟ Ξ Ξ±ΞΉΞ΄ΞµΞ―Ξ±Ο‚ ΞΊΞ±ΞΉ ΞΟΞ·ΟƒΞΊΞµΟ…ΞΌΞ¬Ο„Ο‰Ξ½, "@el.
+<http://legislation.di.uoa.gr/pd/2014/75/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Την αριθμ. 65/2014 γνωμοδότηση του Συμβουλίου της Επικρατείας, με πρόταση του Υπουργού Παιδείας και Θρησκευμάτων, "@el.
 <http://legislation.di.uoa.gr/pd/2014/75> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/citation/7>.
 <http://legislation.di.uoa.gr/pd/2014/75/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/75> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/article/1>.
@@ -34,18 +35,18 @@
 <http://legislation.di.uoa.gr/pd/2014/75/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/75/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/75/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/75/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ξ™Ξ΄ΟΟΞµΟ„Ξ±ΞΉ Ξ‘Ξ½Ξ΄ΟΟΞ± Ξ™ΞµΟΞ¬ ΞΞΏΞΉΞ½ΞΏΞ²ΞΉΞ±ΞΊΞ® ΞΞΏΞ½Ξ® Ξ‘Ξ³Ξ―Ξ±Ο‚ ΞΟƒΞΉΞΏΟ€Ξ±ΟΞΈΞµΞ½ΞΏΞΌΞ¬ΟΟ„Ο…ΟΞΏΟ‚ Ξ Ξ±ΟΞ±ΟƒΞΊΞµΟ…Ξ®Ο‚, Ο„Ξ·Ο‚ Ξ™ΞµΟΞ¬Ο‚ ΞΞ·Ο„ΟΞΏΟ€ΟΞ»ΞµΟ‰Ο‚ Ξ£ΞµΟΟΟΞ½ ΞΊΞ±ΞΉ ΞΞΉΞ³ΟΞ―Ο„Ξ·Ο‚, Ο€ΞΏΟ… Ξ²ΟΞ―ΟƒΞΊΞµΟ„Ξ±ΞΉ ΟƒΟ„Ξ· Ξ”Ξ·ΞΌΞΏΟ„ΞΉΞΊΞ® ΞΞΏΞΉΞ½ΟΟ„Ξ·Ο„Ξ± Ξ£ΞµΟΟΟΞ½, Ο„Ξ·Ο‚ Ξ”Ξ·ΞΌΞΏΟ„ΞΉΞΊΞ®Ο‚ Ξ•Ξ½ΟΟ„Ξ·Ο„Ξ±Ο‚ Ξ£ΞµΟΟΟΞ½, Ο„ΞΏΟ… Ξ”Ξ®ΞΌΞΏΟ… Ξ£ΞµΟΟΟΞ½, Ο„Ξ·Ο‚ Ξ ΞµΟΞΉΟ†ΞµΟΞµΞΉΞ±ΞΊΞ®Ο‚ Ξ•Ξ½ΟΟ„Ξ·Ο„Ξ±Ο‚ Ξ£ΞµΟΟΟΞ½, Ο„Ξ·Ο‚ Ξ ΞµΟΞΉΟ†Ξ­ΟΞµΞΉΞ±Ο‚ ΞΞµΞ½Ο„ΟΞΉΞΊΞ®Ο‚ ΞΞ±ΞΊΞµΞ΄ΞΏΞ½Ξ―Ξ±Ο‚ Β». "@el.
+<http://legislation.di.uoa.gr/pd/2014/75/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ιδρύεται Ανδρώα Ιερά Κοινοβιακή Μονή Αγίας Οσιοπαρθενομάρτυρος Παρασκευής, της Ιεράς Μητροπόλεως Σερρών και Νιγρίτης, που βρίσκεται στη Δημοτική Κοινότητα Σερρών, της Δημοτικής Ενότητας Σερρών, του Δήμου Σερρών, της Περιφερειακής Ενότητας Σερρών, της Περιφέρειας Κεντρικής Μακεδονίας »."@el.
 <http://legislation.di.uoa.gr/pd/2014/75/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/75> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/article/2>.
 <http://legislation.di.uoa.gr/pd/2014/75/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/75/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/75/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/75/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/article/2/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/75/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ξ— ΞΉΟƒΟ‡ΟΟ‚ Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ±ΟΟ‡Ξ―Ξ¶ΞµΞΉ Ξ±Ο€Ο Ο„Ξ· Ξ΄Ξ·ΞΌΞΏΟƒΞ―ΞµΟ…ΟƒΞ® Ο„ΞΏΟ… ΟƒΟ„Ξ·Ξ½ Ξ•Ο†Ξ·ΞΌΞµΟΞ―Ξ΄Ξ± Ο„Ξ·Ο‚ ΞΟ…Ξ²ΞµΟΞ½Ξ®ΟƒΞµΟ‰Ο‚. "@el.
+<http://legislation.di.uoa.gr/pd/2014/75/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. "@el.
 <http://legislation.di.uoa.gr/pd/2014/75/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/75/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/75/article/2/paragraph/1/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/75/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ξ£Ο„ΞΏΞ½ Ξ¥Ο€ΞΏΟ…ΟΞ³Ο Ξ Ξ±ΞΉΞ΄ΞµΞ―Ξ±Ο‚ ΞΊΞ±ΞΉ ΞΟΞ·ΟƒΞΊΞµΟ…ΞΌΞ¬Ο„Ο‰Ξ½, Ξ±Ξ½Ξ±ΞΈΞ­Ο„ΞΏΟ…ΞΌΞµ Ο„Ξ· Ξ΄Ξ·ΞΌΞΏΟƒΞ―ΞµΟ…ΟƒΞ· ΞΊΞ±ΞΉ ΞµΞΊΟ„Ξ­Ξ»ΞµΟƒΞ· Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚. "@el.
+<http://legislation.di.uoa.gr/pd/2014/75/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Παιδείας και Θρησκευμάτων, αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος"@el.
 <http://legislation.di.uoa.gr/pd/2014/75> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΞΞ‘Ξ΅ΞΞ›ΞΞ£ Ξ Ξ‘Ξ ΞΞ¥Ξ›Ξ™Ξ‘Ξ£"@el.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
 

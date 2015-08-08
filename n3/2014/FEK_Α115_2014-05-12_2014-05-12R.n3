@@ -1,26 +1,26 @@
-ο»Ώ<http://legislation.di.uoa.gr/pd/2014/71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/71> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/115>.
-<http://legislation.di.uoa.gr/gazette/a/2014/115> <http://purl.org/dc/terms/title> "Ξ‘/2014/115".
+<http://legislation.di.uoa.gr/gazette/a/2014/115> <http://purl.org/dc/terms/title> "Α/2014/115".
 <http://legislation.di.uoa.gr/pd/2014/71> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/71> <http://purl.org/dc/terms/created> "2014-05-12"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/71> <http://legislation.di.uoa.gr/ontology/legislationID> "71"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/pd/2014/71> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/pd/2014/71> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
-<http://legislation.di.uoa.gr/pd/2014/71> <http://purl.org/dc/terms/title> "Ξ‘Ξ½Ξ±ΞΈΞµΟΟΞ·ΟƒΞ· ΞΟΞ³Ξ±Ξ½ΞΉΟƒΞΌΞΏΟ Ξ£ΟΞΌΞ±Ο„ΞΏΟ‚ Ξ•Ξ»Ξ»Ξ®Ξ½Ο‰Ξ½ Ξ ΟΞΏΟƒΞΊΟΟ€Ο‰Ξ½ (Ξ£Ξ•Ξ ).  "@el.
+<http://legislation.di.uoa.gr/pd/2014/71> <http://purl.org/dc/terms/title> "Αναθεώρηση Οργανισμού Σώματος Ελλήνων Προσκόπων (ΣΕΠ).  "@el.
 <http://legislation.di.uoa.gr/pd/2014/71/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/71/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„Ο‰Ξ½ Ο€Ξ±Ο. 1 ΞΊΞ±ΞΉ 3 Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 2 Ο„ΞΏΟ… N. 440/1976 Β«Ο€ΞµΟΞ― Ο„ΟΞΏΟ€ΞΏΟ€ΞΏΞΉΞ®ΟƒΞµΟ‰Ο‚ Ο„ΞΏΟ… Ξ΄ΞΉΞ± Ο„ΞΏΟ… ΞΟΞΌΞΏΟ… 2017/1920 ΞΊΟ…ΟΟ‰ΞΈΞ­Ξ½Ο„ΞΏΟ‚ Ξ±Ο€Ο 31.3.1919 Ξ.Ξ”/Ο„ΞΏΟ‚ Β«Ο€ΞµΟΞ― Ο„ΟΞΏΟ€ΞΏΟ€ΞΏΞΉΞ®ΟƒΞµΟ‰Ο‚ Ο„ΞΏΟ… ΞΟΞΌΞΏΟ… 1066/1917 β€Ο€ΞµΟΞ― ΞΉΞ΄ΟΟΟƒΞµΟ‰Ο‚ Ξ£ΟΞΌΞ±Ο„ΞΏΟ‚ Ξ•Ξ»Ξ»Ξ®Ξ½Ο‰Ξ½ Ξ ΟΞΏΟƒΞΊΟΟ€Ο‰Ξ½β€Β» (Ξ‘Ξ„ 257). "@el.
+<http://legislation.di.uoa.gr/pd/2014/71/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις των παρ. 1 και 3 του άρθρου 2 του N. 440/1976 «περί τροποποιήσεως του δια του Νόμου 2017/1920 κυρωθέντος από 31.3.1919 Ν.Δ/τος «περί τροποποιήσεως του Νόμου 1066/1917 “περί ιδρύσεως Σώματος Ελλήνων Προσκόπων”» (Α΄ 257). "@el.
 <http://legislation.di.uoa.gr/pd/2014/71> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/71/citation/1>.
 <http://legislation.di.uoa.gr/pd/2014/71/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/71/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ· ΟƒΟ‡ΞµΟ„ΞΉΞΊΞ® Ξ±Ο€ΟΟ†Ξ±ΟƒΞ· Ο„Ξ·Ο‚ Ξ±Ο€Ο 25.5.2013 37Ξ·Ο‚ Ξ“ΞµΞ½ΞΉΞΊΞ®Ο‚ Ξ£Ο…Ξ½Ξ­Ξ»ΞµΟ…ΟƒΞ·Ο‚ Ο„Ο‰Ξ½ ΞΌΞµΞ»ΟΞ½ Ο„ΞΏΟ… Ξ£ΟΞΌΞ±Ο„ΞΏΟ‚ Ξ•Ξ»Ξ»Ξ®Ξ½Ο‰Ξ½ Ξ ΟΞΏΟƒΞΊΟΟ€Ο‰Ξ½ ΞΌΞµ ΞΈΞ­ΞΌΞ± Β«Ξ¨Ξ®Ο†ΞΉΟƒΞ· Ξ‘Ξ½Ξ±ΞΈΞµΟΟΞ·ΟƒΞ·Ο‚ Ο„ΞΏΟ… ΞΟΞ³Ξ±Ξ½ΞΉΟƒΞΌΞΏΟ Ο„ΞΏΟ… Ξ£Ξ•Ξ  Β». "@el.
+<http://legislation.di.uoa.gr/pd/2014/71/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Τη σχετική απόφαση της από 25.5.2013 37ης Γενικής Συνέλευσης των μελών του Σώματος Ελλήνων Προσκόπων με θέμα «Ψήφιση Αναθεώρησης του Οργανισμού του ΣΕΠ ». "@el.
 <http://legislation.di.uoa.gr/pd/2014/71> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/71/citation/2>.
 <http://legislation.di.uoa.gr/pd/2014/71/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/71/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ· ΞΌΞµΟ„ΞΏΞ½ΞΏΞΌΞ±ΟƒΞ―Ξ± Ο„ΞΏΟ… Ξ¥Ο€ΞΏΟ…ΟΞ³ΞµΞ―ΞΏΟ… Ξ Ξ±ΞΉΞ΄ΞµΞ―Ξ±Ο‚ ΞΊΞ±ΞΉ ΞΟΞ·ΟƒΞΊΞµΟ…ΞΌΞ¬Ο„Ο‰Ξ½, Ξ ΞΏΞ»ΞΉΟ„ΞΉΟƒΞΌΞΏΟ ΞΊΞ±ΞΉ Ξ‘ΞΈΞ»Ξ·Ο„ΞΉΟƒΞΌΞΏΟ ΟƒΞµ Ξ¥Ο€ΞΏΟ…ΟΞ³ΞµΞ―ΞΏ Ξ Ξ±ΞΉΞ΄ΞµΞ―Ξ±Ο‚ ΞΊΞ±ΞΉ ΞΟΞ·ΟƒΞΊΞµΟ…ΞΌΞ¬Ο„Ο‰Ξ½, Ξ¬ΟΞΈΟΞΏ 2, Ξ .Ξ”. 118/2013 (Ξ‘Ξ„ 152/25.6.2013). "@el.
+<http://legislation.di.uoa.gr/pd/2014/71/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Τη μετονομασία του Υπουργείου Παιδείας και Θρησκευμάτων, Πολιτισμού και Αθλητισμού σε Υπουργείο Παιδείας και Θρησκευμάτων, άρθρο 2, Π.Δ. 118/2013 (Α΄ 152/25.6.2013). "@el.
 <http://legislation.di.uoa.gr/pd/2014/71> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/71/citation/3>.
 <http://legislation.di.uoa.gr/pd/2014/71/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/71/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΏ Ξ¬ΟΞΈΟΞΏ 90 Ο„ΞΏΟ… ΞΟΞ΄ΞΉΞΊΞ± ΞΞΏΞΌΞΏΞΈΞµΟƒΞ―Ξ±Ο‚ Ξ³ΞΉΞ± Ο„Ξ·Ξ½ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ· ΞΊΞ±ΞΉ Ο„Ξ± ΞΟ…Ξ²ΞµΟΞ½Ξ·Ο„ΞΉΞΊΞ¬ ΟΟΞ³Ξ±Ξ½Ξ±, ΞΏ ΞΏΟ€ΞΏΞ―ΞΏΟ‚ ΞΊΟ…ΟΟΞΈΞ·ΞΊΞµ ΞΌΞµ Ο„ΞΏ Ξ¬ΟΞΈΟΞΏ Ο€ΟΟΟ„ΞΏ Ο„ΞΏΟ… Ξ .Ξ”/Ο„ΞΏΟ‚ 63/2005 (Ξ‘Ξ„ 98) ΞΊΞ±ΞΉ Ο„ΞΏ Ξ³ΞµΞ³ΞΏΞ½ΟΟ‚ ΟΟ„ΞΉ Ξ±Ο€Ο Ο„ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ΄ΞµΞ½ Ο€ΟΞΏΞΊΞ±Ξ»ΞµΞ―Ο„Ξ±ΞΉ Ξ΄Ξ±Ο€Ξ¬Ξ½Ξ· ΟƒΞµ Ξ²Ξ¬ΟΞΏΟ‚ Ο„ΞΏΟ… ΞΟΞ±Ο„ΞΉΞΊΞΏΟ Ξ ΟΞΏΟ‹Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΞΌΞΏΟ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/71/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Το άρθρο 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά όργανα, ο οποίος κυρώθηκε με το άρθρο πρώτο του Π.Δ/τος 63/2005 (Α΄ 98) και το γεγονός ότι από τις διατάξεις του παρόντος δεν προκαλείται δαπάνη σε βάρος του Κρατικού Προϋπολογισμού. "@el.
 <http://legislation.di.uoa.gr/pd/2014/71> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/71/citation/4>.
 <http://legislation.di.uoa.gr/pd/2014/71/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/71/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ·Ξ½ Ξ±ΟΞΉΞΈΞΌ. Ξ” 192/2012 ΞΊΞ±ΞΉ Ο„Ξ·Ξ½ Ξ±ΟΞΉΞΈΞΌ. Ξ” 48/2014 Ξ“Ξ½Ο‰ΞΌΞΏΞ΄ΟΟ„Ξ·ΟƒΞ· Ο„ΞΏΟ… Ξ£Ο…ΞΌΞ²ΞΏΟ…Ξ»Ξ―ΞΏΟ… Ο„Ξ·Ο‚ Ξ•Ο€ΞΉΞΊΟΞ±Ο„ΞµΞ―Ξ±Ο‚, ΞΌΞµ Ο€ΟΟΟ„Ξ±ΟƒΞ· Ο„ΞΏΟ… Ξ¥Ο€ΞΏΟ…ΟΞ³ΞΏΟ Ξ Ξ±ΞΉΞ΄ΞµΞ―Ξ±Ο‚ ΞΊΞ±ΞΉ ΞΟΞ·ΟƒΞΊΞµΟ…ΞΌΞ¬Ο„Ο‰Ξ½, Ξ±Ο€ΞΏΟ†Ξ±ΟƒΞ―"@el.
+<http://legislation.di.uoa.gr/pd/2014/71/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Την αριθμ. Δ 192/2012 και την αριθμ. Δ 48/2014 Γνωμοδότηση του Συμβουλίου της Επικρατείας, με πρόταση του Υπουργού Παιδείας και Θρησκευμάτων, αποφασί"@el.
 <http://legislation.di.uoa.gr/pd/2014/71> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/71/citation/5>.
 <http://legislation.di.uoa.gr/pd/2014/71/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/71> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/71/article/1>.
@@ -28,11 +28,11 @@
 <http://legislation.di.uoa.gr/pd/2014/71/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/71/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/71/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/71/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/71/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/71/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΞΞΏΞΌΞΉΞΊΞ® Ξ¥Ο€ΟΟƒΟ„Ξ±ΟƒΞ· 1. "@el.
+<http://legislation.di.uoa.gr/pd/2014/71/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Νομική Υπόσταση 1. "@el.
 <http://legislation.di.uoa.gr/pd/2014/71/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/71/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/71/article/1/paragraph/1/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/71/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ξ¤ΞΏ Ξ£ΟΞΌΞ± Ξ•Ξ»Ξ»Ξ®Ξ½Ο‰Ξ½ Ξ ΟΞΏΟƒΞΊΟΟ€Ο‰Ξ½ (Ξ£.Ξ•.Ξ .) Ο€ΞΏΟ… ΟƒΟ…ΟƒΟ„Ξ®ΞΈΞ·ΞΊΞµ ΞΌΞµ Ο„ΞΏ ΞΟΞΌΞΏ 1066/1917 (Ξ‘Ξ„ 268) ΞµΞ΄ΟΞµΟΞµΞΉ ΟƒΟ„Ξ·Ξ½ "@el.
+<http://legislation.di.uoa.gr/pd/2014/71/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Το Σώμα Ελλήνων Προσκόπων (ΣΕΠ) που συστήθηκε με το Νόμο 1066/1917 (Α΄ 268) εδρεύει στην"@el.
 <http://legislation.di.uoa.gr/pd/2014/71> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΞΞ‘Ξ΅ΞΞ›ΞΞ£ Ξ Ξ‘Ξ ΞΞ¥Ξ›Ξ™Ξ‘Ξ£"@el.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
 

@@ -1,26 +1,27 @@
-ο»Ώ<http://legislation.di.uoa.gr/pd/2015/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2015/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2015/30> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2015/40>.
-<http://legislation.di.uoa.gr/gazette/a/2015/40> <http://purl.org/dc/terms/title> "Ξ‘/2015/40".
+<http://legislation.di.uoa.gr/gazette/a/2015/40> <http://purl.org/dc/terms/title> "Α/2015/40".
 <http://legislation.di.uoa.gr/pd/2015/30> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2015/30> <http://purl.org/dc/terms/created> "2015-04-17"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2015/30> <http://legislation.di.uoa.gr/ontology/legislationID> "30"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/pd/2015/30> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/pd/2015/30> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
-<http://legislation.di.uoa.gr/pd/2015/30> <http://purl.org/dc/terms/title> "ΞΞµΟ„Ξ±Ο†ΞΏΟΞ¬ Ξ­Ξ΄ΟΞ±Ο‚ ΟƒΟ…ΞΌΞ²ΞΏΞ»Ξ±ΞΉΞΏΞ³ΟΞ¬Ο†ΞΏΟ… Ξ±Ο€Ο Ο„ΞΏ Ξ”Ξ®ΞΌΞΏ Ξ“Ξ»Ο…Ο†Ξ¬Ξ΄Ξ±Ο‚ ΟƒΟ„ΞΏ Ξ”Ξ®ΞΌΞΏ Ξ‘Ξ»Ξ―ΞΌΞΏΟ….  "@el.
+<http://legislation.di.uoa.gr/pd/2015/30> <http://purl.org/dc/terms/title> "Μεταφορά έδρας συμβολαιογράφου από το Δήμο Γλυφάδας στο Δήμο Αλίμου.  "@el.
+<http://legislation.di.uoa.gr/pd/2015/30> <http://legislation.di.uoa.gr/ontology/place> <http://geo.linkedopendata.gr/gag/id/9196>.
 <http://legislation.di.uoa.gr/pd/2015/30/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2015/30/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚: Ξ±) Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 2 Ο€Ξ±Ο. 3 ΞΊΞ±ΞΉ 4 Ο„ΞΏΟ… ΞΟΞ΄ΞΉΞΊΞ± Ξ£Ο…ΞΌΞ²ΞΏΞ»Ξ±ΞΉΞΏΞ³ΟΞ¬Ο†Ο‰Ξ½, ΞΏ ΞΏΟ€ΞΏΞ―ΞΏΟ‚ ΞΊΟ…ΟΟΞΈΞ·ΞΊΞµ ΞΌΞµ Ο„ΞΏ Ξ¬ΟΞΈΟΞΏ Ο€ΟΟΟ„ΞΏ Ο„ΞΏΟ… Ξ. 2830/2000 (Ξ‘Ξ„ 96) ΞΊΞ±ΞΉ Ξ²) Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 90 Ο„ΞΏΟ… Ξ .Ξ”. 63/2005 Β«ΞΟ‰Ξ΄ΞΉΞΊΞΏΟ€ΞΏΞ―Ξ·ΟƒΞ· Ο„Ξ·Ο‚ Ξ½ΞΏΞΌΞΏΞΈΞµΟƒΞ―Ξ±Ο‚ Ξ³ΞΉΞ± Ο„Ξ·Ξ½ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ· ΞΊΞ±ΞΉ Ο„Ξ± ΞΊΟ…Ξ²ΞµΟΞ½Ξ·Ο„ΞΉΞΊΞ¬ ΟΟΞ³Ξ±Ξ½Ξ±Β» (Ξ‘Ξ„ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2015/30/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) του άρθρου 2 παρ. 3 και 4 του Κώδικα Συμβολαιογράφων, ο οποίος κυρώθηκε με το άρθρο πρώτο του Ν. 2830/2000 (Α΄ 96) και β) του άρθρου 90 του Π.Δ. 63/2005 «Κωδικοποίηση της νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα» (Α΄ 98). "@el.
 <http://legislation.di.uoa.gr/pd/2015/30> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/30/citation/1>.
 <http://legislation.di.uoa.gr/pd/2015/30/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2015/30/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ·Ξ½ Ξ±Ο€Ο 6-5-2014 Ξ³Ξ½Ο‰ΞΌΞΏΞ΄ΟΟ„Ξ·ΟƒΞ· Ο„ΞΏΟ… Ξ”ΞΉΞΏΞΉΞΊΞ·Ο„ΞΉΞΊΞΏΟ Ξ£Ο…ΞΌΞ²ΞΏΟ…Ξ»Ξ―ΞΏΟ… Ο„ΞΏΟ… Ξ£Ο…ΞΌΞ²ΞΏΞ»Ξ±ΞΉΞΏΞ³ΟΞ±Ο†ΞΉΞΊΞΏΟ Ξ£Ο…Ξ»Ξ»ΟΞ³ΞΏΟ… Ξ•Ο†ΞµΟ„ΞµΞ―Ο‰Ξ½ Ξ‘ΞΈΞ·Ξ½ΟΞ½ - Ξ ΞµΞΉΟΞ±ΞΉΟΟ‚ - Ξ‘ΞΉΞ³Ξ±Ξ―ΞΏΟ… ΞΊΞ±ΞΉ Ξ”Ο‰Ξ΄ΞµΞΊΞ±Ξ½Ξ®ΟƒΞΏΟ…. "@el.
+<http://legislation.di.uoa.gr/pd/2015/30/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Την από 6-5-2014 γνωμοδότηση του Διοικητικού Συμβουλίου του Συμβολαιογραφικού Συλλόγου Εφετείων Αθηνών - Πειραιώς - Αιγαίου και Δωδεκανήσου. "@el.
 <http://legislation.di.uoa.gr/pd/2015/30> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/30/citation/2>.
 <http://legislation.di.uoa.gr/pd/2015/30/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2015/30/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ· ΞΌΞµ Ξ±ΟΞΉΞΈΞΌΟ 5/2014 Ξ³Ξ½Ο‰ΞΌΞΏΞ΄ΟΟ„Ξ·ΟƒΞ· Ο„Ξ·Ο‚ ΞΞ»ΞΏΞΌΞ­Ξ»ΞµΞΉΞ±Ο‚ Ο„Ο‰Ξ½ Ξ”ΞΉΞΊΞ±ΟƒΟ„ΟΞ½ Ο„ΞΏΟ… Ξ ΟΟ‰Ο„ΞΏΞ΄ΞΉΞΊΞµΞ―ΞΏΟ… Ξ‘ΞΈΞ·Ξ½ΟΞ½. "@el.
+<http://legislation.di.uoa.gr/pd/2015/30/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Τη με αριθμό 5/2014 γνωμοδότηση της Ολομέλειας των Δικαστών του Πρωτοδικείου Αθηνών. "@el.
 <http://legislation.di.uoa.gr/pd/2015/30> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/30/citation/3>.
 <http://legislation.di.uoa.gr/pd/2015/30/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2015/30/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΏ Ξ³ΞµΞ³ΞΏΞ½ΟΟ‚ ΟΟ„ΞΉ Ξ±Ο€Ο Ο„ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚ Ξ΄ΞµΞ½ Ο€ΟΞΏΞΊΞ±Ξ»ΞµΞ―Ο„Ξ±ΞΉ Ξ΄Ξ±Ο€Ξ¬Ξ½Ξ· ΟƒΞµ Ξ²Ξ¬ΟΞΏΟ‚ Ο„ΞΏΟ… ΞΊΟΞ±Ο„ΞΉΞΊΞΏΟ Ο€ΟΞΏΟ‹Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΞΌΞΏΟ. "@el.
+<http://legislation.di.uoa.gr/pd/2015/30/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού. "@el.
 <http://legislation.di.uoa.gr/pd/2015/30> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/30/citation/4>.
 <http://legislation.di.uoa.gr/pd/2015/30/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2015/30/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ· ΞΌΞµ Ξ±ΟΞΉΞΈΞΌΟ 312/2014 Ξ³Ξ½Ο‰ΞΌΞΏΞ΄ΟΟ„Ξ·ΟƒΞ· Ο„ΞΏΟ… Ξ£Ο…ΞΌΞ²ΞΏΟ…Ξ»Ξ―ΞΏΟ… Ο„Ξ·Ο‚ Ξ•Ο€ΞΉΞΊΟΞ±Ο„ΞµΞ―Ξ±Ο‚, ΞΌΞµΟ„Ξ¬ Ξ±Ο€Ο Ο€ΟΟΟ„Ξ±ΟƒΞ· Ο„ΞΏΟ… Ξ¥Ο€ΞΏΟ…ΟΞ³ΞΏΟ Ξ”ΞΉΞΊΞ±ΞΉΞΏΟƒΟΞ½Ξ·Ο‚, Ξ”ΞΉΞ±Ο†Ξ¬Ξ½ΞµΞΉΞ±Ο‚ ΞΊΞ±ΞΉ Ξ‘Ξ½ΞΈΟΟ‰Ο€Ξ―Ξ½Ο‰Ξ½ Ξ”ΞΉΞΊΞ±ΞΉΟ‰ΞΌΞ¬Ο„Ο‰Ξ½, "@el.
+<http://legislation.di.uoa.gr/pd/2015/30/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Τη με αριθμό 312/2014 γνωμοδότηση του Συμβουλίου της Επικρατείας, μετά από πρόταση του Υπουργού Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων, "@el.
 <http://legislation.di.uoa.gr/pd/2015/30> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/30/citation/5>.
 <http://legislation.di.uoa.gr/pd/2015/30/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2015/30> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/30/article/1>.
@@ -28,37 +29,38 @@
 <http://legislation.di.uoa.gr/pd/2015/30/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/30/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2015/30/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/30/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/30/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/30/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ξ— Ξ­Ξ΄ΟΞ± ΞΌΞ―Ξ±Ο‚ ΞµΞΊ Ο„Ο‰Ξ½ ΞΈΞ­ΟƒΞµΟ‰Ξ½ ΟƒΟ…ΞΌΞ²ΞΏΞ»Ξ±ΞΉΞΏΞ³ΟΞ¬Ο†Ο‰Ξ½ ΟƒΟ„Ξ·Ξ½ Ο€ΞµΟΞΉΟ†Ξ­ΟΞµΞΉΞ± Ο„ΞΏΟ… Ξ•ΞΉΟΞ·Ξ½ΞΏΞ΄ΞΉΞΊΞµΞ―ΞΏΟ… Ξ‘ΞΈΞ·Ξ½ΟΞ½ ΞΌΞµΟ„Ξ±Ο†Ξ­ΟΞµΟ„Ξ±ΞΉ Ξ±Ο€Ο Ο„ΞΏ Ξ”Ξ®ΞΌΞΏ Ξ“Ξ»Ο…Ο†Ξ¬Ξ΄Ξ±Ο‚ ΟƒΟ„ΞΏ Ξ”Ξ®ΞΌΞΏ Ξ‘Ξ»Ξ―ΞΌΞΏΟ…. "@el.
+<http://legislation.di.uoa.gr/pd/2015/30/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η έδρα μίας εκ των θέσεων συμβολαιογράφων στην περιφέρεια του Ειρηνοδικείου Αθηνών μεταφέρεται από το Δήμο Γλυφάδας στο Δήμο Αλίμου. "@el.
 <http://legislation.di.uoa.gr/pd/2015/30/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/30/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/30/article/1/paragraph/1/passage/2>.
-<http://legislation.di.uoa.gr/pd/2015/30/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ξ Ξ¥Ξ ΞΞ¥Ξ΅Ξ“ΞΞ£ Ξ”Ξ™ΞΞ‘Ξ™ΞΞ£Ξ¥ΞΞ—Ξ£, Ξ”Ξ™Ξ‘Ξ¦Ξ‘ΞΞ•Ξ™Ξ‘Ξ£ ΞΞ‘Ξ™ Ξ‘ΞΞΞ΅Ξ©Ξ Ξ™ΞΞ©Ξ Ξ”Ξ™ΞΞ‘Ξ™Ξ©ΞΞ‘Ξ¤Ξ©Ξ ΞΞ™ΞΞΞ›Ξ‘ΞΞ£ Ξ Ξ‘Ξ΅Ξ‘Ξ£ΞΞ•Ξ¥ΞΞ ΞΞ¥Ξ›ΞΞ£ F "@el.
+<http://legislation.di.uoa.gr/pd/2015/30/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ο ΥΠΟΥΡΓΟΣ ΔΙΚΑΙΟΣΥΝΗΣ, ΔΙΑΦΑΝΕΙΑΣ ΚΑΙ ΑΝΘΡΩΠΙΝΩΝ ΔΙΚΑΙΩΜΑΤΩΝ ΝΙΚΟΛΑΟΣ ΠΑΡΑΣΚΕΥΟΠΟΥΛΟΣ F"@el.
 <http://legislation.di.uoa.gr/pd/2015/30> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΞΞ‘Ξ΅ΞΞ›ΞΞ£ Ξ Ξ‘Ξ ΞΞ¥Ξ›Ξ™Ξ‘Ξ£"@el.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
 
 <http://legislation.di.uoa.gr/pd/2015/31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2015/31> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2015/40>.
-<http://legislation.di.uoa.gr/gazette/a/2015/40> <http://purl.org/dc/terms/title> "Ξ‘/2015/40".
+<http://legislation.di.uoa.gr/gazette/a/2015/40> <http://purl.org/dc/terms/title> "Α/2015/40".
 <http://legislation.di.uoa.gr/pd/2015/31> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2015/31> <http://purl.org/dc/terms/created> "2015-04-17"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2015/31> <http://legislation.di.uoa.gr/ontology/legislationID> "31"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/pd/2015/31> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/pd/2015/31> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
-<http://legislation.di.uoa.gr/pd/2015/31> <http://purl.org/dc/terms/title> "ΞΞµΟ„Ξ±Ο†ΞΏΟΞ¬ Ξ­Ξ΄ΟΞ±Ο‚ ΟƒΟ…ΞΌΞ²ΞΏΞ»Ξ±ΞΉΞΏΞ³ΟΞ¬Ο†ΞΏΟ… Ξ±Ο€Ο Ο„ΞΏ Ξ”Ξ®ΞΌΞΏ Ξ‘ΞΈΞ·Ξ½Ξ±Ξ―Ο‰Ξ½ ΟƒΟ„Ξ· Ξ”Ξ·ΞΌΞΏΟ„ΞΉΞΊΞ® Ξ•Ξ½ΟΟ„Ξ·Ο„Ξ± ΞΞ­Ξ±Ο‚ ΞΞ¬ΞΊΟΞ·Ο‚ Ο„ΞΏΟ… Ξ”Ξ®ΞΌΞΏΟ… ΞΞ±ΟΞ±ΞΈΟΞ½Ξ± Ξ‘Ο„Ο„ΞΉΞΊΞ®Ο‚.  "@el.
+<http://legislation.di.uoa.gr/pd/2015/31> <http://purl.org/dc/terms/title> "Μεταφορά έδρας συμβολαιογράφου από το Δήμο Αθηναίων στη Δημοτική Ενότητα Νέας Μάκρης του Δήμου Μαραθώνα Αττικής.  "@el.
+<http://legislation.di.uoa.gr/pd/2015/31> <http://legislation.di.uoa.gr/ontology/place> <http://geo.linkedopendata.gr/gag/id/9186>.
 <http://legislation.di.uoa.gr/pd/2015/31/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2015/31/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚: Ξ±) Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 2 Ο€Ξ±Ο. 3 ΞΊΞ±ΞΉ 4 Ο„ΞΏΟ… ΞΟΞ΄ΞΉΞΊΞ± Ξ£Ο…ΞΌΞ²ΞΏΞ»Ξ±ΞΉΞΏΞ³ΟΞ¬Ο†Ο‰Ξ½, ΞΏ ΞΏΟ€ΞΏΞ―ΞΏΟ‚ ΞΊΟ…ΟΟΞΈΞ·ΞΊΞµ ΞΌΞµ Ο„ΞΏ Ξ¬ΟΞΈΟΞΏ Ο€ΟΟΟ„ΞΏ Ο„ΞΏΟ… N. 2830/2000 (Ξ‘Ξ„ 96) ΞΊΞ±ΞΉ Ξ²) Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 90 Ο„ΞΏΟ… Ξ .Ξ”. 63/2005 Β«ΞΟ‰Ξ΄ΞΉΞΊΞΏΟ€ΞΏΞ―Ξ·ΟƒΞ· Ο„Ξ·Ο‚ Ξ½ΞΏΞΌΞΏΞΈΞµΟƒΞ―Ξ±Ο‚ Ξ³ΞΉΞ± Ο„Ξ·Ξ½ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ· ΞΊΞ±ΞΉ Ο„Ξ± ΞΊΟ…Ξ²ΞµΟΞ½Ξ·Ο„ΞΉΞΊΞ¬ ΟΟΞ³Ξ±Ξ½Ξ±Β» (Ξ‘Ξ„ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2015/31/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) του άρθρου 2 παρ. 3 και 4 του Κώδικα Συμβολαιογράφων, ο οποίος κυρώθηκε με το άρθρο πρώτο του N. 2830/2000 (Α΄ 96) και β) του άρθρου 90 του Π.Δ. 63/2005 «Κωδικοποίηση της νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα» (Α΄ 98). "@el.
 <http://legislation.di.uoa.gr/pd/2015/31> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/31/citation/1>.
 <http://legislation.di.uoa.gr/pd/2015/31/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2015/31/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ·Ξ½ Ξ±Ο€Ο 6-5-2014 Ξ³Ξ½Ο‰ΞΌΞΏΞ΄ΟΟ„Ξ·ΟƒΞ· Ο„ΞΏΟ… Ξ”ΞΉΞΏΞΉΞΊΞ·Ο„ΞΉΞΊΞΏΟ Ξ£Ο…ΞΌΞ²ΞΏΟ…Ξ»Ξ―ΞΏΟ… Ο„ΞΏΟ… Ξ£Ο…ΞΌΞ²ΞΏΞ»Ξ±ΞΉΞΏΞ³ΟΞ±Ο†ΞΉΞΊΞΏΟ Ξ£Ο…Ξ»Ξ»ΟΞ³ΞΏΟ… Ξ•Ο†ΞµΟ„ΞµΞ―Ο‰Ξ½ Ξ‘ΞΈΞ·Ξ½ΟΞ½ - Ξ ΞµΞΉΟΞ±ΞΉΟΟ‚ - Ξ‘ΞΉΞ³Ξ±Ξ―ΞΏΟ… ΞΊΞ±ΞΉ Ξ”Ο‰Ξ΄ΞµΞΊΞ±Ξ½Ξ®ΟƒΞΏΟ…. "@el.
+<http://legislation.di.uoa.gr/pd/2015/31/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Την από 6-5-2014 γνωμοδότηση του Διοικητικού Συμβουλίου του Συμβολαιογραφικού Συλλόγου Εφετείων Αθηνών - Πειραιώς - Αιγαίου και Δωδεκανήσου. "@el.
 <http://legislation.di.uoa.gr/pd/2015/31> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/31/citation/2>.
 <http://legislation.di.uoa.gr/pd/2015/31/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2015/31/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ· ΞΌΞµ Ξ±ΟΞΉΞΈΞΌΟ 5/2014 Ξ³Ξ½Ο‰ΞΌΞΏΞ΄ΟΟ„Ξ·ΟƒΞ· Ο„Ξ·Ο‚ ΞΞ»ΞΏΞΌΞ­Ξ»ΞµΞΉΞ±Ο‚ Ο„Ο‰Ξ½ Ξ”ΞΉΞΊΞ±ΟƒΟ„ΟΞ½ Ο„ΞΏΟ… Ξ ΟΟ‰Ο„ΞΏΞ΄ΞΉΞΊΞµΞ―ΞΏΟ… Ξ‘ΞΈΞ·Ξ½ΟΞ½. "@el.
+<http://legislation.di.uoa.gr/pd/2015/31/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Τη με αριθμό 5/2014 γνωμοδότηση της Ολομέλειας των Δικαστών του Πρωτοδικείου Αθηνών. "@el.
 <http://legislation.di.uoa.gr/pd/2015/31> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/31/citation/3>.
 <http://legislation.di.uoa.gr/pd/2015/31/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2015/31/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΏ Ξ³ΞµΞ³ΞΏΞ½ΟΟ‚ ΟΟ„ΞΉ Ξ±Ο€Ο Ο„ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚ Ξ΄ΞµΞ½ Ο€ΟΞΏΞΊΞ±Ξ»ΞµΞ―Ο„Ξ±ΞΉ Ξ΄Ξ±Ο€Ξ¬Ξ½Ξ· ΟƒΞµ Ξ²Ξ¬ΟΞΏΟ‚ Ο„ΞΏΟ… ΞΊΟΞ±Ο„ΞΉΞΊΞΏΟ Ο€ΟΞΏΟ‹Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΞΌΞΏΟ. "@el.
+<http://legislation.di.uoa.gr/pd/2015/31/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού. "@el.
 <http://legislation.di.uoa.gr/pd/2015/31> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/31/citation/4>.
 <http://legislation.di.uoa.gr/pd/2015/31/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2015/31/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ· ΞΌΞµ Ξ±ΟΞΉΞΈΞΌΟ 309/2014 Ξ³Ξ½Ο‰ΞΌΞΏΞ΄ΟΟ„Ξ·ΟƒΞ· Ο„ΞΏΟ… Ξ£Ο…ΞΌΞ²ΞΏΟ…Ξ»Ξ―ΞΏΟ… Ο„Ξ·Ο‚ Ξ•Ο€ΞΉΞΊΟΞ±Ο„ΞµΞ―Ξ±Ο‚, ΞΌΞµΟ„Ξ¬ Ξ±Ο€Ο Ο€ΟΟΟ„Ξ±ΟƒΞ· Ο„ΞΏΟ… Ξ¥Ο€ΞΏΟ…ΟΞ³ΞΏΟ Ξ”ΞΉΞΊΞ±ΞΉΞΏΟƒΟΞ½Ξ·Ο‚, Ξ”ΞΉΞ±Ο†Ξ¬Ξ½ΞµΞΉΞ±Ο‚ ΞΊΞ±ΞΉ Ξ‘Ξ½ΞΈΟΟ‰Ο€Ξ―Ξ½Ο‰Ξ½ Ξ”ΞΉΞΊΞ±ΞΉΟ‰ΞΌΞ¬Ο„Ο‰Ξ½, "@el.
+<http://legislation.di.uoa.gr/pd/2015/31/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Τη με αριθμό 309/2014 γνωμοδότηση του Συμβουλίου της Επικρατείας, μετά από πρόταση του Υπουργού Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων, "@el.
 <http://legislation.di.uoa.gr/pd/2015/31> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/31/citation/5>.
 <http://legislation.di.uoa.gr/pd/2015/31/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2015/31> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/31/article/1>.
@@ -66,18 +68,18 @@
 <http://legislation.di.uoa.gr/pd/2015/31/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/31/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2015/31/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/31/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/31/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/31/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ξ— Ξ­Ξ΄ΟΞ± ΞΌΞ―Ξ±Ο‚ ΞµΞΊ Ο„Ο‰Ξ½ ΞΈΞ­ΟƒΞµΟ‰Ξ½ ΟƒΟ…ΞΌΞ²ΞΏΞ»Ξ±ΞΉΞΏΞ³ΟΞ¬Ο†Ο‰Ξ½ ΟƒΟ„Ξ·Ξ½ Ο€ΞµΟΞΉΟ†Ξ­ΟΞµΞΉΞ± Ο„ΞΏΟ… Ξ•ΞΉΟΞ·Ξ½ΞΏΞ΄ΞΉΞΊΞµΞ―ΞΏΟ… Ξ‘ΞΈΞ·Ξ½ΟΞ½ ΞΌΞµΟ„Ξ±Ο†Ξ­ΟΞµΟ„Ξ±ΞΉ Ξ±Ο€Ο Ο„ΞΏ Ξ”Ξ®ΞΌΞΏ Ξ‘ΞΈΞ·Ξ½Ξ±Ξ―Ο‰Ξ½ ΟƒΟ„Ξ· Ξ”Ξ·ΞΌΞΏΟ„ΞΉΞΊΞ® Ξ•Ξ½ΟΟ„Ξ·Ο„Ξ± ΞΞ­Ξ±Ο‚ ΞΞ¬ΞΊΟΞ·Ο‚ Ο„ΞΏΟ… Ξ”Ξ®ΞΌΞΏΟ… ΞΞ±ΟΞ±ΞΈΟΞ½Ξ± Ξ‘Ο„Ο„ΞΉΞΊΞ®Ο‚. "@el.
+<http://legislation.di.uoa.gr/pd/2015/31/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η έδρα μίας εκ των θέσεων συμβολαιογράφων στην περιφέρεια του Ειρηνοδικείου Αθηνών μεταφέρεται από το Δήμο Αθηναίων στη Δημοτική Ενότητα Νέας Μάκρης του Δήμου Μαραθώνα Αττικής."@el.
 <http://legislation.di.uoa.gr/pd/2015/31/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2015/31> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/31/article/2>.
 <http://legislation.di.uoa.gr/pd/2015/31/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2015/31/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/31/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2015/31/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/31/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/31/article/2/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/31/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ξ— ΞΉΟƒΟ‡ΟΟ‚ Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚ Ξ±ΟΟ‡Ξ―Ξ¶ΞµΞΉ Ξ±Ο€Ο Ο„Ξ· Ξ΄Ξ·ΞΌΞΏΟƒΞ―ΞµΟ…ΟƒΞ® Ο„ΞΏΟ… ΟƒΟ„Ξ·Ξ½ Ξ•Ο†Ξ·ΞΌΞµΟΞ―Ξ΄Ξ± Ο„Ξ·Ο‚ ΞΟ…Ξ²ΞµΟΞ½Ξ®ΟƒΞµΟ‰Ο‚. "@el.
+<http://legislation.di.uoa.gr/pd/2015/31/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. "@el.
 <http://legislation.di.uoa.gr/pd/2015/31/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/31/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/31/article/2/paragraph/1/passage/2>.
-<http://legislation.di.uoa.gr/pd/2015/31/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ξ£Ο„ΞΏΞ½ Ξ¥Ο€ΞΏΟ…ΟΞ³Ο Ξ”ΞΉΞΊΞ±ΞΉΞΏΟƒΟΞ½Ξ·Ο‚, Ξ”ΞΉΞ±Ο†Ξ¬Ξ½ΞµΞΉΞ±Ο‚ ΞΊΞ±ΞΉ Ξ‘Ξ½ΞΈΟΟ‰Ο€Ξ―Ξ½Ο‰Ξ½ Ξ”ΞΉΞΊΞ±ΞΉΟ‰ΞΌΞ¬Ο„Ο‰Ξ½ Ξ±Ξ½Ξ±ΞΈΞ­Ο„ΞΏΟ…ΞΌΞµ Ο„Ξ· Ξ΄Ξ·ΞΌΞΏΟƒΞ―ΞµΟ…ΟƒΞ· ΞΊΞ±ΞΉ ΞµΞΊΟ„Ξ­Ξ»ΞµΟƒΞ· Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚. "@el.
+<http://legislation.di.uoa.gr/pd/2015/31/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος"@el.
 <http://legislation.di.uoa.gr/pd/2015/31> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΞΞ‘Ξ΅ΞΞ›ΞΞ£ Ξ Ξ‘Ξ ΞΞ¥Ξ›Ξ™Ξ‘Ξ£"@el.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
 

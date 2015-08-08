@@ -1,32 +1,32 @@
-ο»Ώ<http://legislation.di.uoa.gr/pd/2014/56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/56> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/96>.
-<http://legislation.di.uoa.gr/gazette/a/2014/96> <http://purl.org/dc/terms/title> "Ξ‘/2014/96".
+<http://legislation.di.uoa.gr/gazette/a/2014/96> <http://purl.org/dc/terms/title> "Α/2014/96".
 <http://legislation.di.uoa.gr/pd/2014/56> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/56> <http://purl.org/dc/terms/created> "2014-04-15"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/56> <http://legislation.di.uoa.gr/ontology/legislationID> "56"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/pd/2014/56> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/pd/2014/56> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
-<http://legislation.di.uoa.gr/pd/2014/56> <http://purl.org/dc/terms/title> "Ξ§ΟΞ®ΟƒΞ· Ο„ΞΏΟ… ΟΟΞΏΟ… Β«Ξ•Ο€ΞΉΞΌΞµΞ»Ξ·Ο„Ξ®ΟΞΉΞΏΒ» Ξ±Ο€Ο Ο„ΞΏ ΟƒΟ‰ΞΌΞ±Ο„ΞµΞ―ΞΏ ΞΌΞµ Ο„Ξ―Ο„Ξ»ΞΏ Β«Ξ•Ξ›Ξ›Ξ—ΞΞ Ξ‘Ξ–Ξ•Ξ΅Ξ™ΞΞ ΞΞ™ΞΞΞΞΞΞ™ΞΞ ΞΞ‘Ξ™ Ξ•ΞΞ ΞΞ΅Ξ™ΞΞ Ξ•Ξ Ξ™ΞΞ•Ξ›Ξ—Ξ¤Ξ—Ξ΅Ξ™ΞΒ»  "@el.
+<http://legislation.di.uoa.gr/pd/2014/56> <http://purl.org/dc/terms/title> "Χρήση του όρου «Επιμελητήριο» από το σωματείο με τίτλο «ΕΛΛΗΝΟ ΑΖΕΡΙΚΟ ΟΙΚΟΝΟΜΙΚΟ ΚΑΙ ΕΜΠΟΡΙΚΟ ΕΠΙΜΕΛΗΤΗΡΙΟ»  "@el.
 <http://legislation.di.uoa.gr/pd/2014/56/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/56/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„Ξ·Ο‚ Ο€Ξ±ΟΞ±Ξ³. 3 Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 6 Ο„ΞΏΟ… Ξ½.Β 2081/1992 Β«Ξ΅ΟΞΈΞΌΞΉΟƒΞ· Ο„ΞΏΟ… ΞΈΞµΟƒΞΌΞΏΟ Ο„Ο‰Ξ½ Ξ•Ο€ΞΉΞΌΞµΞ»Ξ·Ο„Ξ·ΟΞ―Ο‰Ξ½, Ο„ΟΞΏΟ€ΞΏΟ€ΞΏΞ―Ξ·ΟƒΞ· Ο„Ο‰Ξ½ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΟ‰Ξ½ Ο„ΞΏΟ… Ξ½. 1712/1987 Ξ³ΞΉΞ± Ο„ΞΏΞ½ ΞµΞΊΟƒΟ…Ξ³Ο‡ΟΞΏΞ½ΞΉΟƒΞΌΟ Ο„Ο‰Ξ½ ΞµΟ€Ξ±Ξ³Ξ³ΞµΞ»ΞΌΞ±Ο„ΞΉΞΊΟΞ½ ΞΏΟΞ³Ξ±Ξ½ΟΟƒΞµΟ‰Ξ½ Ο„Ο‰Ξ½ ΞµΞΌΟ€ΟΟΟ‰Ξ½, Ξ²ΞΉΞΏΟ„ΞµΟ‡Ξ½ΟΞ½ ΞΊΞ±ΞΉ Ξ»ΞΏΞΉΟ€ΟΞ½ ΞµΟ€Ξ±Ξ³Ξ³ΞµΞ»ΞΌΞ±Ο„ΞΉΟΞ½ ΞΊΞ±ΞΉ Ξ¬Ξ»Ξ»ΞµΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚Β» (Ξ‘Ξ„Β 154), ΟΟ€Ο‰Ο‚ Ξ±Ξ½Ο„ΞΉΞΊΞ±Ο„Ξ±ΟƒΟ„Ξ¬ΞΈΞ·ΞΊΞµ ΞΌΞµ Ο„Ξ·Ξ½ Ο€Ξ±ΟΞ±Ξ³.Β 3 Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 25 Ο„ΞΏΟ… Ξ½.Β 3419/2005 Β«Ξ“ΞµΞ½ΞΉΞΊΟ Ξ•ΞΌΟ€ΞΏΟΞΉΞΊΟ ΞΞ·Ο„ΟΟΞΏ (Ξ“.Ξ•.ΞΞ—.) ΞΊΞ±ΞΉ ΞµΞΊΟƒΟ…Ξ³Ο‡ΟΞΏΞ½ΞΉΟƒΞΌΟΟ‚ Ο„Ξ·Ο‚ Ξ•Ο€ΞΉΞΌΞµΞ»Ξ·Ο„Ξ·ΟΞΉΞ±ΞΊΞ®Ο‚ ΞΞΏΞΌΞΏΞΈΞµΟƒΞ―Ξ±Ο‚Β» (Ξ‘Ξ„Β 297). "@el.
+<http://legislation.di.uoa.gr/pd/2014/56/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις της παραγ. 3 του άρθρου 6 του ν. 2081/1992 «Ρύθμιση του θεσμού των Επιμελητηρίων, τροποποίηση των διατάξεων του ν. 1712/1987 για τον εκσυγχρονισμό των επαγγελματικών οργανώσεων των εμπόρων, βιοτεχνών και λοιπών επαγγελματιών και άλλες διατάξεις» (Α΄ 154), όπως αντικαταστάθηκε με την παραγ. 3 του άρθρου 25 του ν. 3419/2005 «Γενικό Εμπορικό Μητρώο (Γ.Ε.ΜΗ.) και εκσυγχρονισμός της Επιμελητηριακής Νομοθεσίας» (Α΄ 297). "@el.
 <http://legislation.di.uoa.gr/pd/2014/56> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/56/citation/1>.
 <http://legislation.di.uoa.gr/pd/2014/56/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/56/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΏ Ξ¬ΟΞΈΟΞΏ 90 Ο„ΞΏΟ… Ξ .Ξ”. 63/2005 Β«ΞΟ‰Ξ΄ΞΉΞΊΞΏΟ€ΞΏΞ―Ξ·ΟƒΞ· Ο„Ξ·Ο‚ Ξ½ΞΏΞΌΞΏΞΈΞµΟƒΞ―Ξ±Ο‚ Ξ³ΞΉΞ± Ο„Ξ·Ξ½ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ· ΞΊΞ±ΞΉ Ο„Ξ± ΞΟ…Ξ²ΞµΟΞ½Ξ·Ο„ΞΉΞΊΞ¬ ΞΟΞ³Ξ±Ξ½Ξ±Β» (Ξ‘Ξ„Β 98). "@el.
+<http://legislation.di.uoa.gr/pd/2014/56/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το άρθρο 90 του Π.Δ. 63/2005 «Κωδικοποίηση της νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα» (Α΄ 98). "@el.
 <http://legislation.di.uoa.gr/pd/2014/56> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/56/citation/2>.
 <http://legislation.di.uoa.gr/pd/2014/56/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/56/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΏ Ξ .Ξ”. 118/2013 Β«Ξ¤ΟΞΏΟ€ΞΏΟ€ΞΏΞ―Ξ·ΟƒΞ· Ο„ΞΏΟ… Ξ .Ξ”. 85/2012 -ΞΞ΄ΟΟ…ΟƒΞ· Ξ¥Ο€ΞΏΟ…ΟΞ³ΞµΞ―ΞΏΟ… Ξ¥Ο€ΞΏΞ΄ΞΏΞΌΟΞ½ ..... ΞΊΞ±ΞΉ ΞΌΞµΟ„ΞΏΞ½ΞΏΞΌΞ±ΟƒΞ―Ξ± Ο„Ο‰Ξ½ Ξ¥Ο€ΞΏΟ…ΟΞ³ΞµΞ―Ο‰Ξ½ Ξ‘Ξ½Ξ¬Ο€Ο„Ο…ΞΎΞ·Ο‚ ..... (Ξ‘Ξ„Β 152) "@el.
+<http://legislation.di.uoa.gr/pd/2014/56/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Το Π.Δ. 118/2013 «Τροποποίηση του Π.Δ. 85/2012 -Ίδρυση Υπουργείου Υποδομών ..... και μετονομασία των Υπουργείων Ανάπτυξης ..... (Α΄ 152) "@el.
 <http://legislation.di.uoa.gr/pd/2014/56> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/56/citation/3>.
 <http://legislation.di.uoa.gr/pd/2014/56/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/56/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΏ Ξ .Ξ”. 119/2013 Β«Ξ”ΞΉΞΏΟΞΉΟƒΞΌΟΟ‚ Ξ‘Ξ½Ο„ΞΉΟ€ΟΞΏΞ­Ξ΄ΟΞΏΟ… Ο„Ξ·Ο‚ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ·Ο‚, Ξ¥Ο€ΞΏΟ…ΟΞ³ΟΞ½, Ξ‘Ξ½Ξ±Ο€Ξ»Ξ·ΟΟ‰Ο„ΟΞ½ Ξ¥Ο€ΞΏΟ…ΟΞ³ΟΞ½ ΞΊΞ±ΞΉ Ξ¥Ο†Ο…Ο€ΞΏΟ…ΟΞ³ΟΞ½Β» (Ξ‘Ξ„ 153). "@el.
+<http://legislation.di.uoa.gr/pd/2014/56/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Το Π.Δ. 119/2013 «Διορισμός Αντιπροέδρου της Κυβέρνησης, Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α΄ 153). "@el.
 <http://legislation.di.uoa.gr/pd/2014/56> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/56/citation/4>.
 <http://legislation.di.uoa.gr/pd/2014/56/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/56/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ·Ξ½ Ξ±ΟΞΉΞΈΞΌ. 27858/Ξ”Ξ™0Ξ•/546/26-6-2013 Ξ‘Ο€ΟΟ†Ξ±ΟƒΞ· Ο„ΞΏΟ… Ξ ΟΟ‰ΞΈΟ…Ο€ΞΏΟ…ΟΞ³ΞΏΟ ΞΊΞ±ΞΉ Ο„ΞΏΟ… Ξ¥Ο€ΞΏΟ…ΟΞ³ΞΏΟ Ξ‘Ξ½Ξ¬Ο€Ο„Ο…ΞΎΞ·Ο‚ ΞΊΞ±ΞΉ Ξ‘Ξ½Ο„Ξ±Ξ³Ο‰Ξ½ΞΉΟƒΟ„ΞΉΞΊΟΟ„Ξ·Ο„Ξ±Ο‚ Β«Ξ‘Ξ½Ξ¬ΞΈΞµΟƒΞ· Ξ±ΟΞΌΞΏΞ΄ΞΉΞΏΟ„Ξ®Ο„Ο‰Ξ½ ΟƒΟ„ΞΏΞ½ Ξ¥Ο†Ο…Ο€ΞΏΟ…ΟΞ³Ο Ξ‘Ξ½Ξ¬Ο€Ο„Ο…ΞΎΞ·Ο‚ ΞΊΞ±ΞΉ Ξ‘Ξ½Ο„Ξ±Ξ³Ο‰Ξ½ΞΉΟƒΟ„ΞΉΞΊΟΟ„Ξ·Ο„Ξ±Ο‚ (Ξ’Ξ„Β 1653). "@el.
+<http://legislation.di.uoa.gr/pd/2014/56/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Την αριθμ. 27858/ΔΙ0Ε/546/26-6-2013 Απόφαση του Πρωθυπουργού και του Υπουργού Ανάπτυξης και Ανταγωνιστικότητας «Ανάθεση αρμοδιοτήτων στον Υφυπουργό Ανάπτυξης και Ανταγωνιστικότητας (Β΄ 1653). "@el.
 <http://legislation.di.uoa.gr/pd/2014/56> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/56/citation/5>.
 <http://legislation.di.uoa.gr/pd/2014/56/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/56/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΏ Ξ³ΞµΞ³ΞΏΞ½ΟΟ‚ ΟΟ„ΞΉ Ξ±Ο€Ο Ο„ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚ Ξ΄ΞµΞ½ Ο€ΟΞΏΞΊΞ±Ξ»ΞµΞ―Ο„Ξ±ΞΉ Ξ΄Ξ±Ο€Ξ¬Ξ½Ξ· ΟƒΞµ Ξ²Ξ¬ΟΞΏΟ‚ Ο„ΞΏΟ… ΞΟΞ±Ο„ΞΉΞΊΞΏΟ Ξ ΟΞΏΟ‹Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΞΌΞΏΟ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/56/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος δεν προκαλείται δαπάνη σε βάρος του Κρατικού Προϋπολογισμού. "@el.
 <http://legislation.di.uoa.gr/pd/2014/56> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/56/citation/6>.
 <http://legislation.di.uoa.gr/pd/2014/56/citation/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/56/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ·Ξ½ Ξ±ΟΞΉΞΈ. 41/2014 Ξ³Ξ½Ο‰ΞΌΞΏΞ΄ΟΟ„Ξ·ΟƒΞ· Ο„ΞΏΟ… Ξ£Ο…ΞΌΞ²ΞΏΟ…Ξ»Ξ―ΞΏΟ… Ο„Ξ·Ο‚ Ξ•Ο€ΞΉΞΊΟΞ±Ο„ΞµΞ―Ξ±Ο‚, ΞΌΞµΟ„Ξ¬ Ξ±Ο€Ο Ο€ΟΟΟ„Ξ±ΟƒΞ· Ο„ΞΏΟ… Ξ¥Ο†Ο…Ο€ΞΏΟ…ΟΞ³ΞΏΟ Ξ‘Ξ½Ξ¬Ο€Ο„Ο…ΞΎΞ·Ο‚ ΞΊΞ±ΞΉ Ξ‘Ξ½Ο„Ξ±Ξ³Ο‰Ξ½ΞΉΟƒΟ„ΞΉΞΊΟΟ„Ξ·Ο„Ξ±Ο‚, "@el.
+<http://legislation.di.uoa.gr/pd/2014/56/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Την αριθ. 41/2014 γνωμοδότηση του Συμβουλίου της Επικρατείας, μετά από πρόταση του Υφυπουργού Ανάπτυξης και Ανταγωνιστικότητας, "@el.
 <http://legislation.di.uoa.gr/pd/2014/56> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/56/citation/7>.
 <http://legislation.di.uoa.gr/pd/2014/56/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/56> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/56/article/1>.
@@ -34,18 +34,18 @@
 <http://legislation.di.uoa.gr/pd/2014/56/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/56/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/56/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/56/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/56/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/56/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ξ•Ο€ΞΉΟ„ΟΞ­Ο€ΞµΟ„Ξ±ΞΉ Ξ· Ο‡ΟΞ®ΟƒΞ· Ο„ΞΏΟ… ΟΟΞΏΟ… Β«Ξ•Ο€ΞΉΞΌΞµΞ»Ξ·Ο„Ξ®ΟΞΉΞΏΒ» Ξ±Ο€Ο Ο„ΞΏ ΟƒΟ‰ΞΌΞ±Ο„ΞµΞ―ΞΏ ΞΌΞµ Ο„Ξ―Ο„Ξ»ΞΏ Β«Ξ•Ξ›Ξ›Ξ—ΞΞ Ξ‘Ξ–Ξ•Ξ΅Ξ™ΞΞ ΞΞ™ΞΞΞΞΞΞ™ΞΞ ΞΞ‘Ξ™ Ξ•ΞΞ ΞΞ΅Ξ™ΞΞ Ξ•Ξ Ξ™ΞΞ•Ξ›Ξ—Ξ¤Ξ—Ξ΅Ξ™Ξ Β». "@el.
+<http://legislation.di.uoa.gr/pd/2014/56/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Επιτρέπεται η χρήση του όρου «Επιμελητήριο» από το σωματείο με τίτλο «ΕΛΛΗΝΟ ΑΖΕΡΙΚΟ ΟΙΚΟΝΟΜΙΚΟ ΚΑΙ ΕΜΠΟΡΙΚΟ ΕΠΙΜΕΛΗΤΗΡΙΟ »."@el.
 <http://legislation.di.uoa.gr/pd/2014/56/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/56> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/56/article/2>.
 <http://legislation.di.uoa.gr/pd/2014/56/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/56/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/56/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/56/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/56/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/56/article/2/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/56/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ξ— ΞΉΟƒΟ‡ΟΟ‚ Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚ Ξ±ΟΟ‡Ξ―Ξ¶ΞµΞΉ Ξ±Ο€Ο Ο„Ξ· Ξ΄Ξ·ΞΌΞΏΟƒΞ―ΞµΟ…ΟƒΞ® Ο„ΞΏΟ… ΟƒΟ„Ξ·Ξ½ Ξ•Ο†Ξ·ΞΌΞµΟΞ―Ξ΄Ξ± Ο„Ξ·Ο‚ ΞΟ…Ξ²ΞµΟΞ½Ξ®ΟƒΞµΟ‰Ο‚. "@el.
+<http://legislation.di.uoa.gr/pd/2014/56/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. "@el.
 <http://legislation.di.uoa.gr/pd/2014/56/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/56/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/56/article/2/paragraph/1/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/56/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ξ£Ο„ΞΏΞ½ Ξ¥Ο€ΞΏΟ…ΟΞ³Ο Ξ‘Ξ½Ξ¬Ο€Ο„Ο…ΞΎΞ·Ο‚ ΞΊΞ±ΞΉ Ξ‘Ξ½Ο„Ξ±Ξ³Ο‰Ξ½ΞΉΟƒΟ„ΞΉΞΊΟΟ„Ξ·Ο„Ξ±Ο‚ Ξ±Ξ½Ξ±ΞΈΞ­Ο„ΞΏΟ…ΞΌΞµ Ο„Ξ· Ξ΄Ξ·ΞΌΞΏΟƒΞ―ΞµΟ…ΟƒΞ· ΞΊΞ±ΞΉ ΞµΞΊΟ„Ξ­Ξ»ΞµΟƒΞ· Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚. "@el.
+<http://legislation.di.uoa.gr/pd/2014/56/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Ανάπτυξης και Ανταγωνιστικότητας αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος"@el.
 <http://legislation.di.uoa.gr/pd/2014/56> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΞΞ‘Ξ΅ΞΞ›ΞΞ£ Ξ Ξ‘Ξ ΞΞ¥Ξ›Ξ™Ξ‘Ξ£"@el.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
 

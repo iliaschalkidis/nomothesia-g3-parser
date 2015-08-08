@@ -1,17 +1,17 @@
-ο»Ώ<http://legislation.di.uoa.gr/pd/2014/174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/174> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/278>.
-<http://legislation.di.uoa.gr/gazette/a/2014/278> <http://purl.org/dc/terms/title> "Ξ‘/2014/278".
+<http://legislation.di.uoa.gr/gazette/a/2014/278> <http://purl.org/dc/terms/title> "Α/2014/278".
 <http://legislation.di.uoa.gr/pd/2014/174> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/174> <http://purl.org/dc/terms/created> "2014-12-31"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/174> <http://legislation.di.uoa.gr/ontology/legislationID> "174"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/pd/2014/174> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/pd/2014/174> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
-<http://legislation.di.uoa.gr/pd/2014/174> <http://purl.org/dc/terms/title> "Ξ‘Ο€ΞΏΞ΄ΞΏΟ‡Ξ® Ο€Ξ±ΟΞ±Ξ―Ο„Ξ·ΟƒΞ·Ο‚ Ο„ΞΏΟ… Ξ¥Ο€ΞΏΟ…ΟΞ³ΞΏΟ Ξ•ΟƒΟ‰Ο„ΞµΟΞΉΞΊΟΞ½.  "@el.
+<http://legislation.di.uoa.gr/pd/2014/174> <http://purl.org/dc/terms/title> "Αποδοχή παραίτησης του Υπουργού Εσωτερικών.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/174/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/174/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚: Ξ±) Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 37 Ο€Ξ±Ο. 1 Ο„ΞΏΟ… Ξ£Ο…Ξ½Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚, Ξ²) Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 39 Ο€Ξ±Ο. 1 Ο„ΞΏΟ… ΞΟΞ΄ΞΉΞΊΞ± ΞΞΏΞΌΞΏΞΈΞµΟƒΞ―Ξ±Ο‚ Ξ³ΞΉΞ± Ο„Ξ·Ξ½ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ· ΞΊΞ±ΞΉ Ο„Ξ± ΞΟ…Ξ²ΞµΟΞ½Ξ·Ο„ΞΉΞΊΞ¬ ΞΟΞ³Ξ±Ξ½Ξ± (Ο€.Ξ΄. 63/2005, Ξ‘Ξ„ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2014/174/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) του άρθρου 37 παρ. 1 του Συντάγματος, β) του άρθρου 39 παρ. 1 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα (π.δ. 63/2005, Α΄ 98). "@el.
 <http://legislation.di.uoa.gr/pd/2014/174> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/174/citation/1>.
 <http://legislation.di.uoa.gr/pd/2014/174/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/174/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ·Ξ½ Ο€Ξ±ΟΞ±Ξ―Ο„Ξ·ΟƒΞ· Ο€ΞΏΟ… Ο…Ο€Ξ­Ξ²Ξ±Ξ»Ξµ ΞΏ Ξ‘ΟΞ³ΟΟΞ·Ο‚ ΞΟ„ΞΉΞ½ΟΟ€ΞΏΟ…Ξ»ΞΏΟ‚ Ο„ΞΏΟ… Ξ’Ξ±ΟƒΞΉΞ»ΞµΞ―ΞΏΟ… Ξ±Ο€Ο Ο„Ξ· ΞΈΞ­ΟƒΞ· Ο„ΞΏΟ… Ξ¥Ο€ΞΏΟ…ΟΞ³ΞΏΟ Ξ•ΟƒΟ‰Ο„ΞµΟΞΉΞΊΟΞ½. ΞΞµ Ο€ΟΟΟ„Ξ±ΟƒΞ· Ο„ΞΏΟ… Ξ ΟΟ‰ΞΈΟ…Ο€ΞΏΟ…ΟΞ³ΞΏΟ, "@el.
+<http://legislation.di.uoa.gr/pd/2014/174/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Την παραίτηση που υπέβαλε ο Αργύρης Ντινόπουλος του Βασιλείου από τη θέση του Υπουργού Εσωτερικών. Με πρόταση του Πρωθυπουργού, "@el.
 <http://legislation.di.uoa.gr/pd/2014/174> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/174/citation/2>.
 <http://legislation.di.uoa.gr/pd/2014/174/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/174> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/174/article/1>.
@@ -19,25 +19,25 @@
 <http://legislation.di.uoa.gr/pd/2014/174/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/174/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/174/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/174/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/174/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/174article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Ξ‘Ο€ΞΏΞ΄ΞµΟ‡ΟΞΌΞ±ΟƒΟ„Ξµ Ο„Ξ·Ξ½ Ο€Ξ±ΟΞ±Ξ―Ο„Ξ·ΟƒΞ· Ο€ΞΏΟ… Ο…Ο€Ξ­Ξ²Ξ±Ξ»Ξµ ΞΏ Ξ‘ΟΞ³ΟΟΞ·Ο‚ ΞΟ„ΞΉΞ½ΟΟ€ΞΏΟ…Ξ»ΞΏΟ‚ Ο„ΞΏΟ… Ξ’Ξ±ΟƒΞΉΞ»ΞµΞ―ΞΏΟ… Ξ±Ο€Ο Ο„Ξ· ΞΈΞ­ΟƒΞ· Ο„ΞΏΟ… Ξ¥Ο€ΞΏΟ…ΟΞ³ΞΏΟ Ξ•ΟƒΟ‰Ο„ΞµΟΞΉΞΊΟΞ½ ΞΊΞ±ΞΉ Ο„ΞΏΞ½ Ξ±Ο€Ξ±Ξ»Ξ»Ξ¬ΟƒΟƒΞΏΟ…ΞΌΞµ Ξ±Ο€Ο Ο„Ξ± ΞΊΞ±ΞΈΞ®ΞΊΞΏΞ½Ο„Ξ¬ Ο„ΞΏΟ…."@el.
+<http://legislation.di.uoa.gr/pd/2014/174/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Αποδεχόμαστε την παραίτηση που υπέβαλε ο Αργύρης Ντινόπουλος του Βασιλείου από τη θέση του Υπουργού Εσωτερικών και τον απαλλάσσουμε από τα καθήκοντά του."@el.
 <http://legislation.di.uoa.gr/pd/2014/174> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΞΞ‘Ξ΅ΞΞ›ΞΞ£ Ξ Ξ‘Ξ ΞΞ¥Ξ›Ξ™Ξ‘Ξ£"@el.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
 
 <http://legislation.di.uoa.gr/pd/2014/175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/175> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/278>.
-<http://legislation.di.uoa.gr/gazette/a/2014/278> <http://purl.org/dc/terms/title> "Ξ‘/2014/278".
+<http://legislation.di.uoa.gr/gazette/a/2014/278> <http://purl.org/dc/terms/title> "Α/2014/278".
 <http://legislation.di.uoa.gr/pd/2014/175> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/175> <http://purl.org/dc/terms/created> "2014-12-31"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/175> <http://legislation.di.uoa.gr/ontology/legislationID> "175"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/pd/2014/175> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/pd/2014/175> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
-<http://legislation.di.uoa.gr/pd/2014/175> <http://purl.org/dc/terms/title> "Ξ”ΞΉΞΏΟΞΉΟƒΞΌΟΟ‚ Ξ¥Ο€ΞΏΟ…ΟΞ³ΞΏΟ Ξ•ΟƒΟ‰Ο„ΞµΟΞΉΞΊΟΞ½.  "@el.
+<http://legislation.di.uoa.gr/pd/2014/175> <http://purl.org/dc/terms/title> "Διορισμός Υπουργού Εσωτερικών.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/175/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/175/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„Ο‰Ξ½ Ξ¬ΟΞΈΟΟ‰Ξ½ 37 Ο€Ξ±Ο. 1 ΞΊΞ±ΞΉ 81 Ο€Ξ±Ο. 1 Ο„ΞΏΟ… Ξ£Ο…Ξ½Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚. "@el.
+<http://legislation.di.uoa.gr/pd/2014/175/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις των άρθρων 37 παρ. 1 και 81 παρ. 1 του Συντάγματος. "@el.
 <http://legislation.di.uoa.gr/pd/2014/175> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/175/citation/1>.
 <http://legislation.di.uoa.gr/pd/2014/175/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/175/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„Ο‰Ξ½ Ξ¬ΟΞΈΟΟ‰Ξ½ 39 Ο€Ξ±Ο. 1 ΞΊΞ±ΞΉ 47 Ο„ΞΏΟ… ΞΟΞ΄ΞΉΞΊΞ± ΞΞΏΞΌΞΏΞΈΞµΟƒΞ―Ξ±Ο‚ Ξ³ΞΉΞ± Ο„Ξ·Ξ½ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ· ΞΊΞ±ΞΉ Ο„Ξ± ΞΟ…Ξ²ΞµΟΞ½Ξ·Ο„ΞΉΞΊΞ¬ ΞΟΞ³Ξ±Ξ½Ξ± (Ο€.Ξ΄. 63/2005, Ξ‘Ξ„ 98). ΞΞµ Ο€ΟΟΟ„Ξ±ΟƒΞ· Ο„ΞΏΟ… Ξ ΟΟ‰ΞΈΟ…Ο€ΞΏΟ…ΟΞ³ΞΏΟ, "@el.
+<http://legislation.di.uoa.gr/pd/2014/175/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις των άρθρων 39 παρ. 1 και 47 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα (π.δ. 63/2005, Α΄ 98). Με πρόταση του Πρωθυπουργού, "@el.
 <http://legislation.di.uoa.gr/pd/2014/175> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/175/citation/2>.
 <http://legislation.di.uoa.gr/pd/2014/175/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/175> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/175/article/1>.
@@ -45,8 +45,8 @@
 <http://legislation.di.uoa.gr/pd/2014/175/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/175/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/175/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/175/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/175/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/175article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Ξ”ΞΉΞΏΟΞ―Ξ¶ΞΏΟ…ΞΌΞµ Ο„ΞΏΞ½ ΞΞΉΟ‡Ξ±Ξ®Ξ» ΞΞµΞΏΟ‡Ξ±ΟΞ―Ξ΄Ξ· Ο„ΞΏΟ… Ξ“ΞµΟ‰ΟΞ³Ξ―ΞΏΟ…, ΟƒΟ„Ξ· ΞΈΞ­ΟƒΞ· Ο„ΞΏΟ… Ξ¥Ο€ΞΏΟ…ΟΞ³ΞΏΟ Ξ•ΟƒΟ‰Ο„ΞµΟΞΉΞΊΟΞ½. Ξ£Ο„ΞΏΞ½ Ξ ΟΟ‰ΞΈΟ…Ο€ΞΏΟ…ΟΞ³Ο Ξ±Ξ½Ξ±ΞΈΞ­Ο„ΞΏΟ…ΞΌΞµ Ο„Ξ· Ξ΄Ξ·ΞΌΞΏΟƒΞ―ΞµΟ…ΟƒΞ· ΞΊΞ±ΞΉ ΞµΞΊΟ„Ξ­Ξ»ΞµΟƒΞ· Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ”ΞΉΞ±Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚."@el.
+<http://legislation.di.uoa.gr/pd/2014/175/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Διορίζουμε τον Μιχαήλ Θεοχαρίδη του Γεωργίου, στη θέση του Υπουργού Εσωτερικών. Στον Πρωθυπουργό αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος Διατάγματος."@el.
 <http://legislation.di.uoa.gr/pd/2014/175> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΞΞ‘Ξ΅ΞΞ›ΞΞ£ Ξ Ξ‘Ξ ΞΞ¥Ξ›Ξ™Ξ‘Ξ£"@el.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
 

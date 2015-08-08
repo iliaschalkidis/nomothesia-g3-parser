@@ -1,17 +1,17 @@
-ο»Ώ<http://legislation.di.uoa.gr/pd/2014/117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/117> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/186>.
-<http://legislation.di.uoa.gr/gazette/a/2014/186> <http://purl.org/dc/terms/title> "Ξ‘/2014/186".
+<http://legislation.di.uoa.gr/gazette/a/2014/186> <http://purl.org/dc/terms/title> "Α/2014/186".
 <http://legislation.di.uoa.gr/pd/2014/117> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/117> <http://purl.org/dc/terms/created> "2014-09-03"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/117> <http://legislation.di.uoa.gr/ontology/legislationID> "117"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/pd/2014/117> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/pd/2014/117> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
-<http://legislation.di.uoa.gr/pd/2014/117> <http://purl.org/dc/terms/title> "Ξ”ΞΉΞΏΟΞΉΟƒΞΌΟΟ‚ Ξ¥Ο†Ο…Ο€ΞΏΟ…ΟΞ³ΞΏΟ Ξ Ξ±ΞΉΞ΄ΞµΞ―Ξ±Ο‚ ΞΊΞ±ΞΉ ΞΟΞ·ΟƒΞΊΞµΟ…ΞΌΞ¬Ο„Ο‰Ξ½.  "@el.
+<http://legislation.di.uoa.gr/pd/2014/117> <http://purl.org/dc/terms/title> "Διορισμός Υφυπουργού Παιδείας και Θρησκευμάτων.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/117/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/117/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„Ο‰Ξ½ Ξ¬ΟΞΈΟΟ‰Ξ½ 37 Ο€Ξ±Ο. 1 ΞΊΞ±ΞΉ 81 Ο€Ξ±Ο. 1 Ο„ΞΏΟ… Ξ£Ο…Ξ½Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚. "@el.
+<http://legislation.di.uoa.gr/pd/2014/117/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις των άρθρων 37 παρ. 1 και 81 παρ. 1 του Συντάγματος. "@el.
 <http://legislation.di.uoa.gr/pd/2014/117> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/117/citation/1>.
 <http://legislation.di.uoa.gr/pd/2014/117/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/117/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„Ο‰Ξ½ Ξ¬ΟΞΈΟΟ‰Ξ½ 39 ΞΊΞ±ΞΉ 47 Ο„ΞΏΟ… ΞΟΞ΄ΞΉΞΊΞ± ΞΞΏΞΌΞΏΞΈΞµΟƒΞ―Ξ±Ο‚ Ξ³ΞΉΞ± Ο„Ξ·Ξ½ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ· ΞΊΞ±ΞΉ Ο„Ξ± ΞΟ…Ξ²ΞµΟΞ½Ξ·Ο„ΞΉΞΊΞ¬ ΞΟΞ³Ξ±Ξ½Ξ± (Ο€.Ξ΄. 63/2005, Ξ‘Ξ„ 98). ΞΞµ Ο€ΟΟΟ„Ξ±ΟƒΞ· Ο„ΞΏΟ… Ξ ΟΟ‰ΞΈΟ…Ο€ΞΏΟ…ΟΞ³ΞΏΟ, "@el.
+<http://legislation.di.uoa.gr/pd/2014/117/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις των άρθρων 39 και 47 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα (π.δ. 63/2005, Α΄ 98). Με πρόταση του Πρωθυπουργού, "@el.
 <http://legislation.di.uoa.gr/pd/2014/117> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/117/citation/2>.
 <http://legislation.di.uoa.gr/pd/2014/117/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/117> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/117/article/1>.
@@ -19,8 +19,8 @@
 <http://legislation.di.uoa.gr/pd/2014/117/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/117/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/117/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/117/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/117/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/117article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Ξ”ΞΉΞΏΟΞ―Ξ¶ΞΏΟ…ΞΌΞµ Ο„ΞΏΞ½ Ξ“ΞµΟΟΞ³ΞΉΞΏ Ξ£Ο„ΟΞ»ΞΉΞΏ Ο„ΞΏΟ… Ξ”Ξ·ΞΌΞΏΟƒΞΈΞ­Ξ½Ξ· ΟƒΟ„Ξ· ΞΈΞ­ΟƒΞ· Ο„ΞΏΟ… Ξ¥Ο†Ο…Ο€ΞΏΟ…ΟΞ³ΞΏΟ Ξ Ξ±ΞΉΞ΄ΞµΞ―Ξ±Ο‚ ΞΊΞ±ΞΉ ΞΟΞ·ΟƒΞΊΞµΟ…ΞΌΞ¬Ο„Ο‰Ξ½. Ξ£Ο„ΞΏΞ½ Ξ ΟΟ‰ΞΈΟ…Ο€ΞΏΟ…ΟΞ³Ο Ξ±Ξ½Ξ±ΞΈΞ­Ο„ΞΏΟ…ΞΌΞµ Ο„Ξ· Ξ΄Ξ·ΞΌΞΏΟƒΞ―ΞµΟ…ΟƒΞ· ΞΊΞ±ΞΉ ΞµΞΊΟ„Ξ­Ξ»ΞµΟƒΞ· Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚."@el.
+<http://legislation.di.uoa.gr/pd/2014/117/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Διορίζουμε τον Γεώργιο Στύλιο του Δημοσθένη στη θέση του Υφυπουργού Παιδείας και Θρησκευμάτων. Στον Πρωθυπουργό αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.
 <http://legislation.di.uoa.gr/pd/2014/117> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΞΞ‘Ξ΅ΞΞ›ΞΞ£ Ξ Ξ‘Ξ ΞΞ¥Ξ›Ξ™Ξ‘Ξ£"@el.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
 

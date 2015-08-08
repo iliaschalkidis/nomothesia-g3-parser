@@ -1,34 +1,31 @@
-ο»Ώ<http://legislation.di.uoa.gr/law/2014/4289> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2014/4289> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
 <http://legislation.di.uoa.gr/law/2014/4289> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/200>.
-<http://legislation.di.uoa.gr/gazette/a/2014/200> <http://purl.org/dc/terms/title> "Ξ‘/2014/200".
+<http://legislation.di.uoa.gr/gazette/a/2014/200> <http://purl.org/dc/terms/title> "Α/2014/200".
 <http://legislation.di.uoa.gr/law/2014/4289> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/law/2014/4289> <http://purl.org/dc/terms/created> "2014-09-24"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/law/2014/4289> <http://legislation.di.uoa.gr/ontology/legislationID> "4289"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/law/2014/4289> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/law/2014/4289> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
-<http://legislation.di.uoa.gr/law/2014/4289> <http://purl.org/dc/terms/title> "KΟΟΟ‰ΟƒΞ· Ο„Ξ·Ο‚ Ξ£Ο…ΞΌΟ†Ο‰Ξ½Ξ―Ξ±Ο‚ ΞΌΞµΟ„Ξ±ΞΎΟ Ο„Ξ·Ο‚ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ·Ο‚ Ο„Ξ·Ο‚ Ξ•Ξ»- Ξ»Ξ·Ξ½ΞΉΞΊΞ®Ο‚ Ξ”Ξ·ΞΌΞΏΞΊΟΞ±Ο„Ξ―Ξ±Ο‚ ΞΊΞ±ΞΉ Ο„Ξ·Ο‚ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ·Ο‚ Ο„Ξ·Ο‚ Ξ‘Ξ½Ξ±Ο„ΞΏ- Ξ»ΞΉΞΊΞ®Ο‚ Ξ”Ξ·ΞΌΞΏΞΊΟΞ±Ο„Ξ―Ξ±Ο‚ Ο„Ξ·Ο‚ ΞΟ…ΟΞΏΟ…Ξ³ΞΏΟ…Ξ¬Ξ·Ο‚ Ξ³ΞΉΞ± ΞΏΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΞ® ΟƒΟ…Ξ½ΞµΟΞ³Ξ±ΟƒΞ―Ξ±. Ξ Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ•Ξ›Ξ›Ξ—ΞΞ™ΞΞ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£ "@el.
+<http://legislation.di.uoa.gr/law/2014/4289> <http://purl.org/dc/terms/title> "Kύρωση της Συμφωνίας μεταξύ της Κυβέρνησης της Ελληνικής Δημοκρατίας και της Κυβέρνησης της Ανατολικής Δημοκρατίας της Ουρουγουάης για οικονομική συνεργασία. Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ "@el.
 <http://legislation.di.uoa.gr/law/2014/4289/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4289> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4289/article/1>.
-<http://legislation.di.uoa.gr/law/2014/4289/article/1> <http://purl.org/dc/terms/title> "ΞΟ…ΟΟΞ½ΞµΟ„Ξ±ΞΉ ΞΊΞ±ΞΉ Ξ­Ο‡ΞµΞΉ Ο„Ξ·Ξ½ ΞΉΟƒΟ‡Ο, Ο€ΞΏΟ… ΞΏΟΞ―Ξ¶ΞµΞΉ Ο„ΞΏ Ξ¬ΟΞΈΟΞΏ 28 Ο€Ξ±Ο.".
+<http://legislation.di.uoa.gr/law/2014/4289/article/1> <http://purl.org/dc/terms/title> "Κυρώνεται και έχει την ισχύ, που ορίζει το άρθρο 28 παρ."@el.
 <http://legislation.di.uoa.gr/law/2014/4289/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4289/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4289/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/law/2014/4289/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4289/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4289/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/law/2014/4289/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "1 Ο„ΞΏΟ… Ξ£Ο…Ξ½Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚, Ξ· Ξ£Ο…ΞΌΟ†Ο‰Ξ½Ξ―Ξ± ΞΌΞµΟ„Ξ±ΞΎΟ Ο„Ξ·Ο‚ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ·Ο‚Ο„Ξ·Ο‚ Ξ•Ξ»Ξ»Ξ·Ξ½ΞΉΞΊΞ®Ο‚ Ξ”Ξ·ΞΌΞΏΞΊΟΞ±Ο„Ξ―Ξ±Ο‚ ΞΊΞ±ΞΉ Ο„Ξ·Ο‚ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ·Ο‚ Ο„Ξ·Ο‚ Ξ‘Ξ½Ξ±-Ο„ΞΏΞ»ΞΉΞΊΞ®Ο‚ Ξ”Ξ·ΞΌΞΏΞΊΟΞ±Ο„Ξ―Ξ±Ο‚ Ο„Ξ·Ο‚ ΞΟ…ΟΞΏΟ…Ξ³ΞΏΟ…Ξ¬Ξ·Ο‚ Ξ³ΞΉΞ± ΞΏΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΞ® ΟƒΟ…-Ξ½ΞµΟΞ³Ξ±ΟƒΞ―Ξ±, Ο€ΞΏΟ… Ο…Ο€ΞΏΞ³ΟΞ¬Ο†Ξ·ΞΊΞµ ΟƒΟ„Ξ·Ξ½ Ξ‘ΞΈΞ®Ξ½Ξ±, Ο„Ξ·Ξ½ 1Ξ· ΞΞΊΟ„Ο‰Ξ²ΟΞ―ΞΏΟ…2010, Ο„ΞΏ ΞΊΞµΞ―ΞΌΞµΞ½ΞΏ Ο„Ξ·Ο‚ ΞΏΟ€ΞΏΞ―Ξ±Ο‚ ΟƒΞµ Ο€ΟΟ‰Ο„ΟΟ„Ο…Ο€ΞΏ ΟƒΟ„Ξ·Ξ½ ΞµΞ»Ξ»Ξ·Ξ½ΞΉΞΊΞ®ΞΊΞ±ΞΉ Ξ±Ξ³Ξ³Ξ»ΞΉΞΊΞ® Ξ³Ξ»ΟΟƒΟƒΞ± Ξ­Ο‡ΞµΞΉ Ο‰Ο‚ ΞµΞΎΞ®Ο‚:"@el.
-<http://legislation.di.uoa.gr/law/2014/4289/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
-<http://legislation.di.uoa.gr/law/2014/4289/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4289/article/1/paragraph/1/passage/2>.
-<http://legislation.di.uoa.gr/law/2014/4289/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> " 6554   6556   6558   6560   6562   "@el.
+<http://legislation.di.uoa.gr/law/2014/4289/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "1 του Συντάγματος, η Συμφωνία μεταξύ της Κυβέρνησηςτης Ελληνικής Δημοκρατίας και της Κυβέρνησης της Ανα-τολικής Δημοκρατίας της Ουρουγουάης για οικονομική συ-νεργασία, που υπογράφηκε στην Αθήνα, την 1η Οκτωβρίου2010, το κείμενο της οποίας σε πρωτότυπο στην ελληνικήκαι αγγλική γλώσσα έχει ως εξής: 6554   6556   6558   6560   6562  "@el.
 <http://legislation.di.uoa.gr/law/2014/4289/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4289> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4289/article/2>.
 <http://legislation.di.uoa.gr/law/2014/4289/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4289/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4289/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/law/2014/4289/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4289/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4289/article/2/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/law/2014/4289/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ξ— ΞΉΟƒΟ‡ΟΟ‚ Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ½ΟΞΌΞΏΟ… Ξ±ΟΟ‡Ξ―Ξ¶ΞµΞΉ Ξ±Ο€Ο Ο„Ξ· Ξ΄Ξ·ΞΌΞΏΟƒΞ―ΞµΟ…ΟƒΞ® Ο„ΞΏΟ… ΟƒΟ„Ξ·Ξ½ Ξ•Ο†Ξ·ΞΌΞµΟΞ―Ξ΄Ξ± Ο„Ξ·Ο‚ ΞΟ…Ξ²ΞµΟΞ½Ξ®ΟƒΞµΟ‰Ο‚ ΞΊΞ±ΞΉ Ο„Ξ·Ο‚ Ξ£Ο…ΞΌΟ†Ο‰Ξ½Ξ―Ξ±Ο‚ Ο€ΞΏΟ… ΞΊΟ…ΟΟΞ½ΞµΟ„Ξ±ΞΉ Ξ±Ο€Ο Ο„Ξ·Ξ½ Ο€Ξ»Ξ®ΟΟ‰ΟƒΞ· Ο„Ο‰Ξ½ Ο€ΟΞΏΟ‹Ο€ΞΏΞΈΞ­ΟƒΞµΟ‰Ξ½ Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 5 Ο€Ξ±ΟΞ¬Ξ³ΟΞ±Ο†ΞΏΟ‚ 1 Ξ±Ο…Ο„Ξ®Ο‚. "@el.
+<http://legislation.di.uoa.gr/law/2014/4289/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 5 παράγραφος 1 αυτής. "@el.
 <http://legislation.di.uoa.gr/law/2014/4289/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4289/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4289/article/2/paragraph/1/passage/2>.
-<http://legislation.di.uoa.gr/law/2014/4289/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ξ Ξ±ΟΞ±Ξ³Ξ³Ξ­Ξ»Ξ»ΞΏΞΌΞµ Ο„Ξ· Ξ΄Ξ·ΞΌΞΏΟƒΞ―ΞµΟ…ΟƒΞ· Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ ΟƒΟ„Ξ·Ξ½ Ξ•Ο†Ξ·ΞΌΞµΟΞ―Ξ΄Ξ± Ο„Ξ·Ο‚ ΞΟ…Ξ²ΞµΟΞ½Ξ®ΟƒΞµΟ‰Ο‚ ΞΊΞ±ΞΉ Ο„Ξ·Ξ½ ΞµΞΊΟ„Ξ­Ξ»ΞµΟƒΞ® Ο„ΞΏΟ… Ο‰Ο‚ Ξ½ΟΞΌΞΏΟ… Ο„ΞΏΟ… ΞΟΞ¬Ο„ΞΏΟ…Ο‚. "@el.
+<http://legislation.di.uoa.gr/law/2014/4289/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως νόμου του Κράτους"@el.
 <http://legislation.di.uoa.gr/law/2014/4289> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΞΞ‘Ξ΅ΞΞ›ΞΞ£ Ξ Ξ‘Ξ ΞΞ¥Ξ›Ξ™Ξ‘Ξ£"@el.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
 

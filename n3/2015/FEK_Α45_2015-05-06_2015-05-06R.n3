@@ -1,20 +1,20 @@
-ο»Ώ<http://legislation.di.uoa.gr/pd/2015/32.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
-<http://legislation.di.uoa.gr/pd/2015/32.> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2015/45>.
-<http://legislation.di.uoa.gr/gazette/a/2015/45> <http://purl.org/dc/terms/title> "Ξ‘/2015/45".
+<http://legislation.di.uoa.gr/pd/2015/32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2015/32> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2015/45>.
+<http://legislation.di.uoa.gr/gazette/a/2015/45> <http://purl.org/dc/terms/title> "Α/2015/45".
 <http://legislation.di.uoa.gr/pd/2015/32.> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2015/32.> <http://purl.org/dc/terms/created> "2015-05-06"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2015/32.> <http://legislation.di.uoa.gr/ontology/legislationID> "32."^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/pd/2015/32.> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/pd/2015/32.> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
-<http://legislation.di.uoa.gr/pd/2015/32.> <http://purl.org/dc/terms/title> "Ξ”ΞΉΞΏΟΞΉΟƒΞΌΟΟ‚ Ξ¥Ο†Ο…Ο€ΞΏΟ…ΟΞ³ΞΏΟ.  "@el.
+<http://legislation.di.uoa.gr/pd/2015/32.> <http://purl.org/dc/terms/title> "Διορισμός Υφυπουργού.  "@el.
 <http://legislation.di.uoa.gr/pd/2015/32./citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2015/32./citation/1> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„Ο‰Ξ½ Ξ¬ΟΞΈΟΟ‰Ξ½ 37 Ο€Ξ±Ο. 1 ΞΊΞ±ΞΉ 81 Ο„ΞΏΟ… Ξ£Ο…Ξ½Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚. "@el.
+<http://legislation.di.uoa.gr/pd/2015/32./citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις των άρθρων 37 παρ. 1 και 81 του Συντάγματος. "@el.
 <http://legislation.di.uoa.gr/pd/2015/32.> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/32./citation/1>.
 <http://legislation.di.uoa.gr/pd/2015/32./citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2015/32./citation/2> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„Ο‰Ξ½ Ξ¬ΟΞΈΟΟ‰Ξ½ 39 ΞΊΞ±ΞΉ 47 Ο„ΞΏΟ… ΞΟΞ΄ΞΉΞΊΞ± ΞΞΏΞΌΞΏΞΈΞµΟƒΞ―Ξ±Ο‚ Ξ³ΞΉΞ± Ο„Ξ·Ξ½ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ· ΞΊΞ±ΞΉ Ο„Ξ± ΞΟ…Ξ²ΞµΟΞ½Ξ·Ο„ΞΉΞΊΞ¬ ΟΟΞ³Ξ±Ξ½Ξ± (Ξ .Ξ”. 63/2005, Ξ‘Ξ„98), ΟΟ€Ο‰Ο‚ ΞΉΟƒΟ‡ΟΞµΞΉ. "@el.
+<http://legislation.di.uoa.gr/pd/2015/32./citation/2> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις των άρθρων 39 και 47 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά όργανα (Π.Δ. 63/2005, Α΄98), όπως ισχύει. "@el.
 <http://legislation.di.uoa.gr/pd/2015/32.> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/32./citation/2>.
 <http://legislation.di.uoa.gr/pd/2015/32./citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2015/32./citation/3> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ·Ξ½ Ξ¥5/27-1-2015 Ξ±Ο€ΟΟ†Ξ±ΟƒΞ· Ο„ΞΏΟ… Ξ ΟΟ‰ΞΈΟ…Ο€ΞΏΟ…ΟΞ³ΞΏΟ (Ξ’Ξ„204), ΞΌΞµ Ο€ΟΟΟ„Ξ±ΟƒΞ· Ο„ΞΏΟ… Ξ ΟΟ‰ΞΈΟ…Ο€ΞΏΟ…ΟΞ³ΞΏΟ, "@el.
+<http://legislation.di.uoa.gr/pd/2015/32./citation/3> <http://legislation.di.uoa.gr/ontology/context> "Την Υ5/27-1-2015 απόφαση του Πρωθυπουργού (Β΄204), με πρόταση του Πρωθυπουργού, "@el.
 <http://legislation.di.uoa.gr/pd/2015/32.> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/32./citation/3>.
 <http://legislation.di.uoa.gr/pd/2015/32./article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2015/32.> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/32./article/1>.
@@ -22,8 +22,8 @@
 <http://legislation.di.uoa.gr/pd/2015/32./article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/32./article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2015/32./article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2015/32./article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2015/32./article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2015/32.article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Ξ”ΞΉΞΏΟΞ―Ξ¶ΞΏΟ…ΞΌΞµ Ο„ΞΏΞ½ Ξ”Ξ·ΞΌΞ®Ο„ΟΞΉΞΏ Ξ Ξ±Ο€Ξ±Ξ³Ξ³ΞµΞ»ΟΟ€ΞΏΟ…Ξ»ΞΏ Ο„ΞΏΟ… Ξ Ξ±ΟΞ±ΟƒΞΊΞµΟ…Ξ¬ ΟƒΟ„Ξ· ΞΈΞ­ΟƒΞ· Ο„ΞΏΟ… Ξ¥Ο†Ο…Ο€ΞΏΟ…ΟΞ³ΞΏΟ Ξ”ΞΉΞΊΞ±ΞΉΞΏΟƒΟΞ½Ξ·Ο‚, Ξ”ΞΉΞ±Ο†Ξ¬Ξ½ΞµΞΉΞ±Ο‚ ΞΊΞ±ΞΉ Ξ‘Ξ½ΞΈΟΟ‰Ο€Ξ―Ξ½Ο‰Ξ½ Ξ”ΞΉΞΊΞ±ΞΉΟ‰ΞΌΞ¬Ο„Ο‰Ξ½. Ξ£Ο„ΞΏΞ½ Ξ ΟΟ‰ΞΈΟ…Ο€ΞΏΟ…ΟΞ³Ο Ξ±Ξ½Ξ±ΞΈΞ­Ο„ΞΏΟ…ΞΌΞµ Ο„Ξ· Ξ΄Ξ·ΞΌΞΏΟƒΞ―ΞµΟ…ΟƒΞ· ΞΊΞ±ΞΉ ΞµΞΊΟ„Ξ­Ξ»ΞµΟƒΞ· Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚."@el.
+<http://legislation.di.uoa.gr/pd/2015/32./article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Διορίζουμε τον Δημήτριο Παπαγγελόπουλο του Παρασκευά στη θέση του Υφυπουργού Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων. Στον Πρωθυπουργό αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.
 <http://legislation.di.uoa.gr/pd/2015/32.> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΞΞ‘Ξ΅ΞΞ›ΞΞ£ Ξ Ξ‘Ξ ΞΞ¥Ξ›Ξ™Ξ‘Ξ£"@el.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
 

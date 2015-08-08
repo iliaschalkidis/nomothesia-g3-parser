@@ -1,30 +1,31 @@
-ο»Ώ<http://legislation.di.uoa.gr/pd/2014/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/13> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/23>.
-<http://legislation.di.uoa.gr/gazette/a/2014/23> <http://purl.org/dc/terms/title> "Ξ‘/2014/23".
+<http://legislation.di.uoa.gr/gazette/a/2014/23> <http://purl.org/dc/terms/title> "Α/2014/23".
 <http://legislation.di.uoa.gr/pd/2014/13> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/13> <http://purl.org/dc/terms/created> "2014-01-29"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/13> <http://legislation.di.uoa.gr/ontology/legislationID> "13"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/pd/2014/13> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/pd/2014/13> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
-<http://legislation.di.uoa.gr/pd/2014/13> <http://purl.org/dc/terms/title> "ΞΞµΟ„ΞΏΞ½ΞΏΞΌΞ±ΟƒΞ―Ξ± Ο„Ξ·Ο‚ Β«Ξ¤ΞΏΟ€ΞΉΞΊΞ®Ο‚ ΞΞΏΞΉΞ½ΟΟ„Ξ·Ο„Ξ±Ο‚ Ξ£ΞΉΞΊΟ…ΟΞ½ΞΏΟ‚Β» Ο„ΞΏΟ… Ξ”Ξ®ΞΌΞΏΟ… Ξ£ΞΉΞΊΟ…Ο‰Ξ½Ξ―Ο‰Ξ½ ΟƒΞµ Β«Ξ¤ΞΏΟ€ΞΉΞΊΞ® ΞΞΏΞΉΞ½ΟΟ„Ξ·Ο„Ξ± Ξ‘ΟΟ‡Ξ±Ξ―Ξ±Ο‚ Ξ£ΞΉΞΊΟ…ΟΞ½Ξ±Ο‚-Ξ’Ξ±ΟƒΞΉΞ»ΞΉΞΊΞΏΟ Β».  "@el.
+<http://legislation.di.uoa.gr/pd/2014/13> <http://purl.org/dc/terms/title> "Μετονομασία της «Τοπικής Κοινότητας Σικυώνος» του Δήμου Σικυωνίων σε «Τοπική Κοινότητα Αρχαίας Σικυώνας-Βασιλικού ».  "@el.
+<http://legislation.di.uoa.gr/pd/2014/13> <http://legislation.di.uoa.gr/ontology/place> <http://geo.linkedopendata.gr/gag/id/9247>.
 <http://legislation.di.uoa.gr/pd/2014/13/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/13/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 7 Ο€Ξ±Ο. 1 Ο„ΞΏΟ… ΞΟΞ΄ΞΉΞΊΞ± Ξ”Ξ®ΞΌΟ‰Ξ½ ΞΊΞ±ΞΉ ΞΞΏΞΉΞ½ΞΏΟ„Ξ®Ο„Ο‰Ξ½, ΟΟ€Ο‰Ο‚ ΞΊΟ…ΟΟΞΈΞ·ΞΊΞµ ΞΌΞµ Ο„ΞΏ Ξ¬ΟΞΈΟΞΏ Ο€ΟΟΟ„ΞΏ Ο„ΞΏΟ… N. 3463/2006 (Ξ‘Ξ„ 114). "@el.
+<http://legislation.di.uoa.gr/pd/2014/13/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 7 παρ. 1 του Κώδικα Δήμων και Κοινοτήτων, όπως κυρώθηκε με το άρθρο πρώτο του N. 3463/2006 (Α΄ 114). "@el.
 <http://legislation.di.uoa.gr/pd/2014/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/13/citation/1>.
 <http://legislation.di.uoa.gr/pd/2014/13/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/13/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΏ Ξ ΟΞΏΞµΞ΄ΟΞΉΞΊΟ Ξ΄ΞΉΞ¬Ο„Ξ±Ξ³ΞΌΞ± 119/2013 Β«Ξ”ΞΉΞΏΟΞΉΟƒΞΌΟΟ‚ Ξ‘Ξ½Ο„ΞΉΟ€ΟΞΏΞ­Ξ΄ΟΞΏΟ… Ο„Ξ·Ο‚ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ·Ο‚, Ξ¥Ο€ΞΏΟ…ΟΞ³ΟΞ½, Ξ‘Ξ½Ξ±Ο€Ξ»Ξ·ΟΟ‰Ο„ΟΞ½ Ξ¥Ο€ΞΏΟ…ΟΞ³ΟΞ½ ΞΊΞ±ΞΉ Ξ¥Ο†Ο…Ο€ΞΏΟ…ΟΞ³ΟΞ½Β» (Ξ‘Ξ„153). "@el.
+<http://legislation.di.uoa.gr/pd/2014/13/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το Προεδρικό διάταγμα 119/2013 «Διορισμός Αντιπροέδρου της Κυβέρνησης, Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α΄153). "@el.
 <http://legislation.di.uoa.gr/pd/2014/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/13/citation/2>.
 <http://legislation.di.uoa.gr/pd/2014/13/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/13/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 90 Ο„ΞΏΟ… ΞΟΞ΄ΞΉΞΊΞ± Ξ½ΞΏΞΌΞΏΞΈΞµΟƒΞ―Ξ±Ο‚ Ξ³ΞΉΞ± Ο„Ξ·Ξ½ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ· ΞΊΞ±ΞΉ Ο„Ξ± ΞΊΟ…Ξ²ΞµΟΞ½Ξ·Ο„ΞΉΞΊΞ¬ ΟΟΞ³Ξ±Ξ½Ξ± Ο€ΞΏΟ… ΞΊΟ…ΟΟΞΈΞ·ΞΊΞµ ΞΌΞµ Ο„ΞΏ Ξ¬ΟΞΈΟΞΏ Ο€ΟΟΟ„ΞΏ Ο„ΞΏΟ… Ο€.Ξ΄. 63/2005 (Ξ‘Ξ„98). "@el.
+<http://legislation.di.uoa.gr/pd/2014/13/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 90 του Κώδικα νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα που κυρώθηκε με το άρθρο πρώτο του π.δ. 63/2005 (Α΄98). "@el.
 <http://legislation.di.uoa.gr/pd/2014/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/13/citation/3>.
 <http://legislation.di.uoa.gr/pd/2014/13/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/13/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ·Ξ½ Ξ±Ο€ΟΟ†Ξ±ΟƒΞ· 4514/20-2-2012 (112/Ο„. Ξ¥ΞΞ”Ξ”/13.3.2012) Ο„ΞΏΟ… Ξ¥Ο€ΞΏΟ…ΟΞ³ΞΏΟ Ξ•ΟƒΟ‰Ο„ΞµΟΞΉΞΊΟΞ½ Ξ³ΞΉΞ± Ο„Ξ· Ξ£Ο…Ξ³ΞΊΟΟΟ„Ξ·ΟƒΞ· Ο„ΞΏΟ… Ξ£Ο…ΞΌΞ²ΞΏΟ…Ξ»Ξ―ΞΏΟ… Ξ¤ΞΏΟ€Ο‰Ξ½Ο…ΞΌΞΉΟΞ½ ΟƒΟ„ΞΏ Ξ¥Ο€ΞΏΟ…ΟΞ³ΞµΞ―ΞΏ Ξ•ΟƒΟ‰Ο„ΞµΟΞΉΞΊΟΞ½. "@el.
+<http://legislation.di.uoa.gr/pd/2014/13/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Την απόφαση 4514/20-2-2012 (112/τ. ΥΟΔΔ/13.3.2012) του Υπουργού Εσωτερικών για τη Συγκρότηση του Συμβουλίου Τοπωνυμιών στο Υπουργείο Εσωτερικών. "@el.
 <http://legislation.di.uoa.gr/pd/2014/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/13/citation/4>.
 <http://legislation.di.uoa.gr/pd/2014/13/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/13/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ·Ξ½ Ο…Ο€β€™ Ξ±ΟΞΉΞΈΞΌ. 102/2011 Ξ±Ο€ΟΟ†Ξ±ΟƒΞ· Ο„ΞΏΟ… Ξ΄Ξ·ΞΌΞΏΟ„ΞΉΞΊΞΏΟ ΟƒΟ…ΞΌΞ²ΞΏΟ…Ξ»Ξ―ΞΏΟ… Ο„ΞΏΟ… Ξ”Ξ®ΞΌΞΏΟ… Ξ£ΞΉΞΊΟ…Ο‰Ξ½Ξ―Ο‰Ξ½ Ο„ΞΏΟ… ΞΞΏΞΌΞΏΟ ΞΞΏΟΞΉΞ½ΞΈΞ―Ξ±Ο‚. "@el.
+<http://legislation.di.uoa.gr/pd/2014/13/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθμ. 102/2011 απόφαση του δημοτικού συμβουλίου του Δήμου Σικυωνίων του Νομού Κορινθίας. "@el.
 <http://legislation.di.uoa.gr/pd/2014/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/13/citation/5>.
 <http://legislation.di.uoa.gr/pd/2014/13/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/13/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ· ΞΈΞµΟ„ΞΉΞΊΞ® Ξ³Ξ½Ο‰ΞΌΞΏΞ΄ΟΟ„Ξ·ΟƒΞ· Ο„ΞΏΟ… Ξ£Ο…ΞΌΞ²ΞΏΟ…Ξ»Ξ―ΞΏΟ… Ξ¤ΞΏΟ€Ο‰Ξ½Ο…ΞΌΞΉΟΞ½ Ο…Ο€β€™ Ξ±ΟΞΉΞΈΞΌ. 21/2012 Ο€ΟΞ±ΞΊΟ„ΞΉΞΊΟ Ο„ΞΏΟ… Ξ£Ο…ΞΌΞ²ΞΏΟ…Ξ»Ξ―ΞΏΟ… Ξ¤ΞΏΟ€Ο‰Ξ½Ο…ΞΌΞΉΟΞ½ (Ξ±ΟΞΉΞΈΞΌ. ΟƒΟ…Ξ½ΞµΞ΄Ο. 21/6-4-2012, Ξ±Ο€ΟΟ†. 21/2012, ΞΈΞ­ΞΌΞ± 9ΞΏ). "@el.
+<http://legislation.di.uoa.gr/pd/2014/13/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Τη θετική γνωμοδότηση του Συμβουλίου Τοπωνυμιών υπ’ αριθμ. 21/2012 πρακτικό του Συμβουλίου Τοπωνυμιών (αριθμ. συνεδρ. 21/6-4-2012, απόφ. 21/2012, θέμα 9ο). "@el.
 <http://legislation.di.uoa.gr/pd/2014/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/13/citation/6>.
 <http://legislation.di.uoa.gr/pd/2014/13/citation/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/13/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΏ Ξ³ΞµΞ³ΞΏΞ½ΟΟ‚, ΟΟ„ΞΉ Ξ±Ο€Ο Ο„ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ΄ΞµΞ½ Ο€ΟΞΏΞΊΞ±Ξ»ΞµΞ―Ο„Ξ±ΞΉ Ξ΄Ξ±Ο€Ξ¬Ξ½Ξ· ΟƒΞµ Ξ²Ξ¬ΟΞΏΟ‚ Ο„ΞΏΟ… ΞΊΟΞ±Ο„ΞΉΞΊΞΏΟ Ο€ΟΞΏΟ‹Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΞΌΞΏΟ Ξ® Ο„ΞΏΟ… Ο€ΟΞΏΟ‹Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΞΌΞΏΟ Ο„ΞΏΟ… Ξ”Ξ®ΞΌΞΏΟ… Ξ£ΞΉΞΊΟ…Ο‰Ξ½Ξ―Ξ±Ο‚. Ξ Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£ ΞΞ‘Ξ΅ΞΞ›ΞΞ£ Ξ“Ξ΅. Ξ Ξ‘Ξ ΞΞ¥Ξ›Ξ™Ξ‘Ξ£ Ξ Ξ¥Ξ ΞΞ¥Ξ΅Ξ“ΞΞ£ Ξ•Ξ£Ξ©Ξ¤Ξ•Ξ΅Ξ™ΞΞ©Ξ Ξ™Ξ©Ξ‘ΞΞΞ—Ξ£ ΞΞ™Ξ§Ξ•Ξ›Ξ‘ΞΞ—Ξ£ F"@el.
+<http://legislation.di.uoa.gr/pd/2014/13/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός, ότι από τις διατάξεις του παρόντος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού ή του προϋπολογισμού του Δήμου Σικυωνίας. Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ Ο ΥΠΟΥΡΓΟΣ ΕΣΩΤΕΡΙΚΩΝ ΙΩΑΝΝΗΣ ΜΙΧΕΛΑΚΗΣ F"@el.
 <http://legislation.di.uoa.gr/pd/2014/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/13/citation/7>.

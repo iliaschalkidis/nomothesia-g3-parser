@@ -1,39 +1,39 @@
-ο»Ώ<http://legislation.di.uoa.gr/pd/2014/169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/169> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/255>.
-<http://legislation.di.uoa.gr/gazette/a/2014/255> <http://purl.org/dc/terms/title> "Ξ‘/2014/255".
+<http://legislation.di.uoa.gr/gazette/a/2014/255> <http://purl.org/dc/terms/title> "Α/2014/255".
 <http://legislation.di.uoa.gr/pd/2014/169> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/169> <http://purl.org/dc/terms/created> "2014-12-05"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/169> <http://legislation.di.uoa.gr/ontology/legislationID> "169"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/pd/2014/169> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/pd/2014/169> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
 <http://legislation.di.uoa.gr/pd/2014/169> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/169/2014-12-05>.
-<http://legislation.di.uoa.gr/pd/2014/169> <http://purl.org/dc/terms/title> "Ξ΅ΟΞΈΞΌΞΉΟƒΞ· ΞΈΞµΞΌΞ¬Ο„Ο‰Ξ½ Ξ±Ξ΄ΞµΞΉΟΞ½ Ξ±ΟƒΟ„Ο…Ξ½ΞΏΞΌΞΉΞΊΞΏΟ Ο€ΟΞΏΟƒΟ‰Ο€ΞΉΞΊΞΏΟ, ΞΊΞ±Ο„Ξ¬ Ο„ΟΞΏΟ€ΞΏΟ€ΞΏΞ―Ξ·ΟƒΞ· Ο„ΞΏΞ½ Ξ . Ξ΄/Ο„ΞΏΟ‚ 27/1986 (Ξ‘Ξ„Β 11).  "@el.
+<http://legislation.di.uoa.gr/pd/2014/169> <http://purl.org/dc/terms/title> "Ρύθμιση θεμάτων αδειών αστυνομικού προσωπικού, κατά τροποποίηση τον Π. δ/τος 27/1986 (Α΄ 11).  "@el.
 <http://legislation.di.uoa.gr/pd/2014/169/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/169/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 11 Ο€Ξ±Ο. 1 Ο€ΞµΟΞ―Ο€Ο„. ΟƒΟ„Ξ„ ΞΊΞ±ΞΉ ΞΈΞ„ Ο„ΞΏΟ… Ξ½. 1481/1984 Β«ΞΟΞ³Ξ±Ξ½ΞΉΟƒΞΌΟΟ‚ Ξ¥Ο€ΞΏΟ…ΟΞ³ΞµΞ―ΞΏΟ… Ξ”Ξ·ΞΌΟΟƒΞΉΞ±Ο‚ Ξ¤Ξ¬ΞΎΞ·Ο‚Β» (Ξ‘Ξ„ 152), ΟΟ€Ο‰Ο‚ Ο„ΞΏ Ξ¬ΟΞΈΟΞΏ Ξ±Ο…Ο„Ο Ξ±Ξ½Ο„ΞΉΞΊΞ±Ο„Ξ±ΟƒΟ„Ξ¬ΞΈΞ·ΞΊΞµ ΞΌΞµ Ο„ΞΏ Ξ¬ΟΞΈΟΞΏ 1 Ο€Ξ±Ο. 1 Ο„ΞΏΟ… Ξ½.Β 1590/1986 (Ξ‘Ξ„ 49). "@el.
+<http://legislation.di.uoa.gr/pd/2014/169/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 11 παρ. 1 περίπτ. στ΄ και θ΄ του ν. 1481/1984 «Οργανισμός Υπουργείου Δημόσιας Τάξης» (Α΄ 152), όπως το άρθρο αυτό αντικαταστάθηκε με το άρθρο 1 παρ. 1 του ν. 1590/1986 (Α΄ 49). "@el.
 <http://legislation.di.uoa.gr/pd/2014/169> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/169/citation/1>.
 <http://legislation.di.uoa.gr/pd/2014/169/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/169/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 28 Ο€Ξ±Ο. 1 Ο„ΞΏΟ… Ξ½.Β 2800/2000 Β«Ξ‘Ξ½Ξ±Ξ΄ΞΉΞ¬ΟΞΈΟΟ‰ΟƒΞ· Ξ¥Ο€Ξ·ΟΞµΟƒΞΉΟΞ½ Ξ¥Ο€ΞΏΟ…ΟΞ³ΞµΞ―ΞΏΟ… Ξ”Ξ·ΞΌΟΟƒΞΉΞ±Ο‚ Ξ¤Ξ¬ΞΎΞ·Ο‚, ΟƒΟΟƒΟ„Ξ±ΟƒΞ· Ξ‘ΟΟ‡Ξ·Ξ³ΞµΞ―ΞΏΟ… Ξ•Ξ»Ξ»Ξ·Ξ½ΞΉΞΊΞ®Ο‚ Ξ‘ΟƒΟ„Ο…Ξ½ΞΏΞΌΞ―Ξ±Ο‚ ΞΊΞ±ΞΉ Ξ¬Ξ»Ξ»ΞµΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚Β» (Ξ‘Ξ„ 41). "@el.
+<http://legislation.di.uoa.gr/pd/2014/169/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 28 παρ. 1 του ν. 2800/2000 «Αναδιάρθρωση Υπηρεσιών Υπουργείου Δημόσιας Τάξης, σύσταση Αρχηγείου Ελληνικής Αστυνομίας και άλλες διατάξεις» (Α΄ 41). "@el.
 <http://legislation.di.uoa.gr/pd/2014/169> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/169/citation/2>.
 <http://legislation.di.uoa.gr/pd/2014/169/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/169/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 39 Ο€Ξ±Ο. 1 Ο„ΞΏΟ… Ξ½.Β 4249/2014 Β«Ξ‘Ξ½Ξ±Ξ΄ΞΉΞΏΟΞ³Ξ¬Ξ½Ο‰ΟƒΞ· Ο„Ξ·Ο‚ Ξ•Ξ»Ξ»Ξ·Ξ½ΞΉΞΊΞ®Ο‚ Ξ‘ΟƒΟ„Ο…Ξ½ΞΏΞΌΞ―Ξ±Ο‚, Ο„ΞΏΟ… Ξ Ο…ΟΞΏΟƒΞ²ΞµΟƒΟ„ΞΉΞΊΞΏΟ Ξ£ΟΞΌΞ±Ο„ΞΏΟ‚ ΞΊΞ±ΞΉ Ο„Ξ·Ο‚ Ξ“ΞµΞ½ΞΉΞΊΞ®Ο‚ Ξ“ΟΞ±ΞΌΞΌΞ±Ο„ΞµΞ―Ξ±Ο‚ Ξ ΞΏΞ»ΞΉΟ„ΞΉΞΊΞ®Ο‚ Ξ ΟΞΏΟƒΟ„Ξ±ΟƒΞ―Ξ±Ο‚, Ξ±Ξ½Ξ±Ξ²Ξ¬ΞΈΞΌΞΉΟƒΞ· Ξ¥Ο€Ξ·ΟΞµΟƒΞΉΟΞ½ Ο„ΞΏΟ… Ξ¥Ο€ΞΏΟ…ΟΞ³ΞµΞ―ΞΏΟ… Ξ”Ξ·ΞΌΟΟƒΞΉΞ±Ο‚ Ξ¤Ξ¬ΞΎΞ·Ο‚ ΞΊΞ±ΞΉ Ξ ΟΞΏΟƒΟ„Ξ±ΟƒΞ―Ξ±Ο‚ Ο„ΞΏΟ… Ξ ΞΏΞ»Ξ―Ο„Ξ· ΞΊΞ±ΞΉ ΟΟΞΈΞΌΞΉΟƒΞ· Ξ»ΞΏΞΉΟ€ΟΞ½ ΞΈΞµΞΌΞ¬Ο„Ο‰Ξ½ Ξ±ΟΞΌΞΏΞ΄ΞΉΟΟ„Ξ·Ο„Ξ±Ο‚ Ξ¥Ο€ΞΏΟ…ΟΞ³ΞµΞ―ΞΏΟ… Ξ”Ξ·ΞΌΟΟƒΞΉΞ±Ο‚ Ξ¤Ξ¬ΞΎΞ·Ο‚ ΞΊΞ±ΞΉ Ξ ΟΞΏΟƒΟ„Ξ±ΟƒΞ―Ξ±Ο‚ Ο„ΞΏΟ… Ξ ΞΏΞ»Ξ―Ο„Ξ·Β» (Ξ‘Ξ„Β 73). "@el.
+<http://legislation.di.uoa.gr/pd/2014/169/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 39 παρ. 1 του ν. 4249/2014 «Αναδιοργάνωση της Ελληνικής Αστυνομίας, του Πυροσβεστικού Σώματος και της Γενικής Γραμματείας Πολιτικής Προστασίας, αναβάθμιση Υπηρεσιών του Υπουργείου Δημόσιας Τάξης και Προστασίας του Πολίτη και ρύθμιση λοιπών θεμάτων αρμοδιότητας Υπουργείου Δημόσιας Τάξης και Προστασίας του Πολίτη» (Α΄ 73). "@el.
 <http://legislation.di.uoa.gr/pd/2014/169> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/169/citation/3>.
 <http://legislation.di.uoa.gr/pd/2014/169/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/169/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 90 Ο„ΞΏΟ… ΞΟΞ΄ΞΉΞΊΞ± ΞΞΏΞΌΞΏΞΈΞµΟƒΞ―Ξ±Ο‚ Ξ³ΞΉΞ± Ο„Ξ·Ξ½ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ· ΞΊΞ±ΞΉ Ο„Ξ± ΞΊΟ…Ξ²ΞµΟΞ½Ξ·Ο„ΞΉΞΊΞ¬ ΟΟΞ³Ξ±Ξ½Ξ±, Ο€ΞΏΟ… ΞΊΟ‰Ξ΄ΞΉΞΊΞΏΟ€ΞΏΞΉΞ®ΞΈΞ·ΞΊΞµ ΞΌΞµ Ο„ΞΏ Ξ¬ΟΞΈΟΞΏ Ο€ΟΟΟ„ΞΏ Ο„ΞΏΟ… Ξ .Ξ΄/Ο„ΞΏΟ‚ 63/2005 (Ξ‘Ξ„ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2014/169/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα, που κωδικοποιήθηκε με το άρθρο πρώτο του Π.δ/τος 63/2005 (Α΄ 98). "@el.
 <http://legislation.di.uoa.gr/pd/2014/169> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/169/citation/4>.
 <http://legislation.di.uoa.gr/pd/2014/169/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/169/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ξ .Ξ΄. 184/2009 Β«Ξ£ΟΟƒΟ„Ξ±ΟƒΞ· Ξ¥Ο€ΞΏΟ…ΟΞ³ΞµΞ―ΞΏΟ… Ξ ΟΞΏΟƒΟ„Ξ±ΟƒΞ―Ξ±Ο‚ Ο„ΞΏΟ… Ξ ΞΏΞ»Ξ―Ο„Ξ· ΞΊΞ±ΞΉ ΞΊΞ±ΞΈΞΏΟΞΉΟƒΞΌΟΟ‚ Ο„Ο‰Ξ½ Ξ±ΟΞΌΞΏΞ΄ΞΉΞΏΟ„Ξ®Ο„Ο‰Ξ½ Ο„ΞΏΟ…Β» (Ξ‘Ξ„ 213). "@el.
+<http://legislation.di.uoa.gr/pd/2014/169/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του Π.δ. 184/2009 «Σύσταση Υπουργείου Προστασίας του Πολίτη και καθορισμός των αρμοδιοτήτων του» (Α΄ 213). "@el.
 <http://legislation.di.uoa.gr/pd/2014/169> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/169/citation/5>.
 <http://legislation.di.uoa.gr/pd/2014/169/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/169/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ξ .Ξ΄/Ο„ΞΏΟ‚ 85/2012 Β«ΞΞ΄ΟΟ…ΟƒΞ· ΞΊΞ±ΞΉ ΞΌΞµΟ„ΞΏΞ½ΞΏΞΌΞ±ΟƒΞ―Ξ± Ξ¥Ο€ΞΏΟ…ΟΞ³ΞµΞ―Ο‰Ξ½, ΞΌΞµΟ„Ξ±Ο†ΞΏΟΞ¬ ΞΊΞ±ΞΉ ΞΊΞ±Ο„Ξ¬ΟΞ³Ξ·ΟƒΞ· Ο…Ο€Ξ·ΟΞµΟƒΞΉΟΞ½Β» (Ξ‘Ξ„ 141), ΟΟ€Ο‰Ο‚ Ο„ΟΞΏΟ€ΞΏΟ€ΞΏΞΉΞ®ΞΈΞ·ΞΊΞµ ΞΌΞµ Ο„Ξ± Ξ .Ξ΄. 94/2012 (Ξ‘Ξ„ 149) ΞΊΞ±ΞΉ 98/2012 (Ξ‘Ξ„ 160). "@el.
+<http://legislation.di.uoa.gr/pd/2014/169/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του Π.δ/τος 85/2012 «Ίδρυση και μετονομασία Υπουργείων, μεταφορά και κατάργηση υπηρεσιών» (Α΄ 141), όπως τροποποιήθηκε με τα Π.δ. 94/2012 (Α΄ 149) και 98/2012 (Α΄ 160). "@el.
 <http://legislation.di.uoa.gr/pd/2014/169> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/169/citation/6>.
 <http://legislation.di.uoa.gr/pd/2014/169/citation/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/169/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΏ Ξ .Ξ΄. 89/2014 Β«Ξ”ΞΉΞΏΟΞΉΟƒΞΌΟΟ‚ Ξ¥Ο€ΞΏΟ…ΟΞ³ΟΞ½, Ξ‘Ξ½Ξ±Ο€Ξ»Ξ·ΟΟ‰Ο„ΟΞ½ Ξ¥Ο€ΞΏΟ…ΟΞ³ΟΞ½ ΞΊΞ±ΞΉ Ξ¥Ο†Ο…Ο€ΞΏΟ…ΟΞ³ΟΞ½Β» (Ξ‘Ξ„ 134). "@el.
+<http://legislation.di.uoa.gr/pd/2014/169/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Το Π.δ. 89/2014 «Διορισμός Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α΄ 134). "@el.
 <http://legislation.di.uoa.gr/pd/2014/169> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/169/citation/7>.
 <http://legislation.di.uoa.gr/pd/2014/169/citation/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/169/citation/8> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΏ Ξ³ΞµΞ³ΞΏΞ½ΟΟ‚ ΟΟ„ΞΉ Ξ±Ο€Ο Ο„ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚ Ξ΄ΞµΞ½ Ο€ΟΞΏΞΊΞ±Ξ»ΞµΞ―Ο„Ξ±ΞΉ Ξ΄Ξ±Ο€Ξ¬Ξ½Ξ· ΟƒΞµ Ξ²Ξ¬ΟΞΏΟ‚ Ο„ΞΏΟ… ΞΊΟΞ±Ο„ΞΉΞΊΞΏΟ Ο€ΟΞΏΟ‹Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΞΌΞΏΟ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/169/citation/8> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού. "@el.
 <http://legislation.di.uoa.gr/pd/2014/169> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/169/citation/8>.
 <http://legislation.di.uoa.gr/pd/2014/169/citation/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/169/citation/9> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ·Ξ½ Ο…Ο€β€™ Ξ±ΟΞΉΞΈΞΌ. 241/2014 Ξ“Ξ½Ο‰ΞΌΞΏΞ΄ΟΟ„Ξ·ΟƒΞ· Ο„ΞΏΟ… Ξ£Ο…ΞΌΞ²ΞΏΟ…Ξ»Ξ―ΞΏΟ… Ο„Ξ·Ο‚ Ξ•Ο€ΞΉΞΊΟΞ±Ο„ΞµΞ―Ξ±Ο‚, ΟΟƒΟ„ΞµΟΞ± Ξ±Ο€Ο Ο€ΟΟΟ„Ξ±ΟƒΞ· Ο„ΞΏΟ… Ξ¥Ο€ΞΏΟ…ΟΞ³ΞΏΟ Ξ”Ξ·ΞΌΟΟƒΞΉΞ±Ο‚ Ξ¤Ξ¬ΞΎΞ·Ο‚ ΞΊΞ±ΞΉ Ξ ΟΞΏΟƒΟ„Ξ±ΟƒΞ―Ξ±Ο‚ Ο„ΞΏΟ… Ξ ΞΏΞ»Ξ―Ο„Ξ·, Ξ±Ο€ΞΏΟ†Ξ±ΟƒΞ―"@el.
+<http://legislation.di.uoa.gr/pd/2014/169/citation/9> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθμ. 241/2014 Γνωμοδότηση του Συμβουλίου της Επικρατείας, ύστερα από πρόταση του Υπουργού Δημόσιας Τάξης και Προστασίας του Πολίτη, αποφασί"@el.
 <http://legislation.di.uoa.gr/pd/2014/169> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/169/citation/9>.
 <http://legislation.di.uoa.gr/pd/2014/169/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/169> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/169/article/1>.
@@ -41,16 +41,16 @@
 <http://legislation.di.uoa.gr/pd/2014/169/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/169/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/169/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/169/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/169/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/169/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ξ‘Ξ½Ο„ΞΉΞΊΞ±Ο„Ξ¬ΟƒΟ„Ξ±ΟƒΞ· ΟΟΟ‰Ξ½ ΞΟ€ΞΏΟ… ΟƒΟ„ΞΉΟ‚ ΟΟ…ΞΈΞΌΞ―ΟƒΞµΞΉΟ‚ Ο„ΞΏΟ… Ξ .Ξ΄/Ο„ΞΏΟ‚ 27/1986 Ξ±Ξ½Ξ±Ο†Ξ­ΟΞµΟ„Ξ±ΞΉ Ξ· Β«Ξ¬Ξ΄ΞµΞΉΞ± ΞΌΞ±ΞΊΟΞ¬Ο‚ Ξ΄ΞΉΞ±ΟΞΊΞµΞ―Ξ±Ο‚ Ξ³ΞΉΞ± Ο„Ξ·Ξ½ Ξ±Ξ»Ξ»ΞΏΞ΄Ξ±Ο€Ξ®Β», Ξ½ΞΏΞµΞ―Ο„Ξ±ΞΉ Ξ· Β«Ξ¬Ξ΄ΞµΞΉΞ± Ο‡Ο‰ΟΞ―Ο‚ Ξ±Ο€ΞΏΞ΄ΞΏΟ‡Ξ­Ο‚ Β». "@el.
+<http://legislation.di.uoa.gr/pd/2014/169/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Αντικατάσταση όρων Όπου στις ρυθμίσεις του Π.δ/τος 27/1986 αναφέρεται η «άδεια μακράς διαρκείας για την αλλοδαπή», νοείται η «άδεια χωρίς αποδοχές »."@el.
 <http://legislation.di.uoa.gr/pd/2014/169/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/169> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/169/article/2>.
-<http://legislation.di.uoa.gr/pd/2014/169/article/2> <http://purl.org/dc/terms/title> "ΞΞ½Ξ±ΟΞΎΞ· ΞΉΟƒΟ‡ΟΞΏΟ‚".
+<http://legislation.di.uoa.gr/pd/2014/169/article/2> <http://purl.org/dc/terms/title> "Έναρξη ισχύος"@el.
 <http://legislation.di.uoa.gr/pd/2014/169/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/pd/2014/169/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/169/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/169/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/169/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/169/article/2/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/169/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ξ— ΞΉΟƒΟ‡ΟΟ‚ Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚ Ξ±ΟΟ‡Ξ―Ξ¶ΞµΞΉ Ξ±Ο€Ο Ο„Ξ·Ξ΄Ξ·ΞΌΞΏΟƒΞ―ΞµΟ…ΟƒΞ® Ο„ΞΏΟ… ΟƒΟ„Ξ·Ξ½ Ξ•Ο†Ξ·ΞΌΞµΟΞ―Ξ΄Ξ± Ο„Ξ·Ο‚ ΞΟ…Ξ²ΞµΟΞ½Ξ®ΟƒΞµΟ‰Ο‚.Ξ£Ο„ΞΏΞ½ Ξ¥Ο€ΞΏΟ…ΟΞ³Ο Ξ”Ξ·ΞΌΟΟƒΞΉΞ±Ο‚ Ξ¤Ξ¬ΞΎΞ·Ο‚ ΞΊΞ±ΞΉ Ξ ΟΞΏΟƒΟ„Ξ±ΟƒΞ―Ξ±Ο‚ Ο„ΞΏΟ…Ξ ΞΏΞ»Ξ―Ο„Ξ· Ξ±Ξ½Ξ±ΞΈΞ­Ο„ΞΏΟ…ΞΌΞµ Ο„Ξ· Ξ΄Ξ·ΞΌΞΏΟƒΞ―ΞµΟ…ΟƒΞ· ΞΊΞ±ΞΉ ΞµΞΊΟ„Ξ­Ξ»ΞµΟƒΞ· Ο„ΞΏΟ…Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚. "@el.
+<http://legislation.di.uoa.gr/pd/2014/169/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος διατάγματος αρχίζει από τηδημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.Στον Υπουργό Δημόσιας Τάξης και Προστασίας τουΠολίτη αναθέτουμε τη δημοσίευση και εκτέλεση τουπαρόντος διατάγματος."@el.
 <http://legislation.di.uoa.gr/pd/2014/169> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΞΞ‘Ξ΅ΞΞ›ΞΞ£ Ξ Ξ‘Ξ ΞΞ¥Ξ›Ξ™Ξ‘Ξ£"@el.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
 

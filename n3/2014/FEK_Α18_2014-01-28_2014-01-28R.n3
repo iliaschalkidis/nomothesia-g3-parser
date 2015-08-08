@@ -1,34 +1,28 @@
-ο»Ώ<http://legislation.di.uoa.gr/law/2014/4230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2014/4230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
 <http://legislation.di.uoa.gr/law/2014/4230> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/18>.
-<http://legislation.di.uoa.gr/gazette/a/2014/18> <http://purl.org/dc/terms/title> "Ξ‘/2014/18".
+<http://legislation.di.uoa.gr/gazette/a/2014/18> <http://purl.org/dc/terms/title> "Α/2014/18".
 <http://legislation.di.uoa.gr/law/2014/4230> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/law/2014/4230> <http://purl.org/dc/terms/created> "2014-01-28"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/law/2014/4230> <http://legislation.di.uoa.gr/ontology/legislationID> "4230"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/law/2014/4230> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/law/2014/4230> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
-<http://legislation.di.uoa.gr/law/2014/4230> <http://purl.org/dc/terms/title> "KΟΟΟ‰ΟƒΞ· Ο„Ξ·Ο‚ Ξ£ΟΞΌΞ²Ξ±ΟƒΞ·Ο‚ Ξ³ΞΉΞ± Ο„Ξ·Ξ½ Ξ­ΞΊΞ΄ΞΏΟƒΞ· Ο€ΞΉΟƒΟ„ΞΏΟ€ΞΏΞΉΞ·Ο„ΞΉΞΊΞΏΟ ΞΉΞΊΞ±Ξ½ΟΟ„Ξ·Ο„Ξ±Ο‚ Ξ³Ξ¬ΞΌΞΏΟ…. Ξ Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ•Ξ›Ξ›Ξ—ΞΞ™ΞΞ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£ "@el.
+<http://legislation.di.uoa.gr/law/2014/4230> <http://purl.org/dc/terms/title> "Kύρωση της Σύμβασης για την έκδοση πιστοποιητικού ικανότητας γάμου. Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ "@el.
 <http://legislation.di.uoa.gr/law/2014/4230/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4230> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4230/article/1>.
 <http://legislation.di.uoa.gr/law/2014/4230/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4230/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4230/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/law/2014/4230/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4230/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4230/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/law/2014/4230/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΞΟ…ΟΟΞ½ΞµΟ„Ξ±ΞΉ ΞΊΞ±ΞΉ Ξ­Ο‡ΞµΞΉ Ο„Ξ·Ξ½ ΞΉΟƒΟ‡Ο, Ο€ΞΏΟ… ΞΏΟΞ―Ξ¶ΞµΞΉ Ο„ΞΏ Ξ¬ΟΞΈΟΞΏ 28 Ο€Ξ±Ο. "@el.
-<http://legislation.di.uoa.gr/law/2014/4230/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
-<http://legislation.di.uoa.gr/law/2014/4230/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4230/article/1/paragraph/1/passage/2>.
-<http://legislation.di.uoa.gr/law/2014/4230/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "1 Ο„ΞΏΟ… Ξ£Ο…Ξ½Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚, Ξ· Ξ£ΟΞΌΞ²Ξ±ΟƒΞ· Ξ³ΞΉΞ± Ο„Ξ·Ξ½ Ξ­ΞΊΞ΄ΞΏΟƒΞ· Ο€ΞΉΟƒΟ„ΞΏΟ€ΞΏΞΉΞ·Ο„ΞΉΞΊΞΏΟ ΞΉΞΊΞ±Ξ½ΟΟ„Ξ·Ο„Ξ±Ο‚ Ξ³Ξ¬ΞΌΞΏΟ… Ο€ΞΏΟ… Ο…Ο€ΞΏΞ³ΟΞ¬Ο†Ξ·ΞΊΞµ ΟƒΟ„ΞΏ ΞΟΞ½Ξ±Ο‡ΞΏ, ΟƒΟ„ΞΉΟ‚ 5 Ξ£ΞµΟ€Ο„ΞµΞΌΞ²ΟΞ―ΞΏΟ… 1980, Ο„ΞΏ ΞΊΞµΞ―ΞΌΞµΞ½ΞΏ Ο„Ξ·Ο‚ ΞΏΟ€ΞΏΞ―Ξ±Ο‚ ΟƒΞµ Ο€ΟΟ‰Ο„ΟΟ„Ο…Ο€ΞΏ ΟƒΟ„Ξ· Ξ³Ξ±Ξ»Ξ»ΞΉΞΊΞ® ΞΊΞ±ΞΉ ΟƒΞµ ΞΌΞµΟ„Ξ¬Ο†ΟΞ±ΟƒΞ· ΟƒΟ„Ξ·Ξ½ ΞµΞ»Ξ»Ξ·Ξ½ΞΉΞΊΞ® Ξ³Ξ»ΟΟƒΟƒΞ± Ξ­Ο‡ΞµΞΉ Ο‰Ο‚ ΞµΞΎΞ®Ο‚:"@el.
-<http://legislation.di.uoa.gr/law/2014/4230/article/1/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
-<http://legislation.di.uoa.gr/law/2014/4230/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4230/article/1/paragraph/1/passage/3>.
-<http://legislation.di.uoa.gr/law/2014/4230/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "  312     314     316     318     320     322     324     326     328     330     332     334     336     338 "@el.
+<http://legislation.di.uoa.gr/law/2014/4230/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνεται και έχει την ισχύ, που ορίζει το άρθρο 28 παρ. 1 του Συντάγματος, η Σύμβαση για την έκδοση πιστοποιητικού ικανότητας γάμου που υπογράφηκε στο Μόναχο, στις 5 Σεπτεμβρίου 1980, το κείμενο της οποίας σε πρωτότυπο στη γαλλική και σε μετάφραση στην ελληνική γλώσσα έχει ως εξής:  312     314     316     318     320     322     324     326     328     330     332     334     336     338"@el.
 <http://legislation.di.uoa.gr/law/2014/4230/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4230> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4230/article/2>.
-<http://legislation.di.uoa.gr/law/2014/4230/article/2> <http://purl.org/dc/terms/title> "Ξ†ΟΞΈΟΞΏ Ο„ΟΞ―Ο„ΞΏ".
+<http://legislation.di.uoa.gr/law/2014/4230/article/2> <http://purl.org/dc/terms/title> "Άρθρο τρίτο"@el.
 <http://legislation.di.uoa.gr/law/2014/4230/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4230/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4230/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/law/2014/4230/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4230/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4230/article/2/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/law/2014/4230/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ξ‘ΟΞΌΟΞ΄ΞΉΞ± Ξ³ΞΉΞ± Ο„ΞΏΞ½ ΞΏΟΞΉΟƒΞΌΟ Ο„Ο‰Ξ½ Ξ‘ΟΟ‡ΟΞ½, ΞΊΞ±Ο„Ξ¬ Ο„ΞΏ Ξ¬ΟΞΈΟΞΏ 8Ο„Ξ·Ο‚ ΞΊΟ…ΟΞΏΟΞΌΞµΞ½Ξ·Ο‚ Ξ£ΟΞΌΞ²Ξ±ΟƒΞ·Ο‚, ΞµΞ―Ξ½Ξ±ΞΉ Ο„Ξ± ΞΊΞ±Ο„Ξ¬ Ο„ΟΟ€ΞΏΟ…Ο‚ Ξ›Ξ·ΞΎΞΉ-Ξ±ΟΟ‡ΞµΞ―Ξ± Ο„Ξ·Ο‚ Ο‡ΟΟΞ±Ο‚, Ο„ΞΏ ΞµΟ€ΞΏΟ€Ο„ΞµΟΞΏΞ½ Ξ±Ο…Ο„Ξ¬ Ξ¥Ο€ΞΏΟ…ΟΞ³ΞµΞ―ΞΏ Ξ•ΟƒΟ‰-Ο„ΞµΟΞΉΞΊΟΞ½ ΞΊΞ±ΞΉ ΞΏΞΉ Ξ΄ΞΉΟ€Ξ»Ο‰ΞΌΞ±Ο„ΞΉΞΊΞΏΞ― ΞΊΞ±ΞΉ Ο€ΟΞΏΞΎΞµΞ½ΞΉΞΊΞΏΞ― Ξ»ΞµΞΉΟ„ΞΏΟ…ΟΞ³ΞΏΞ―ΟƒΟ„ΞΏΟ…Ο‚ ΞΏΟ€ΞΏΞ―ΞΏΟ…Ο‚ Ξ­Ο‡ΞµΞΉ Ξ±Ξ½Ξ±Ο„ΞµΞΈΞµΞ― ΞµΞΊ Ο„ΞΏΟ… Ξ½ΟΞΌΞΏΟ… Ξ· Ξ¬ΟƒΞΊΞ·ΟƒΞ·ΞΊΞ±ΞΈΞ·ΞΊΟΞ½Ο„Ο‰Ξ½ Ξ›Ξ·ΞΎΞΉΞ¬ΟΟ‡ΞΏΟ….Ξ— ΞΉΟƒΟ‡ΟΟ‚ Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ½ΟΞΌΞΏΟ… Ξ±ΟΟ‡Ξ―Ξ¶ΞµΞΉ Ξ±Ο€Ο Ο„Ξ· Ξ΄Ξ·ΞΌΞΏ-ΟƒΞ―ΞµΟ…ΟƒΞ® Ο„ΞΏΟ… ΟƒΟ„Ξ·Ξ½ Ξ•Ο†Ξ·ΞΌΞµΟΞ―Ξ΄Ξ± Ο„Ξ·Ο‚ ΞΟ…Ξ²ΞµΟΞ½Ξ®ΟƒΞµΟ‰Ο‚ ΞΊΞ±ΞΉ Ο„Ξ·Ο‚Ξ£ΟΞΌΞ²Ξ±ΟƒΞ·Ο‚ Ο€ΞΏΟ… ΞΊΟ…ΟΟΞ½ΞµΟ„Ξ±ΞΉ Ξ±Ο€Ο Ο„Ξ·Ξ½ Ο€Ξ»Ξ®ΟΟ‰ΟƒΞ· Ο„Ο‰Ξ½ Ο€ΟΞΏΟ‹-Ο€ΞΏΞΈΞ­ΟƒΞµΟ‰Ξ½ Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 12 Ο€Ξ±ΟΞ¬Ξ³ΟΞ±Ο†ΞΏΟ‚ 2 Ξ±Ο…Ο„Ξ®Ο‚.Ξ Ξ±ΟΞ±Ξ³Ξ³Ξ­Ξ»Ξ»ΞΏΞΌΞµ Ο„Ξ· Ξ΄Ξ·ΞΌΞΏΟƒΞ―ΞµΟ…ΟƒΞ· Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ ΟƒΟ„Ξ·Ξ½Ξ•Ο†Ξ·ΞΌΞµΟΞ―Ξ΄Ξ± Ο„Ξ·Ο‚ ΞΟ…Ξ²ΞµΟΞ½Ξ®ΟƒΞµΟ‰Ο‚ ΞΊΞ±ΞΉ Ο„Ξ·Ξ½ ΞµΞΊΟ„Ξ­Ξ»ΞµΟƒΞ® Ο„ΞΏΟ… Ο‰Ο‚Ξ½ΟΞΌΞΏΟ… Ο„ΞΏΟ… ΞΟΞ¬Ο„ΞΏΟ…Ο‚. "@el.
+<http://legislation.di.uoa.gr/law/2014/4230/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Αρμόδια για τον ορισμό των Αρχών, κατά το άρθρο 8της κυρούμενης Σύμβασης, είναι τα κατά τόπους Ληξι-αρχεία της χώρας, το εποπτεύον αυτά Υπουργείο Εσω-τερικών και οι διπλωματικοί και προξενικοί λειτουργοίστους οποίους έχει ανατεθεί εκ του νόμου η άσκησηκαθηκόντων Ληξιάρχου.Η ισχύς του παρόντος νόμου αρχίζει από τη δημο-σίευσή του στην Εφημερίδα της Κυβερνήσεως και τηςΣύμβασης που κυρώνεται από την πλήρωση των προϋ-ποθέσεων του άρθρου 12 παράγραφος 2 αυτής.Παραγγέλλομε τη δημοσίευση του παρόντος στηνΕφημερίδα της Κυβερνήσεως και την εκτέλεσή του ωςνόμου του Κράτους."@el.
 <http://legislation.di.uoa.gr/law/2014/4230> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΞΞ‘Ξ΅ΞΞ›ΞΞ£ Ξ Ξ‘Ξ ΞΞ¥Ξ›Ξ™Ξ‘Ξ£"@el.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
 

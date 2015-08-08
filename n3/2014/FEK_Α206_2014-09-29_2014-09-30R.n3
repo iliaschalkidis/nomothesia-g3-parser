@@ -1,24 +1,24 @@
-ο»Ώ<http://legislation.di.uoa.gr/pd/2014/126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/126> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/206>.
-<http://legislation.di.uoa.gr/gazette/a/2014/206> <http://purl.org/dc/terms/title> "Ξ‘/2014/206".
+<http://legislation.di.uoa.gr/gazette/a/2014/206> <http://purl.org/dc/terms/title> "Α/2014/206".
 <http://legislation.di.uoa.gr/pd/2014/126> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/126> <http://purl.org/dc/terms/created> "2014-09-29"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/126> <http://legislation.di.uoa.gr/ontology/legislationID> "126"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/pd/2014/126> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/pd/2014/126> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
 <http://legislation.di.uoa.gr/pd/2014/126> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/126/2014-09-29>.
-<http://legislation.di.uoa.gr/pd/2014/126> <http://purl.org/dc/terms/title> "Ξ¤ΟΞΏΟ€ΞΏΟ€ΞΏΞ―Ξ·ΟƒΞ· ΞΊΞ±ΞΉ ΟƒΟ…ΞΌΟ€Ξ»Ξ®ΟΟ‰ΟƒΞ· Ο„ΞΏΟ… Ο€.Ξ΄. 107/2001 Β«Ξ•Ο…ΞµΟΞ³ΞµΟ„ΞΉΞΊΟΟ‚ Ο…Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΞΌΟΟ‚ Ξ·ΞΌΞµΟΟΞ½ Ο€ΞΏΞΉΞ½Ξ®Ο‚ ΞΊΞ±Ο„Ξ±Ξ΄Ξ―ΞΊΟ‰Ξ½ ΞΊΞ±ΞΉ Ο…Ο€ΞΏΞ΄Ξ―ΞΊΟ‰Ξ½ Ξ³ΞΉΞ± ΞµΟΞ³Ξ±ΟƒΞ―Ξ± Ξ® Ξ±Ο€Ξ±ΟƒΟ‡ΟΞ»Ξ·ΟƒΞ· ΟƒΞµ Ο€ΟΞΏΞ³ΟΞ¬ΞΌΞΌΞ±Ο„Ξ± Ξ® ΟƒΟ€ΞΏΟ…Ξ΄Ξ­Ο‚Β» (Ξ‘Ξ„97). "@el.
+<http://legislation.di.uoa.gr/pd/2014/126> <http://purl.org/dc/terms/title> "Τροποποίηση και συμπλήρωση του π.δ. 107/2001 «Ευεργετικός υπολογισμός ημερών ποινής καταδίκων και υποδίκων για εργασία ή απασχόληση σε προγράμματα ή σπουδές» (Α΄97). "@el.
 <http://legislation.di.uoa.gr/pd/2014/126/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/126/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„Ξ·Ο‚ Ο€Ξ±ΟΞ±Ξ³ΟΞ¬Ο†ΞΏΟ… 2 Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 46 Ο„ΞΏΟ… Ξ½.Β 2776/1999 Β«Ξ£Ο‰Ο†ΟΞΏΞ½ΞΉΟƒΟ„ΞΉΞΊΟΟ‚ ΞΟΞ΄ΞΉΞΊΞ±Ο‚Β» (Ξ‘Ξ„ 291). "@el.
+<http://legislation.di.uoa.gr/pd/2014/126/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις της παραγράφου 2 του άρθρου 46 του ν. 2776/1999 «Σωφρονιστικός Κώδικας» (Α΄ 291). "@el.
 <http://legislation.di.uoa.gr/pd/2014/126> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/citation/1>.
 <http://legislation.di.uoa.gr/pd/2014/126/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/126/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 90 Ο„ΞΏΟ… ΞΟΞ΄ΞΉΞΊΞ± Ο„Ξ·Ο‚ Ξ½ΞΏΞΌΞΏΞΈΞµΟƒΞ―Ξ±Ο‚ Ξ³ΞΉΞ± Ο„Ξ·Ξ½ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ· ΞΊΞ±ΞΉ Ο„Ξ± ΞΊΟ…Ξ²ΞµΟΞ½Ξ·Ο„ΞΉΞΊΞ¬ ΞΟΞ³Ξ±Ξ½Ξ±, (Ξ¬ΟΞΈΟΞΏ Ο€ΟΟΟ„ΞΏ Ο„ΞΏΟ… Ο€.Ξ΄. 63/2005, Ξ‘Ξ„ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2014/126/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 90 του Κώδικα της νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά Όργανα, (άρθρο πρώτο του π.δ. 63/2005, Α΄ 98). "@el.
 <http://legislation.di.uoa.gr/pd/2014/126> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/citation/2>.
 <http://legislation.di.uoa.gr/pd/2014/126/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/126/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΏ Ξ³ΞµΞ³ΞΏΞ½ΟΟ‚ ΟΟ„ΞΉ Ξ±Ο€Ο Ο„ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ΄ΞµΞ½ Ο€ΟΞΏΞΊΞ±Ξ»ΞµΞ―Ο„Ξ±ΞΉ Ξ΄Ξ±Ο€Ξ¬Ξ½Ξ· ΟƒΞµ Ξ²Ξ¬ΟΞΏΟ‚ Ο„ΞΏΟ… ΞΊΟΞ±Ο„ΞΉΞΊΞΏΟ Ο€ΟΞΏΟ‹Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΞΌΞΏΟ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/126/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού. "@el.
 <http://legislation.di.uoa.gr/pd/2014/126> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/citation/3>.
 <http://legislation.di.uoa.gr/pd/2014/126/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/126/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ·Ξ½ Ο…Ο€β€™ Ξ±ΟΞΉΞΈ. 155/2014 Ξ³Ξ½Ο‰ΞΌΞΏΞ΄ΟΟ„Ξ·ΟƒΞ· Ο„ΞΏΟ… Ξ£Ο…ΞΌΞ²ΞΏΟ…Ξ»Ξ―ΞΏΟ… Ξ•Ο€ΞΉΞΊΟΞ±Ο„ΞµΞ―Ξ±Ο‚, ΞΌΞµΟ„Ξ¬ Ξ±Ο€Ο Ο€ΟΟΟ„Ξ±ΟƒΞ· Ο„ΞΏΟ… Ξ¥Ο€ΞΏΟ…ΟΞ³ΞΏΟ Ξ”ΞΉΞΊΞ±ΞΉΞΏΟƒΟΞ½Ξ·Ο‚, Ξ”ΞΉΞ±Ο†Ξ¬Ξ½ΞµΞΉΞ±Ο‚ ΞΊΞ±ΞΉ Ξ‘Ξ½ΞΈΟΟ‰Ο€Ξ―Ξ½Ο‰Ξ½ Ξ”ΞΉΞΊΞ±ΞΉΟ‰ΞΌΞ¬Ο„Ο‰Ξ½, "@el.
+<http://legislation.di.uoa.gr/pd/2014/126/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθ. 155/2014 γνωμοδότηση του Συμβουλίου Επικρατείας, μετά από πρόταση του Υπουργού Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων, "@el.
 <http://legislation.di.uoa.gr/pd/2014/126> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/citation/4>.
 <http://legislation.di.uoa.gr/pd/2014/126/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/126> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1>.
@@ -26,33 +26,27 @@
 <http://legislation.di.uoa.gr/pd/2014/126/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ξ†ΟΞΈΟΞΏ 2 1. "@el.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Άρθρο 2 1. "@el.
 <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/2>.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ξ— Ο€ΞµΟΞ―Ο€Ο„Ο‰ΟƒΞ· Ξ·Ξ„ Ο„Ξ·Ο‚ Ο€Ξ±ΟΞ±Ξ³ΟΞ¬Ο†ΞΏΟ… 1 Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 1 Ο„ΞΏΟ… Ο€.Ξ΄. "@el.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Η περίπτωση η΄ της παραγράφου 1 του άρθρου 1 του πδ. "@el.
 <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/3>.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "107/2001 (Ξ‘Ξ„97), Ξ· ΞΏΟ€ΞΏΞ―Ξ± Ο€ΟΞΏΟƒΟ„Ξ­ΞΈΞ·ΞΊΞµ ΞΌΞµ Ο„Ξ·Ξ½ Ο€Ξ±Ο. "@el.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "107/2001 (Α΄97), η οποία προστέθηκε με την παρ. 2 του άρθρου 1 του πδ. "@el.
 <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/4>.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "2 Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 1 Ο„ΞΏΟ… Ο€.Ξ΄. "@el.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "333/2003 (Α΄285) και αντικαταστάθηκε με το άρθρο 1 του πδ. "@el.
 <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/5>.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "333/2003 (Ξ‘Ξ„285) ΞΊΞ±ΞΉ Ξ±Ξ½Ο„ΞΉΞΊΞ±Ο„Ξ±ΟƒΟ„Ξ¬ΞΈΞ·ΞΊΞµ ΞΌΞµ Ο„ΞΏ Ξ¬ΟΞΈΟΞΏ 1 Ο„ΞΏΟ… Ο€.Ξ΄. "@el.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/6>.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> "240/2007 (Ξ‘Ξ„283), Ξ±Ξ½Ο„ΞΉΞΊΞ±ΞΈΞ―ΟƒΟ„Ξ±Ο„Ξ±ΞΉ Ο‰Ο‚ Ξ±ΞΊΞΏΞ»ΞΏΟΞΈΟ‰Ο‚:"@el.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "240/2007 (Α΄283), αντικαθίσταται ως ακολούθως:"@el.
 <http://legislation.di.uoa.gr/pd/2014/126>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/modification/1>.
 <http://legislation.di.uoa.gr/pd/2014/126>  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/modification/1>.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/6/modification/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/6/modification/1>.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/6/modification/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/6/modification/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/6/modification/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/6/modification/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΞΈ) Ξ¦ΞΏΞ―Ο„Ξ·ΟƒΞ·Ο‚, ΞΊΞ±ΞΈβ€™ ΟΞ»Ξ· Ο„Ξ· Ξ΄ΞΉΞ¬ΟΞΊΞµΞΉΞ± Ο„ΞΏΟ… ΟƒΟ‡ΞΏΞ»ΞΉΞΊΞΏΟ Ξ­Ο„ΞΏΟ…Ο‚, ΞΌΞ· ΞµΞΎΞ±ΞΉΟΞΏΟ…ΞΌΞ­Ξ½Ο‰Ξ½ Ο„Ο‰Ξ½ Ξ±ΟΞ³ΞΉΟΞ½ ΞΊΞ±ΞΉ ΟƒΟ‡ΞΏΞ»ΞΉΞΊΟΞ½ Ξ® Ξ¬Ξ»Ξ»Ο‰Ξ½ Ξ΄ΞΉΞ±ΞΊΞΏΟ€ΟΞ½, ΟƒΞµ ΟƒΟ‡ΞΏΞ»ΞµΞ―Ξ± Ξ΄ΞµΟΟ„ΞµΟΞ·Ο‚ ΞµΟ…ΞΊΞ±ΞΉΟΞ―Ξ±Ο‚, Ξ³ΞΉΞ± Ξ±Ο€ΟΞΊΟ„Ξ·ΟƒΞ· Ο„Ξ―Ο„Ξ»ΞΏΟ… Ο…Ο€ΞΏΟ‡ΟΞµΟ‰Ο„ΞΉΞΊΞ®Ο‚ ΞµΞΊΟ€Ξ±Ξ―Ξ΄ΞµΟ…ΟƒΞ·Ο‚, Ξ® ΟƒΞµ Ξ΄Ξ·ΞΌΟΟƒΞΉΞ± I.E.Ξ. ΞΊΞ±ΞΉ Ξ£.Ξ•.Ξ. Ξ® ΟƒΞµ Ο€ΞΉΟƒΟ„ΞΏΟ€ΞΏΞΉΞ·ΞΌΞ­Ξ½ΞµΟ‚ ΟƒΟ‡ΞΏΞ»Ξ­Ο‚ ΞΌΞ±ΞΈΞ·Ο„ΞµΞ―Ξ±Ο‚, Ο€ΞΏΟ… Ξ»ΞµΞΉΟ„ΞΏΟ…ΟΞ³ΞΏΟΞ½ ΟƒΞµ ΞΏΟ€ΞΏΞΉΞΏΞ΄Ξ®Ο€ΞΏΟ„Ξµ Ξ£Ο‰Ο†ΟΞΏΞ½ΞΉΟƒΟ„ΞΉΞΊΟ ΞΞ±Ο„Ξ¬ΟƒΟ„Ξ·ΞΌΞ± ΞΟΞ¬Ο„Ξ·ΟƒΞ·Ο‚ Ξ•Ξ½Ξ·Ξ»Ξ―ΞΊΟ‰Ξ½ Ξ® Ξ•ΞΉΞ΄ΞΉΞΊΟ ΞΞ±Ο„Ξ¬ΟƒΟ„Ξ·ΞΌΞ± ΞΟΞ¬Ο„Ξ·ΟƒΞ·Ο‚ ΞΞ­Ο‰Ξ½ "@el.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/7>.
-<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/7> <http://legislation.di.uoa.gr/ontology/text> "  "@el.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/5/modification/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/5/modification/1>.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/5/modification/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/5/modification/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/5/modification/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2014/126/article/1/paragraph/1/passage/5/modification/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "θ) Φοίτησης, καθ’ όλη τη διάρκεια του σχολικού έτους, μη εξαιρουμένων των αργιών και σχολικών ή άλλων διακοπών, σε σχολεία δεύτερης ευκαιρίας, για απόκτηση τίτλου υποχρεωτικής εκπαίδευσης, ή σε δημόσια I.E.Κ. και Σ.Ε.Κ. ή σε πιστοποιημένες σχολές μαθητείας, που λειτουργούν σε οποιοδήποτε Σωφρονιστικό Κατάστημα Κράτησης Ενηλίκων ή Ειδικό Κατάστημα Κράτησης Νέων "@el.
 <http://legislation.di.uoa.gr/pd/2014/126> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΞΞ‘Ξ΅ΞΞ›ΞΞ£ Ξ Ξ‘Ξ ΞΞ¥Ξ›Ξ™Ξ‘Ξ£"@el.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
 

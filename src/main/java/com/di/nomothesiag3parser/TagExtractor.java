@@ -24,7 +24,7 @@ public class TagExtractor {
         int count = 0;
         //System.out.println(text);
         uniqueKeys = getUniqueKeys(keys);
-
+        System.out.print("KEYS:");
         for(String key: uniqueKeys)
         {
             if(null == key)
@@ -38,12 +38,14 @@ public class TagExtractor {
                     count++;
                 }               
             }
-            if(((!stopWords.contains(key)) || key.equals(""))&&count>10){
+            
+            if(((!stopWords.contains(key)) || key.length()<4)&&count>10){
                 tags.add(key);
+                System.out.print(key+",");
             }
             count=0;
         }
-        
+        System.out.println();
         return tags;
     }
     

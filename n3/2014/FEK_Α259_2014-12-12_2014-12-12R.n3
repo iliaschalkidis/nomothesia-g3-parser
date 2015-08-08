@@ -1,46 +1,40 @@
-ο»Ώ<http://legislation.di.uoa.gr/law/2014/4311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2014/4311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
 <http://legislation.di.uoa.gr/law/2014/4311> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/259>.
-<http://legislation.di.uoa.gr/gazette/a/2014/259> <http://purl.org/dc/terms/title> "Ξ‘/2014/259".
+<http://legislation.di.uoa.gr/gazette/a/2014/259> <http://purl.org/dc/terms/title> "Α/2014/259".
 <http://legislation.di.uoa.gr/law/2014/4311> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/law/2014/4311> <http://purl.org/dc/terms/created> "2014-12-12"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/law/2014/4311> <http://legislation.di.uoa.gr/ontology/legislationID> "4311"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/law/2014/4311> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/law/2014/4311> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
-<http://legislation.di.uoa.gr/law/2014/4311> <http://purl.org/dc/terms/title> "ΞΟΟΟ‰ΟƒΞ· Ο„ΞΏΟ… ΞΟΞ±Ο„ΞΉΞΊΞΏΟ Ξ ΟΞΏΟ‹Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΞΌΞΏΟ ΞΊΞ±ΞΉ Ο„Ο‰Ξ½ Ο€ΟΞΏΟ‹- Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΞΌΟΞ½ ΞΏΟΞΉΟƒΞΌΞ­Ξ½Ο‰Ξ½ ΞµΞΉΞ΄ΞΉΞΊΟΞ½ Ο„Ξ±ΞΌΞµΞ―Ο‰Ξ½ ΞΊΞ±ΞΉ Ο…Ο€Ξ·ΟΞµ- ΟƒΞΉΟΞ½ ΞΏΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΞΏΟ Ξ­Ο„ΞΏΟ…Ο‚ 2015. Ξ Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ•Ξ›Ξ›Ξ—ΞΞ™ΞΞ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£ "@el.
+<http://legislation.di.uoa.gr/law/2014/4311> <http://purl.org/dc/terms/title> "Κύρωση του Κρατικού Προϋπολογισμού και των προϋπολογισμών ορισμένων ειδικών ταμείων και υπηρεσιών οικονομικού έτους 2015. Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ "@el.
 <http://legislation.di.uoa.gr/law/2014/4311/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4311> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4311/article/1>.
 <http://legislation.di.uoa.gr/law/2014/4311/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4311/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4311/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/law/2014/4311/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4311/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4311/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/law/2014/4311/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΞΟ…ΟΟΞ½ΞµΟ„Ξ±ΞΉ ΞΏ ΞΟΞ±Ο„ΞΉΞΊΟΟ‚ Ξ ΟΞΏΟ‹Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΞΌΟΟ‚ Ο„ΞΏΟ… ΞΏΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΞΏΟ Ξ­Ο„ΞΏΟ…Ο‚ 2015 ΞΏ ΞΏΟ€ΞΏΞ―ΞΏΟ‚ ΞµΞ―Ξ½Ξ±ΞΉ ΞµΞ½Ξ±ΟΞΌΞΏΞ½ΞΉΟƒΞΌΞ­Ξ½ΞΏΟ‚ ΞΌΞµ Ο„ΞΏ ΞΞµΟƒΞΏΟ€ΟΟΞΈΞµΟƒΞΌΞΏ Ξ Ξ»Ξ±Ξ―ΟƒΞΉΞΏ Ξ”Ξ·ΞΌΞΏΟƒΞΉΞΏΞ½ΞΏΞΌΞΉΞΊΞ®Ο‚ Ξ£Ο„ΟΞ±Ο„Ξ·Ξ³ΞΉΞΊΞ®Ο‚ 2015-2018. "@el.
+<http://legislation.di.uoa.gr/law/2014/4311/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνεται ο Κρατικός Προϋπολογισμός του οικονομικού έτους 2015 ο οποίος είναι εναρμονισμένος με το Μεσοπρόθεσμο Πλαίσιο Δημοσιονομικής Στρατηγικής 2015-2018. "@el.
 <http://legislation.di.uoa.gr/law/2014/4311/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4311/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4311/article/1/paragraph/1/passage/2>.
-<http://legislation.di.uoa.gr/law/2014/4311/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ξ¤Ξ± Ξ­ΟƒΞΏΞ΄Ξ± ΞΊΞ±ΞΉ Ο„Ξ± Ξ­ΞΎΞΏΞ΄Ξ± Ο„ΞΏΟ… ΞΟΞ±Ο„ΞΉΞΊΞΏΟ Ξ ΟΞΏΟ‹Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΞΌΞΏΟ ΞΏΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΞΏΟ Ξ­Ο„ΞΏΟ…Ο‚ 2015 ΞΏΟΞ―Ξ¶ΞΏΞ½Ο„Ξ±ΞΉ ΟƒΟ„ΞΏΟ…Ο‚ ΞµΟ€ΞΉΟƒΟ…Ξ½Ξ±Ο€Ο„ΟΞΌΞµΞ½ΞΏΟ…Ο‚ Ο€Ξ―Ξ½Ξ±ΞΊΞµΟ‚ ΞΊΞ±ΞΉ ΞΊΞ±Ο„Ξ±Ξ½Ξ­ΞΌΞΏΞ½Ο„Ξ±ΞΉ Ο‰Ο‚ Ξ±ΞΊΞΏΞ»ΞΏΟΞΈΟ‰Ο‚:"@el.
-<http://legislation.di.uoa.gr/law/2014/4311/article/1/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
-<http://legislation.di.uoa.gr/law/2014/4311/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4311/article/1/paragraph/1/passage/3>.
-<http://legislation.di.uoa.gr/law/2014/4311/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "  7932 "@el.
+<http://legislation.di.uoa.gr/law/2014/4311/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Τα έσοδα και τα έξοδα του Κρατικού Προϋπολογισμού οικονομικού έτους 2015 ορίζονται στους επισυναπτόμενους πίνακες και κατανέμονται ως ακολούθως:"@el.
 <http://legislation.di.uoa.gr/law/2014/4311/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4311> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4311/article/2>.
 <http://legislation.di.uoa.gr/law/2014/4311/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4311/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4311/article/2/paragraph/1>.
 <http://legislation.di.uoa.gr/law/2014/4311/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4311/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4311/article/2/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/law/2014/4311/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ξ¤Ξ± Ξ­ΞΎΞΏΞ΄Ξ± Ξ±Ξ½Ξ¬ Ξ¥Ο€ΞΏΟ…ΟΞ³ΞµΞ―ΞΏ, Ξ‘Ο€ΞΏΞΊΞµΞ½Ο„ΟΟ‰ΞΌΞ­Ξ½Ξ· Ξ”ΞΉΞΏΞ―ΞΊΞ·ΟƒΞ· ΞΊΞ±ΞΉ Ξ ΞµΟΞΉΟ†ΞµΟΞµΞΉΞ±ΞΊΞ® Ξ¥Ο€Ξ·ΟΞµΟƒΞ―Ξ± Ξ¥Ο€ΞΏΟ…ΟΞ³ΞµΞ―ΞΏΟ… ΞΏΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΞΏΟ Ξ­Ο„ΞΏΟ…Ο‚ 2015, ΞΏΟΞ―Ξ¶ΞΏΞ½Ο„Ξ±ΞΉ Ο‰Ο‚ Ξ±ΞΊΞΏΞ»ΞΏΟΞΈΟ‰Ο‚:"@el.
-<http://legislation.di.uoa.gr/law/2014/4311/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
-<http://legislation.di.uoa.gr/law/2014/4311/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4311/article/2/paragraph/1/passage/2>.
-<http://legislation.di.uoa.gr/law/2014/4311/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "    "@el.
+<http://legislation.di.uoa.gr/law/2014/4311/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα έξοδα ανά Υπουργείο, Αποκεντρωμένη Διοίκηση και Περιφερειακή Υπηρεσία Υπουργείου οικονομικού έτους 2015, ορίζονται ως ακολούθως:   "@el.
 <http://legislation.di.uoa.gr/law/2014/4311/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/law/2014/4311> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4311/article/3>.
 <http://legislation.di.uoa.gr/law/2014/4311/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
 <http://legislation.di.uoa.gr/law/2014/4311/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4311/article/3/paragraph/1>.
 <http://legislation.di.uoa.gr/law/2014/4311/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4311/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4311/article/3/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/law/2014/4311/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ξ¤Ξ± Ξ­ΟƒΞΏΞ΄Ξ± ΞΊΞ±ΞΉ Ο„Ξ± Ξ­ΞΎΞΏΞ΄Ξ± Ο„Ο‰Ξ½ Ο€Ξ±ΟΞ±ΞΊΞ¬Ο„Ο‰ Ο„Ξ±ΞΌΞµΞ―Ο‰Ξ½ ΞΊΞ±ΞΉ Ο…Ο€Ξ·ΟΞµΟƒΞΉΟΞ½ Ξ³ΞΉΞ± Ο„ΞΏ ΞΏΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΟ Ξ­Ο„ΞΏΟ‚ 2015, ΞΏΟΞ―Ξ¶ΞΏΞ½Ο„Ξ±ΞΉ ΟƒΟ„ΞΏΟ…Ο‚ ΞµΟ€ΞΉΟƒΟ…Ξ½Ξ±Ο€Ο„ΟΞΌΞµΞ½ΞΏΟ…Ο‚ Ο€Ξ―Ξ½Ξ±ΞΊΞµΟ‚ ΞΊΞ±ΞΉ Ξ­Ο‡ΞΏΟ…Ξ½ ΞΊΞ±Ο„Ξ¬ Ξ¤Ξ±ΞΌΞµΞ―ΞΏ ΞΊΞ±ΞΉ Ξ¥Ο€Ξ·ΟΞµΟƒΞ―Ξ± Ο‰Ο‚ Ξ±ΞΊΞΏΞ»ΞΏΟΞΈΟ‰Ο‚:"@el.
+<http://legislation.di.uoa.gr/law/2014/4311/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα έσοδα και τα έξοδα των παρακάτω ταμείων και υπηρεσιών για το οικονομικό έτος 2015, ορίζονται στους επισυναπτόμενους πίνακες και έχουν κατά Ταμείο και Υπηρεσία ως ακολούθως:"@el.
 <http://legislation.di.uoa.gr/law/2014/4311/article/3/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/law/2014/4311/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2014/4311/article/3/paragraph/1/passage/2>.
-<http://legislation.di.uoa.gr/law/2014/4311/article/3/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Ξ Ξ±ΟΞ±Ξ³Ξ³Ξ­Ξ»Ξ»ΞΏΞΌΞµ Ο„Ξ· Ξ΄Ξ·ΞΌΞΏΟƒΞ―ΞµΟ…ΟƒΞ· Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ ΟƒΟ„Ξ·Ξ½ Ξ•Ο†Ξ·ΞΌΞµΟΞ―Ξ΄Ξ± Ο„Ξ·Ο‚ ΞΟ…Ξ²ΞµΟΞ½Ξ®ΟƒΞµΟ‰Ο‚ ΞΊΞ±ΞΉ Ο„Ξ·Ξ½ ΞµΞΊΟ„Ξ­Ξ»ΞµΟƒΞ® Ο„ΞΏΟ… Ο‰Ο‚ Ξ½ΟΞΌΞΏΟ… Ο„ΞΏΟ… ΞΟΞ¬Ο„ΞΏΟ…Ο‚. "@el.
+<http://legislation.di.uoa.gr/law/2014/4311/article/3/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> " Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως νόμου του Κράτους"@el.
 <http://legislation.di.uoa.gr/law/2014/4311> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΞΞ‘Ξ΅ΞΞ›ΞΞ£ Ξ Ξ‘Ξ ΞΞ¥Ξ›Ξ™Ξ‘Ξ£"@el.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
 

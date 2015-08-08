@@ -17,6 +17,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -38,20 +40,27 @@ public class FEKParser {
     ArrayList<LegalDocumentPro> legaldocs;
     LegalDocumentPro legaldoc;
     ArrayList<String> mods;
+    ArrayList<String> pre_mod_lines;
     int mod_count;
     PrintWriter writer2;
     String baseURI;
     String baseURI2;
     String date;
+    String mod_target;
     int legal_sum;
     int legal_ok;
-    public FEKParser(String folder_name,String name){
+    PlaceConnector pc;
+    
+    public FEKParser(String folder_name,String name,PlaceConnector pc){
         legaldocs = new ArrayList<>();
         legaldoc = new LegalDocumentPro();
         mods = new ArrayList<>();
+        pre_mod_lines = new ArrayList<>();
         mod_count =1;
         legal_sum = 0;
         legal_ok = 0;
+        this.pc = pc;
+        mod_target = "";
         baseURI = "http://legislation.di.uoa.gr/";
         try {
             File file2 = new File("n3/"+folder_name+"/"+name.replace(".pdf.txt","")+".n3");
@@ -69,6 +78,7 @@ public class FEKParser {
             String line = br.readLine();
             String pre_line = "";
             String mod = "";
+            String pre_mod_line = "";
             int mod_line = 0;
             while (line != null) {
                 
@@ -79,6 +89,7 @@ public class FEKParser {
                     if(pre_line.endsWith(":")||pre_line.equals("")){
                         mod += line +"\n";
                         mod_line = 1;
+                        pre_mod_line = pre_line;
                     }
                     else{
                         sb.append(line);
@@ -91,6 +102,8 @@ public class FEKParser {
                     mod += lines[0] +"\n";
                     if(mod.startsWith("«")){
                         mods.add(mod);
+                        pre_mod_lines.add(pre_mod_line);
+                        pre_mod_line  = "";
                         if(lines.length==2){
                             sb.append(lines[1]);
                         }
@@ -212,7 +225,7 @@ public class FEKParser {
       }
       gg.setYear(Date[2]);
       legaldoc.setYear(Date[2]);
-      
+
       // Iterate over legal documents to produce the appropriate RDF triples
       for(int i =start; i< limit; i++){
           if(legaldocuments.length>2||start==0){
@@ -243,27 +256,33 @@ public class FEKParser {
               // Produce the Type information
               switch (Type[0]) {
                     case "NOMOΣ":  
-                            System.out.println("ΝΟΜΟΣ "+gg.getYear()+"/"+Type[1]);
-                            legaldoc.setId("http://legislation.di.uoa.gr/law/"+gg.getYear()+"/"+Type[1]);
+//                            System.out.print("ΝΟΜΟΣ "+gg.getYear()+"/"+Type[1]+", ");
+                            legaldoc.setId("http://legislation.di.uoa.gr/law/"+gg.getYear()+"/"+Type[1].replace(".",""));
                             baseURI += "law/"+gg.getYear()+"/"+Type[1];
                             writer2.println("<"+legaldoc.getId()+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.");
                             break;
                     case "ΠΡΟΕΔΡΙΚΟ ΔΙΑΤΑΓΜΑ":
-                            System.out.println("ΠΔ "+gg.getYear()+"/"+Type[1]);
-                            legaldoc.setId("http://legislation.di.uoa.gr/pd/"+gg.getYear()+"/"+Type[1]);
+//                            System.out.print("ΠΔ "+gg.getYear()+"/"+Type[1]+", ");
+                            legaldoc.setId("http://legislation.di.uoa.gr/pd/"+gg.getYear()+"/"+Type[1].replace(".",""));
                             baseURI += "pd/"+gg.getYear()+"/"+Type[1];
                             writer2.println("<"+legaldoc.getId()+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.");
                             break;
                     case "ΠΡΑΞΗ ΥΠΟΥΡΓΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ":
-                            System.out.println("ΠΥΣ "+gg.getYear()+"/"+ buffers[0]);
-                            legaldoc.setId("http://legislation.di.uoa.gr/amc/"+gg.getYear()+"/"+buffers[0].split(" της ")[0]);
+//                            System.out.print("ΠΥΣ "+gg.getYear()+"/"+ buffers[0]+", ");
+                            legaldoc.setId("http://legislation.di.uoa.gr/amc/"+gg.getYear()+"/"+buffers[0].split(" της ")[0].replace(".",""));
                             baseURI += "amc/"+gg.getYear()+"/"+ buffers[0].split(" της ")[0];
                             writer2.println("<"+legaldoc.getId()+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/ActOfMinisterialCabinet>.");
                             Type[1]= buffers[0].split(" της ")[0];
                             break;
+                    case "ΚΑΝΟΝΙΣΤΙΚΗ ΔΙΑΤΑΞΗ":
+//                            System.out.print("ΚΑΝΟΝΙΣΤΙΚΗ ΔΙΑΤΑΞΗ "+gg.getYear()+"/"+Type[1].split("/")[0]+", ");
+                            legaldoc.setId("http://legislation.di.uoa.gr/rp/"+gg.getYear()+"/"+Type[1].split("/")[0]);
+                            baseURI += "rp/"+gg.getYear()+"/"+Type[1].split("/")[0];
+                            writer2.println("<"+legaldoc.getId()+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/RegulatoryProvision>.");
+                            break;
                     default: 
-                            System.out.println(Type[0] +" "+gg.getYear()+"/"+Type[1]);
-                            legaldoc.setId("http://legislation.di.uoa.gr/law/"+gg.getYear()+"/"+Type[1]);
+                            System.out.print(Type[0] +" "+gg.getYear()+"/"+Type[1]+", ");
+                            legaldoc.setId("http://legislation.di.uoa.gr/law/"+gg.getYear()+"/"+Type[1].replace(".",""));
                             baseURI += "law/"+gg.getYear()+"/"+Type[1];
                             writer2.println("<"+legaldoc.getId()+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.");
                             break;
@@ -277,24 +296,33 @@ public class FEKParser {
               writer2.println("<"+baseURI+"> <http://legislation.di.uoa.gr/ontology/legislationID> \""+Type[1]+"\"^^<http://www.w3.org/2001/XMLSchema#integer>.");
               writer2.println("<"+baseURI+"> <http://legislation.di.uoa.gr/ontology/tag> \"Ελλάδα\"@el.\n");
               
-              // Produce a new version if there are any modifications
-              if(!mods.isEmpty()){
-                 writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <"+baseURI+"/"+date+">.");
-              }
+
               baseURI2 = baseURI;
               FEK = FEK.replaceAll("ΕΦΗΜΕΡΙΣ ΤΗΣ ΚΥΒΕΡΝΗΣΕΩΣ \\(ΤΕΥΧΟΣ ΠΡΩΤΟ\\)", " ").replaceAll("\n[0-9]+\n"," ");
              
+              if(!mods.isEmpty()){
+                  writer2.println("<"+baseURI2+"> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <"+baseURI2+"/"+date+">.");
+              }
+              
              // Check if there are citations and produce the appropriate RDF triples
              int cit = 0;
-             if(FEK.contains("χοντας υπόψη:\n")){
-                 if(FEK.contains("αποφασίζουμε:"))
+             if(FEK.contains("χοντας υπόψη:\n")||(FEK.contains("Έχουσα υπ’ όψει:\n")||(FEK.contains("Έχουσα υπ’ όψη:\n")))){
+                 if(FEK.contains("αποφασίζουμε:")){
                     buffers = FEK.split("αποφασίζουμε:");
+                 }
+                 else if(FEK.contains(", ψηφίζει:")){
+                      buffers =FEK.split(", ψηφίζει:");
+                 }
+                 else if(FEK.contains("αποφασίζει τα εξής:")){
+                     buffers =FEK.split(", αποφασίζει τα εξής:");
+                 }
                  else if(FEK.contains("αποφασίζει:")){
                      buffers =FEK.split(", αποφασίζει:");
                  }
                  else{
                     buffers = FEK.split("ζουμε:");
                  }
+                 //System.out.println(buffers[0]);
                  parseCitations(buffers[0]);
                  FEK = buffers[1];
                  cit = 1;
@@ -302,7 +330,7 @@ public class FEKParser {
              else{
                 buffers = FEK.split("Εκδίδομε τον ακόλουθο νόμο που ψήφισε η Βουλή:\n");
                 FEK = buffers[1];
-                buffers[0] = buffers[0].replaceAll("\n", " ");
+                buffers[0] = buffers[0].replace("−\n", "").replace("\n", " ").replace("−", "-").replaceAll("\\p{C}", " ");
                 legaldoc.setTitle(buffers[0].replace("Ο ΠΡΟΕΔΡΟΣ\nΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ", "").replace("ΤΟ ΥΠΟΥΡΓΙΚΟ ΣΥΜΒΟΥΛΙΟ",""));
              }
              
@@ -315,14 +343,21 @@ public class FEKParser {
              }
              
              // Delete some well known annoying printing trash
-             FEK = buffers[0].replaceAll("\n[0-9]+\n", " ");
-             FEK = FEK.replaceAll("ΕΦΗΜΕΡΙΣ ΤΗΣ ΚΥΒΕΡΝΗΣΕΩΣ (ΤΕΥΧΟΣ ΠΡΩΤΟ)", "");
-             
+             FEK = buffers[0].replaceAll("\n[0-9]+\n", "\n");
+             FEK = FEK.replaceAll("ΕΦΗΜΕΡΙΣ ΤΗΣ ΚΥΒΕΡΝΗΣΕΩΣ \\(ΤΕΥΧΟΣ ΠΡΩΤΟ\\)", "");
+
              // Parse the legal document's text body according to its structure
              // There are chapters
              if(FEK.startsWith("ΚΕΦΑΛΑΙΟ")){
                  if(cit==0){
-                     writer2.println("<"+baseURI+"> <http://purl.org/dc/terms/title> \""+legaldoc.getTitle().replace("Ο ΠΡΟΕΔΡΟΣ\nΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ", "").replace("−\n", "").replace("\n", " ").replace("−", "-").replaceAll("\\p{C}", " ")+"\"@el.");
+                     String title = legaldoc.getTitle();
+                     title= title.replace("Ο ΠΡΟΕΔΡΟΣ\nΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ", "").replace("−\n", "").replace("\n", " ").replace("−", "-").replaceAll("\\p{C}", " ");
+                     legaldoc.setTitle(title);
+                     writer2.println("<"+baseURI+"> <http://purl.org/dc/terms/title> \""+title+"\"@el.");
+                     String place  = pc.searchPlaces(title);
+                     if(!place.isEmpty()){
+                         writer2.println("<"+baseURI+"> <http://legislation.di.uoa.gr/ontology/place> <"+place+">.");
+                     }
                  }
                 parseChapters();
              }
@@ -333,13 +368,20 @@ public class FEKParser {
              }
              // There is no structure at all
              else{
+                 if(legaldoc.getTitle()!=null&&cit==0){
+                     writer2.println("<"+baseURI+"> <http://purl.org/dc/terms/title> \""+legaldoc.getTitle()+"\"@el.");
+                     String place  = pc.searchPlaces(legaldoc.getTitle());
+                     if(!place.isEmpty()){
+                         writer2.println("<"+baseURI+"> <http://legislation.di.uoa.gr/ontology/place> <"+place+">.");
+                     }
+                 }
                  writer2.println("<"+baseURI+"/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.");
                  writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/article/1>.");
                  writer2.println("<"+baseURI+"/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.");
                  writer2.println("<"+baseURI+"/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/article/1/paragraph/1>.");
                  writer2.println("<"+baseURI+"/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.");
                  writer2.println("<"+baseURI+"/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/article/1/paragraph/1/passage/1>.");
-                 writer2.println("<"+baseURI+"article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> \""+FEK.replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", " ")+"\"@el.");
+                 writer2.println("<"+baseURI+"/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> \""+FEK.replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", " ")+"\"@el.");
              }
              writer2.println("<"+baseURI+"> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.\n" +
                 "<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> \"ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ\"@el.\n" +
@@ -353,12 +395,28 @@ public class FEKParser {
     void parseCitations(String citation_list){
         // Split between citations
         String[] citations = citation_list.split("[0-9]+\\. ");
-        
+         String title = "";
         // Crop legal document's title
-        String title = citations[0].split("Έχοντας υπόψη:")[0];
+        if(citations[0].contains("Έχοντας υπόψη:\n")){
+            title = citations[0].split("Έχοντας υπόψη:")[0];
+        }
+        else if(citations[0].contains("΄Εχοντας υπόψη:")){
+            title = citations[0].split("΄Εχοντας υπόψη:")[0];
+        }
+        else if(citations[0].contains("Έχουσα υπ’ όψει:")){
+            title = citations[0].split("Έχουσα υπ’ όψει:")[0].split("Η ΙΕΡΑ")[0];
+        }
+        else if (citations[0].contains("Έχουσα υπ’ όψη:")){
+            title = citations[0].split("Έχουσα υπ’ όψει:")[0].split("Η ΙΕΡΑ")[0];
+        }
+        
         title = title.replace("Ο ΠΡΟΕΔΡΟΣ\nΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ", "").replace("ΤΟ ΥΠΟΥΡΓΙΚΟ ΣΥΜΒΟΥΛΙΟ","").replace("−\n", "").replaceAll("\n", " ").replace("−", "-");
-        legaldoc.setTitle(title.replace("Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ", "").replace("ΤΟ ΥΠΟΥΡΓΙΚΟ ΣΥΜΒΟΥΛΙΟ","").replace("−\n", "").replaceAll("\n", " ").replace("−", "-"));
+        legaldoc.setTitle(title.replace("Ο ΠΡΟΕΔΡΟΣ ΤΗΣ\nΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ", "").replace("ΤΟ ΥΠΟΥΡΓΙΚΟ ΣΥΜΒΟΥΛΙΟ","").replace("−\n", "").replaceAll("\n", " ").replace("−", "-"));
         writer2.println("<"+baseURI+"> <http://purl.org/dc/terms/title> \""+title+"\"@el.");
+        String place  = pc.searchPlaces(title);
+        if(!place.isEmpty()){
+             writer2.println("<"+baseURI+"> <http://legislation.di.uoa.gr/ontology/place> <"+place+">.");
+        }
         
         // Produce RDF triples for citations
         for(int i=1; i<citations.length; i++){
@@ -384,9 +442,214 @@ public class FEKParser {
     
     }
     
+    ArrayList<String> splitParagraphs(String input){
+        ArrayList<String> paragraphs = new ArrayList();
+        String current = "";
+        String temp = "";
+        int flag = 0;
+        int par_count = 1;
+        int count = 0;
+        while(count < input.length()){
+            if(input.charAt(count)=='\n'){
+                flag = 1;
+                temp +="\n";
+            }
+            else if(input.charAt(count)==Integer.toString(par_count).charAt(0)&&flag!=3){
+                if(flag==1 || count==0){
+                    if(par_count<=9){
+                        flag = 2;
+                    }
+                    else{
+                        flag = 3;
+                    }
+                    temp += input.charAt(count);
+                }
+                else{
+                    flag =0;
+                    temp += input.charAt(count);
+                    current += temp;
+                    temp = "";
+                }
+            }
+            else if(par_count>9&&input.charAt(count)==Integer.toString(par_count).charAt(1)){
+                if(flag==3){
+                    flag = 2;
+                    temp += input.charAt(count);
+                }
+                else{
+                    flag =0;
+                    temp += input.charAt(count);
+                    current += temp;
+                    temp = "";
+                }
+            }
+            else if(input.charAt(count)=='.'){
+                if(flag==2){
+                    if((input.length()>=count+3)&&(input.substring(count+1,count+3).matches("[0-9]+\\.[0-9]*"))){
+                        flag =0;
+                        temp += '.';
+                        current += temp;
+                        temp = "";
+                    }
+                   else{
+                        paragraphs.add(current);
+                        current = "";
+                        temp = "";
+                        flag =0;
+                        par_count ++;
+                   }
+                }
+                else{
+                    flag =0;
+                    temp += '.';
+                    current += temp;
+                    temp = "";
+                }
+            }
+            else if(input.charAt(count)==' '){
+                if(!current.isEmpty()){
+                   flag =0;
+                   current += temp;
+                   temp = "";
+                   current +=  ' ';
+                }
+            }
+            else{
+                current += temp;
+                current += input.charAt(count);
+                flag = 0;
+                temp = "";
+            }
+            count++;
+        }
+        
+        if(!current.isEmpty()){
+            current += temp;
+            paragraphs.add(current);
+        }
+        
+        return paragraphs;
+    }
+    
+    ArrayList<String> splitPassages(String input){
+        ArrayList<String> passages = new ArrayList();
+        String current = "";
+        int flag = 0;
+        int count = 0;
+        while(count < input.length()){
+            if(input.charAt(count)=='.'){
+                    flag=1;
+            }
+            else if(input.charAt(count)==' '){
+                if(flag==1){
+                    if(!current.endsWith(" παρ")&&!current.endsWith(" ν")){//&&!current.split(" ")[current.split(" ").length-1].matches("([Α-Ω]|[α-ω]|[0-9]|\\.)+")){
+                        current += ". ";
+                        passages.add(current.replace("ΕΦΗΜΕΡΙΣ ΤΗΣ ΚΥΒΕΡΝΗΣΕΩΣ (ΤΕΥΧΟΣ ΠΡΩΤΟ)", ""));
+                        current = "";
+                        flag =0;
+                    }
+                    else{
+                        current += ". ";
+                        flag =0;
+                    }
+                   
+                }
+                else{
+                    current += " ";
+                    flag =0;
+                }
+            }
+            else if(input.charAt(count)==':'){
+                current += ":";
+                passages.add(current.replace("ΕΦΗΜΕΡΙΣ ΤΗΣ ΚΥΒΕΡΝΗΣΕΩΣ (ΤΕΥΧΟΣ ΠΡΩΤΟ)", ""));
+                current = "";
+                flag =0;
+            }
+            else{
+                current += input.charAt(count);
+                flag = 0;
+            }
+            count++;
+        }
+        
+        if(!current.isEmpty()&&(!current.matches("(\\.| |[0-9]+)+"))){
+            passages.add(current.replace("ΕΦΗΜΕΡΙΣ ΤΗΣ ΚΥΒΕΡΝΗΣΕΩΣ (ΤΕΥΧΟΣ ΠΡΩΤΟ)", ""));
+        }
+        
+        return passages;
+    }
+    
+    
+    ArrayList<String> splitCases(String input){
+        ArrayList<String> cases = new ArrayList();
+        String[] ionianums = {"α","β","γ","δ","ε","στ","ζ","η","θ","ι","ια","ιβ","ιγ","ιδ","ιε","ιστ","ιζ","ιη","ιθ","κ","κα","κβ","κγ","κδ","κε","κστ","κζ","κη","κθ","λ","λα","λβ","λγ","λδ","λε","λστ","λζ","λη","λθ"};
+        int more_cases = 0;
+        int count = 1;
+        int flag = 0;
+        char symbol1 = '\n';
+        char symbol2 = ' ';
+        if(input.contains("\nα.")&&input.contains("\nβ.")){
+            symbol2 = '.';
+            more_cases = 1;
+        }
+        else if(input.contains(" α.")&&input.contains(" β.")){
+            symbol1 = ' ';
+            symbol2 = '.';
+            more_cases = 1;
+        }
+        if(input.contains("\nα)")&&input.contains("\nβ)")){
+            symbol2 = ')';
+            more_cases = 1;
+        }
+        else if(input.contains(" α)")&&input.contains(" β)")){
+            symbol1 = ' ';
+            symbol2 = ')';
+            more_cases = 1;
+        }
+        
+        while(more_cases==1){
+            String[] parts = {"a"};
+            if(symbol2=='.'){
+                parts = input.split(symbol1+ionianums[count-1]+"\\.",2);
+            }
+            else if(symbol2==')'){
+                parts = input.split(symbol1+ionianums[count-1]+"\\)",2);
+                
+            }
+            else if (symbol2=='1'){
+               parts = input.split("\n"+count+"\\.",2);
+            }
+            
+            if(parts.length==2){
+                if(parts[0].startsWith(" ")){
+                    parts[0] = parts[0].replaceFirst(" ", "");
+                }
+                cases.add(parts[0].replace("ΕΦΗΜΕΡΙΣ ΤΗΣ ΚΥΒΕΡΝΗΣΕΩΣ (ΤΕΥΧΟΣ ΠΡΩΤΟ)", ""));
+                input = parts[1];
+                if(parts[0].equals(", ")||parts[0].equals(" ")||parts[0].equals(",")){
+                    input = "";
+                    cases.clear();
+                    more_cases = 0;
+                }
+            }
+            else{
+                more_cases = 0;
+            }
+            count++;
+        }
+        
+        if(!input.isEmpty()&&cases.size()>=1){
+            cases.add(input.replace("ΕΦΗΜΕΡΙΣ ΤΗΣ ΚΥΒΕΡΝΗΣΕΩΣ (ΤΕΥΧΟΣ ΠΡΩΤΟ)", ""));
+        }
+        
+        
+        return cases;
+    }
+    
     int parseArticles(String chapter, int art_count){
         // Split between articles
         String[] Articles = chapter.split("\n\\bΆρθρο\\b ([0-9]+|πρώτο|δεύτερο)\n");
+        //System.out.println("ARTICLES "+ chapter.split("\n\\bΆρθρο\\b ([0-9]+|πρώτο|δεύτερο)\n").length);
         int begin = 1;
         int miss = 0;
         // There are chapters
@@ -399,8 +662,14 @@ public class FEKParser {
             }
             // Title has not been already been parsed
             else{
-                String title = Articles[0].replace("Ο ΠΡΟΕΔΡΟΣ\nΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ", "").replace("ΤΟ ΥΠΟΥΡΓΙΚΟ ΣΥΜΒΟΥΛΙΟ","").replace("−\n", "").replace("\n", " ").replace("−", "-").replaceAll("\\p{C}", " ");
+                String title = Articles[0];
+                title = title.replace("Ο ΠΡΟΕΔΡΟΣ\nΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ", "").replace("ΤΟ ΥΠΟΥΡΓΙΚΟ ΣΥΜΒΟΥΛΙΟ","").replace("−\n", "").replace("\n", " ").replace("−", "-").replaceAll("\\p{C}", " ");
+                legaldoc.setTitle(title);
                 writer2.println("<"+baseURI+"> <http://purl.org/dc/terms/title> \""+title+"\"@el.");
+                String place  = pc.searchPlaces(title);
+                if(!place.isEmpty()){
+                     writer2.println("<"+baseURI+"> <http://legislation.di.uoa.gr/ontology/place> <"+place+">.");
+                }
             }
         
         }
@@ -426,6 +695,7 @@ public class FEKParser {
         }
         // Iterate over articles
         for(int j=begin; j<Articles.length; j++){
+              //System.out.println("ARTICLE "+ art_count+1);
               int count = j + miss;
               writer2.println("<"+baseURI+"/article/"+(art_count+1)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.");
               writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/article/"+(art_count+1)+">.");
@@ -440,34 +710,44 @@ public class FEKParser {
     
         void parseParagraphs(String article,int type){
             int top = 1;
-            String[] Paragraphs = article.split("\n[0-9]+\\. ");
-              if(Paragraphs.length>2){
+            ArrayList<String> Paragraphs = new ArrayList();
+            Paragraphs = this.splitParagraphs(article);
+              if(Paragraphs.size()>2){
                   if(type==0){
-                      if(!Paragraphs[0].endsWith(".")&&!Paragraphs[0].endsWith(":\n")&&!Paragraphs[0].endsWith(":")&& !Paragraphs[0].contains("εξής:")){
-                        writer2.println("<"+baseURI+"> <http://purl.org/dc/terms/title> \""+Paragraphs[0].replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", "")+"\".");
+                      if(Paragraphs.get(0).split(" ")[Paragraphs.get(0).split(" ").length-1].matches("([Α-Ω]+|\\.)+")){
+                        writer2.println("<"+baseURI+"> <http://purl.org/dc/terms/title> \""+Paragraphs.get(0).replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", "")+"\"@el.");
+
+                      }
+                      else if(!Paragraphs.get(0).endsWith(".")&&!Paragraphs.get(0).endsWith(":\n")&&!Paragraphs.get(0).endsWith(":")&& !Paragraphs.get(0).contains("εξής:")){
+                        writer2.println("<"+baseURI+"> <http://purl.org/dc/terms/title> \""+Paragraphs.get(0).replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", "")+"\"@el.");
                       }
                   }
                   else{
-                    String[] parts = Paragraphs[0].split("\n",2);
-                    Paragraphs[0] = parts[1];
+                    String[] parts = Paragraphs.get(0).split("\n",2);
+                    if(parts.length<2){
+                        Paragraphs.remove(0);
+                    }
+                    else{
+                        Paragraphs.set(0, parts[1]);
+                    }
                     writer2.println("<"+baseURI+"/article/"+parts[0].split(" ")[1]+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.");
                     writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/article/"+parts[0].split(" ")[1]+">.");
-                      if(!Paragraphs[0].endsWith(".")&&!Paragraphs[0].endsWith(":\n")&&!Paragraphs[0].endsWith(":")&& !Paragraphs[0].contains("εξής:")){
-                          String[] title = Paragraphs[0].split("\n");
+                      if(!Paragraphs.get(0).endsWith(".")&&!Paragraphs.get(0).endsWith(":\n")&&!Paragraphs.get(0).endsWith(":")&& !Paragraphs.get(0).contains("εξής:")){
+                          String[] title = Paragraphs.get(0).split("\n");
                           if(title.length >1){
                               writer2.println("<"+baseURI+"/article/1> <http://purl.org/dc/terms/title> \""+title[1].replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", "")+"\"@el.");
                           }
                       }
                       baseURI+= "/article/"+parts[0].split(" ")[1];
                   }
-                  if(Paragraphs[0].endsWith(".")||Paragraphs[0].endsWith(":\n")&&!Paragraphs[0].endsWith(":")&& !Paragraphs[0].contains("εξής:")){
+                  if((Paragraphs.get(0).endsWith(".")&&!(Paragraphs.get(0).split(" ")[Paragraphs.get(0).split(" ").length-1].matches("([Α-Ω]+|\\.)+")))||Paragraphs.get(0).endsWith(":\n")&&!Paragraphs.get(0).endsWith(":")&& !Paragraphs.get(0).contains("εξής:")){
                       top = 0;
-                      if(Paragraphs[0].matches("[0-9]+\\.(.*[\n]*)*")){
-                          Paragraphs[0] = Paragraphs[0].replaceFirst("[0-9]+\\.","");
+                      if(Paragraphs.get(0).matches("[0-9]+\\.(.*[\n]*)*")){
+                          Paragraphs.set(0, Paragraphs.get(0).replaceFirst("[0-9]+\\.",""));
                       }
                   }
                   int k;
-                  for(int z=top; z<Paragraphs.length; z++){
+                  for(int z=top; z<Paragraphs.size(); z++){
                       if(top==0){
                           k = z+1;
                       }
@@ -477,19 +757,13 @@ public class FEKParser {
                       writer2.println("<"+baseURI+"/paragraph/"+k+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.");
                       writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/paragraph/"+k+">.");
                       baseURI+="/paragraph/"+k;
-                      String[] cases = (Paragraphs[z].split("\n[α-μ]+\\)"));
-                      if(cases.length>1){
-                          parseCases(cases);
+                      ArrayList<String> cases = this.splitCases(Paragraphs.get(z));
+                      if(cases.size()>1){
+                        parseCases(cases);
                       }
                       else{
-                          cases = (Paragraphs[z].split("\n[α-μ]+\\."));
-                          if(cases.length>1){
-                              parseCases(cases);
-                          }
-                          else{
-                              String paragraph = Paragraphs[z].replace("−\n", "").replaceAll("\\p{C}", " ");
-                              parsePassages(paragraph);
-                          }
+                        String paragraph = Paragraphs.get(z).replace("−\n", "").replaceAll("\\p{C}", " ");
+                        parsePassages(Paragraphs.get(z),type);
                       }
                       if(type==0){
                         baseURI = baseURI.split("/paragraph")[0];
@@ -525,14 +799,14 @@ public class FEKParser {
                   if(titles.length>1){
                       String title = titles[0];
                       if(!title.endsWith(".")&&!title.endsWith(":\n")&&!title.endsWith(":")&& !title.contains("εξής:")&&!(title.endsWith("−"))&& ((titles[1].charAt(0)>='Α')&&(titles[1].charAt(0)<='Ω'))){
-                         writer2.println("<"+baseURI+"> <http://purl.org/dc/terms/title> \""+title.replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", "")+"\"."); 
+                         writer2.println("<"+baseURI+"> <http://purl.org/dc/terms/title> \""+title.replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", "")+"\"@el."); 
                          article = "";
                          for(int k=1;k<titles.length;k++){
                              article += titles[k];
                          }
                       }
                       if(title.endsWith(".")&&title.split("([Α-Ω]+.)+").length>1){
-                        writer2.println("<"+baseURI+"> <http://purl.org/dc/terms/title> \""+title.replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", "")+"\"."); 
+                        writer2.println("<"+baseURI+"> <http://purl.org/dc/terms/title> \""+title.replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", "")+"\"@el."); 
                         article = "";
                          for(int k=1;k<titles.length;k++){
                              article += titles[k];
@@ -541,11 +815,11 @@ public class FEKParser {
                       
                   }
                   String paragraph = article.replace("−\n", "").replace("−", "-").replaceAll("\\p{C}", " ");
-                  paragraph = paragraph.replace("−\n", "").replaceAll("\\p{C}", " ") + "\n";
+                  paragraph = paragraph.replace("−\n", "").replaceAll("\\p{C}", " ");
                   writer2.println("<"+baseURI+"/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.");
                   writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/paragraph/1>.");
                   baseURI+="/paragraph/1";
-                  parsePassages(paragraph);
+                  parsePassages(paragraph,type);
                   if(type==0){
                     baseURI = baseURI.split("/paragraph")[0];
                   }
@@ -562,31 +836,18 @@ public class FEKParser {
               
     }
     
-    void parsePassages(String paragraph){
+    void parsePassages(String paragraph, int type){
        
-      String[] passages = paragraph.split("\\. |:");
+      ArrayList<String> passages = this.splitPassages(paragraph);
       
-      if(passages.length>1){
-          for(int i=0; i< passages.length; i++){
-              if(passages[i].endsWith("τα ακόλουθα εδάφια")||passages[i].endsWith("ακόλουθο εδάφιο")||passages[i].endsWith("τα εξής εδάφια")||passages[i].endsWith("εξής")||passages[i].contains("ακολούθως")){
-                  passages[i] += ":";
-              }
-              String passage = passages[i].replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", " ");
+      if(passages.size()>1){
+          for(int i=0; i< passages.size(); i++){
+              String passage = passages.get(i).replace("−\n", "").replace("-\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", " ");
               writer2.println("<"+baseURI+"/passage/"+(i+1)+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.");
               writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/passage/"+(i+1)+">.");
-              if(i==passages.length-1){
-                writer2.println("<"+baseURI+"/passage/"+(i+1)+"> <http://legislation.di.uoa.gr/ontology/text> \""+passage+"\"@el.");
-              }
-              else{
-                  if(passage.endsWith(":")){
-                    writer2.println("<"+baseURI+"/passage/"+(i+1)+"> <http://legislation.di.uoa.gr/ontology/text> \""+passage+"\"@el.");
-                  }
-                  else{
-                    writer2.println("<"+baseURI+"/passage/"+(i+1)+"> <http://legislation.di.uoa.gr/ontology/text> \""+passage+". \"@el.");
-                  }
-              }
-              if((passage.contains("καταργείται:")||passage.contains("τα ακόλουθα εδάφια:")||passage.contains("ακόλουθο εδάφιο:")||passage.contains("τα εξής εδάφια:")||(passage.contains("εξής:")&&!passage.endsWith("».\n"))||(passage.contains("ακολούθως:")&&!passage.contains("ως ακολούθως: α"))||passage.endsWith(": "))&&!passage.contains("έχει ως εξής:")){
-                  if(!mods.isEmpty()){
+              writer2.println("<"+baseURI+"/passage/"+(i+1)+"> <http://legislation.di.uoa.gr/ontology/text> \""+passage+"\"@el.");
+              if((passage.contains("καταργείται:")||passage.contains("ως εξής:")||passage.contains("νέο εδάφιο:")||passage.contains("τα ακόλουθα εδάφια:")||passage.contains("ακόλουθο εδάφιο:")||passage.contains("τα εξής εδάφια:")||(passage.contains("εξής:")&&!passage.endsWith("».\n"))||(passage.contains("ακολούθως:")&&!passage.contains("ως ακολούθως: α")))){
+                  if(!mods.isEmpty()&&type ==0){
                     String mod = mods.get(0);
                     mods.remove(0);
                     writer2.println("<"+baseURI2+">  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <"+baseURI+"/modification/"+mod_count+">.");
@@ -613,14 +874,30 @@ public class FEKParser {
           writer2.println("<"+baseURI+"/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.");
           writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/passage/1>.");
           writer2.println("<"+baseURI+"/passage/1> <http://legislation.di.uoa.gr/ontology/text> \""+paragraph.replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", " ")+"\"@el.");
-          if((passage.contains("καταργείται:")||passage.contains("τα ακόλουθα εδάφια:")||passage.contains("ακόλουθο εδάφιο:")||passage.contains("τα εξής εδάφια:")||(passage.contains("εξής:")&&!passage.endsWith("».\n"))||(passage.contains("ακολούθως:")&&!passage.contains("ως ακολούθως: α"))||passage.endsWith(": "))&&!passage.contains("έχει ως εξής:")){
-              if(!mods.isEmpty()){
+          if((passage.contains("καταργείται:")||passage.contains("νέο εδάφιο:")||passage.contains("τα ακόλουθα εδάφια:")||passage.contains("ακόλουθο εδάφιο:")||passage.contains("τα εξής εδάφια:")||(passage.contains("εξής:")&&!passage.endsWith("».\n"))||(passage.contains("ακολούθως:")&&!passage.contains("ως ακολούθως: α"))||passage.endsWith(": "))&&!passage.contains("έχει ως εξής:")){
+            if(!mods.isEmpty()){
                 String mod = mods.get(0);
                 mods.remove(0);
                 writer2.println("<"+baseURI2+">  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <"+baseURI+"/modification/"+mod_count+">.");
-                writer2.println("<"+baseURI2+">  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <"+baseURI+"/modification/"+mod_count+">.");
+                writer2.println("<"+baseURI2+"/"+date+">  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <"+baseURI+"/modification/"+mod_count+">.");
                 writer2.println("<"+baseURI+"/passage/1/modification/"+mod_count+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.");
                 writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/passage/1/modification/"+mod_count+">.");
+                //DEFINE MODIFICATION TARGET AND PATIENT
+//                if(!localmod_target.equals(mod_target)&&!localmod_target.equals("")){
+//                    writer2.println("<"+mod_target+"> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <"+mod_target+"/"+date+">.");
+//                    writer2.println("<"+mod_target+"/"+date+">  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <"+baseURI+"/modification/"+mod_count+">.");
+//                    mod_target = localmod_target;
+//                }
+//                else if (localmod_target.equals("")&&mod_count==0){
+//                    writer2.println("<"+baseURI2+"> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <"+baseURI2+"/"+date+">.");
+//                    writer2.println("<"+baseURI2+"/"+date+">  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <"+baseURI+"/modification/"+mod_count+">.");
+//                }
+//                else if(!localmod_target.equals("")){
+//                    writer2.println("<"+mod_target+"/"+date+">  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <"+baseURI+"/modification/"+mod_count+">.");
+//                }
+//                else{
+//                   writer2.println("<"+baseURI2+"/"+date+">  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <"+baseURI+"/modification/"+mod_count+">."); 
+//                }
                 if(mod.contains("Άρθρο")||mod.contains("Άρθρο")){
                     baseURI+= "/passage/1/modification/"+mod_count;
                     parseParagraphs(mod,1);
@@ -639,23 +916,152 @@ public class FEKParser {
       
     }
         
+    private String findModificationTargetPatient(String passage) {
+        String patient = "";
         
-    void parseCases(String[] cases){
+        
+        if(passage.contains("του άρθρου ")){
+            String[] priors = passage.split("του άρθρου ");
+            String[] ids = priors[1].split(" ");
+            if(!patient.isEmpty()){
+                patient +="/article/"+ids[0];
+            }
+            else{
+                patient +="article/"+ids[0];
+            }
+        }
+        else if(passage.contains("Το άρθρο ")){
+            String[] priors = passage.split("το άρθρο ");
+            String[] ids = priors[1].split(" ");
+            if(!patient.isEmpty()){
+                patient +="/article/"+ids[0];
+            }
+            else{
+                patient +="article/"+ids[0];
+            }
+        }
+        else if(passage.contains("Το άρθρο ")){
+            String[] priors = passage.split("το άρθρο ");
+            String[] ids = priors[1].split(" ");
+            if(!patient.isEmpty()){
+                patient +="/article/"+ids[0];
+            }
+            else{
+                patient +="article/"+ids[0];
+            }
+        }
+        
+        if(passage.contains("παρ.")){
+            String[] priors = passage.split("παρ. ");
+            String[] ids = priors[1].split(" ");
+            if(ids[0].matches("[0-9]+")){
+                if(!patient.isEmpty()){
+                    patient +="/paragraph/"+Integer.parseInt(ids[0]);
+                }
+                else{
+                    patient +="paragraph/"+Integer.parseInt(ids[0]);
+                }
+            }
+        }
+        else if(passage.contains("δεύτερη παράγραφος")){
+            patient +="/paragraph/2";
+        }
+        else if(passage.contains("πρώτη παράγραφος")){
+            patient +="/paragraph/1";
+        }
+        
+        if(passage.contains("δεύτερο εδάφιο")){
+            patient +="/passage/2";
+        }
+        else if (passage.contains("πρώτο εδάφιο")){
+            patient +="/passage/1";
+        }
+        else if(passage.contains("εδάφιο ")){
+            String[] priors = passage.split("εδάφιο ");
+            String[] ids = priors[1].split(" ");
+            if(ids[0].matches("[0-9]+")){
+                    patient +="/passage/"+Integer.parseInt(ids[0]);
+            }
+        }
+        
+        if(patient.isEmpty()){
+            System.out.println("PATIENT-FEED: "+passage);
+            System.out.println("PATIENT: -");
+        }
+        else{
+            System.out.println("PATIENT-FEED: "+passage);
+            System.out.println("PATIENT: "+patient);
+        }
+        return patient;
+    }
+   
+    String findModificationTarget(String passage){
+        String uri = "http://legislation.di.uoa.gr/";
+        if(passage.contains(" ν. ")){
+            String[] priors = passage.split(" ν. ");
+            String[] ids = priors[1].split(" ");
+            ids = ids[0].split("/");
+            uri +="law/"+ids[1].replaceAll("(:|\\.|,| )+", "").replace(" ", "")+"/"+ids[0].replaceAll("(:|\\.|,| )+", "").replace(" ", "");
+            System.out.println("TARGET: "+uri);
+        }
+        else if(passage.contains(" ν ")){
+            String[] priors = passage.split(" ν ");
+            String[] ids = priors[1].split(" ");
+            ids = ids[0].split("/");
+            uri +="law/"+ids[1].replaceAll("(:|\\.|,| )+", "").replace(" ", "")+"/"+ids[0].replaceAll("(:|\\.|,| )+", "").replace(" ", "");
+            System.out.println("TARGET: "+uri);
+        }
+        else if(passage.contains("Ν.")){
+            String[] priors = passage.split("Ν.");
+            String[] ids = priors[1].split(" ");
+            ids = ids[0].split("/");
+            uri +="law/"+ids[1].replaceAll("(:|\\.|,| )+", "").replace(" ", "")+"/"+ids[0].replace(" ", "").replace("\\u00a0", "");
+            System.out.println("TARGET: "+uri);
+        }
+        else if(passage.contains("Π.δ.")){
+            String[] priors = passage.split("Π.δ.");
+            String[] ids = priors[1].split(" ");
+            ids = ids[0].split("/");
+            uri +="pd/"+ids[1].replaceAll("(:|\\.|,| )+", "").replace(" ", "")+"/"+ids[0].replaceAll("(:|\\.|,| )+", "").replace(" ", "");
+            //System.out.println("TARGET: "+uri);
+        }
+        else if(passage.contains("Πδ")){
+            String[] priors = passage.split("Πδ( )*");
+            String[] ids = priors[1].split(" ");
+            ids = ids[0].split("/");
+            uri +="pd/"+ids[1].replaceAll("(:|\\.|,| )+", "").replace(" ", "")+"/"+ids[0].replaceAll("(:|\\.|,| )+", "".replace(" ", ""));
+            //System.out.println("TARGET: "+uri);
+        }
+        else if(passage.contains("ΠΔ")){
+            String[] priors = passage.split("ΠΔ");
+            String[] ids = priors[1].split(" ");
+            ids = ids[0].split("/");
+            uri +="pd/"+ids[1].replaceAll("(:|\\.|,| )+", "").replace(" ", "")+"/"+ids[0].replaceAll("(:|\\.|,| )+", "").replace(" ", "");
+            //System.out.println("TARGET: "+uri);
+        }
+        else{
+           // System.out.println("TARGET: "+passage);
+        }
+        
+        return uri;
+    }
+        
+    void parseCases(ArrayList<String> cases){
     
       int count = 0;
-      for(int k=0; k<cases.length; k++){
+      for(int k=0; k<cases.size(); k++){
           int flag = 0;
-          if(cases[count].charAt(1)==')'){
+          if(cases.get(count).charAt(1)==')'){
           }
           else{
-              if(count==0&&k==count&&!(cases[count].charAt(1)==')')){
+              if(count==0&&k==count&&!(cases.get(count).charAt(1)==')')){
                   count--;
               }
               else{
                 flag = 1;
               }
           }
-          String case1 = cases[k].replace("−\n", "").replace("−", "-").replaceAll("\\p{C}", "");
+          String case1 = cases.get(k).replace("−\n", "").replace("−", "-").replaceAll("\\p{C}", "");
           case1= case1.replace("\n", " ").replace("−", "-").replaceAll("\\p{C}", "") + "\n";
           
           if((k==0)&&case1.charAt(1)==')'){
@@ -676,26 +1082,43 @@ public class FEKParser {
             }
           }
           
-          if((case1.contains("καταργείται:")||case1.contains("τα εξής εδάφια:")||case1.contains("τα ακόλουθα εδάφια:")||(case1.contains("εξής:")&&!case1.endsWith("».\n"))||(case1.contains("ακολούθως:")&&!case1.contains("ως ακολούθως: α"))||(case1.endsWith(": ")))&&!case1.contains("έχει ως εξής:")||case1.contains("ακόλουθο εδάφιο:")){
+          if((case1.contains("καταργείται:")||case1.contains("ως εξής:")||case1.contains("νέο εδάφιο:")||case1.contains("τα εξής εδάφια:")||case1.contains("τα ακόλουθα εδάφια:")||(case1.contains("εξής:")&&!case1.endsWith("».\n"))||(case1.contains("ακολούθως:")&&!case1.contains("ως ακολούθως: α"))||(case1.endsWith(": ")))&&!case1.contains("έχει ως εξής:")||case1.contains("ακόλουθο εδάφιο:")){
               if(!mods.isEmpty()&&(count!=-1)){
+                writer2.println("<"+baseURI2+">  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <"+baseURI+"/case/"+(k+1)+"/modification/"+mod_count+">.");
+                writer2.println("<"+baseURI2+"/"+date+">  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <"+baseURI+"/modification/"+mod_count+">.");
                 String mod = mods.get(0);
                 mods.remove(0);
-                mod_count++;
+                 //DEFINE MODIFICATION TARGET AND PATIENT
+//                String localmod_target = findModificationTarget(case1);
+//                //String part_local_mod = findModificationTargetPatient(case1);
+//                if(!localmod_target.equals(mod_target)&&!localmod_target.equals("")){
+//                    writer2.println("<"+mod_target+"> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <"+mod_target+"/"+date+">.");
+//                    writer2.println("<"+mod_target+"/"+date+">  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <"+baseURI+"/modification/"+mod_count+">.");
+//                    mod_target = localmod_target;
+//                }
+//                else if (localmod_target.equals("")&&mod_count==0){
+//                    writer2.println("<"+baseURI2+"> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <"+baseURI2+"/"+date+">.");
+//                    writer2.println("<"+baseURI2+"/"+date+">  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <"+baseURI+"/modification/"+mod_count+">.");
+//                }
+//                else if(!localmod_target.equals("")){
+//                    writer2.println("<"+mod_target+"/"+date+">  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <"+baseURI+"/modification/"+mod_count+">.");
+//                }
+//                else{
+//                   writer2.println("<"+baseURI2+"/"+date+">  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <"+baseURI+"/modification/"+mod_count+">."); 
+//                }
                 if(mod.contains("Άρθρο")||mod.contains("Άρθρο")){
                     baseURI+= "/case/"+(k+1)+"/modification/"+mod_count;
                     parseParagraphs(mod.replace("«", "").replace("»", "").replaceAll("\\p{C}", " "),2);
                     baseURI = baseURI.split("/case")[0];
                 }
                 else {
-                   writer2.println("<"+baseURI2+"/case/"+(k+1)+">  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGroundOf> <"+baseURI+"/case/"+(k+1)+"/modification/"+mod_count+">.");
-                   writer2.println("<"+baseURI2+">  <http://www.metalex.eu/metalex/2008-05-02#matterOf> <"+baseURI+"/modification/"+mod_count+">.");
                    writer2.println("<"+baseURI+"/case/"+(k+1)+"/modification/"+mod_count+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.");
                    writer2.println("<"+baseURI+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/case/"+(k+1)+"/modification/"+mod_count+">.");
                    writer2.println("<"+baseURI+"/case/"+(k+1)+"/modification/"+mod_count+"/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.");
                    writer2.println("<"+baseURI+"/case/"+(k+1)+"/modification/"+mod_count+"> <http://www.metalex.eu/metalex/2008-05-02#part> <"+baseURI+"/modification/"+mod_count+"/passage/1>.");
                    writer2.println("<"+baseURI+"/case/"+(k+1)+"/modification/"+mod_count+"/passage/1> <http://legislation.di.uoa.gr/ontology/text> \""+mod.replace("«", "").replace("»", "").replace("−\n", "").replace("−", "-").replace("\n", " ").replaceAll("\\p{C}", "")+"\"@el.");
                 }
-                
+                mod_count++;
               }
               else{
                 //writer.println("[MISSING!!!]");
@@ -716,8 +1139,8 @@ public class FEKParser {
      * @throws java.lang.Exception
      */
     public static void main(String[] args) throws Exception {
-//        FEKParser fp = new FEKParser("2015","FEK_Α47_2015-05-11_2015-05-11R.pdf.txt");
-//        fp.readFile("2015","FEK_Α47_2015-05-11_2015-05-11R.pdf.txt");
+//        FEKParser fp = new FEKParser("2015","FEK_Α49_2015-05-13_2015-05-13R.pdf.txt");
+//        fp.readFile("2015","FEK_Α49_2015-05-13_2015-05-13R.pdf.txt");
 //        fp.parseLegalDocument();
         int size = 0;
         int ok = 0;
@@ -738,11 +1161,13 @@ public class FEKParser {
             files = folder.listFiles();
             int flag =0;
             FEKParser fp = null;
+            PlaceConnector pc = new PlaceConnector();
+            pc.findPlaces();
             for(int z=0; z<files.length; z++){
 
                 if(files[z].getName().contains(".txt")){
                     try{
-                        fp = new FEKParser(folder_name,files[z].getName());
+                        fp = new FEKParser(folder_name,files[z].getName(),pc);
                         fp.readFile(folder_name,files[z].getName());
                         fp.parseLegalDocument();
                     }
@@ -754,9 +1179,11 @@ public class FEKParser {
                         }
                     }
                     finally{
-                        size += fp.legal_sum;
-                        ok += fp.legal_ok;
+                        
                         if(flag==0){
+                          size += fp.legal_sum;
+                          ok += fp.legal_ok;
+                          System.out.print("\n");
                           System.out.println(files[z].getName()+" PARSED SUCCESSFULY INTO "+files[z].getName().replace(".pdf.txt", "")+".n3");
                           count ++;
                         }
@@ -764,10 +1191,10 @@ public class FEKParser {
                           System.out.println(files[z].getName()+" NOT PARSED SUCCESSFULY INTO "+files[z].getName().replace(".pdf.txt", "")+".n3");
                           File file = new File("n3/"+files[z].getName().replace(".pdf.txt", "")+".n3");
                           if(file.delete()){
-                                  System.out.println(file.getName().replace(".pdf.txt", "")+".n3" + " DELETED!");
+                                  //System.out.println(file.getName().replace(".pdf.txt", "")+".n3" + " DELETED!");
                           }
                           else{
-                                  System.out.println("DELETE "+files[z].getName().replace(".pdf.txt","")+ ".n3 FAILED!");
+                                  //System.out.println("DELETE "+files[z].getName().replace(".pdf.txt","")+ ".n3 FAILED!");
                           }
                         }
                         flag=0;

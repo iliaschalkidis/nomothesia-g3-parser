@@ -1,23 +1,23 @@
-ο»Ώ<http://legislation.di.uoa.gr/amc/2015/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/ActOfMinisterialCabinet>.
+<http://legislation.di.uoa.gr/amc/2015/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/ActOfMinisterialCabinet>.
 <http://legislation.di.uoa.gr/amc/2015/7> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2015/38>.
-<http://legislation.di.uoa.gr/gazette/a/2015/38> <http://purl.org/dc/terms/title> "Ξ‘/2015/38".
+<http://legislation.di.uoa.gr/gazette/a/2015/38> <http://purl.org/dc/terms/title> "Α/2015/38".
 <http://legislation.di.uoa.gr/amc/2015/7> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/amc/2015/7> <http://purl.org/dc/terms/created> "2015-04-06"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/amc/2015/7> <http://legislation.di.uoa.gr/ontology/legislationID> "7"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/amc/2015/7> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/amc/2015/7> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
-<http://legislation.di.uoa.gr/amc/2015/7> <http://purl.org/dc/terms/title> "ΞΞ±ΞΈΞΏΟΞΉΟƒΞΌΟΟ‚ ΟΟΞΏΟ…Ο‚ ΞµΟ„Ξ®ΟƒΞΉΞ±Ο‚ ΞΏΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΞ®Ο‚ Ο‡ΞΏΟΞ·Ξ³Ξ―Ξ±Ο‚ Ο„ΞΏΟ… Ξ”Ξ·ΞΌΞΏΟƒΞ―ΞΏΟ… Ο€ΟΞΏΟ‚ Ο„ΞΉΟ‚ Ξ™ΞµΟΞ­Ο‚ ΞΞΏΞ½Ξ­Ο‚ Ο„ΞΏΟ… Ξ‘Ξ³Ξ―ΞΏΟ… ΞΟΞΏΟ…Ο‚ Ξ³ΞΉΞ± Ο„ΞΏ ΞΏΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΟ Ξ­Ο„ΞΏΟ‚ 2015.  "@el.
+<http://legislation.di.uoa.gr/amc/2015/7> <http://purl.org/dc/terms/title> "Καθορισμός ύψους ετήσιας οικονομικής χορηγίας του Δημοσίου προς τις Ιερές Μονές του Αγίου Όρους για το οικονομικό έτος 2015.  "@el.
 <http://legislation.di.uoa.gr/amc/2015/7/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/amc/2015/7/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Ο„ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 2 Ο„ΞΏΟ… Ξ. 1166/1981 Β«Ξ ΞµΟΞ― ΟƒΟ…ΟƒΟ„Ξ¬ΟƒΞµΟ‰Ο‚ ΞµΟ„Ξ·ΟƒΞ―Ξ±Ο‚ ΞΏΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΞ®Ο‚ Ο‡ΞΏΟΞ·Ξ³Ξ―Ξ±Ο‚ Ο„ΞΏΟ… Ξ”Ξ·ΞΌΞΏΟƒΞ―ΞΏΟ… Ο€ΟΞΏΟ‚ Ο„Ξ±Ο‚ Ξ™ΞµΟΞ¬Ο‚ ΞΞΏΞ½Ξ¬Ο‚ Ο„ΞΏΟ… Ξ‘Ξ³Ξ―ΞΏΟ… ΞΟΞΏΟ…Ο‚Β» (Ξ‘Ξ„ 161), ΟΟ€Ο‰Ο‚ ΞΉΟƒΟ‡ΟΞµΞΉ, "@el.
+<http://legislation.di.uoa.gr/amc/2015/7/citation/1> <http://legislation.di.uoa.gr/ontology/context> "τις διατάξεις του άρθρου 2 του Ν. 1166/1981 «Περί συστάσεως ετησίας οικονομικής χορηγίας του Δημοσίου προς τας Ιεράς Μονάς του Αγίου Όρους» (Α΄ 161), όπως ισχύει, "@el.
 <http://legislation.di.uoa.gr/amc/2015/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/7/citation/1>.
 <http://legislation.di.uoa.gr/amc/2015/7/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/amc/2015/7/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Ο„Ξ·Ξ½ Ξ¦.2/21/2859 Ο„Ξ·Ο‚ 28Ξ·Ο‚ ΞΞΏΞµΞΌΞ²ΟΞ―ΞΏΟ…/11Ξ·Ο‚ Ξ”ΞµΞΊΞµΞΌΞ²ΟΞ―ΞΏΟ… 2014 Ο€ΟΟΟ„Ξ±ΟƒΞ· Ο„Ξ·Ο‚ Ξ™ΞµΟΞ¬Ο‚ ΞΞΏΞΉΞ½ΟΟ„Ξ·Ο„ΞΏΟ‚ Ο„ΞΏΟ… Ξ‘Ξ³Ξ―ΞΏΟ… ΞΟΞΏΟ…Ο‚, "@el.
+<http://legislation.di.uoa.gr/amc/2015/7/citation/2> <http://legislation.di.uoa.gr/ontology/context> "την Φ.2/21/2859 της 28ης Νοεμβρίου/11ης Δεκεμβρίου 2014 πρόταση της Ιεράς Κοινότητος του Αγίου Όρους, "@el.
 <http://legislation.di.uoa.gr/amc/2015/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/7/citation/2>.
 <http://legislation.di.uoa.gr/amc/2015/7/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/amc/2015/7/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Ο„Ξ·Ξ½ Ξ¦.387/5/Ξ‘Ξ£4655/6-2-2015 ΞµΞΉΟƒΞ®Ξ³Ξ·ΟƒΞ· Ο„ΞΏΟ… Ξ¥Ο€ΞΏΟ…ΟΞ³ΞΏΟ Ξ•ΞΎΟ‰Ο„ΞµΟΞΉΞΊΟΞ½, "@el.
+<http://legislation.di.uoa.gr/amc/2015/7/citation/3> <http://legislation.di.uoa.gr/ontology/context> "την Φ.387/5/ΑΣ4655/6-2-2015 εισήγηση του Υπουργού Εξωτερικών, "@el.
 <http://legislation.di.uoa.gr/amc/2015/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/7/citation/3>.
 <http://legislation.di.uoa.gr/amc/2015/7/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/amc/2015/7/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Ο„ΞΏ 2/1559/Ξ”Ξ Ξ”Ξ‘/20-1-2015 Ξ­Ξ³Ξ³ΟΞ±Ο†ΞΏ Ο„Ξ·Ο‚ Ξ”ΞΉΞµΟΞΈΟ…Ξ½ΟƒΞ·Ο‚ Ξ ΟΞΏΟ‹Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΞΌΞΏΟ ΞΊΞ±ΞΉ Ξ”Ξ·ΞΌΞΏΟƒΞΉΞΏΞ½ΞΏΞΌΞΉΞΊΟΞ½ Ξ‘Ξ½Ξ±Ο†ΞΏΟΟΞ½ Ο„Ξ·Ο‚ Ξ“ΞµΞ½ΞΉΞΊΞ®Ο‚ Ξ”ΞΉΞµΟΞΈΟ…Ξ½ΟƒΞ·Ο‚ ΞΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΟΞ½ Ξ¥Ο€Ξ·ΟΞµΟƒΞΉΟΞ½ Ο„Ξ·Ο‚ Ξ“ΞµΞ½ΞΉΞΊΞ®Ο‚ Ξ“ΟΞ±ΞΌΞΌΞ±Ο„ΞµΞ―Ξ±Ο‚ Ξ Ξ»Ξ·ΟΞΏΟ†ΞΏΟΞΉΞ±ΞΊΟΞ½ Ξ£Ο…ΟƒΟ„Ξ·ΞΌΞ¬Ο„Ο‰Ξ½ ΞΊΞ±ΞΉ Ξ”ΞΉΞΏΞΉΞΊΞ·Ο„ΞΉΞΊΞ®Ο‚ Ξ¥Ο€ΞΏΟƒΟ„Ξ®ΟΞΉΞΎΞ·Ο‚ Ο„ΞΏΟ… Ξ¥Ο€ΞΏΟ…ΟΞ³ΞµΞ―ΞΏΟ… ΞΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΟΞ½, ΟƒΟ„ΞΏ ΞΏΟ€ΞΏΞ―ΞΏ Ξ±Ξ½Ξ±Ο†Ξ­ΟΞµΟ„Ξ±ΞΉ ΟΟ„ΞΉ Ξ· ΞµΞ³Ξ³ΞµΞ³ΟΞ±ΞΌΞΌΞ­Ξ½Ξ· Ο€Ξ―ΟƒΟ„Ο‰ΟƒΞ· ΟƒΟ„ΞΏΞ½ Ο„Ξ±ΞΊΟ„ΞΉΞΊΟ Ο€ΟΞΏΟ‹Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΞΌΟ Ξ³ΞΉΞ± Ο„Ξ·Ξ½ ΞµΟ€ΞΉΟ‡ΞΏΟΞ®Ξ³Ξ·ΟƒΞ· Ο„Ο‰Ξ½ Ξ™ΞµΟΟΞ½ ΞΞΏΞ½ΟΞ½ Ο„ΞΏΟ… Ξ‘Ξ³Ξ―ΞΏΟ… ΞΟΞΏΟ…Ο‚, Ξ³ΞΉΞ± Ο„ΞΏ Ξ­Ο„ΞΏΟ‚ 2015, Ξ±Ξ½Ξ­ΟΟ‡ΞµΟ„Ξ±ΞΉ ΟƒΞµ Ξ­Ξ½Ξ± ΞµΞΊΞ±Ο„ΞΏΞΌΞΌΟΟΞΉΞΏ Ξ΄ΞΉΞ±ΞΊΟΟƒΞΉΞµΟ‚ ΞµΞ²Ξ΄ΞΏΞΌΞ®Ξ½Ο„Ξ± ΞΏΞΊΟ„Ο Ο‡ΞΉΞ»ΞΉΞ¬Ξ΄ΞµΟ‚ (1.278.000) ΞµΟ…ΟΟ ΞΊΞ±ΞΉ Ξ­Ο‡ΞµΞΉ Ο€ΟΞΏΞ²Ξ»ΞµΟ†ΞΈΞµΞ― ΟƒΟ„ΞΏΞ½ Ξ.Ξ‘.Ξ•. 2461 Ο„ΞΏΟ… Ξ•.Ξ¦. 23-140 Ο„ΞΏΟ… Ο€ΟΞΏΟ‹Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΞΌΞΏΟ Ο„ΞΏΟ… Ξ¥Ο€ΞΏΟ…ΟΞ³ΞµΞ―ΞΏΟ… ΞΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΟΞ½"@el.
+<http://legislation.di.uoa.gr/amc/2015/7/citation/4> <http://legislation.di.uoa.gr/ontology/context> "το 2/1559/ΔΠΔΑ/20-1-2015 έγγραφο της Διεύθυνσης Προϋπολογισμού και Δημοσιονομικών Αναφορών της Γενικής Διεύθυνσης Οικονομικών Υπηρεσιών της Γενικής Γραμματείας Πληροφοριακών Συστημάτων και Διοικητικής Υποστήριξης του Υπουργείου Οικονομικών, στο οποίο αναφέρεται ότι η εγγεγραμμένη πίστωση στον τακτικό προϋπολογισμό για την επιχορήγηση των Ιερών Μονών του Αγίου Όρους, για το έτος 2015, ανέρχεται σε ένα εκατομμύριο διακόσιες εβδομήντα οκτώ χιλιάδες (1.278.000) ευρώ και έχει προβλεφθεί στον Κ.Α.Ε. 2461 του Ε.Φ. 23-140 του προϋπολογισμού του Υπουργείου Οικονομικών"@el.
 <http://legislation.di.uoa.gr/amc/2015/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/7/citation/4>.
 <http://legislation.di.uoa.gr/amc/2015/7/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/amc/2015/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/7/article/1>.
@@ -25,8 +25,8 @@
 <http://legislation.di.uoa.gr/amc/2015/7/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/7/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/amc/2015/7/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/amc/2015/7/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2015/7/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/amc/2015/7article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " ΞΞ±ΞΈΞΏΟΞ―Ξ¶ΞµΞΉ Ο„ΞΏ ΟΟΞΏΟ‚ Ο„Ξ·Ο‚ ΞµΟ„Ξ®ΟƒΞΉΞ±Ο‚ ΞΏΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΞ®Ο‚ Ο‡ΞΏΟΞ·Ξ³Ξ―Ξ±Ο‚ Ο„ΞΏΟ… Ξ”Ξ·ΞΌΞΏΟƒΞ―ΞΏΟ… Ο€ΟΞΏΟ‚ Ο„ΞΉΟ‚ Ξ™ΞµΟΞ­Ο‚ ΞΞΏΞ½Ξ­Ο‚ Ο„ΞΏΟ… Ξ‘Ξ³Ξ―ΞΏΟ… ΞΟΞΏΟ…Ο‚ Ξ³ΞΉΞ± Ο„ΞΏ ΞΏΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΟ Ξ­Ο„ΞΏΟ‚ 2015 ΟƒΟ„ΞΏ Ο€ΞΏΟƒΟ Ο„Ο‰Ξ½ ΞµΞ½ΟΟ‚ ΞµΞΊΞ±Ο„ΞΏΞΌΞΌΟ…ΟΞ―ΞΏΟ… Ξ΄ΞΉΞ±ΞΊΞΏΟƒΞ―Ο‰Ξ½ ΞµΞ²Ξ΄ΞΏΞΌΞ®Ξ½Ο„Ξ± ΞΏΞΊΟ„Ο Ο‡ΞΉΞ»ΞΉΞ¬Ξ΄Ο‰Ξ½ (1.278.000) ΞµΟ…ΟΟ. Ξ— Ο€ΟΞ¬ΞΎΞ· Ξ±Ο…Ο„Ξ® Ξ½Ξ± Ξ΄Ξ·ΞΌΞΏΟƒΞΉΞµΟ…ΞΈΞµΞ― ΟƒΟ„Ξ·Ξ½ Ξ•Ο†Ξ·ΞΌΞµΟΞ―Ξ΄Ξ± Ο„Ξ·Ο‚ ΞΟ…Ξ²ΞµΟΞ½Ξ®ΟƒΞµΟ‰Ο‚. "@el.
+<http://legislation.di.uoa.gr/amc/2015/7/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Καθορίζει το ύψος της ετήσιας οικονομικής χορηγίας του Δημοσίου προς τις Ιερές Μονές του Αγίου Όρους για το οικονομικό έτος 2015 στο ποσό των ενός εκατομμυρίου διακοσίων εβδομήντα οκτώ χιλιάδων (1.278.000) ευρώ. Η πράξη αυτή να δημοσιευθεί στην Εφημερίδα της Κυβερνήσεως. "@el.
 <http://legislation.di.uoa.gr/amc/2015/7> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΞΞ‘Ξ΅ΞΞ›ΞΞ£ Ξ Ξ‘Ξ ΞΞ¥Ξ›Ξ™Ξ‘Ξ£"@el.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
 

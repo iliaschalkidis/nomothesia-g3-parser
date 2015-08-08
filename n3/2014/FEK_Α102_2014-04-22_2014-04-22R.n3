@@ -1,24 +1,24 @@
-ο»Ώ<http://legislation.di.uoa.gr/pd/2014/59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/59> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/102>.
-<http://legislation.di.uoa.gr/gazette/a/2014/102> <http://purl.org/dc/terms/title> "Ξ‘/2014/102".
+<http://legislation.di.uoa.gr/gazette/a/2014/102> <http://purl.org/dc/terms/title> "Α/2014/102".
 <http://legislation.di.uoa.gr/pd/2014/59> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/59> <http://purl.org/dc/terms/created> "2014-04-22"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/59> <http://legislation.di.uoa.gr/ontology/legislationID> "59"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/pd/2014/59> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/pd/2014/59> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
 <http://legislation.di.uoa.gr/pd/2014/59> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/59/2014-04-22>.
-<http://legislation.di.uoa.gr/pd/2014/59> <http://purl.org/dc/terms/title> "Ξ¤ΟΞΏΟ€ΞΏΟ€ΞΏΞ―Ξ·ΟƒΞ· ΞΊΞ±ΞΉ ΟƒΟ…ΞΌΟ€Ξ»Ξ®ΟΟ‰ΟƒΞ· Ο„ΞΏΟ… Ο€.Ξ΄. 200/1993 Β«Ξ ΞµΟΞ― ΞΞ΄ΞΏΞΉΟ€ΞΏΟΞΉΞΊΟΞ½ Ξ•ΞΎΟΞ΄Ο‰Ξ½ Ξ•ΟƒΟ‰Ο„ΞµΟΞΉΞΊΞΏΟ Ο„ΞΏΟ… Ξ£Ο„ΟΞ±Ο„ΞΉΟ‰Ο„ΞΉΞΊΞΏΟ Ξ ΟΞΏΟƒΟ‰Ο€ΞΉΞΊΞΏΟ Ο„Ο‰Ξ½ Ξ•.Ξ”. .Β»  "@el.
+<http://legislation.di.uoa.gr/pd/2014/59> <http://purl.org/dc/terms/title> "Τροποποίηση και συμπλήρωση του π.δ. 200/1993 «Περί Οδοιπορικών Εξόδων Εσωτερικού του Στρατιωτικού Προσωπικού των Ε.Δ. .»  "@el.
 <http://legislation.di.uoa.gr/pd/2014/59/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/59/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚: Ξ±) Ξ¤Ο‰Ξ½ Ξ¬ΟΞΈΟΟ‰Ξ½ 42 ΞΊΞ±ΞΉ 108 Ο„ΞΏΟ… Ξ.Ξ”.721/1970 Ξ ΞµΟΞ― ΞΏΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΞ®Ο‚ ΞΌΞ­ΟΞΉΞΌΞ½Ξ±Ο‚ ΞΊΞ±ΞΉ Ξ»ΞΏΞ³ΞΉΟƒΟ„ΞΉΞΊΞΏΟ Ο„Ο‰Ξ½ Ξ•Ξ½ΟΟ€Ξ»Ο‰Ξ½ Ξ”Ο…Ξ½Ξ¬ΞΌΞµΟ‰Ξ½ (Ξ¦Ξ•Ξ Ξ‘Ξ„ 251). Ξ²) Ξ¤ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 90 Ο„ΞΏΟ… Β«ΞΟΞ΄ΞΉΞΊΞ± ΞΞΏΞΌΞΏΞΈΞµΟƒΞ―Ξ±Ο‚ Ξ³ΞΉΞ± Ο„Ξ·Ξ½ ΞΟ…Ξ²Ξ­ΟΞ½Ξ·ΟƒΞ· ΞΊΞ±ΞΉ Ο„Ξ± ΞΊΟ…Ξ²ΞµΟΞ½Ξ·Ο„ΞΉΞΊΞ¬ ΟΟΞ³Ξ±Ξ½Ξ±Β» Ο€ΞΏΟ… ΞΊΟ…ΟΟΞΈΞ·ΞΊΞµ ΞΌΞµ Ο„ΞΏ Ξ¬ΟΞΈΟΞΏ Ο€ΟΟΟ„ΞΏ Ο„ΞΏΟ… Ξ .Ξ”.63/2005 (Ξ¦Ξ•Ξ Ξ‘Ξ„ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2014/59/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) Των άρθρων 42 και 108 του Ν.Δ.721/1970 Περί οικονομικής μέριμνας και λογιστικού των Ενόπλων Δυνάμεων (ΦΕΚ Α΄ 251). β) Του άρθρου 90 του «Κώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα» που κυρώθηκε με το άρθρο πρώτο του Π.Δ.63/2005 (ΦΕΚ Α΄ 98). "@el.
 <http://legislation.di.uoa.gr/pd/2014/59> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/59/citation/1>.
 <http://legislation.di.uoa.gr/pd/2014/59/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/59/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ·Ξ½ Ξ¥304/1-7-2013 Ξ±Ο€ΟΟ†Ξ±ΟƒΞ· Ξ ΟΟ‰ΞΈΟ…Ο€ΞΏΟ…ΟΞ³ΞΏΟ Β«Ξ‘Ξ½Ξ¬ΞΈΞµΟƒΞ· Ξ±ΟΞΌΞΏΞ΄ΞΉΞΏΟ„Ξ®Ο„Ο‰Ξ½ ΟƒΟ„Ξ·Ξ½ Ξ‘Ξ½Ξ±Ο€Ξ»Ξ·ΟΟ‰Ο„Ξ® Ξ¥Ο€ΞΏΟ…ΟΞ³Ο Ξ•ΞΈΞ½ΞΉΞΊΞ®Ο‚ Ξ†ΞΌΟ…Ξ½Ξ±Ο‚ Ξ¦Ο‰Ο„ΞµΞΉΞ½Ξ® Ξ“ΞµΞ½Ξ½Ξ·ΞΌΞ±Ο„Ξ¬Β» (Ξ¦Ξ•Ξ Ξ’Ξ„ 1635). 3Ξ¤Ξ· Ξ¥48/9-7-2012 Ξ±Ο€ΟΟ†Ξ±ΟƒΞ· Ξ ΟΟ‰ΞΈΟ…Ο€ΞΏΟ…ΟΞ³ΞΏΟ Β«ΞΞ±ΞΈΞΏΟΞΉΟƒΞΌΟΟ‚ Ξ±ΟΞΌΞΏΞ΄ΞΉΞΏΟ„Ξ®Ο„Ο‰Ξ½ Ο„ΞΏΟ… Ξ‘Ξ½Ξ±Ο€Ξ»Ξ·ΟΟ‰Ο„Ξ® Ξ¥Ο€ΞΏΟ…ΟΞ³ΞΏΟ ΞΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΟΞ½ Ξ§ΟΞ®ΟƒΟ„ΞΏΟ… Ξ£Ο„Ξ±ΟΞΊΞΏΟΟΞ±Β» (Ξ¦Ξ•Ξ Ξ’Ξ„ 2105). "@el.
+<http://legislation.di.uoa.gr/pd/2014/59/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Την Υ304/1-7-2013 απόφαση Πρωθυπουργού «Ανάθεση αρμοδιοτήτων στην Αναπληρωτή Υπουργό Εθνικής Άμυνας Φωτεινή Γεννηματά» (ΦΕΚ Β΄ 1635). 3Τη Υ48/9-7-2012 απόφαση Πρωθυπουργού «Καθορισμός αρμοδιοτήτων του Αναπληρωτή Υπουργού Οικονομικών Χρήστου Σταϊκούρα» (ΦΕΚ Β΄ 2105). "@el.
 <http://legislation.di.uoa.gr/pd/2014/59> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/59/citation/2>.
 <http://legislation.di.uoa.gr/pd/2014/59/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/59/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΏ Ξ³ΞµΞ³ΞΏΞ½ΟΟ‚ ΟΟ„ΞΉ Ξ±Ο€Ο Ο„ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ ΞµΟ€Ξ­ΟΟ‡ΞµΟ„Ξ±ΞΉ ΞΌΞµΞ―Ο‰ΟƒΞ· Ο„Ξ·Ο‚ ΞµΟ„Ξ®ΟƒΞΉΞ±Ο‚ ΞµΟ€ΞΉΞ²Ξ¬ΟΟ…Ξ½ΟƒΞ·Ο‚ Ο„ΞΏΟ… ΞΟΞ±Ο„ΞΉΞΊΞΏΟ Ξ ΟΞΏΟ‹Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΞΌΞΏΟ, Ο„ΞΏ ΟΟΞΏΟ‚ Ο„Ξ·Ο‚ ΞΏΟ€ΞΏΞ―Ξ±Ο‚ Ξ΄ΞµΞ½ ΞΌΟ€ΞΏΟΞµΞ― Ξ½Ξ± Ο€ΟΞΏΟƒΞ΄ΞΉΞΏΟΞΉΟƒΟ„ΞµΞ― ΞµΞΊ Ο„Ο‰Ξ½ Ο€ΟΞΏΟ„Ξ­ΟΟ‰Ξ½. "@el.
+<http://legislation.di.uoa.gr/pd/2014/59/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος επέρχεται μείωση της ετήσιας επιβάρυνσης του Κρατικού Προϋπολογισμού, το ύψος της οποίας δεν μπορεί να προσδιοριστεί εκ των προτέρων. "@el.
 <http://legislation.di.uoa.gr/pd/2014/59> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/59/citation/3>.
 <http://legislation.di.uoa.gr/pd/2014/59/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/59/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ· Ξ” 21/2014 Ξ“Ξ½Ο‰ΞΌΞΏΞ΄ΟΟ„Ξ·ΟƒΞ· Ο„ΞΏΟ… Ξ£Ο…ΞΌΞ²ΞΏΟ…Ξ»Ξ―ΞΏΟ… Ο„Ξ·Ο‚ Ξ•Ο€ΞΉΞΊΟΞ±Ο„ΞµΞ―Ξ±Ο‚, ΞΌΞµΟ„Ξ¬ Ξ±Ο€Ο Ο€ΟΟΟ„Ξ±ΟƒΞ· Ο„Ξ·Ο‚ Ξ‘Ξ½Ξ±Ο€Ξ»Ξ·ΟΟ‰Ο„ΞΏΟ Ξ¥Ο€ΞΏΟ…ΟΞ³ΞΏΟ Ξ•ΞΈΞ½ΞΉΞΊΞ®Ο‚ Ξ†ΞΌΟ…Ξ½Ξ±Ο‚ ΞΊΞ±ΞΉ Ο„ΞΏΟ… Ξ‘Ξ½Ξ±Ο€Ξ»Ξ·ΟΟ‰Ο„Ξ® Ξ¥Ο€ΞΏΟ…ΟΞ³ΞΏΟ ΞΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΟΞ½, "@el.
+<http://legislation.di.uoa.gr/pd/2014/59/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Τη Δ 21/2014 Γνωμοδότηση του Συμβουλίου της Επικρατείας, μετά από πρόταση της Αναπληρωτού Υπουργού Εθνικής Άμυνας και του Αναπληρωτή Υπουργού Οικονομικών, "@el.
 <http://legislation.di.uoa.gr/pd/2014/59> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/59/citation/4>.
 <http://legislation.di.uoa.gr/pd/2014/59/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/59> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/59/article/1>.
@@ -26,18 +26,18 @@
 <http://legislation.di.uoa.gr/pd/2014/59/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/59/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/59/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/59/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/59/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/59article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " ΞΞΉ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ο€.Ξ΄. 200/1993 (Ξ¦Ξ•Ξ Ξ‘Ξ„ 75) Ο„ΟΞΏΟ€ΞΏΟ€ΞΏΞΉΞΏΟΞ½Ο„Ξ±ΞΉ Ο‰Ο‚ Ξ±ΞΊΞΏΞ»ΞΏΟΞΈΟ‰Ο‚: 1. Ξ— Ο€Ξ±ΟΞ¬Ξ³ΟΞ±Ο†ΞΏΟ‚ 6 Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 5 Ο„ΞΏΟ… Ο€.Ξ΄. 200/1993 Ξ±Ξ½Ο„ΞΉΞΊΞ±ΞΈΞ―ΟƒΟ„Ξ±Ο„Ξ±ΞΉ Ο‰Ο‚ ΞµΞΎΞ®Ο‚: . 2. Ξ— Ο€Ξ±ΟΞ¬Ξ³ΟΞ±Ο†ΞΏΟ‚ 7 Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 5 Ο„ΞΏΟ… Ο€.Ξ΄. 200/1993 Ξ±Ξ½Ο„ΞΉΞΊΞ±ΞΈΞ―ΟƒΟ„Ξ±Ο„Ξ±ΞΉ Ο‰Ο‚ ΞµΞΎΞ®Ο‚: . 3. Ξ— Ο€Ξ±ΟΞ¬Ξ³ΟΞ±Ο†ΞΏΟ‚ 8 Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 5 Ο„ΞΏΟ… Ο€.Ξ΄. 200/1993 Ξ±Ξ½Ο„ΞΉΞΊΞ±ΞΈΞ―ΟƒΟ„Ξ±Ο„Ξ±ΞΉ Ο‰Ο‚ ΞµΞΎΞ®Ο‚: . 4. Ξ— Ο€Ξ±ΟΞ¬Ξ³ΟΞ±Ο†ΞΏΟ‚ 9 Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 5 Ο„ΞΏΟ… Ο€.Ξ΄. 200/1993 Ξ±Ξ½Ο„ΞΉΞΊΞ±ΞΈΞ―ΟƒΟ„Ξ±Ο„Ξ±ΞΉ Ο‰Ο‚ ΞµΞΎΞ®Ο‚: . 5. Ξ¤ΞΏ Ξ¬ΟΞΈΟΞΏ 14, Ο€Ξ±ΟΞ¬Ξ³ΟΞ±Ο†ΞΏΟ‚ 1, Ο€ΞµΟΞ―Ο€Ο„Ο‰ΟƒΞ· Ξ±Ξ„ ΞµΞ΄Ξ¬Ο†ΞΉΞΏ Ο„ΟΞ―Ο„ΞΏ Ξ±Ξ½Ο„ΞΉΞΊΞ±ΞΈΞ―ΟƒΟ„Ξ±Ο„Ξ±ΞΉ Ο‰Ο‚ ΞµΞΎΞ®Ο‚: ."@el.
+<http://legislation.di.uoa.gr/pd/2014/59/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Οι διατάξεις του π.δ. 200/1993 (ΦΕΚ Α΄ 75) τροποποιούνται ως ακολούθως: 1. Η παράγραφος 6 του άρθρου 5 του π.δ. 200/1993 αντικαθίσταται ως εξής: . 2. Η παράγραφος 7 του άρθρου 5 του π.δ. 200/1993 αντικαθίσταται ως εξής: . 3. Η παράγραφος 8 του άρθρου 5 του π.δ. 200/1993 αντικαθίσταται ως εξής: . 4. Η παράγραφος 9 του άρθρου 5 του π.δ. 200/1993 αντικαθίσταται ως εξής: . 5. Το άρθρο 14, παράγραφος 1, περίπτωση α΄ εδάφιο τρίτο αντικαθίσταται ως εξής: ."@el.
 <http://legislation.di.uoa.gr/pd/2014/59> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΞΞ‘Ξ΅ΞΞ›ΞΞ£ Ξ Ξ‘Ξ ΞΞ¥Ξ›Ξ™Ξ‘Ξ£"@el.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
 
 <http://legislation.di.uoa.gr/pd/2014/60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/60> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/102>.
-<http://legislation.di.uoa.gr/gazette/a/2014/102> <http://purl.org/dc/terms/title> "Ξ‘/2014/102".
+<http://legislation.di.uoa.gr/gazette/a/2014/102> <http://purl.org/dc/terms/title> "Α/2014/102".
 <http://legislation.di.uoa.gr/pd/2014/60> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/60> <http://purl.org/dc/terms/created> "2014-04-22"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/60> <http://legislation.di.uoa.gr/ontology/legislationID> "60"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/pd/2014/60> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/pd/2014/60> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
 <http://legislation.di.uoa.gr/pd/2014/60> <http://www.metalex.eu/metalex/2008-05-02#realizedBy> <http://legislation.di.uoa.gr/pd/2014/60/2014-04-22>.
-<http://legislation.di.uoa.gr/pd/2014/60> <http://purl.org/dc/terms/title> "Ξ¤ΟΞΏΟ€ΞΏΟ€ΞΏΞ―Ξ·ΟƒΞ· Ο„ΞΏΟ… ΞΌΞµ Ξ±ΟΞΉΞΈΞΌΟ 125/28-8-2013 Ο€ΟΞΏΞµΞ΄ΟΞΉΞΊΞΏΟ Ξ΄ΞΉΞ±Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚ ΞΌΞµ ΞΈΞ­ΞΌΞ± Β«ΞΞ±Ο„Ξ¬ΟΞ³Ξ·ΟƒΞ· ΞΌΞµΟ„Ξ±Ξ²Ξ±Ο„ΞΉΞΊΟΞ½ ΞµΞ΄ΟΟΞ½: Ξ±) Ο„ΞΏΟ… ΞΞΏΞ½ΞΏΞΌΞµΞ»ΞΏΟΟ‚ Ξ ΟΟ‰Ο„ΞΏΞ΄ΞΉΞΊΞµΞ―ΞΏΟ…, ΞΞΏΞ½ΞΏΞΌΞµΞ»ΞΏΟΟ‚ Ξ Ξ»Ξ·ΞΌΞΌΞµΞ»ΞµΞΉΞΏΞ΄ΞΉΞΊΞµΞ―ΞΏΟ… Ξ‘ΞΈΞ·Ξ½ΟΞ½ ΞΊΞ±ΞΉ Ξ²) Ο„ΞΏΟ… Ξ Ο„Ξ±ΞΉΟƒΞΌΞ±Ο„ΞΏΞ΄ΞΉΞΊΞµΞ―ΞΏΟ… Ξ‘ΞΈΞ·Ξ½ΟΞ½Β» (Ξ‘Ξ„ 184)  "@el.
+<http://legislation.di.uoa.gr/pd/2014/60> <http://purl.org/dc/terms/title> "Τροποποίηση του με αριθμό 125/28-8-2013 προεδρικού διατάγματος με θέμα «Κατάργηση μεταβατικών εδρών: α) του Μονομελούς Πρωτοδικείου, Μονομελούς Πλημμελειοδικείου Αθηνών και β) του Πταισματοδικείου Αθηνών» (Α΄ 184)  "@el.

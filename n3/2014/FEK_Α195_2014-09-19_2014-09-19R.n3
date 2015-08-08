@@ -1,20 +1,20 @@
-ο»Ώ<http://legislation.di.uoa.gr/pd/2014/121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2014/121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
 <http://legislation.di.uoa.gr/pd/2014/121> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/195>.
-<http://legislation.di.uoa.gr/gazette/a/2014/195> <http://purl.org/dc/terms/title> "Ξ‘/2014/195".
+<http://legislation.di.uoa.gr/gazette/a/2014/195> <http://purl.org/dc/terms/title> "Α/2014/195".
 <http://legislation.di.uoa.gr/pd/2014/121> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
 <http://legislation.di.uoa.gr/pd/2014/121> <http://purl.org/dc/terms/created> "2014-09-19"^^<http://www.w3.org/2001/XMLSchema#date>.
 <http://legislation.di.uoa.gr/pd/2014/121> <http://legislation.di.uoa.gr/ontology/legislationID> "121"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/pd/2014/121> <http://legislation.di.uoa.gr/ontology/tag> "Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±"@el.
+<http://legislation.di.uoa.gr/pd/2014/121> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
 
-<http://legislation.di.uoa.gr/pd/2014/121> <http://purl.org/dc/terms/title> "Ξ”ΞΉΞΏΟΞΉΟƒΞΌΟΟ‚ Ξ¥Ο€ΞΏΞ΄ΞΉΞΏΞΉΞΊΞ·Ο„Ξ® Ο„Ξ·Ο‚ Ξ¤ΟΞ¬Ο€ΞµΞ¶Ξ±Ο‚ Ο„Ξ·Ο‚ Ξ•Ξ»Ξ»Ξ¬Ξ΄ΞΏΟ‚.  "@el.
+<http://legislation.di.uoa.gr/pd/2014/121> <http://purl.org/dc/terms/title> "Διορισμός Υποδιοικητή της Τράπεζας της Ελλάδος.  "@el.
 <http://legislation.di.uoa.gr/pd/2014/121/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/121/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤ΞΉΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬ΞΎΞµΞΉΟ‚ Ο„ΞΏΟ… Ξ¬ΟΞΈΟΞΏΟ… 29 Ο„ΞΏΟ… ΞΊΞ±Ο„Ξ±ΟƒΟ„Ξ±Ο„ΞΉΞΊΞΏΟ Ο„Ξ·Ο‚ Ξ¤ΟΞ¬Ο€ΞµΞ¶Ξ±Ο‚ Ο„Ξ·Ο‚ Ξ•Ξ»Ξ»Ξ¬Ξ΄ΞΏΟ‚ ΟΟ€Ο‰Ο‚ ΞΊΟ…ΟΟΞΈΞ·ΞΊΞµ ΞΌΞµ Ο„ΞΏΞ½ Ξ½. 3424/ 1927 (Ξ‘Ξ„ 298), ΟΟ€Ο‰Ο‚ Ο„ΞΏ Ξ¬ΟΞΈΟΞΏ Ξ±Ο…Ο„Ο Ο„ΟΞΏΟ€ΞΏΟ€ΞΏΞΉΞ®ΞΈΞ·ΞΊΞµ ΞΊΞ±ΞΉ ΞΉΟƒΟ‡ΟΞµΞΉ. "@el.
+<http://legislation.di.uoa.gr/pd/2014/121/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 29 του καταστατικού της Τράπεζας της Ελλάδος όπως κυρώθηκε με τον ν. 3424/ 1927 (Α΄ 298), όπως το άρθρο αυτό τροποποιήθηκε και ισχύει. "@el.
 <http://legislation.di.uoa.gr/pd/2014/121> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/121/citation/1>.
 <http://legislation.di.uoa.gr/pd/2014/121/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/121/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ·Ξ½ Ξ±Ο€Ο 5-9-2014 Ο€ΟΟΟ„Ξ±ΟƒΞ· Ο„ΞΏΟ… Ξ“ΞµΞ½ΞΉΞΊΞΏΟ Ξ£Ο…ΞΌΞ²ΞΏΟ…Ξ»Ξ―ΞΏΟ… Ο„Ξ·Ο‚ Ξ¤ΟΞ¬Ο€ΞµΞ¶Ξ±Ο‚ Ο„Ξ·Ο‚ Ξ•Ξ»Ξ»Ξ¬Ξ΄ΞΏΟ‚ (ΟƒΟ…Ξ½ΞµΞ΄ΟΞ―Ξ±ΟƒΞ· Ξ±ΟΞΉΞΈΞΌ. 8/5-9-2014). "@el.
+<http://legislation.di.uoa.gr/pd/2014/121/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Την από 5-9-2014 πρόταση του Γενικού Συμβουλίου της Τράπεζας της Ελλάδος (συνεδρίαση αριθμ. 8/5-9-2014). "@el.
 <http://legislation.di.uoa.gr/pd/2014/121> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/121/citation/2>.
 <http://legislation.di.uoa.gr/pd/2014/121/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
-<http://legislation.di.uoa.gr/pd/2014/121/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Ξ¤Ξ·Ξ½ Ξ“.Ξ”.Ξ.Ξ .0001189Ξ•Ξ2014/Ξ’Ξ„ 1596/11-9-2014 ΞµΞΉΟƒΞ®Ξ³Ξ·ΟƒΞ· Ο„ΞΏΟ… Ξ¥Ο€ΞΏΟ…ΟΞ³ΞΏΟ ΞΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΟΞ½, ΞΌΞµ Ο€ΟΟΟ„Ξ±ΟƒΞ· Ο„ΞΏΟ… Ξ¥Ο€ΞΏΟ…ΟΞ³ΞΉΞΊΞΏΟ Ξ£Ο…ΞΌΞ²ΞΏΟ…Ξ»Ξ―ΞΏΟ…, "@el.
+<http://legislation.di.uoa.gr/pd/2014/121/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Την Γ.Δ.Ο.Π.0001189ΕΞ2014/Β΄ 1596/11-9-2014 εισήγηση του Υπουργού Οικονομικών, με πρόταση του Υπουργικού Συμβουλίου, "@el.
 <http://legislation.di.uoa.gr/pd/2014/121> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/121/citation/3>.
 <http://legislation.di.uoa.gr/pd/2014/121/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
 <http://legislation.di.uoa.gr/pd/2014/121> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/121/article/1>.
@@ -22,8 +22,8 @@
 <http://legislation.di.uoa.gr/pd/2014/121/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/121/article/1/paragraph/1>.
 <http://legislation.di.uoa.gr/pd/2014/121/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
 <http://legislation.di.uoa.gr/pd/2014/121/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2014/121/article/1/paragraph/1/passage/1>.
-<http://legislation.di.uoa.gr/pd/2014/121article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Ξ”ΞΉΞΏΟΞ―Ξ¶ΞΏΟ…ΞΌΞµ ΞΌΞµ ΞµΞΎΞ±ΞµΟ„Ξ® ΞΈΞ·Ο„ΞµΞ―Ξ± Ο„ΞΏΞ½ Ξ™Ο‰Ξ¬Ξ½Ξ½Ξ· ΞΞΏΟ…ΟΞΌΞΏΟΟΞ± Ο„ΞΏΟ… Ξ‘Ξ»ΞµΞΎΞ¬Ξ½Ξ΄ΟΞΏΟ… (Ξ‘.Ξ”.Ξ¤. Ξ‘Ξ• 640045), Ο‰Ο‚ Ξ¥Ο€ΞΏΞ΄ΞΉΞΏΞΉΞΊΞ·Ο„Ξ® Ο„Ξ·Ο‚ Ξ¤ΟΞ¬Ο€ΞµΞ¶Ξ±Ο‚ Ο„Ξ·Ο‚ Ξ•Ξ»Ξ»Ξ¬Ξ΄ΞΏΟ‚. Ξ£Ο„ΞΏΞ½ Ξ¥Ο€ΞΏΟ…ΟΞ³Ο ΞΞΉΞΊΞΏΞ½ΞΏΞΌΞΉΞΊΟΞ½ Ξ±Ξ½Ξ±ΞΈΞ­Ο„ΞΏΟ…ΞΌΞµ Ο„Ξ· Ξ΄Ξ·ΞΌΞΏΟƒΞ―ΞµΟ…ΟƒΞ· ΞΊΞ±ΞΉ ΞµΞΊΟ„Ξ­Ξ»ΞµΟƒΞ· Ο„ΞΏΟ… Ο€Ξ±ΟΟΞ½Ο„ΞΏΟ‚ Ξ΄ΞΉΞ±Ο„Ξ¬Ξ³ΞΌΞ±Ο„ΞΏΟ‚."@el.
+<http://legislation.di.uoa.gr/pd/2014/121/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Διορίζουμε με εξαετή θητεία τον Ιωάννη Μουρμούρα του Αλεξάνδρου (Α.Δ.Τ. ΑΕ 640045), ως Υποδιοικητή της Τράπεζας της Ελλάδος. Στον Υπουργό Οικονομικών αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.
 <http://legislation.di.uoa.gr/pd/2014/121> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/signer/1>.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΞΞ‘Ξ΅ΞΞ›ΞΞ£ Ξ Ξ‘Ξ ΞΞ¥Ξ›Ξ™Ξ‘Ξ£"@el.
-<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "Ξ Ξ΅ΞΞ•Ξ”Ξ΅ΞΞ£ Ξ¤Ξ—Ξ£ Ξ”Ξ—ΞΞΞΞ΅Ξ‘Ξ¤Ξ™Ξ‘Ξ£"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/signer/1> <http://xmlns.com/foaf/0.1/title> "ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ"@el.
 
