@@ -1,0 +1,624 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/80> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_80.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/80> <http://purl.org/dc/terms/title> "Α/2013/80".
+<http://legislation.di.uoa.gr/gazette/a/2013/80> <http://purl.org/dc/terms/created> "2013-04-05"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/80>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://purl.org/dc/terms/created> "2013-04-05"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://legislation.di.uoa.gr/ontology/legislationID> "43"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://purl.org/dc/terms/title> "Κανονισμός Oικovoμικής Διαχείρισης Evιαίας Ανεξάρτητης Aρχής Δημοσίων Συμβάσεων [Ε.Α.Α.ΔΗ.ΣΥ.]. "@el.
+<http://legislation.di.uoa.gr/pd/2013/43/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/43/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α. Του άρθρου 4 παρ. 3 εδάφιο β΄ του ν. 4013/2011 (Α΄ 204), όπως αντικαταστάθηκε με το άρθρο 238 παρ. 2 περ. β΄ του ν. 4072/2012 (Α΄ 86). β. Του π.δ/τος 205/1998 (Α΄ 163). γ. Της υπ’ αριθμ. Υ 48/9-07-2012 (Β΄ 2105) απόφασης του Πρωθυπουργού «Καθορισμός αρμοδιοτήτων του Αναπληρωτή Υπουργού Οικονομικών Χρήστου Σταϊκούρα». δ. Του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα που κυρώθηκε με το άρθρο πρώτο του π.δ/τος 63/2005 (Α΄ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/citation/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/citation/1> <http://legislation.di.uoa.gr/ontology/html> "Τις διατάξεις: α. Του άρθρου 4 παρ. 3 εδάφιο β΄ του ν. 4013/2011 (Α΄ 204), όπως αντικαταστάθηκε με το άρθρο 238 παρ. 2 περ. β΄ του  <a href=\"http://legislation.di.uoa.gr/law/2012/4072\">ν. 4072/2012</a> (Α΄ 86). β. Του π.δ/τος 205/1998 (Α΄ 163). γ. Της υπ’ αριθμ. Υ 48/9-07-2012 (Β΄ 2105) απόφασης του Πρωθυπουργού «Καθορισμός αρμοδιοτήτων του Αναπληρωτή Υπουργού Οικονομικών Χρήστου Σταϊκούρα». δ. Του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα που κυρώθηκε με το άρθρο πρώτο του π.δ/τος 63/2005 (Α΄ 98). ".
+<http://legislation.di.uoa.gr/pd/2013/43/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/43/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το υπ’ αριθμ. 121/14.1.2013 έγγραφο του Προέδρου της της Ενιαίας Ανεξάρτητης Αρχής Δημοσίων Συμβάσεων [Ε.Α.Α.ΔΗ.ΣΥ.], από το οποίο προκύπτει ότι το παρόν σχέδιο καταρτίστηκε, σύμφωνα με την ανωτέρω εξουσιοδοτική διάταξη, από την Ε.Α.Α.ΔΗ.ΣΥ. "@el.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/citation/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/43/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από την έκδοση του παρόντος διατάγματος προκαλείται δαπάνη σε βάρος του προϋπολογισμού της Ενιαίας Ανεξάρτητης Αρχής Δημοσίων Συμβάσεων, το ύψος της οποίας δεν μπορεί να προβλεφθεί, διότι πρόκειται για δαπάνη η οποία σχετίζεται με πραγματικά γεγονότα τα οποία δεν είναι στην παρούσα χρονική περίσταση καθορισμένα. "@el.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/citation/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/43/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθμ. 15/2013 γνωμοδότηση του Συμβουλίου της Επικρατείας, με πρόταση του Αναπληρωτή Υπουργού Οικονομικών, "@el.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/citation/4>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/43/signer/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/1> <http://purl.org/dc/terms/title> "Σκοπός - Αντικείμενο"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Αντικείμενο του παρόντος Κανονισμού είναι ο καθορισμός του τρόπου διάθεσης και διαχείρισης των πιστώσεων της Ε.Α.Α.ΔΗ.ΣΥ, καθώς και ο τρόπος εκτέλεσης των κάθε είδους δαπανών της."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/2> <http://purl.org/dc/terms/title> "Οικονομικό Έτος"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οικονομικό έτος είναι η χρονική περίοδος η οποία περιλαμβάνει τις διοικητικές πράξεις και τα γεγονότα, τα οποία σχετίζονται με τη διαχείριση των πιστώσεων και την εκτέλεση των δαπανών της Ε.Α.Α.ΔΗ.ΣΥ."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/2/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/2/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/2/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/2/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/2/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το οικονομικό έτος αρχίζει την 1η Ιανουαρίου και λήγει την 31η Δεκεμβρίου του ίδιου ημερολογιακού έτους."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/3> <http://purl.org/dc/terms/title> "Όργανο διοίκησης και διαχείρισης των πόρων"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/3/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/3/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η διοίκηση και διαχείριση των πόρων της Ε.Α.Α.ΔΗ.ΣΥ ασκείται από αυτήν."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/3/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/3/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/3/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/3/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/3/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Με απόφαση του Προέδρου της Αρχής είναι δυνατή η παροχή εξουσιοδότησης σε άλλα όργανά της να υπογράφουν «με εντολή Προέδρου» έγγραφα ή άλλες πράξεις διαχείρισης."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/4>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/4> <http://purl.org/dc/terms/title> "Προϋπολογισμός"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/4/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/4/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/4/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/4/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι αναγκαίες, για τη λειτουργία της Ε.Α.Α.ΔΗ.ΣΥ και την εκπλήρωση της αποστολής της, πιστώσεις, εγγράφονται υπό ίδιο κωδικό στον προϋπολογισμό του Υπουργείου Ανάπτυξης, Ανταγωνιστικότητας Μεταφορών Υποδομών και Δικτύων."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/5>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5> <http://purl.org/dc/terms/title> "Έσοδα"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Πόροι της Ε.Α.Α.ΔΗ.ΣΥ είναι οι εξής:"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/case/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/case/2> <http://legislation.di.uoa.gr/ontology/text> "η κράτηση ύψους 0,10% η οποία υπολογίζεται επίτης αξίας, εκτός Φ.Π.Α., της αρχικής, καθώς και κάθεσυμπληρωματικής σύμβασης για τις συμβάσεις που υπάγονται στην αρμοδιότητα της Αρχής, σύμφωνα με τοάρθρο 2 του ν. 4013/2011."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/case/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/case/3> <http://legislation.di.uoa.gr/ontology/text> "Τόκοι και λοιπά έσοδα από τη διαχείριση των κεφαλαίων της."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/case/4>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/case/4> <http://legislation.di.uoa.gr/ontology/text> "Δωρεές, κληρονομιές, κληροδοσίες ή εισφορέςτρίτων."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/case/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/case/5>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/case/5> <http://legislation.di.uoa.gr/ontology/text> "Έσοδα προερχόμενα από την Ευρωπαϊκή Ένωση."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/case/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/case/6>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/case/6> <http://legislation.di.uoa.gr/ontology/text> "Χρηματοδότηση μέσω της συλλογικής απόφασηςέργου (ΣΑΕ) του Υπουργείου Ανάπτυξης, Ανταγωνιστικότητας Μεταφορών Υποδομών και Δικτύων για τησυμμετοχή της στο Πρόγραμμα Δημοσίων Επενδύσεων,σε ευρωπαϊκά ή συγχρηματοδοτούμενα προγράμματα,"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/case/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/case/7>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/1/case/7> <http://legislation.di.uoa.gr/ontology/text> "Κάθε άλλος νόμιμος πόρος."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/5/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι εισπράξεις των εσόδων ενεργούνται από την τράπεζα στην οποία έχει συσταθεί ο ειδικός λογαριασμός της Ε.Α.Α.ΔΗ.ΣΥ. Οι εισπράξεις, για κάθε μία από τις οποίες εκδίδεται σχετικό γραμμάτιο είσπραξης, καταχωρίζονται ως έσοδα της Αρχής στα οικεία βιβλία, με βάση τις έγγραφες αναγγελίες της τράπεζας που διενήργησε την είσπραξη."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/6>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6> <http://purl.org/dc/terms/title> "Δαπάνες"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι δαπάνες της Ε.Α.Α.ΔΗ.ΣΥ αφορούν ιδίως:"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/2> <http://legislation.di.uoa.gr/ontology/text> "Την καταβολή αποδοχών, πρόσθετων αμοιβών,ασφαλιστικών εισφορών, εξόδων κίνησης και λοιπώναποζημιώσεων στο προσωπικό που υπηρετεί στην Αρχή,στον Πρόεδρο, τα Μέλη και τα όργανά της."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/3> <http://legislation.di.uoa.gr/ontology/text> "Την πληρωμή ενοικίων και κοινοχρήστων ακινήτων ήκινητών που μισθώνει η Αρχή με κοινή ή χρηματοδοτικήμίσθωση, καθώς και την ασφάλιση κτιρίων, επίπλων κ.λπ."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/4>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/4> <http://legislation.di.uoa.gr/ontology/text> "Την κάλυψη των κάθε είδους λειτουργικών εξόδων(προμήθεια γραφικής ύλης, φωτισμός, θέρμανση, τηλεφωνικά, ταχυδρομικά και τηλεγραφικά έξοδα, λοιπέςπρομήθειες αναλώσιμων υλικών κ.λπ.)."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/5>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/5> <http://legislation.di.uoa.gr/ontology/text> "Την αγορά κτιρίων ή γηπέδων για την ανέγερσηκτιρίων ή επέκταση υφιστάμενων εγκαταστάσεων καιεξυπηρέτηση συναφών δανείων."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/6>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/6> <http://legislation.di.uoa.gr/ontology/text> "Την εκπαίδευση και επιμόρφωση του προσωπικού."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/7>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/7> <http://legislation.di.uoa.gr/ontology/text> "Την επισκευή και συντήρηση κτιρίων, εγκαταστάσεων, επίπλων, μηχανημάτων, οργάνων και σκευών."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/8>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/8> <http://legislation.di.uoa.gr/ontology/text> "Την εκπόνηση μελετών, πραγματοποίηση ερευνώνκαι την λήψη (παροχή) κάθε είδους υπηρεσιών από τρίτους."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/9>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/9> <http://legislation.di.uoa.gr/ontology/text> "Την προμήθεια ηλεκτρονικού εξοπλισμού και λογισμικού, καθώς και την προσαρμογή, αναβάθμιση, βελτίωση και επέκταση αυτών."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/10>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/10> <http://legislation.di.uoa.gr/ontology/text> "Την προμήθεια επίπλων, σκευών και λοιπών ειδώνεξοπλισμού."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/11>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/11> <http://legislation.di.uoa.gr/ontology/text> "Την έκδοση εντύπων."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/12>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/12> <http://legislation.di.uoa.gr/ontology/text> "Τη δημοσίευση ανακοινώσεων σε έντυπο και ηλεκτρονικό τύπο."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/13>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/13> <http://legislation.di.uoa.gr/ontology/text> "Τις δημόσιες σχέσεις."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/14>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/14> <http://legislation.di.uoa.gr/ontology/text> "Συνδέσεις και συνδρομές σε εταιρείες παρακολούθησης αγορών και τράπεζες πληροφοριών, καθώςκαι εισφορές σε διεθνείς οργανισμούς στους οποίουςσυμμετέχει."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/15>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/6/paragraph/1/case/15> <http://legislation.di.uoa.gr/ontology/text> "Κάθε άλλη δαπάνη που προβλέπεται από διάταξηνόμου ή εξυπηρετεί και προάγει τους σκοπούς της."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7> <http://purl.org/dc/terms/title> "Διαδικασία έγκρισης δαπάνης"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Διατάκτης των δαπανών της Αρχής είναι ο Πρόεδρός της. Πριν από κάθε ενέργεια για την εκτέλεση οποιασδήποτε δαπάνης απαιτείται η έγκριση του Προέδρου της Αρχής ή των εξουσιοδοτημένων από αυτόν οργάνων σύμφωνα με τα οριζόμενα στον παρόντα Κανονισμό."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ο Πρόεδρος δύναται με απόφασή του να μεταβιβάζει την αρμοδιότητα έγκρισης δαπανών στον Γενικό Διευθυντή."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η έγκριση παρέχεται με ιδιαίτερο έγγραφο που συντάσσεται σε δύο αντίτυπα από τη Διεύθυνση Διοικητικής και Οικονομικής Υποστήριξης και υπογράφεται από τον Πρόεδρο ή από το όργανο που έχει την αρμοδιότητα αυτή."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στο έγγραφο αναγράφονται:"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/case/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/case/2> <http://legislation.di.uoa.gr/ontology/text> "Οι διατάξεις νόμων ή διοικητικών πράξεων στιςοποίες στηρίζεται η δαπάνη."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/case/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/case/3> <http://legislation.di.uoa.gr/ontology/text> "Το είδος και η αιτία της δαπάνης."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/case/4>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/case/4> <http://legislation.di.uoa.gr/ontology/text> "Το οικονομικό έτος."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/case/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/case/5>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/case/5> <http://legislation.di.uoa.gr/ontology/text> "Η προκαλούμενη επιβάρυνση του προϋπολογισμού."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/case/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/case/6>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/case/6> <http://legislation.di.uoa.gr/ontology/text> "Ο κωδικός αριθμός εξόδου του προϋπολογισμούτης Επιτροπής στον οποίο θα καταλογισθεί η δαπάνη."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/case/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/case/7>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/4/case/7> <http://legislation.di.uoa.gr/ontology/text> "Τα στοιχεία της εξουσιοδοτικής απόφασης τηςΑρχής σε όσες περιπτώσεις η έγκριση της δαπάνηςγίνεται από εξουσιοδοτημένο όργανο. Επί του εγγράφου βεβαιώνεται από τον προϊστάμενο του αρμοδίουτμήματος, βάσει των στοιχείων που τηρούνται σ’ αυτό,ότι υφίσταται πίστωση και δεν γίνεται υπέρβασή της.4α: Στην Αρχή τηρείται βιβλίο εγκρίσεων και εντολώνπληρωμής, όπου καταχωρούνται κατά αύξοντα αριθμόόλες οι αναλαμβανόμενες υποχρεώσεις.4β: Αναληφθείσα υποχρέωση δαπάνης ανατρέπεταιεν όλω ή εν μέρει ύστερα από πρόταση του αρμόδιουδιατάκτη και καταχωρείται στο οικείο βιβλίο κατά αύξοντα αριθμό."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/5>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/5/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μετά από την έγκριση της δαπάνης, το αρμόδιο όργανο προβαίνει στις νόμιμες ενέργειες για την εκτέλεσή της."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/6>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/6/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι εγκρίσεις δαπανών, που βαρύνουν εξ ολοκλήρου ή τμηματικά τα επόμενα οικονομικά έτη, φυλάσσονται από το αρμόδιο τμήμα μέχρι την ολοσχερή εξόφλησή τους, σε ιδιαίτερο φάκελο και, με την έναρξη κάθε οικονομικού έτους, καταχωρίζονται στα οικεία βιβλία κατά το ποσό που αντιστοιχεί στο νέο έτος και κατ’ απόλυτη προτεραιότητα."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/7>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/7/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι καταρτιζόμενες συμβάσεις για λογαριασμό της Αρχής περιλαμβάνουν απαραίτητα τον αριθμό και τη χρονολογία της απόφασης του αρμόδιου οργάνου που εγκρίνει τη δαπάνη."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/8>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/8/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/8/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/7/paragraph/8/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Προκειμένου περί διορισμών, εντάξεων και μετατάξεων του προσωπικού, βεβαιώνεται από τον προϊστάμενο του αρμόδιου τμήματος η ύπαρξη της αναγκαίας για την αντιμετώπιση της δαπάνης πίστωσης, για μεν τους διορισμούς στη σχετική προκήρυξη ή στην πράξη διορισμού, εφόσον ο διορισμός ενεργείται κατά νόμον χωρίς διαγωνισμό, για δε τις εντάξεις και μετατάξεις επί των οικείων πράξεων."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/8>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8> <http://purl.org/dc/terms/title> "Διαδικασία εκκαθάρισης"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η εκκαθάριση των εξόδων, ήτοι ο προσδιορισμός των δικαιωμάτων των πιστωτών της Αρχής, ενεργείται από το αρμόδιο τμήμα με πράξη που εμφανίζει ολογράφως και αριθμητικώς το εκκαθαριζόμενο χρηματικό ποσό."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η κατά την προηγούμενη παράγραφο πράξη μονογράφεται από τα υπηρεσιακά όργανα που συμπράττουν στον έλεγχο των δικαιολογητικών, υπογράφεται δε από   τον προϊστάμενο της υπηρεσίας που εκκαθαρίζει τη δαπάνη."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Επί ενιαίας εκκαθάρισης περισσότερων απαιτήσεων ενός ή περισσότερων δικαιούχων επισυνάπτεται στα δικαιολογητικά και συγκεντρωτική κατάσταση των επιμέρους ποσών."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/3/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στην κατάσταση αυτή συντάσσεται η προβλεπόμενη πράξη εκκαθάρισης της δαπάνης."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/4>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στα δικαιολογητικά των δαπανών δεν συγχωρείται η ύπαρξη ξεσμάτων ή αλλοιώσεων."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/4/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/4/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/4/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Σε περίπτωση διόρθωσης επί της πράξεως εκκαθάρισης της δαπάνης, οι διορθωτέοι αριθμοί ή οι διορθωτέες λέξεις διαγράφονται με μία μόνη ερυθρά γραμμή, η δε αναγραφή του ορθού γίνεται με παραπομπή ή με παρεγγραφή."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/4/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/4/passage/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/4/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Οι διορθώσεις αυτές μονογράφονται από τον υπάλληλο που εκκαθαρίζει τη δαπάνη."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/5>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/5/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/8/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Όταν κατά την άσκηση ελέγχου διαπιστώνονται ελλείψεις ή ατέλειες των δικαιολογητικών, επαναφέρονται αυτά προς συμπλήρωση στην αρμόδια υπηρεσία."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9> <http://purl.org/dc/terms/title> "Χρηματικά εντάλματα"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι εκκαθαριζόμενες από την αρμόδια υπηρεσία δαπάνες πληρώνονται, βάσει χρηματικών ενταλμάτων (Χ.Ε.) σε βάρος της οικείας πίστωσης του προϋπολογισμού και πάντοτε εντός των προβλέψεων αυτού και των εκάστοτε υπολοίπων του λογαριασμού ταμειακής διαχείρισης της Αρχής."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στα εν λόγω Χ.Ε. αναγράφονται:"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/2> <http://legislation.di.uoa.gr/ontology/text> "ο τίτλος της Αρχής,"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/3> <http://legislation.di.uoa.gr/ontology/text> "το οικονομικό έτος,"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/4>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/4> <http://legislation.di.uoa.gr/ontology/text> "ο κωδικός αριθμός του εξόδου στον οποίο καταλογίζεται η δαπάνη,"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/5>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/5> <http://legislation.di.uoa.gr/ontology/text> "ο αύξων αριθμός του εντάλματος και ο σχετικόςαριθμός πρωτοκόλλου του συνοδεύοντος τα δικαιολογητικά εγγράφου,"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/6>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/6> <http://legislation.di.uoa.gr/ontology/text> "ο αριθμός και η χρονολογία της απόφασης για τηνεκτέλεση της δαπάνης,"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/7>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/7> <http://legislation.di.uoa.gr/ontology/text> "το πληρωτέο ποσό ολογράφως και αριθμητικώς,"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/8>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/8> <http://legislation.di.uoa.gr/ontology/text> "το ονοματεπώνυμο του δικαιούχου και κάθε άλλοστοιχείο προσδιοριστικό της ταυτότητάς του, προκειμένου δε περί νομικού προσώπου, ο ακριβής τίτλος καιη έδρα του,"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/9>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/9> <http://legislation.di.uoa.gr/ontology/text> "η τράπεζα που θα ενεργήσει την πληρωμή,"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/10>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/10> <http://legislation.di.uoa.gr/ontology/text> "ο τόπος και ο χρόνος έκδοσης, και"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/11>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/2/case/11> <http://legislation.di.uoa.gr/ontology/text> "οι υπογραφές των αρμόδιων κατά την παρ. 2 τουάρθρου 3 του παρόντος Κανονισμού προσώπων."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στα ανωτέρω Χ.Ε. παρατίθεται ανάλυση στην οποία αναγράφεται το πληρωτέο στο δικαιούχο ποσό και οι τυχόν υπέρ του δημοσίου και τρίτων κρατήσεις."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/4>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στα χρηματικά εντάλματα προπληρωμής, εκτός από τα ανωτέρω στοιχεία, αναγράφεται και η προθεσμία απόδοσης λογαριασμού."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/5>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/5/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στα τιμολόγια ή αποδείξεις των πιστωτών της Αρχής επί των οποίων στηρίζεται η έκδοση του Χ.Ε., σημειώνεται με ειδική σφραγίδα ο αριθμός αυτού."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/6>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/6/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα Χ.Ε. συντάσσονται σε τρία αντίτυπα."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/6/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/6/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/6/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Από αυτά το πρώτο φέρει την ένδειξη «ΠΡΩΤΟΤΥΠΟ», το δεύτερο«ΑΝΤΙΓΡΑΦΟ» και το τρίτο ΣΤΕΛΕΧΟΣ»."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/6/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/6/passage/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/6/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Στο αντίγραφο και το στέλεχος του Χ.Ε. υπό την ένδειξη «συνημμένο» σημειώνονται περιληπτικά τα δικαιολογητικά που στηρίζουν την έκδοσή του."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/7>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/7/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα Χ.Ε. δεν επιτρέπεται να φέρουν ξέσματα, προσθήκες, αλλοιώσεις, διαγραφές και παρεγγραφές."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/8>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/8/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/8/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/8/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Επί κοινών και ομοειδών απαιτήσεων περισσότερων δικαιούχων επιτρέπεται η έκδοση ενός μόνο Χ.Ε.. Στην περίπτωση αυτή στο πρωτότυπο του εντάλματος και στο αντίγραφό του επισυνάπτεται ονομαστική κατάσταση των δικαιούχων, που περιλαμβάνει σε ιδιαίτερες στήλες όλα τα προσδιοριστικά της ταυτότητας καθενός δικαιούχου στοιχεία, την αιτία της πληρωμής, το ποσό της απαίτησης καθενός, τις τυχόν αναλογούσες σ’ αυτούς κρατήσεις υπέρ του δημοσίου και τρίτων, το μετά την αφαίρεση των κρατήσεων απομένον ποσό και τα αθροίσματα των ποσών κάθε στήλης."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/8/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/8/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/8/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στην κατάσταση αυτή συντάσσεται η πράξη εκκαθάρισης."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/9>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/9/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/9/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/9/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Επιτρέπεται η έκδοση Χ.Ε. βάσει δικαιολογητικών συνημμένων σε άλλο Χ.Ε. Στην περίπτωση αυτή, επί του αντιγράφου και του στελέχους αυτού γίνεται σημείωση παραπομπής στο Χ.Ε. στο οποίο έχουν επισυναφθεί τα δικαιολογητικά."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/10>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/10/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/10/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/10/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα χρηματικά εντάλματα μονογράφονται και υπογράφονται από τα αρμόδια όργανα."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/10/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/10/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/9/paragraph/10/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Έπειτα αριθμούνται κατά σειρά καταχώρησης στο ημερολόγιο χρηματικών ενταλμάτων και καταχωρούνται στα οικεία βιβλία."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/10>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10> <http://purl.org/dc/terms/title> "Τρόπος πληρωμής των δαπανών"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Όλες οι δαπάνες της Ε.Α.Α.ΔΗ.ΣΥ πληρώνονται με επιταγές και σε βάρος του τηρούμενου σε τράπεζα ή άλλο πιστωτικό ίδρυμα λογαριασμού."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Επιτρέπεται, επίσης, η πληρωμή των οφειλών και με εντολή μεταφοράς με τη μεσολάβηση της τράπεζας που ασκεί την διαχείριση σε πίστωση λογαριασμού των δικαιούχων που τηρούνται σε πιστωτικό ίδρυμα ή τράπεζα."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Πληρωμές για δαπάνες αποδοχών των υπαλλήλων της Αρχής μπορεί να ενεργούνται με μία, κατ’ είδος δαπάνης, επιταγή εις διαταγήν υπαλλήλου της Αρχής, προς καταβολή των σχετικών ποσών στους δικαιούχους."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Οι πληρωμές των αποδοχών δύνανται να πραγματοποιούνται μέσω του τραπεζικού συστήματος μετά από απόφαση της Αρχής"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/10/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι επιταγές και οι εντολές μεταφοράς υπογράφονται από τον Προϊστάμενο της υπηρεσίας ή τον νόμιμο αναπληρωτή του, που εκδίδει το Χ.Ε. και τον Πρόεδρο της Αρχής ή άλλο όργανο που ορίζεται με απόφαση της Αρχής."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/11>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/11> <http://purl.org/dc/terms/title> "Προπληρωμές"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/11/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/11/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/11/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/11/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/11/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/11/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Επιτρέπεται η έκδοση χρηματικών ενταλμάτων προπληρωμής (ΧΕΠ) προς αντιμετώπιση δαπανών για τις οποίες είναι λόγω της φύσεώς τους ή της επείγουσας υπηρεσιακής ανάγκης δυσχερής η τήρηση των διατυπώσεων, που προβλέπονται από τις ισχύουσες διατάξεις."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/11/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/11/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/11/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/11/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Τα ΧΕΠ εκδίδονται κατόπιν αιτιολογημένης απόφασης του Προέδρου της Αρχής."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/12>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12> <http://purl.org/dc/terms/title> "Ταμειακή διαχείριση"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Διαχειριστής της Ε.Α.Α.ΔΗ.ΣΥ είναι η τράπεζα στην οποία έχει ανοιχθεί ο ειδικός λογαριασμός της Αρχής."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η τράπεζα, κατά την εξόφληση της επιταγής, τηρεί την τραπεζική διαδικασία."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Τα σχετικά δικαιολογητικά της διαδικασίας αυτής και οι εξοφλητικές αποδείξεις των δικαιούχων, παραμένουν στην τράπεζα."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/2/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/2/passage/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/2/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Την εξόφληση της επιταγής υποχρεούται η τράπεζα να αναγγείλει στην Αρχή."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Δικαιολογητικό της πληρωμής αποτελεί το Χ.Ε. και η αναγγελία για τη χρέωση του λογαριασμού της Αρχής στην τράπεζα και την εκτέλεση κάθε εντολής πληρωμής των δικαιούχων."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/4>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Αν οι πληρωμές ενεργούνται με εντολές μεταφοράς, δεν απαιτείται η προσκόμιση δικαιολογητικών νομιμοποίησης, ούτε εξοφλητική απόδειξη του δικαιούχου."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/4/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/4/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/4/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Η απόδειξη εκτέλεσης της εντολής μεταφοράς ή χρέωσης του λογαριασμού της Αρχής με πίστωση του δικαιούχου αποτελεί στην εν λόγω περίπτωση δικαιολογητικό της γενόμενης πληρωμής."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/5>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/5/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Για τους περιορισμούς έκδοσης ΧΕΠ, τις υποχρεώσεις και τις ευθύνες υπολόγων ΧΕΠ, την απόδοση λογαριασμού, τα ειδικότερα θέματα που αφορούν στην ανάληψη υποχρεώσεων καθώς και για οποιοδήποτε άλλο ζήτημα οικονομικής διαχείρισης της Αρχής, που δεν ρυθμίζεται με τον παρόντα Κανονισμό, εφαρμόζονται αναλόγως, οι διατάξεις του Νόμου περί Δημοσίου Λογιστικού και των κανονιστικών διοικητικών πράξεων, που έχουν εκδοθεί κατ’ εξουσιοδότηση αυτού, όπως εκάστοτε ισχύουν."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/5/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/5/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/12/paragraph/5/passage/2> <http://legislation.di.uoa.gr/ontology/text> "πράξη του διατάκτη της δαπάνης πάνω στο πρωτότυπο του χρηματικού εντάλματος και καταχωρείται με ερυθρά γραφή στα οικεία βιβλία."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/13>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/13/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/13/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/13/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/13/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/13/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/13/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εξόφληση Χρηματικών Ενταλμάτων"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/14>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14> <http://purl.org/dc/terms/title> "Βιβλία"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η εξόφληση των Χ.Ε. ενεργείται είτε με υπογραφή του δικαιούχου ή του νόμιμου αντιπροσώπου του επί του Χ.Ε. είτε με ιδιαίτερη εξοφλητική απόδειξη."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Σε κάθε περίπτωση παραπλεύρως της υπογραφής του δικαιούχου σημειώνονται ο αριθμός της επιταγής, τα στοιχεία της αστυνομικής ταυτότητας ή του κατά νόμο πιστοποιητικού ή εγγράφου που αποδεικνύει την ταυτότητα του εξοφλούντος, ως και η διεύθυνση της κατοικίας του. Σε περίπτωση διενέργειας πληρωμής οφειλών του οργανισμού με εντολή μεταφοράς, το αρμόδιο για την εξόφληση όργανο αναγράφει επί του εξοφλούμενου τίτλου, ότι αυτός εξοφλήθηκε με εντολή μεταφοράς και σημειώνει συγχρόνως τον αύξοντα αριθμό και την ημερομηνία της, καθώς και τον αριθμό της σχετικής απόδειξης της τράπεζας για την εκτέλεση της εντολής μεταφοράς και θέτει την υπογραφή του."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η τράπεζα που ασκεί την ταμειακή διαχείριση αναγράφει τόσο επί του τηρούμενου σ’ αυτή λογαριασμού της Αρχής, όσο και επί των αποστελλόμενων σ’ αυτήν αντιγράφων των λογαριασμών και των αναγγελιών χρέωσης τούτων, τους αριθμούς των εξοφλουμένων επιταγών και εντολών μεταφοράς."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ο έλεγχος προς διαπίστωση της συμφωνίας αντιγράφων των λογαριασμών προς τις αντίστοιχες εγγραφές στο βιβλίο Ημερολογίου και στο βιβλίο Επιταγών και Εντολών Μεταφοράς ενεργείται από υπάλληλο της Αρχής, οριζόμενο κάθε φορά από τον Πρόεδρο της Αρχής, οπωσδήποτε όμως διάφορο από εκείνον που τηρεί τα βιβλία Ημερολογίου και Επιταγών και Εντολών Μεταφοράς."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η εξόφληση των δικαιούχων πρέπει να στηρίζεται σε πρωτότυπα Χ.Ε., για τον έλεγχο της γνησιότητας των οποίων ευθύνεται προσωπικά έναντι της Αρχής το εντεταλμένο για το σκοπό αυτό όργανο."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα Χρηματικά Εντάλματα Πληρωμής, που παραμένουν ανεξόφλητα εν όλω ή εν μέρει, μέχρι της λήξεωςτου οικονομικού έτους, ακυρώνονται για το ποσό πουπαραμένουν ανεξόφλητα, οι δε υποχρεώσεις, εις τιςοποίες αυτά αναφέρονται, μεταφέρονται ως έξοδα τουεπόμενου οικονομικού έτους. Η ακύρωση ενεργείται με1. Το Τμήμα Οικονομικής Υποστήριξης της ΔιεύθυνσηςΔιοικητικής και Οικονομικής Υποστήριξης τηρεί υποχρεωτικά:"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/2> <http://legislation.di.uoa.gr/ontology/text> "Γενικό Ημερολόγιο,"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/3> <http://legislation.di.uoa.gr/ontology/text> "Γενικό Καθολικό."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/4>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/4> <http://legislation.di.uoa.gr/ontology/text> "Βιβλίο απογραφών και ισολογισμών."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/5>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/5> <http://legislation.di.uoa.gr/ontology/text> "Ημερολόγιο εγγραφών και ισολογισμού."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/6>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/6> <http://legislation.di.uoa.gr/ontology/text> "Μητρώο παγίων."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/7>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/7> <http://legislation.di.uoa.gr/ontology/text> "Βιβλίο επιταγών και εντολών μεταφοράς."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/8>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/8> <http://legislation.di.uoa.gr/ontology/text> "Μητρώο που εμφανίζει αριθμητικά το κάθε είδους,κατηγορίας και ιδιότητας προσωπικό."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/9>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/14/paragraph/4/case/9> <http://legislation.di.uoa.gr/ontology/text> "Κάθε άλλο βιβλίο του οποίου η τήρηση προβλέπεταιαπό γενική ή ειδική διάταξη ή ήθελε κριθεί απαραίτητηαπό την Αρχή.Επίσης, για λόγους διαχειριστικής τάξης, η Αρχή τηρεί αναλυτικά καθολικά όλων των λογαριασμών, καθώςεπίσης και ισοζύγια γενικού καθολικού και αναλυτικώνκαθολικών.2. Επιτρέπεται η χρήση μηχανογραφικών μέσων καισυστημάτων πληροφορικής βάση ειδικών κατά περίπτωση προγραμμάτων, για την κατάρτιση και εκτέλεση τουΙσολογισμού και του Προϋπολογισμού.3. Η θεώρηση των βιβλίων, στοιχείων και καταστάσεων που αναφέρονται στο άρθρο αυτό γίνεται από τηαρμόδια Δ.Ο.Υ ή από τον Πρόεδρο της Αρχής ή από τονεξουσιοδοτημένο από αυτόν αναπληρωτή του."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/15>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/15> <http://purl.org/dc/terms/title> "Απόδοση των υπέρ του Δημοσίου και τρίτων κρατήσεων"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/15/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/15> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/15/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/15/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/15/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/15/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/15/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι επί των Χ.Ε αναγραφόμενες κρατήσεις πληρώνονται με επιταγές ή εντολές μεταφοράς."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/15/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/15> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/15/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/15/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/15/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/15/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/15/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Σύμφωνα με τις κείμενες διατάξεις, η Αρχή υποχρεούται να προβαίνει στην απόδοση των υπέρ του Δημοσίου και τρίτων κρατήσεων επί των Χ.Ε. που εξοφλήθηκαν ή εκδόθηκαν κατά τον προηγούμενο μήνα, όσων μεν αφορούν το Δημόσιο με επιταγή εκδιδόμενη σε διαταγή της αρμόδιας ΔΟΥ, όσων δε αφορούν τρίτους, είτε με επιταγή εκδιδόμενη σε διαταγή τράπεζας ή άλλου πιστωτικού οργανισμού είτε με εντολή μεταφοράς."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/15/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/15> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/15/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/15/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/15/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/15/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/15/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι εκδιδόμενες σε διαταγή Δ.Ο.Υ επιταγές γίνονται δεκτές από αυτές, ανεξάρτητα από το ποσό, έναντι έκδοσης απόδειξης είσπραξης, η οποία αποστέλλεται από αυτές στην Αρχή."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/16>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16> <http://purl.org/dc/terms/title> "Ετήσιες οικονομικές καταστάσεις"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η Ε.Α.Α.ΔΗ.ΣΥ συντάσσει και τις ακόλουθες ετήσιεςοικονομικές καταστάσεις, οι οποίες υποβάλλονται στονΥπουργό Ανάπτυξης, Ανταγωνιστικότητας ΜεταφορώνΥποδομών και Δικτύων και τον Υπουργό Οικονομικών:"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/1/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/1/case/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/1/case/2> <http://legislation.di.uoa.gr/ontology/text> "Κατάσταση ισολογισμού τέλους χρήσης."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/1/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/1/case/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/1/case/3> <http://legislation.di.uoa.gr/ontology/text> "Κατάσταση λογαριασμού αποτελεσμάτων χρήσης."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/1/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/1/case/4>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/1/case/4> <http://legislation.di.uoa.gr/ontology/text> "Προσάρτημα του ισολογισμού και των αποτελεσμάτων χρήσης."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι καταστάσεις αυτές καταρτίζονται το αργότερο εντός τεσσάρων (4) μηνών από τη λήξη του διαχειρι  στικού έτους, με ημερομηνία σύνταξης την 31η Δεκεμβρίου εκάστου έτους και υποβάλλονται στα αρμόδια ελεγκτικά όργανα."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα στοιχεία των ετήσιων οικονομικών καταστάσεων δημοσιεύονται σε δύο (2) ημερήσιες εφημερίδες ευρείας κυκλοφορίας και στην Εφημερίδα της Κυβερνήσεως."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/3/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/16/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Τα στοιχεία αυτά υποβάλλονται και στον Πρόεδρο της Βουλής."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/17>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17> <http://purl.org/dc/terms/title> "Έλεγχος οικονομικής διαχείρισης"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ο τακτικός έλεγχος της οικονομικής διαχείρισης των πόρων της Αρχής και ο έλεγχος των ετήσιων οικονομικών καταστάσεων γίνεται από δύο (2) ορκωτούς ελεγκτές-λογιστές που ορίζονται με απόφαση της Αρχής."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Οι δαπάνες του ελέγχου βαρύνουν την Αρχή."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το διαχειριστικό έτος συμπίπτει με το οικονομικό έτος."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι ορκωτοί ελεγκτές-λογιστές που ασκούν τον τακτικό διαχειριστικό έλεγχο υποβάλλουν μέχρι την 30η Απριλίου κάθε έτους, έκθεση για τη διαχείριση και τον απολογισμό του διαχειριστικού έτους που έληξε."@el.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://legislation.di.uoa.gr/ontology/hasEntity> <http://geo.linkedopendata.gr/public-buildings/Δημόσιο_Κτήριο/id/17845>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/3/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Οι εκθέσεις υποβάλλονται στον Υπουργό Ανάπτυξης, Ανταγωνιστικότητας Μεταφορών Υποδομών και Δικτύων στον Υπουργό Οικονομικών και στο Ελεγκτικό Συνέδριο."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/html> "Οι εκθέσεις υποβάλλονται στον Υπουργό Ανάπτυξης, Ανταγωνιστικότητας Μεταφορών Υποδομών και Δικτύων στον Υπουργό Οικονομικών και στο <a href=\"http://geo.linkedopendata.gr/public-buildings/Δημόσιο_Κτήριο/id/17845\">Ελεγκτικό Συνέδριο</a>.".
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/3/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/3/passage/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/17/paragraph/3/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Οι Υπουργοί Ανάπτυξης, Ανταγωνιστικότητας Μεταφορών Υποδομών και Δικτύων και Οικονομικών μπορούν να ζητήσουν οποτεδήποτε έκτακτους ελέγχους της οικονομικής διαχείρισης της Αρχής."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/18>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18> <http://purl.org/dc/terms/title> "Προμήθειες"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι κάθε μορφής προμήθειες αγαθών, οι αναθέσεις εκτέλεσης έργων και παροχής υπηρεσιών της Αρχής, διενεργούνται σύμφωνα με τις εκάστοτε ισχύουσες διατάξεις περί προμηθειών δημοσίου και συμπληρωματικά σύμφωνα με τον παρόντα κανονισμό."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κάθε προμήθεια διενεργείται με απόφαση της Αρχής ή του εξουσιοδοτημένου από αυτή οργάνου, μετά από αιτιολογημένη πρόταση των αρμόδιων υπηρεσιακών μονάδων."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι προμήθειες αγαθών, οι αναθέσεις εκτέλεσης έργων και παροχής υπηρεσιών πραγματοποιούνται, από την Αρχή σύμφωνα με τη κείμενη νομοθεσία"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/4>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η αξιολόγηση των αποτελεσμάτων των διαγωνισμών και η διαδικασία διαπραγμάτευσης γίνεται από επιτροπές, η σύνθεση και η θητεία των οποίων καθορίζονται με απόφαση της Αρχής."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/5>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/5/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η παραλαβή και η πιστοποίηση καλής εκτέλεσης βεβαιώνεται από σχετική τριμελή επιτροπή παραλαβής, η σύνθεση και η θητεία της οποίας καθορίζονται με απόφαση της Αρχής"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/6>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/6/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι παραπάνω επιτροπές, συγκροτούνται από υπαλλήλους που υπηρετούν με οποιασδήποτε σχέση εργασίας στην Αρχή και λειτουργούν σύμφωνα με τις ισχύουσες κάθε φορά γενικές διατάξεις περί συλλογικών οργάνων."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/7>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/7/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/18/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στις εν λόγω επιτροπές είναι δυνατή η συμμετοχή ειδικών εμπειρογνωμόνων, εφόσον απαιτούνται εξειδικευμένες γνώσεις."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/19>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/19> <http://purl.org/dc/terms/title> "Μισθώσεις - Εκμισθώσεις - Αγορές Εκποιήσεις Ακινήτων"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/19> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Για τη μίσθωση - εκμίσθωση ακινήτων από την Ε.Α.Α.ΔΗ.ΣΥ εφαρμόζονται οι διατάξεις του π.δ. 715/1979 (ΦΕΚ Α΄ 212) όπως ισχύει."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/html> "Για τη μίσθωση - εκμίσθωση ακινήτων από την Ε.Α.Α.ΔΗ.ΣΥ εφαρμόζονται οι διατάξεις του  <a href=\"http://legislation.di.uoa.gr/pd/1979/715\">π.δ. 715/1979</a> (ΦΕΚ Α΄ 212) όπως ισχύει.".
+<http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/19> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Επιτρέπεται η μέχρι τριών (3) ετών μίσθωση με απευθείας συμφωνία μίσθωσης χωρίς διαγωνισμό ύστερα από ειδικά αιτιολογημένη απόφαση της Αρχής σε επείγουσες ή εξαιρετικές περιπτώσεις ή αν έγινε δύο φορές διαγωνισμός και απέβη χωρίς αποτέλεσμα ή κρίθηκε ασύμφορος, τηρουμένων των διατάξεων του άρθρου 27 του π.δ. 715/1979, όπως ισχύει."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/html> "Επιτρέπεται η μέχρι τριών (3) ετών μίσθωση με απευθείας συμφωνία μίσθωσης χωρίς διαγωνισμό ύστερα από ειδικά αιτιολογημένη απόφαση της Αρχής σε επείγουσες ή εξαιρετικές περιπτώσεις ή αν έγινε δύο φορές διαγωνισμός και απέβη χωρίς αποτέλεσμα ή κρίθηκε ασύμφορος, τηρουμένων των διατάξεων του άρθρου 27 του  <a href=\"http://legislation.di.uoa.gr/pd/1979/715\">π.δ. 715/1979</a>, όπως ισχύει.".
+<http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/19> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Επίσης εφαρμόζονται οι διατάξεις των άρθρων 5064 του π.δ. 715/1979 όπως ισχύει και προκειμένου για αγορά, εκποίηση, αντιπαροχή και ανταλλαγή ακινήτων από την Αρχή."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/19/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/html> "Επίσης εφαρμόζονται οι διατάξεις των άρθρων 5064 του  <a href=\"http://legislation.di.uoa.gr/pd/1979/715\">π.δ. 715/1979</a> όπως ισχύει και προκειμένου για αγορά, εκποίηση, αντιπαροχή και ανταλλαγή ακινήτων από την Αρχή.".
+<http://legislation.di.uoa.gr/pd/2013/43/article/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/20>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/20> <http://purl.org/dc/terms/title> "Έναρξη ισχύος"@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/20/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/20/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/20/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/20/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/20/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/20/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως."@el.
+<http://legislation.di.uoa.gr/pd/2013/43/article/20/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/20/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/43/article/20/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/43/article/20/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Οικονομικών αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.

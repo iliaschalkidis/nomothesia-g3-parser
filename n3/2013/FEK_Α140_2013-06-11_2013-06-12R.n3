@@ -1,0 +1,140 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/140> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_140.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/140> <http://purl.org/dc/terms/title> "Α/2013/140".
+<http://legislation.di.uoa.gr/gazette/a/2013/140> <http://purl.org/dc/terms/created> "2013-06-11"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2013/107> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/140>.
+<http://legislation.di.uoa.gr/pd/2013/107> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/107> <http://purl.org/dc/terms/created> "2013-06-11"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/107> <http://legislation.di.uoa.gr/ontology/legislationID> "107"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/107> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2013/107> <http://purl.org/dc/terms/title> "Κατανομή νέων οργανικών θέσεων δικαστικών λειτουργών των Τακτικών Διοικητικών Δικαστηρίων του Κράτους. "@el.
+<http://legislation.di.uoa.gr/pd/2013/107> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/107/signer/1>.
+<http://legislation.di.uoa.gr/pd/2013/107/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/107> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/107/signer/2>.
+<http://legislation.di.uoa.gr/pd/2013/107/signer/2> <http://xmlns.com/foaf/0.1/name> "ΑΝΤΩΝΙΟΣ ΡΟΥΠΑΚΙΩΤΗΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/107> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/107> <http://legislation.di.uoa.gr/ontology/hasEntity> <http://geo.linkedopendata.gr/public-buildings/Δημόσιο_Κτήριο/id/18102>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Δύο (2) στο Διοικητικό Εφετείο Αθηνών, οριζομένου του συνολικού αριθμού αυτών σε τριάντα πέντε (35)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/html> "Δύο (2) στο <a href=\"http://geo.linkedopendata.gr/public-buildings/Δημόσιο_Κτήριο/id/18102\">Διοικητικό Εφετείο Αθηνών</a>, οριζομένου του συνολικού αριθμού αυτών σε τριάντα πέντε (35).".
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μία (1) στο Διοικητικό Εφετείο Λάρισας, οριζομένου του συνολικού αριθμού αυτών σε τρεις (3)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μία (1) στο Διοικητικό Εφετείο Τρίπολης, οριζομένου του συνολικού αριθμού αυτών σε τρεις (3)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107> <http://legislation.di.uoa.gr/ontology/hasEntity> <http://geo.linkedopendata.gr/public-buildings/Δημόσιο_Κτήριο/id/18102>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Β) Εφετών 1.΄Εξι (6) στο Διοικητικό Εφετείο Αθηνών, οριζομένου του συνολικού αριθμού αυτών σε εκατόν είκοσι τρεις (123)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/html> "Β) Εφετών 1.΄Εξι (6) στο <a href=\"http://geo.linkedopendata.gr/public-buildings/Δημόσιο_Κτήριο/id/18102\">Διοικητικό Εφετείο Αθηνών</a>, οριζομένου του συνολικού αριθμού αυτών σε εκατόν είκοσι τρεις (123).".
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3/passage/3>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3/passage/3> <http://legislation.di.uoa.gr/ontology/text> "2."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3/passage/4>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Δύο (2) στο Διοικητικό Εφετείο Θεσσαλονίκης, οριζομένου του συνολικού αριθμού αυτών σε τριάντα πέντε (35)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3/passage/5>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3/passage/5> <http://legislation.di.uoa.gr/ontology/text> "3."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3/passage/6>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/3/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Δύο (2) στο Διοικητικό Εφετείο Λάρισας, οριζομένου του συνολικού αριθμού αυτών σε δέκα (10)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/4>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τρεις (3) στο Διοικητικό Εφετείο Πειραιώς, οριζομένου του συνολικού αριθμού αυτών σε τριάντα οκτώ (38)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Δύο (2) στο Διοικητικό Εφετείο Τρίπολης, οριζομένου του συνολικού αριθμού αυτών σε δέκα (10)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Γ) Προέδρων Πρωτοδικών 1."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/3>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Μία (1) στο Διοικητικό Πρωτοδικείο Αθηνών, οριζομένου του συνολικού αριθμού αυτών σε τριάντα πέντε (35)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/4>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/4> <http://legislation.di.uoa.gr/ontology/text> "2."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/5>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Μία (1) στο Διοικητικό Πρωτοδικείο Ηρακλείου, οριζομένου του συνολικού αριθμού αυτών σε τέσσερις (4)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/6>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/6> <http://legislation.di.uoa.gr/ontology/text> "3."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/7>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/7> <http://legislation.di.uoa.gr/ontology/text> "Μία (1) στο Διοικητικό Πρωτοδικείο Θεσσαλονίκης, οριζομένου του συνολικού αριθμού αυτών σε δέκα πέντε (15)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/8>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/8> <http://legislation.di.uoa.gr/ontology/text> "4."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/9>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/9> <http://legislation.di.uoa.gr/ontology/text> "Μία (1) στο Διοικητικό Πρωτοδικείο Σύρου, οριζομένου του συνολικού αριθμού αυτών σε δυο (2)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/10>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/10> <http://legislation.di.uoa.gr/ontology/text> "Δ) Πρωτοδικών - Παρέδρων 1."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/11>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/11> <http://legislation.di.uoa.gr/ontology/text> "Επτά (7) στο Διοικητικό Πρωτοδικείο Αθηνών, οριζομένου του συνολικού αριθμού αυτών σε εκατόν εβδομήντα ένα (171)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/12>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/12> <http://legislation.di.uoa.gr/ontology/text> "2."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/13>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/13> <http://legislation.di.uoa.gr/ontology/text> "Δύο (2) στο Διοικητικό Πρωτοδικείο Αλεξανδρούπολης, οριζομένου του συνολικού αριθμού αυτών σε πέντε (5)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/14>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/14> <http://legislation.di.uoa.gr/ontology/text> "3."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/15>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/15> <http://legislation.di.uoa.gr/ontology/text> "Εννέα (9) στο Διοικητικό Πρωτοδικείο Θεσσαλονίκης, οριζομένου του συνολικού αριθμού αυτών σε εβδομήντα ένα (71)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/16>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/16> <http://legislation.di.uoa.gr/ontology/text> "4."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/17>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/17> <http://legislation.di.uoa.gr/ontology/text> "Μια (1) στο Διοικητικό Πρωτοδικείο Μυτιλήνης, οριζομένου του συνολικού αριθμού αυτών σε πέντε (5)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/18>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/18> <http://legislation.di.uoa.gr/ontology/text> "5."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/19>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/5/passage/19> <http://legislation.di.uoa.gr/ontology/text> "Μια (1) στο Διοικητικό Πρωτοδικείο Μεσολογγίου, οριζομένου του συνολικού αριθμού αυτών σε τέσσερις (4)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/6>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/6/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μία (1) στο Διοικητικό Πρωτοδικείο Ναυπλίου, οριζομένου του συνολικού αριθμού αυτών σε τέσσερις (4)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/7>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/7/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Δύο (2) στο Διοικητικό Πρωτοδικείο Πειραιώς, οριζομένου του συνολικού αριθμού αυτών σε πενήντα οκτώ (58)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/8>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/8/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/8/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/1/paragraph/8/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Δύο (2) στο Διοικητικό Πρωτοδικείο Σύρου, οριζομένου του συνολικού αριθμού αυτών σε έξι (6)."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/107> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/2>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως."@el.
+<http://legislation.di.uoa.gr/pd/2013/107/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/107/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/107/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.

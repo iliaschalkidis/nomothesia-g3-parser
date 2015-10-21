@@ -1,0 +1,59 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/32> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_32.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/32> <http://purl.org/dc/terms/title> "Α/2013/32".
+<http://legislation.di.uoa.gr/gazette/a/2013/32> <http://purl.org/dc/terms/created> "2013-02-06"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2013/4118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2013/4118> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/32>.
+<http://legislation.di.uoa.gr/law/2013/4118> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2013/4118> <http://purl.org/dc/terms/created> "2013-02-06"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2013/4118> <http://legislation.di.uoa.gr/ontology/legislationID> "4118"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2013/4118> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/law/2013/4118> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4118/signer/1>.
+<http://legislation.di.uoa.gr/law/2013/4118/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4118> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4118/signer/2>.
+<http://legislation.di.uoa.gr/law/2013/4118/signer/2> <http://xmlns.com/foaf/0.1/name> "ΑΝΤΩΝΗΣ Κ. ΣΑΜΑΡΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4118> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4118/signer/3>.
+<http://legislation.di.uoa.gr/law/2013/4118/signer/3> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4118> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4118/signer/4>.
+<http://legislation.di.uoa.gr/law/2013/4118/signer/4> <http://xmlns.com/foaf/0.1/name> "ΙΩΑΝΝΗΣ ΣΤΟΥΡΝΑΡΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4118> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4118/signer/5>.
+<http://legislation.di.uoa.gr/law/2013/4118/signer/5> <http://xmlns.com/foaf/0.1/name> "ΑΝΤΩΝΙΟΣ ΜΑΝΙΤΑΚΗΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4118> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4118/signer/6>.
+<http://legislation.di.uoa.gr/law/2013/4118/signer/6> <http://xmlns.com/foaf/0.1/name> "ΚΩΝΣΤΑΝΤΙΝΟΣ ΧΑΤΖΗΔΑΚΗΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4118> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4118/signer/7>.
+<http://legislation.di.uoa.gr/law/2013/4118/signer/7> <http://xmlns.com/foaf/0.1/name> "ΙΩΑΝΝΗΣ ΒΡΟΥΤΣΗΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4118> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4118/signer/8>.
+<http://legislation.di.uoa.gr/law/2013/4118/signer/8> <http://xmlns.com/foaf/0.1/name> "ΑΝΔΡΕΑΣ ΛΥΚΟΥΡΕΝΤΖΟΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4118/signer/8> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Ανδρέας_Λυκουρέντζος\">ΑΝΔΡΕΑΣ ΛΥΚΟΥΡΕΝΤΖΟΣ</a>".
+<http://legislation.di.uoa.gr/law/2013/4118> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4118/signer/9>.
+<http://legislation.di.uoa.gr/law/2013/4118/signer/9> <http://xmlns.com/foaf/0.1/name> "ΑΝΤΩΝΙΟΣ ΡΟΥΠΑΚΙΩΤΗΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4118> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4118/article/1>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Άρθρο 1 Κύρωση της Πράξης Νομοθετικού Περιεχομένου Ρυθμίσεις για την αντιμετώπιση των εξαιρετικά επειγουσών και απρόβλεπτων αναγκών του κοινωφελούς, μη κερδοσκοπικού ιδρύματος με την επωνυμία “ΚΟΙΝΩΦΕΛΕΣ ΙΔΡΥΜΑ ΕΡΡΙΚΟΣ ΝΤΥΝΑΝ”» και άλλες διατάξεις."@el.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "1."@el.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Χορηγείται στο κοινωφελές, μη κερδοσκοπικό ίδρυμα με την επωνυμία ΚΟΙΝΩΦΕΛΕΣ ΙΔΡΥΜΑ ΕΡΡΙΚΟΣ ΝΤΥΝΑΝ» ασφαλιστική ενημερότητα μέχρι 31.3.2013 χωρίς παρακράτηση, κατά παρέκκλιση των ισχυουσών διατάξεων."@el.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1/passage/4>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "2."@el.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1/passage/5>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Για το χρονικό διάστημα από 1.7.2012 έως 31.3.2013, αναστέλλονται οι πάσης φύσεως πράξεις διοικητικής και αναγκαστικής εκτέλεσης κατά τον Κώδικα Πολιτικής Δικονομίας ή κάθε άλλη διάταξη ειδικού νόμου, καθώς και η λήψη οποιουδήποτε ασφαλιστικού μέτρου κατά τον Κώδικα Πολιτικής Δικονομίας, τον Κώδικα Διοικητικής Δικονομίας ή κάθε άλλη διάταξη ειδικού νόμου που επισπεύδονται ή ασκούνται από τους πάσης φύσεως πιστωτές του ανωτέρω ιδρύματος για οποιαδήποτε αιτία."@el.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1/passage/6>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/1/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνεται και έχει ισχύ νόμου από τη δημοσίευσή της στην Εφημερίδα της Κυβερνήσεως, η από 30 Οκτωβρίου 2012 Πράξη Νομοθετικού Περιεχομένου ««Ρυθμίσεις για την αντιμετώπιση των εξαιρετικά επειγουσών και απρόβλεπτων αναγκών του κοινωφελούς, μη κερδοσκοπικού ιδρύματος με την επωνυμία “ΚΟΙΝΩΦΕΛΕΣ ΙΔΡΥΜΑ ΕΡΡΙΚΟΣ ΝΤΥΝΑΝ”», που δημοσιεύθηκε στο υπ’ αριθ. 209 Φύλλο της Εφημερίδας της Κυβερνήσεως (τεύχος Α) και έχει ως εξής:"@el.
+<http://legislation.di.uoa.gr/law/2013/4118/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4118> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4118/article/2>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/2> <http://purl.org/dc/terms/title> "Έναρξη Ισχύος"@el.
+<http://legislation.di.uoa.gr/law/2013/4118/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4118/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4118/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4118/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς της παρούσας, η οποία θα κυρωθεί νομοθετικά κατά το άρθρο 44 παράγραφος 1 του Συντάγματος, αρχίζει από τη δημοσίευσή της στην Εφημερίδα της Κυβερνήσεως."@el.

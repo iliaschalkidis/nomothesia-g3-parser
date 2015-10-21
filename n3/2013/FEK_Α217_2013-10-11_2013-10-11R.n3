@@ -1,0 +1,43 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/217> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_217.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/217> <http://purl.org/dc/terms/title> "Α/2013/217".
+<http://legislation.di.uoa.gr/gazette/a/2013/217> <http://purl.org/dc/terms/created> "2013-10-11"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2013/4200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2013/4200> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/217>.
+<http://legislation.di.uoa.gr/law/2013/4200> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2013/4200> <http://purl.org/dc/terms/created> "2013-10-11"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2013/4200> <http://legislation.di.uoa.gr/ontology/legislationID> "4200"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2013/4200> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/law/2013/4200> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4200/signer/1>.
+<http://legislation.di.uoa.gr/law/2013/4200/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4200> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4200/signer/2>.
+<http://legislation.di.uoa.gr/law/2013/4200/signer/2> <http://xmlns.com/foaf/0.1/name> "ΕΥΑΓΓΕΛΟΣ ΒΕΝΙΖΕΛΟΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4200/signer/2> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Ευάγγελος_Βενιζέλος\">ΕΥΑΓΓΕΛΟΣ ΒΕΝΙΖΕΛΟΣ</a>".
+<http://legislation.di.uoa.gr/law/2013/4200> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4200/signer/3>.
+<http://legislation.di.uoa.gr/law/2013/4200/signer/3> <http://xmlns.com/foaf/0.1/name> "ΙΩΑΝΝΗΣ ΣΤΟΥΡΝΑΡΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4200> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4200/signer/4>.
+<http://legislation.di.uoa.gr/law/2013/4200/signer/4> <http://xmlns.com/foaf/0.1/name> "ΔΗΜΗΤΡΙΟΣ ΑΒΡΑΜΟΠΟΥΛΟΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4200> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4200/signer/5>.
+<http://legislation.di.uoa.gr/law/2013/4200/signer/5> <http://xmlns.com/foaf/0.1/name> "ΧΑΡΑΛΑΜΠΟΣ ΑΘΑΝΑΣΙΟΥ"@el.
+<http://legislation.di.uoa.gr/law/2013/4200/signer/5> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Χαράλαμπος_Αθανασίου\">ΧΑΡΑΛΑΜΠΟΣ ΑΘΑΝΑΣΙΟΥ</a>".
+<http://legislation.di.uoa.gr/law/2013/4200> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4200/signer/6>.
+<http://legislation.di.uoa.gr/law/2013/4200/signer/6> <http://xmlns.com/foaf/0.1/name> "ΧΑΡΑΛΑΜΠΟΣ ΑΘΑΝΑΣΙΟΥ"@el.
+<http://legislation.di.uoa.gr/law/2013/4200/signer/6> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Χαράλαμπος_Αθανασίου\">ΧΑΡΑΛΑΜΠΟΣ ΑΘΑΝΑΣΙΟΥ</a>".
+<http://legislation.di.uoa.gr/law/2013/4200> <http://purl.org/dc/terms/title> "Κύρωση της Συμφωνίας μεταξύ του Υπουργείου Εθνικής Άμυνας της Ελληνικής Δημοκρατίας και του Υπουργείου Εθνικής Άμυνας της Ρουμανίας περί Συνεργασίας στο Στρατιωτικό Τομέα. "@el.
+<http://legislation.di.uoa.gr/law/2013/4200/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4200> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4200/article/1>.
+<http://legislation.di.uoa.gr/law/2013/4200/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4200/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4200/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4200/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4200/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4200/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4200/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνεται και έχει την ισχύ που ορίζει το άρθρο 28 παρ. 1 του Συντάγματος, η Συμφωνία μεταξύ του Υπουργείου Εθνικής Άμυνας της Ελληνικής Δημοκρατίας και του Υπουργείου Εθνικής Άμυνας της Ρουμανίας, που αφορά στη συνεργασία στο στρατιωτικό τομέα, η οποία υπογράφηκε στην Αθήνα, στις 6 Μαΐου 2010, της οποίας το κείμενο σε δύο πρωτότυπα, στην ελληνική και αγγλική γλώσσα, έχει ως εξής:"@el.
+<http://legislation.di.uoa.gr/law/2013/4200/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4200> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4200/article/2>.
+<http://legislation.di.uoa.gr/law/2013/4200/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4200/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4200/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4200/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4200/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4200/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4200/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 11 παράγραφος 1 αυτής."@el.
+<http://legislation.di.uoa.gr/law/2013/4200/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4200/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4200/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2013/4200/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως νόμου του Κράτους."@el.

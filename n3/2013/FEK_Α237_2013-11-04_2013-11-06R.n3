@@ -1,0 +1,13 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/237> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_237.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/237> <http://purl.org/dc/terms/title> "Α/2013/237".
+<http://legislation.di.uoa.gr/gazette/a/2013/237> <http://purl.org/dc/terms/created> "2013-11-04"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/rp/2013/241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/RegulatoryProvision>.
+<http://legislation.di.uoa.gr/rp/2013/241> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/237>.
+<http://legislation.di.uoa.gr/rp/2013/241> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/rp/2013/241> <http://purl.org/dc/terms/created> "2013-11-04"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/rp/2013/241> <http://legislation.di.uoa.gr/ontology/legislationID> "241/2013"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/rp/2013/241> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/rp/2013/241> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/241/issue/1>.
+<http://legislation.di.uoa.gr/rp/2013/241/issue/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/ParsingIssue>.
+<http://legislation.di.uoa.gr/rp/2013/241/issue/1> <http://legislation.di.uoa.gr/ontology/text> "Δεν αναγνωρίστηκαν οι υπογραφόντες."@el.

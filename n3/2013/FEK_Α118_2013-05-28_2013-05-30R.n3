@@ -1,0 +1,74 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/118> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_118.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/118> <http://purl.org/dc/terms/title> "Α/2013/118".
+<http://legislation.di.uoa.gr/gazette/a/2013/118> <http://purl.org/dc/terms/created> "2013-05-28"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2013/67> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/118>.
+<http://legislation.di.uoa.gr/pd/2013/67> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/67> <http://purl.org/dc/terms/created> "2013-05-28"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/67> <http://legislation.di.uoa.gr/ontology/legislationID> "67"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/67> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2013/67> <http://purl.org/dc/terms/title> ""@el.
+<http://legislation.di.uoa.gr/pd/2013/67> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/67/issue/1>.
+<http://legislation.di.uoa.gr/pd/2013/67/issue/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/ParsingIssue>.
+<http://legislation.di.uoa.gr/pd/2013/67/issue/1> <http://legislation.di.uoa.gr/ontology/text> "Δεν αναγνωρίστηκαν οι υπογραφόντες."@el.
+<http://legislation.di.uoa.gr/pd/2013/67/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/67> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/67/article/1>.
+<http://legislation.di.uoa.gr/pd/2013/67/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/67/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/67/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/67/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/67/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/67/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/67/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Καθιέρωση της 18ης Οκτωβρίου ως δημόσιας εορτής τοπικής σημασίας για την πόλη της Αλεξάνδρειας νομού Ημαθίας. Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ Έχοντας υπόψη: 1. Τις διατάξεις του άρθρου 1 του Α.Ν. 198/1967 «Περί τρόπου καθιερώσεως και τελέσεως δημοσίων εορτών και τελετών και περί αντικαταστάσεως και καταργήσεως διατάξεων τινών του Α.Ν. 447/1937 “περί τρόπου απονομής σεβασμού εις την Εθνικήν Σημαίαν και γενικώς τα Εθνικά Σύμβολα”» (Α΄ 215). 2. Τις διατάξεις του άρθρου μόνου του π.δ. 555/1977 «Περί βελτιώσεως διαδικασιών τινών κατά την έκδοσιν διοικητικών πράξεων επί αντικειμένων αρμοδιότητος Υπουργείων Εξωτερικών, Εθνικής Αμύνης, Εσωτερικών και Εθνικής Παιδείας και Θρησκευμάτων» (Α΄ 184). 3. Τις διατάξεις του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα, που κυρώθηκε με το άρθρο πρώτο του π.δ. 63/2005 «Κωδικοποίηση της νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα». (Α΄ 98). ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ Ο ΥΠΟΥΡΓΟΣ ΕΣΩΤΕΡΙΚΩΝ ΕΥΡΙΠΙΔΗΣ ΣΤΥΛΙΑΝΙΔΗΣ F "@el.
+<http://legislation.di.uoa.gr/pd/2013/68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2013/68> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/118>.
+<http://legislation.di.uoa.gr/pd/2013/68> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/68> <http://purl.org/dc/terms/created> "2013-05-28"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/68> <http://legislation.di.uoa.gr/ontology/legislationID> "68"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/68> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2013/68> <http://purl.org/dc/terms/title> "Ίδρυση Γυναικείας Ιεράς Κοινοβιακής Μονής Αγίου Θεοδώρου Γαβρά Λαγκαδά, της Ιεράς Μητροπόλεως Λαγκαδά, Λητής και Ρεντίνης, στον οικισμό Πέντε Βρυσών, της Τοπικής Κοινότητας Εξαλόφου, της Δημοτικής Ενότητας Βερτίσκου, του Δήμου Λαγκαδά, της Περιφερειακής Ενότητας Θεσσαλονίκης, της Περιφέρειας Κεντρικής Μακεδονίας». "@el.
+<http://legislation.di.uoa.gr/pd/2013/68/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/68/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 39 παρ. 3 του Ν. 590/1977 «Περί του Καταστατικού Χάρτου της Εκκλησίας της Ελλάδος » (Α΄ 146) σε συνδυασμό με τις διατάξεις του άρθρου 2 παρ. α΄ του αριθμ. 39/1972 Κανονισμού της Ιεράς Συνόδου της Εκκλησίας της Ελλάδος «Περί των εν Ελλάδι Ορθοδόξων Ιερών Μονών και των Ησυχαστηρίων» (Α΄ 103). "@el.
+<http://legislation.di.uoa.gr/pd/2013/68> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/68/citation/1>.
+<http://legislation.di.uoa.gr/pd/2013/68/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/68/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το π.δ. 85/2012 «Ίδρυση και Μετονομασία Υπουργείων, μεταφορά και κατάργηση υπηρεσιών», άρθρο 3, παρ. 1, περ. α΄ και παρ. 2, (Α΄ 141) όπως η περ. α΄ της παρ. 1 του άρθρου 3 αντικαταστάθηκε από το άρθρο 1, παρ. 1 του Π.Δ/τος. 88/2012 (Α΄ 143). "@el.
+<http://legislation.di.uoa.gr/pd/2013/68> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/68/citation/2>.
+<http://legislation.di.uoa.gr/pd/2013/68/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/68/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Το π.δ. 86/2012 «Διορισμός Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών (Α΄ 141). "@el.
+<http://legislation.di.uoa.gr/pd/2013/68> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/68/citation/3>.
+<http://legislation.di.uoa.gr/pd/2013/68/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/68/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα, που κυρώθηκε με το άρθρο πρώτο του π. δ/τος. 63/2005 (Α΄ 98) "@el.
+<http://legislation.di.uoa.gr/pd/2013/68> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/68/citation/4>.
+<http://legislation.di.uoa.gr/pd/2013/68/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/68/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Τη σύμφωνη γνώμη του Επιχωρίου Μητροπολίτου της Ιεράς Μητροπόλεως Λαγκαδά, Λητής και Ρεντίνης (απόφασις 5η, 4-3-2012). "@el.
+<http://legislation.di.uoa.gr/pd/2013/68> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/68/citation/5>.
+<http://legislation.di.uoa.gr/pd/2013/68/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/68/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Την έγκριση της Διαρκούς Ιεράς Συνόδου της Εκκλησίας της Ελλάδος, που δόθηκε στην ΛΔ΄/30-8-2012 Συνεδρία της 155ης Συνοδικής Περιόδου. "@el.
+<http://legislation.di.uoa.gr/pd/2013/68> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/68/citation/6>.
+<http://legislation.di.uoa.gr/pd/2013/68/citation/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/68/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος αυτού δεν προκαλείται δαπάνη σε βάρος του Κρατικού Προϋπολογισμού. "@el.
+<http://legislation.di.uoa.gr/pd/2013/68> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/68/citation/7>.
+<http://legislation.di.uoa.gr/pd/2013/68/citation/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/68/citation/8> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθμ. 76/2013 γνωμοδότηση του Συμβουλίου της Επικρατείας, με πρόταση του Υπουργού Παιδείας και Θρησκευμάτων, Πολιτισμού και Αθλητισμού, αποφασίζουμε:"@el.
+<http://legislation.di.uoa.gr/pd/2013/68> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/68/citation/8>.
+<http://legislation.di.uoa.gr/pd/2013/68> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/68/signer/1>.
+<http://legislation.di.uoa.gr/pd/2013/68/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/68> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/68/signer/2>.
+<http://legislation.di.uoa.gr/pd/2013/68/signer/2> <http://xmlns.com/foaf/0.1/name> "ΚΩΝΣΤΑΝΤΙΝΟΣ ΑΡΒΑΝΙΤΟΠΟΥΛΟΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/68/signer/2> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Κωνσταντίνος_Αρβανιτόπουλος\">ΚΩΝΣΤΑΝΤΙΝΟΣ ΑΡΒΑΝΙΤΟΠΟΥΛΟΣ</a>".
+<http://legislation.di.uoa.gr/pd/2013/68/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/68> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/68/article/1>.
+<http://legislation.di.uoa.gr/pd/2013/68/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/68/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/68/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/68/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/68/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/68/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/68/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ιδρύεται Ιερά Γυναικεία Κοινοβιακή Μονή Αγίου Θεοδώρου Γαβρά Λαγκαδά, της Ιεράς Μητροπόλεως Λαγκαδά, Λητής και Ρεντίνης, στον οικισμό Πέντε Βρυσών, της Τοπικής Κοινότητας Εξαλόφου, της Δημοτικής Ενότητας Βερτίσκου, του Δήμου Λαγκαδά, της Περιφερειακής Ενότητας Θεσσαλονίκης, της Περιφέρειας Κεντρικής Μακεδονίας."@el.
+<http://legislation.di.uoa.gr/pd/2013/68/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/68> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/68/article/2>.
+<http://legislation.di.uoa.gr/pd/2013/68/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/68/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/68/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/68/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/68/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/68/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/68/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως."@el.
+<http://legislation.di.uoa.gr/pd/2013/68/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/68/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/68/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/68/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Παιδείας και Θρησκευμάτων, Πολιτισμού και Αθλητισμού αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.

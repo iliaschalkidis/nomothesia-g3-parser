@@ -1,0 +1,45 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/206> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_206.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/206> <http://purl.org/dc/terms/title> "Α/2013/206".
+<http://legislation.di.uoa.gr/gazette/a/2013/206> <http://purl.org/dc/terms/created> "2013-09-26"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2013/4192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2013/4192> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/206>.
+<http://legislation.di.uoa.gr/law/2013/4192> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2013/4192> <http://purl.org/dc/terms/created> "2013-09-26"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2013/4192> <http://legislation.di.uoa.gr/ontology/legislationID> "4192"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2013/4192> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/law/2013/4192> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4192/signer/1>.
+<http://legislation.di.uoa.gr/law/2013/4192/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4192> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4192/signer/2>.
+<http://legislation.di.uoa.gr/law/2013/4192/signer/2> <http://xmlns.com/foaf/0.1/name> "ΕΥΑΓΓΕΛΟΣ ΒΕΝΙΖΕΛΟΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4192/signer/2> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Ευάγγελος_Βενιζέλος\">ΕΥΑΓΓΕΛΟΣ ΒΕΝΙΖΕΛΟΣ</a>".
+<http://legislation.di.uoa.gr/law/2013/4192> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4192/signer/3>.
+<http://legislation.di.uoa.gr/law/2013/4192/signer/3> <http://xmlns.com/foaf/0.1/name> "ΙΩΑΝΝΗΣ ΣΤΟΥΡΝΑΡΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4192> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4192/signer/4>.
+<http://legislation.di.uoa.gr/law/2013/4192/signer/4> <http://xmlns.com/foaf/0.1/name> "ΔΗΜΗΤΡΙΟΣ ΑΒΡΑΜΟΠΟΥΛΟΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4192> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4192/signer/5>.
+<http://legislation.di.uoa.gr/law/2013/4192/signer/5> <http://xmlns.com/foaf/0.1/name> "ΧΑΡΑΛΑΜΠΟΣ ΑΘΑΝΑΣΙΟΥ"@el.
+<http://legislation.di.uoa.gr/law/2013/4192/signer/5> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Χαράλαμπος_Αθανασίου\">ΧΑΡΑΛΑΜΠΟΣ ΑΘΑΝΑΣΙΟΥ</a>".
+<http://legislation.di.uoa.gr/law/2013/4192> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4192/signer/6>.
+<http://legislation.di.uoa.gr/law/2013/4192/signer/6> <http://xmlns.com/foaf/0.1/name> "ΜΙΛΤΙΑΔΗΣ ΒΑΡΒΙΤΣΙΩΤΗΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4192> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4192/signer/7>.
+<http://legislation.di.uoa.gr/law/2013/4192/signer/7> <http://xmlns.com/foaf/0.1/name> "ΧΑΡΑΛΑΜΠΟΣ ΑΘΑΝΑΣΙΟΥ"@el.
+<http://legislation.di.uoa.gr/law/2013/4192/signer/7> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Χαράλαμπος_Αθανασίου\">ΧΑΡΑΛΑΜΠΟΣ ΑΘΑΝΑΣΙΟΥ</a>".
+<http://legislation.di.uoa.gr/law/2013/4192> <http://purl.org/dc/terms/title> "Κύρωση του Μνημονίου Κατανόησης μεταξύ του Υπουργείου Εθνικής Άμυνας της Ελληνικής Δημοκρατίας και του Υπουργείου Άμυνας της Δημοκρατίας της Πορτογαλίας που αφορά στη συνεργασία εντός του Πολυεθνικού Συντονιστικού Κέντρου Στρατηγικών Θαλασσίων Μεταφορών της Αθήνας (ΠΟΣΚΕΣΘΑΜ - AMSCC) και της Τεχνικής Διευθέτησης μεταξύ του Υπουργείου Εθνικής Άμυνας της Ελληνικής Δημοκρατίας και του Υπουργείου Άμυνας της Δημοκρατίας της Πορτογαλίας σχετικά με την εφαρμογή του Μνημονίου Κατανόησης μεταξύ του Υπουργείου Εθνικής Άμυνας της Ελληνικής Δημοκρατίας και του Υπουργείου Άμυνας της Δημοκρατίας της Πορτογαλίας που αφορά στη συνεργασία εντός του Πολυεθνικού Συντονιστικού Κέντρου Στρατηγικών Θαλασσίων Μεταφορών της Αθήνας (ΠΟΣΚΕΣΘΑΜ - AMSCC). "@el.
+<http://legislation.di.uoa.gr/law/2013/4192/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4192> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4192/article/1>.
+<http://legislation.di.uoa.gr/law/2013/4192/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4192/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4192/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4192/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4192/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4192/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4192/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνονται και έχουν την ισχύ, που ορίζει το άρθρο 28 παρ. 1 του Συντάγματος, το Μνημόνιο Κατανόησης (Memorandum of Understanding) μεταξύ του Υπουργείου Εθνικής Άμυνας της Ελληνικής Δημοκρατίας και του Υπουργείου Άμυνας της Δημοκρατίας της Πορτογαλίας που αφορά στη συνεργασία εντός του Πολυεθνικού Συντονιστικού Κέντρου Στρατηγικών Θαλασσίων Μεταφορών της Αθήνας (ΠΟΣΚΕΣΘΑΜ - AMSCC) και η Τεχνική Διευθέτηση (Technical Arrangement) μεταξύ του Υπουργείου Εθνικής Άμυνας της Ελληνικής Δημοκρατίας και του Υπουργείου Άμυνας της Δημοκρατίας της Πορτογαλίας σχετικά με την εφαρμογή του ως άνω Μνημονίου, που υπογράφηκαν στις 9 Σεπτεμβρίου 2010 στη Λισαβόνα και στις 19 Νοεμβρίου 2010 στην Αθήνα, των οποίων το κείμενο, στην αγγλική γλώσσα και σε μετάφραση στην ελληνική, έχει ως εξής:"@el.
+<http://legislation.di.uoa.gr/law/2013/4192/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4192> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4192/article/2>.
+<http://legislation.di.uoa.gr/law/2013/4192/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4192/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4192/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4192/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4192/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4192/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4192/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και του Μνημονίου Κατανόησης και της Τεχνικής Διευθέτησης που κυρώνονται από την πλήρωση των προϋποθέσεων της παραγράφου 11.1 του άρθρου 11 του Μνημονίου Κατανόησης."@el.
+<http://legislation.di.uoa.gr/law/2013/4192/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4192/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4192/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2013/4192/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως νόμου του Κράτους."@el.

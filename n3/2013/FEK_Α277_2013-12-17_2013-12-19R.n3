@@ -1,0 +1,168 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/277> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_277.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/277> <http://purl.org/dc/terms/title> "Α/2013/277".
+<http://legislation.di.uoa.gr/gazette/a/2013/277> <http://purl.org/dc/terms/created> "2013-12-17"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/277>.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://purl.org/dc/terms/created> "2013-12-17"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://legislation.di.uoa.gr/ontology/legislationID> "174"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://purl.org/dc/terms/title> "Ρύθμιση χρήσης διχτυών στην αλιεία. "@el.
+<http://legislation.di.uoa.gr/pd/2013/174/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/174/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) Των άρθρων 10 και 20 του ν.δ. 420/1970 «Αλιευτικός κώδιξ» (ΦΕΚ Α΄ 27), όπως το άρθρο 10 αντικαταστάθηκε με την παρ. 2 του άρθρου 3 του ν.1740/1987 «Αξιοποίηση και προστασία κοραλλιογενών σχηματισμών, ιχθυοτρόφων υδάτων, υδατοκαλλιεργειών και άλλες διατάξεις» (ΦΕΚ Α΄ 221) και τροποποιήθηκε με την παρ.1 του άρθρου 9 του ν.2040/1992 «Ρύθμιση θεμάτων αρμοδιότητας Υπουργείου Γεωργίας και νομικών προσώπων εποπτείας του και άλλες διατάξεις» (ΦΕΚ Α΄ 70). β) Του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα, που κυρώθηκε με το άρθρο πρώτο του π.δ. 63/2005 «Κωδικοποίηση της Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα» (ΦΕΚ Α΄ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/citation/1>.
+<http://legislation.di.uoa.gr/pd/2013/174/citation/1> <http://legislation.di.uoa.gr/ontology/html> "Τις διατάξεις: α) Των άρθρων 10 και 20 του  <a href=\"http://legislation.di.uoa.gr/law/1970/420\">ν.δ. 420/1970</a> «Αλιευτικός κώδιξ» (ΦΕΚ Α΄ 27), όπως το άρθρο 10 αντικαταστάθηκε με την παρ. 2 του άρθρου 3 του ν.1740/1987 «Αξιοποίηση και προστασία κοραλλιογενών σχηματισμών, ιχθυοτρόφων υδάτων, υδατοκαλλιεργειών και άλλες διατάξεις» (ΦΕΚ Α΄ 221) και τροποποιήθηκε με την παρ.1 του άρθρου 9 του ν.2040/1992 «Ρύθμιση θεμάτων αρμοδιότητας Υπουργείου Γεωργίας και νομικών προσώπων εποπτείας του και άλλες διατάξεις» (ΦΕΚ Α΄ 70). β) Του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα, που κυρώθηκε με το άρθρο πρώτο του  <a href=\"http://legislation.di.uoa.gr/law/1970/420pd/2005/63\">π.δ. 63/2005</a> «Κωδικοποίηση της Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα» (ΦΕΚ Α΄ 98). ".
+<http://legislation.di.uoa.gr/pd/2013/174/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/174/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το π.δ. 85/2012 «Ίδρυση και μετονομασία Υπουργείων, μεταφορά και κατάργηση υπηρεσιών» (Α΄141), όπως τροποποιήθηκε από το π.δ. 98/2012 (Α΄ 160) και το άρθρο 1 αυτού αντικαταστάθηκε με το άρθρο 1 του π.δ. 118/2013 (Α΄ 152). "@el.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/citation/2>.
+<http://legislation.di.uoa.gr/pd/2013/174/citation/2> <http://legislation.di.uoa.gr/ontology/html> "Το  <a href=\"http://legislation.di.uoa.gr/pd/2012/85\">π.δ. 85/2012</a> «Ίδρυση και μετονομασία Υπουργείων, μεταφορά και κατάργηση υπηρεσιών» (Α΄141), όπως τροποποιήθηκε από το  <a href=\"http://legislation.di.uoa.gr/pd/2012/85pd/2012/98\">π.δ. 98/2012</a> (Α΄ 160) και το άρθρο 1 αυτού αντικαταστάθηκε με το άρθρο 1 του π.δ. 118/2013 (Α΄ 152). ".
+<http://legislation.di.uoa.gr/pd/2013/174/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/174/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Την υποπερίπτωση β΄ της περίπτωσης Α΄ της παρ. 1 του άρθρου 2 και την περίπτωση δ΄ της παρ. 1 του άρθρου 3 της αριθ. 27858/ΔΙΟΕ/546/26-6-2013 απόφασης του Πρωθυπουργού και του Υπουργού Ανάπτυξης και Ανταγωνιστικότητας «Ανάθεση αρμοδιοτήτων στον Υφυπουργό Ανάπτυξης και Ανταγωνιστικότητας Αθανάσιο Σκορδά» (Β΄ 1653). "@el.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/citation/3>.
+<http://legislation.di.uoa.gr/pd/2013/174/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/174/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Τον Κανονισμό (ΕΚ) 2371/2002 του Συμβουλίου «για τη διατήρηση και βιώσιμη εκμετάλλευση των αλιευτικών πόρων στο πλαίσιο της Κοινής Αλιευτικής Πολιτικής». "@el.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/citation/4>.
+<http://legislation.di.uoa.gr/pd/2013/174/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/174/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Τον Κανονισμό (ΕΚ) 517/2008 της Επιτροπής «για τη θέσπιση λεπτομερών κανόνων εφαρμογής του κανονισμού (ΕΚ) αριθμ. 850/98 όσον αφορά τον προσδιορισμό του μεγέθους των ματιών και τη μέτρηση του πάχους του νήματος των διχτυών αλιείας». "@el.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/citation/5>.
+<http://legislation.di.uoa.gr/pd/2013/174/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/174/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Τη γνωμοδότηση του Συμβουλίου Αλιείας, όπως διατυπώνεται στο αριθμ. 254/30-11-2012 πρακτικό του. "@el.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/citation/6>.
+<http://legislation.di.uoa.gr/pd/2013/174/citation/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/174/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος δεν προκαλείται δαπάνη σε βάρος του Κρατικού Προϋπολογισμού. "@el.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/citation/7>.
+<http://legislation.di.uoa.gr/pd/2013/174/citation/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/174/citation/8> <http://legislation.di.uoa.gr/ontology/context> "Την αριθ. 222/2013 γνωμοδότηση του Συμβουλίου της Επικρατείας, μετά από πρόταση του Υπουργού Αγροτικής Ανάπτυξης και Τροφίμων και του Υφυπουργού Ανάπτυξης και Ανταγωνιστικότητας, "@el.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/citation/8>.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/174/signer/1>.
+<http://legislation.di.uoa.gr/pd/2013/174/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/174/signer/2>.
+<http://legislation.di.uoa.gr/pd/2013/174/signer/2> <http://xmlns.com/foaf/0.1/name> "ΑΘΑΝΑΣΙΟΣ ΣΚΟΡΔΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/174/signer/3>.
+<http://legislation.di.uoa.gr/pd/2013/174/signer/3> <http://xmlns.com/foaf/0.1/name> "ΑΘΑΝΑΣΙΟΣ ΤΣΑΥΤΑΡΗΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/174/signer/3> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Αθανάσιος_Τσαυτάρης\">ΑΘΑΝΑΣΙΟΣ ΤΣΑΥΤΑΡΗΣ</a>".
+<http://legislation.di.uoa.gr/pd/2013/174/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/article/1>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/1> <http://purl.org/dc/terms/title> "Ελάχιστο μέγεθος ματιών στα στατικά δίχτυα"@el.
+<http://legislation.di.uoa.gr/pd/2013/174/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Απαγορεύεται καθ’ όλο το έτος σε όλη την Επικράτεια, η αλιεία με στατικά δίχτυα (απλάδια ή μανωμένα ή συνδυασμό αυτών) που έχουν μέγεθος ματιών μικρότερο των είκοσι (20) χιλιοστών, μετρούμενου σύμφωνα με τις διατάξεις του Κανονισμού (ΕΚ) 517/2008."@el.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/174> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/article/2>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2> <http://purl.org/dc/terms/title> "Ρύθμιση της θαλάσσιας αλιείας ψαριών του είδους «αθερίνα» (Atherina boyeri)"@el.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κατά παρέκκλιση του άρθρου 1, μπορεί να διενεργείται σε όλη την επικράτεια η αλιεία ψαριών του είδους«αθερίνα» (Atherina boyeri) και μόνο αυτού, αποκλειόμενης της αλιείας άλλου υδρόβιου οργανισμού, με απλάδιδίχτυ, που έχει ελάχιστο άνοιγμα ματιού 16 χιλιοστάτουλάχιστον, μετρούμενο σύμφωνα με τις διατάξεις τουΚανονισμού (ΕΚ) 517/2008. Το δίχτυ αυτό πρέπει να έχειπεραιτέρω τα εξής χαρακτηριστικά:"@el.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/1/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/1/case/2>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/1/case/2> <http://legislation.di.uoa.gr/ontology/text> "μήκος έως 220μέτρα,"@el.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/1/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/1/case/3>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/1/case/3> <http://legislation.di.uoa.gr/ontology/text> "ύψος έως 400 (αριθμός ματιών)."@el.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κατά τον απόπλου σκάφους για την αλίευση ψαριών του είδους «αθερίνα» απαγορεύεται να υπάρχει πάνω σε αυτό άλλο δίχτυ, πλην εκείνου της παραγράφου 1 του παρόντος άρθρου, καθώς και κάθε άλλο αλιευτικό εργαλείο."@el.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Απαγορεύεται η αλιεία και εμπορία ψαριών του είδους «αθερίνα» με μέγεθος μικρότερο των 5 εκατοστών."@el.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/3/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος διατάγματος αρχίζει από την ημερομηνία δημοσίευσής του στην Εφημερίδα της Kυβερνήσεως."@el.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/3/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/3/passage/3>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/3/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Αγροτικής Ανάπτυξης και Τροφίμων αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/3/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/3/passage/4>.
+<http://legislation.di.uoa.gr/pd/2013/174/article/2/paragraph/3/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Ελλάδος» (Α΄ 146) σε συνδυασμό με τις διατάξεις των άρθρων 2 και 3 του Κανονισμού 8/1979 της Ιεράς Συνόδου της Εκκλησίας της Ελλάδος"@el.
+<http://legislation.di.uoa.gr/pd/2013/175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2013/175> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/277>.
+<http://legislation.di.uoa.gr/pd/2013/175> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/175> <http://purl.org/dc/terms/created> "2013-12-17"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/175> <http://legislation.di.uoa.gr/ontology/legislationID> "175"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/175> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2013/175> <http://purl.org/dc/terms/title> "Μετονομασία της Ενορίας του Ιερού Ναού Αγίου Δημητρίου, της Ιεράς Μητροπόλεως Αιτωλίας και Ακαρνανίας, η οποία ευρίσκεται στην Τοπική Κοινότητα Πλαγιάς, της Δημοτικής Ενότητας Παλαίρου, του Δήμου Ακτίου-Βόνιτσας, του Νομού Αιτωλοακαρνανίας, σε Ενορία Ιερού Ναού Κοιμήσεως της Θεοτόκου. "@el.
+<http://legislation.di.uoa.gr/pd/2013/175/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/175/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 36 παρ. 2 του ν. 590/1977 «Περί του Καταστατικού Χάρτου της Εκκλησίας της"@el.
+<http://legislation.di.uoa.gr/pd/2013/175> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/175/citation/1>.
+<http://legislation.di.uoa.gr/pd/2013/175/citation/1> <http://legislation.di.uoa.gr/ontology/html> "Τις διατάξεις του άρθρου 36 παρ. 2 του  <a href=\"http://legislation.di.uoa.gr/law/1977/590\">ν. 590/1977</a> «Περί του Καταστατικού Χάρτου της Εκκλησίας της".
+<http://legislation.di.uoa.gr/pd/2013/175> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/175/signer/1>.
+<http://legislation.di.uoa.gr/pd/2013/175/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/175> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/175/signer/2>.
+<http://legislation.di.uoa.gr/pd/2013/175/signer/2> <http://xmlns.com/foaf/0.1/name> "ΚΩΝΣΤΑΝΤΙΝΟΣ ΑΡΒΑΝΙΤΟΠΟΥΛΟΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/175/signer/2> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Κωνσταντίνος_Αρβανιτόπουλος\">ΚΩΝΣΤΑΝΤΙΝΟΣ ΑΡΒΑΝΙΤΟΠΟΥΛΟΣ</a>".
+<http://legislation.di.uoa.gr/pd/2013/175/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/175> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/175/article/1>.
+<http://legislation.di.uoa.gr/pd/2013/175/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/175/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/175/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/175/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/175/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/175/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/175/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως."@el.
+<http://legislation.di.uoa.gr/pd/2013/175/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/175/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/175/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/175/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Παιδείας και Θρησκευμάτων αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.
+<http://legislation.di.uoa.gr/pd/2013/176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2013/176> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/277>.
+<http://legislation.di.uoa.gr/pd/2013/176> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/176> <http://purl.org/dc/terms/created> "2013-12-17"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/176> <http://legislation.di.uoa.gr/ontology/legislationID> "176"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/176> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2013/176> <http://purl.org/dc/terms/title> "Μετατροπή της Γυναικείας Ιεράς Κοινοβιακής Μονής Αναλήψεως Χριστού, της Ιεράς Μητροπόλεως Μεσογαίας και Λαυρεωτικής, η οποία ευρίσκεται στην περιοχή «Λάκκα-Μάλι», της Δημοτικής Κοινότητας Κερατέας, της Δημοτικής Ενότητας Κερατέας, του Δήμου Λαυρεωτικής, του Νομού Αττικής, σε Ανδρώα Ιερά Κοινοβιακή Μονή. "@el.
+<http://legislation.di.uoa.gr/pd/2013/176/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/176/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 39 παρ. 3 του ν. 590/1977 «Περί του Καταστατικού Χάρτου της Εκκλησίας της Ελλάδος» (Α΄ 146) σε συνδυασμό με τις διατάξεις του άρθρου 2 παρ. α΄ του αριθμ. 39/1972 Κανονισμού της Ιεράς Συνόδου της Εκκλησίας της Ελλάδος «Περί των εν Ελλάδι Ορθοδόξων Ιερών Μονών και των Ησυχαστηρίων» (Α΄103). "@el.
+<http://legislation.di.uoa.gr/pd/2013/176> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/176/citation/1>.
+<http://legislation.di.uoa.gr/pd/2013/176/citation/1> <http://legislation.di.uoa.gr/ontology/html> "Τις διατάξεις του άρθρου 39 παρ. 3 του  <a href=\"http://legislation.di.uoa.gr/law/1977/590\">ν. 590/1977</a> «Περί του Καταστατικού Χάρτου της Εκκλησίας της Ελλάδος» (Α΄ 146) σε συνδυασμό με τις διατάξεις του άρθρου 2 παρ. α΄ του αριθμ. 39/1972 Κανονισμού της Ιεράς Συνόδου της Εκκλησίας της Ελλάδος «Περί των εν Ελλάδι Ορθοδόξων Ιερών Μονών και των Ησυχαστηρίων» (Α΄103). ".
+<http://legislation.di.uoa.gr/pd/2013/176/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/176/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το π.δ. 118/2013 «Τροποποίηση του π.δ. 85/2012 (Α΄141)- Ίδρυση Υπουργείου Υποδομών, Μεταφορών και Δικτύων και Υπουργείου Πολιτισμού και Αθλητισμού και μετονομασία των Υπουργείων Ανάπτυξης, Ανταγωνιστικότητας, Υποδομών, Μεταφορών και Δικτύων και Παιδείας και Θρησκευμάτων, Πολιτισμού και Αθλητισμού σε Υπουργείο Ανάπτυξης και Ανταγωνιστικότητας και σε Υπουργείο Παιδείας και Θρησκευμάτων αντιστοίχως» (Α΄152). "@el.
+<http://legislation.di.uoa.gr/pd/2013/176> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/176/citation/2>.
+<http://legislation.di.uoa.gr/pd/2013/176/citation/2> <http://legislation.di.uoa.gr/ontology/html> "Το  <a href=\"http://legislation.di.uoa.gr/pd/2013/118\">π.δ. 118/2013</a> «Τροποποίηση του  <a href=\"http://legislation.di.uoa.gr/pd/2013/118pd/2012/85\">π.δ. 85/2012</a> (Α΄141)- Ίδρυση Υπουργείου Υποδομών, Μεταφορών και Δικτύων και Υπουργείου Πολιτισμού και Αθλητισμού και μετονομασία των Υπουργείων Ανάπτυξης, Ανταγωνιστικότητας, Υποδομών, Μεταφορών και Δικτύων και Παιδείας και Θρησκευμάτων, Πολιτισμού και Αθλητισμού σε Υπουργείο Ανάπτυξης και Ανταγωνιστικότητας και σε Υπουργείο Παιδείας και Θρησκευμάτων αντιστοίχως» (Α΄152). ".
+<http://legislation.di.uoa.gr/pd/2013/176/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/176/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Το π.δ. 119/2013 «Διορισμός Αντιπροέδρου της Κυβέρνησης, Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α΄153). "@el.
+<http://legislation.di.uoa.gr/pd/2013/176> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/176/citation/3>.
+<http://legislation.di.uoa.gr/pd/2013/176/citation/3> <http://legislation.di.uoa.gr/ontology/html> "Το  <a href=\"http://legislation.di.uoa.gr/pd/2013/119\">π.δ. 119/2013</a> «Διορισμός Αντιπροέδρου της Κυβέρνησης, Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α΄153). ".
+<http://legislation.di.uoa.gr/pd/2013/176/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/176/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα (άρθρο πρώτο του π.δ. 63/2005, Α΄98). "@el.
+<http://legislation.di.uoa.gr/pd/2013/176> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/176/citation/4>.
+<http://legislation.di.uoa.gr/pd/2013/176/citation/4> <http://legislation.di.uoa.gr/ontology/html> "Τις διατάξεις του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα (άρθρο πρώτο του  <a href=\"http://legislation.di.uoa.gr/pd/2005/63\">π.δ. 63/2005</a>, Α΄98). ".
+<http://legislation.di.uoa.gr/pd/2013/176/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/176/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Τη σύμφωνη γνώμη του Επιχωρίου Μητροπολίτου της Ιεράς Μητροπόλεως Μεσογαίας και Λαυρεωτικής (πράξη υπ’ αριθμ. 47/28-1-2013). "@el.
+<http://legislation.di.uoa.gr/pd/2013/176> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/176/citation/5>.
+<http://legislation.di.uoa.gr/pd/2013/176/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/176/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Την έγκριση της Διαρκούς Ιεράς Συνόδου της Εκκλησίας της Ελλάδος, η οποία παρασχέθηκε κατά τη συνεδρία Κ΄/5-3-2013 της 156ης Συνοδικής Περιόδου. "@el.
+<http://legislation.di.uoa.gr/pd/2013/176> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/176/citation/6>.
+<http://legislation.di.uoa.gr/pd/2013/176/citation/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/176/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος δεν προκαλείται δαπάνη εις βάρος του Κρατικού Προϋπολογισμού. "@el.
+<http://legislation.di.uoa.gr/pd/2013/176> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/176/citation/7>.
+<http://legislation.di.uoa.gr/pd/2013/176/citation/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/176/citation/8> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθμ. 292/2013 γνωμοδότηση του Συμβουλίου της Επικρατείας, με πρόταση του Υπουργού Παιδείας και Θρησκευμάτων, "@el.
+<http://legislation.di.uoa.gr/pd/2013/176> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/176/citation/8>.
+<http://legislation.di.uoa.gr/pd/2013/176> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/176/signer/1>.
+<http://legislation.di.uoa.gr/pd/2013/176/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/176> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/176/signer/2>.
+<http://legislation.di.uoa.gr/pd/2013/176/signer/2> <http://xmlns.com/foaf/0.1/name> "ΚΩΝΣΤΑΝΤΙΝΟΣ ΑΡΒΑΝΙΤΟΠΟΥΛΟΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/176/signer/2> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Κωνσταντίνος_Αρβανιτόπουλος\">ΚΩΝΣΤΑΝΤΙΝΟΣ ΑΡΒΑΝΙΤΟΠΟΥΛΟΣ</a>".
+<http://legislation.di.uoa.gr/pd/2013/176/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/176> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/176/article/1>.
+<http://legislation.di.uoa.gr/pd/2013/176/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/176/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/176/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/176/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/176/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/176/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/176/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μετατρέπεται η ιδρυθείσα με το αριθ. 245/5-7-1983 π.δ. (Α΄ 93) Γυναικεία Ιερά Κοινοβιακή Μονή Αναλήψεως Χριστού, της Ιεράς Μητροπόλεως Μεσογαίας και Λαυρεωτικής, η οποία ευρίσκεται στην περιοχή «Λάκκα - Μάλι», της Δημοτικής Κοινότητας Κερατέας, της Δημοτικής Ενότητας Κερατέας, του Δήμου Λαυρεωτικής, του Νομού Αττικής, σε Ανδρώα Ιερά Κοινοβιακή Μονή."@el.
+<http://legislation.di.uoa.gr/pd/2013/176/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/176> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/176/article/2>.
+<http://legislation.di.uoa.gr/pd/2013/176/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/176/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/176/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/176/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/176/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/176/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/176/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως."@el.
+<http://legislation.di.uoa.gr/pd/2013/176/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/176/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/176/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/176/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Παιδείας και Θρησκευμάτων αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.

@@ -1,0 +1,131 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/108> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_108.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/108> <http://purl.org/dc/terms/title> "Α/2013/108".
+<http://legislation.di.uoa.gr/gazette/a/2013/108> <http://purl.org/dc/terms/created> "2013-05-09"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2013/57> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/108>.
+<http://legislation.di.uoa.gr/pd/2013/57> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/57> <http://purl.org/dc/terms/created> "2013-05-09"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/57> <http://legislation.di.uoa.gr/ontology/legislationID> "57"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/57> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2013/57> <http://purl.org/dc/terms/title> "Τροποποίηση του π.δ. 32/2004 «Σύσταση και Οργανισμός της Γενικής Γραμματείας της Κυβέρνησης (Α΄ 28)» και του π.δ. 2/2011 «Μετατροπή του Πολιτικού Γραφείου Πρωθυπουργού σε Γενική Γραμματεία Πρωθυπουργού» (Α΄ 5). "@el.
+<http://legislation.di.uoa.gr/pd/2013/57/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/57/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις: α) του άρθρου 82 παρ. 2 του Συντάγματος, β) των άρθρων 48, 86 και 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα (π.δ. 63/2005, Α΄ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2013/57> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/citation/1>.
+<http://legislation.di.uoa.gr/pd/2013/57/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/57/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού. "@el.
+<http://legislation.di.uoa.gr/pd/2013/57> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/citation/2>.
+<http://legislation.di.uoa.gr/pd/2013/57/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/57/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθμ. 101/2013 γνωμοδότηση του Συμβουλίου της Επικρατείας, με πρόταση του Πρωθυπουργού, "@el.
+<http://legislation.di.uoa.gr/pd/2013/57> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/citation/3>.
+<http://legislation.di.uoa.gr/pd/2013/57> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/issue/1>.
+<http://legislation.di.uoa.gr/pd/2013/57/issue/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/ParsingIssue>.
+<http://legislation.di.uoa.gr/pd/2013/57/issue/1> <http://legislation.di.uoa.gr/ontology/text> "Δεν αναγνωρίστηκαν οι υπογραφόντες."@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/57> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/1>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η περίπτωση στ΄ της παραγράφου 3 του άρθρου 2 του π.δ.  2/2011 (Α΄ 5) αντικαθίσταται ως εξής:"@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/1/paragraph/1/passage/1/modification/1>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/1/paragraph/1/passage/1/modification/1>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGround> <http://legislation.di.uoa.gr/pd/2013/57>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/1/paragraph/1/passage/1/modification/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/1/paragraph/1/passage/1/modification/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/1/paragraph/1/passage/1/modification/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/1/paragraph/1/passage/1/modification/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/1/paragraph/1/passage/1/modification/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "στ. Μεριμνά για την έκδοση χρηματικών ενταλμάτων προπληρωμής, εντολών πληρωμής προς τους υπολόγους και τον εν γένει έλεγχο των υπολόγων των ενταλμάτων αυτών, καθώς και για τον έλεγχο και την εκκαθάριση των κάθε είδους δαπανών προμηθειών ή εκτέλεσης εργασιών, συμπεριλαμβανομένης της έγκρισης μίσθωσης γραμμών τριψηφίων τηλεφώνων και της εκκαθάρισης της σχετικής δαπάνης αυτών για χρήση των Αρχηγών των Πολιτικών Κομμάτων που εκπροσωπούνται στη Βουλή και διευθυντικών στελεχών της Γενικής Γραμματείας Πρωθυπουργού"@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/57> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/2>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στις διατάξεις του κυρωθέντος με το άρθρο πρώτο του π.δ.  63/2005 Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα επέρχονται οι ακόλουθες μεταβολές, σύμφωνα με τα οριζόμενα στο άρθρο 1 του παρόντος:"@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Αντικαθίσταται η περίπτωση ιγ΄ του άρθρου 77 του Κώδικα."@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/57> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3> <http://purl.org/dc/terms/title> "Έναρξη ισχύος"@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως."@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Πρωθυπουργό αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Ιωάννινα, 8 Μαΐου 2013 Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ Ο ΠΡΩΘΥΠΟΥΡΓΟΣ ΑΝΤΩΝΗΣ Κ. ΣΑΜΑΡΑΣ 2."@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/4>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Το Προεδρικό Διάταγμα 86/2012 «Διορισμός Υπουργών, Αναπληρωτών Υπουργών και Υφυπουργών» (Α΄141)."@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/5>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "3."@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/6>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Τις διατάξεις του άρθρου 90 του Κώδικα νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα που κυρώθηκε με το άρθρο πρώτο του π.δ. 63/2005 (Α΄98)."@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/7>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/7> <http://legislation.di.uoa.gr/ontology/text> "4."@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/8>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/8> <http://legislation.di.uoa.gr/ontology/text> "Την Απόφαση 4514/20-2-2012 (112/τ."@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/9>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/9> <http://legislation.di.uoa.gr/ontology/text> "ΥΟΔΔ/13.3.2012) του Υπουργού Εσωτερικών για τη Συγκρότηση του Συμβουλίου Τοπωνυμιών στο Υπουργείο Εσωτερικών."@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/10>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/10> <http://legislation.di.uoa.gr/ontology/text> "5."@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/11>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/11> <http://legislation.di.uoa.gr/ontology/text> "Την υπ’ αριθμ. 174/2011 απόφαση του δημοτικού συμβουλίου του Δήμου Μαρωνείας-Σαπών του Νομού Ροδόπης."@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/12>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/12> <http://legislation.di.uoa.gr/ontology/text> "6."@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/13>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/13> <http://legislation.di.uoa.gr/ontology/text> "Τη θετική γνωμοδότηση του Συμβουλίου Τοπωνυμιών υπ’ αριθμ. 21/2012 πρακτικό του Συμβουλίου Τοπωνυμιών (αριθμ. συνεδρ. 21/6-4-2012, απόφ."@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/14>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/14> <http://legislation.di.uoa.gr/ontology/text> "21/2012, θέμα 14ο)."@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/15>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/15> <http://legislation.di.uoa.gr/ontology/text> "7."@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/16>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/16> <http://legislation.di.uoa.gr/ontology/text> "Το γεγονός, ότι από τις διατάξεις του παρόντος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού ή του προϋπολογισμού του Δήμου ΜαρωνείαςΣαπών Ροδόπης."@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/17>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/17> <http://legislation.di.uoa.gr/ontology/text> "8."@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/18>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/3/paragraph/1/passage/18> <http://legislation.di.uoa.gr/ontology/text> "Την 35/2013 γνωμοδότηση του Συμβουλίου της Επικρατείας, με πρόταση του Υπουργού Εσωτερικών, αποφασίζουμε:"@el.
+<http://legislation.di.uoa.gr/pd/2013/57/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/57> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/4>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/4/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/4/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/57/article/4/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/57/article/4/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "F"@el.
+<http://legislation.di.uoa.gr/pd/2013/58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2013/58> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/108>.
+<http://legislation.di.uoa.gr/pd/2013/58> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/58> <http://purl.org/dc/terms/created> "2013-05-09"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/58> <http://legislation.di.uoa.gr/ontology/legislationID> "58"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/58> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2013/58> <http://purl.org/dc/terms/title> ""@el.
+<http://legislation.di.uoa.gr/pd/2013/58> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/58/signer/1>.
+<http://legislation.di.uoa.gr/pd/2013/58/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/58> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/58/signer/2>.
+<http://legislation.di.uoa.gr/pd/2013/58/signer/2> <http://xmlns.com/foaf/0.1/name> "ΕΥΡΙΠΙΔΗΣ ΣΤΥΛΙΑΝΙΔΗΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/58/signer/2> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Ευριπίδης_Στυλιανίδης\">ΕΥΡΙΠΙΔΗΣ ΣΤΥΛΙΑΝΙΔΗΣ</a>".
+<http://legislation.di.uoa.gr/pd/2013/58/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/58> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/58/article/1>.
+<http://legislation.di.uoa.gr/pd/2013/58/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/58/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/58/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/58/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/58/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/58/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/58/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Mετονομασία του oικισμού Εβρινός σε Έβρενος. Ο ΠΡΟΕΔΡΟΣ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ Έχοντας υπόψη: 1. Τις διατάξεις του άρθρου 7 παρ. 1 του Κώδικα Δήμων και Κοινοτήτων, όπως κυρώθηκε με το άρθρο πρώτο του ν. 3463/2006 (Α΄ 114). Ο oικισμός Εβρινός του Δήμου Μαρωνείας-Σαπών του Νομού Ροδόπης, μετονομάζεται σε Έβρενο. Στον Υπουργό Εσωτερικών αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος διατάγματος. "@el.

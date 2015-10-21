@@ -1,0 +1,94 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/200> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_200.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/200> <http://purl.org/dc/terms/title> "Α/2013/200".
+<http://legislation.di.uoa.gr/gazette/a/2013/200> <http://purl.org/dc/terms/created> "2013-09-26"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/200>.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://purl.org/dc/terms/created> "2013-09-26"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://legislation.di.uoa.gr/ontology/legislationID> "134"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://purl.org/dc/terms/title> "Εφαρμογή της απόφασης 1956 (2010) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.). "@el.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Το άρθρο 25 του Καταστατικού Χάρτη του Ο.Η.Ε. όπως κυρώθηκε με τον Α.Ν. 585/1945 (Α΄ 242). "@el.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/citation/1>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/1> <http://legislation.di.uoa.gr/ontology/html> "Το άρθρο 25 του Καταστατικού Χάρτη του Ο.Η.Ε. όπως κυρώθηκε με τον Α. <a href=\"http://legislation.di.uoa.gr/law/1945/585\">Ν. 585/1945</a> (Α΄ 242). ".
+<http://legislation.di.uoa.gr/pd/2013/134/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το άρθρο 1 παρ. 1 του Α.Ν. 92/1967 «Περί εφαρμογής αποφάσεων του Συμβουλίου Ασφαλείας των Ηνωμένων Εθνών και περί εγκρίσεως και εφαρμογής συστάσεων του Συμβουλίου Ασφαλείας και της Γενικής Συνελεύσεως» (Α΄ 139). "@el.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/citation/2>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/2> <http://legislation.di.uoa.gr/ontology/html> "Το άρθρο 1 παρ. 1 του Α. <a href=\"http://legislation.di.uoa.gr/law/1967/92\">Ν. 92/1967</a> «Περί εφαρμογής αποφάσεων του Συμβουλίου Ασφαλείας των Ηνωμένων Εθνών και περί εγκρίσεως και εφαρμογής συστάσεων του Συμβουλίου Ασφαλείας και της Γενικής Συνελεύσεως» (Α΄ 139). ".
+<http://legislation.di.uoa.gr/pd/2013/134/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Το Π.Δ. 85/2012 (Α΄ 141), όπως ισχύει, καθώς και το Π.Δ. 119/2013 (Α΄ 153). "@el.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/citation/3>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/3> <http://legislation.di.uoa.gr/ontology/html> "Το  <a href=\"http://legislation.di.uoa.gr/pd/2012/85\">Π.Δ. 85/2012</a> (Α΄ 141), όπως ισχύει, καθώς και το  <a href=\"http://legislation.di.uoa.gr/pd/2012/85pd/2013/119\">Π.Δ. 119/2013</a> (Α΄ 153). ".
+<http://legislation.di.uoa.gr/pd/2013/134/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Το άρθρο 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα που κυρώθηκε με το άρθρο πρώτο του π.δ/τος 63/2005 (Α΄ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/citation/4>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Την από 8.2.2011 απόφαση του Υπουργού Εξωτερικών Φ. 3210Α/ΑΣ 6206 «Εφαρμογή της απόφασης 1956 (2010) του Συμβουλίου Ασφαλείας ΟΗΕ περί Ιράκ» (Α΄ 23). "@el.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/citation/5>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/6> <http://legislation.di.uoa.gr/ontology/context> "To Π.Δ. 250/2005 «Εφαρμογή της απόφασης 1483 (2003) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)» (Α΄ 299). "@el.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/citation/6>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/6> <http://legislation.di.uoa.gr/ontology/html> "To  <a href=\"http://legislation.di.uoa.gr/pd/2005/250\">Π.Δ. 250/2005</a> «Εφαρμογή της απόφασης 1483 (2003) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)» (Α΄ 299). ".
+<http://legislation.di.uoa.gr/pd/2013/134/citation/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/7> <http://legislation.di.uoa.gr/ontology/context> "To Π.Δ. 109/2006 «Εφαρμογή της υπ’ αριθμ. 1546 (2004) απόφασης του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)» (Α΄ 109). "@el.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/citation/7>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/7> <http://legislation.di.uoa.gr/ontology/html> "To  <a href=\"http://legislation.di.uoa.gr/pd/2006/109\">Π.Δ. 109/2006</a> «Εφαρμογή της υπ’ αριθμ. 1546 (2004) απόφασης του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)» (Α΄ 109). ".
+<http://legislation.di.uoa.gr/pd/2013/134/citation/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/8> <http://legislation.di.uoa.gr/ontology/context> "To Π.Δ. 172/2006 «Εφαρμογή της υπ’ αριθμ. 1637 (2005) απόφασης του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)» (Α΄ 184). "@el.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/citation/8>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/8> <http://legislation.di.uoa.gr/ontology/html> "To  <a href=\"http://legislation.di.uoa.gr/pd/2006/172\">Π.Δ. 172/2006</a> «Εφαρμογή της υπ’ αριθμ. 1637 (2005) απόφασης του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)» (Α΄ 184). ".
+<http://legislation.di.uoa.gr/pd/2013/134/citation/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/9> <http://legislation.di.uoa.gr/ontology/context> "To Π.Δ. 239/2007 «Περί εφαρμογής της απόφασης 1723 (2006) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)» (Α΄ 280). "@el.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/citation/9>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/9> <http://legislation.di.uoa.gr/ontology/html> "To  <a href=\"http://legislation.di.uoa.gr/pd/2007/239\">Π.Δ. 239/2007</a> «Περί εφαρμογής της απόφασης 1723 (2006) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)» (Α΄ 280). ".
+<http://legislation.di.uoa.gr/pd/2013/134/citation/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/10> <http://legislation.di.uoa.gr/ontology/context> "To Π.Δ. 172/2008 «Εφαρμογή της υπ’ αριθμ. 1790 (2007) απόφασης του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)» (Α΄ 232). "@el.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/citation/10>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/10> <http://legislation.di.uoa.gr/ontology/html> "To  <a href=\"http://legislation.di.uoa.gr/pd/2008/172\">Π.Δ. 172/2008</a> «Εφαρμογή της υπ’ αριθμ. 1790 (2007) απόφασης του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)» (Α΄ 232). ".
+<http://legislation.di.uoa.gr/pd/2013/134/citation/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/11> <http://legislation.di.uoa.gr/ontology/context> "To Π.Δ. 17/2010 «Εφαρμογή της απόφασης 1859 (2008) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)» (Α΄ 36). "@el.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/citation/11>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/11> <http://legislation.di.uoa.gr/ontology/html> "To  <a href=\"http://legislation.di.uoa.gr/pd/2010/17\">Π.Δ. 17/2010</a> «Εφαρμογή της απόφασης 1859 (2008) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)» (Α΄ 36). ".
+<http://legislation.di.uoa.gr/pd/2013/134/citation/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/12> <http://legislation.di.uoa.gr/ontology/context> "Το Π.Δ. 3/2012 «Εφαρμογή της απόφασης 1905 (2009) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)» (Α΄ 4). "@el.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/citation/12>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/12> <http://legislation.di.uoa.gr/ontology/html> "Το  <a href=\"http://legislation.di.uoa.gr/pd/2012/3\">Π.Δ. 3/2012</a> «Εφαρμογή της απόφασης 1905 (2009) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)» (Α΄ 4). ".
+<http://legislation.di.uoa.gr/pd/2013/134/citation/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/13> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού. "@el.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/citation/13>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/134/citation/14> <http://legislation.di.uoa.gr/ontology/context> "Τις υπ’ αριθμ. 182/2013 και 263/2013 γνωμοδοτήσεις του Συμβουλίου της Επικρατείας μετά από πρόταση των Υπουργών Εξωτερικών, Οικονομικών, Ανάπτυξης και Ανταγωνιστικότητας και Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων, "@el.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/citation/14>.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/134/signer/1>.
+<http://legislation.di.uoa.gr/pd/2013/134/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/134/signer/2>.
+<http://legislation.di.uoa.gr/pd/2013/134/signer/2> <http://xmlns.com/foaf/0.1/name> "ΕΥΑΓΓΕΛΟΣ ΒΕΝΙΖΕΛΟΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/134/signer/2> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Ευάγγελος_Βενιζέλος\">ΕΥΑΓΓΕΛΟΣ ΒΕΝΙΖΕΛΟΣ</a>".
+<http://legislation.di.uoa.gr/pd/2013/134> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/134/signer/3>.
+<http://legislation.di.uoa.gr/pd/2013/134/signer/3> <http://xmlns.com/foaf/0.1/name> "ΙΩΑΝΝΗΣ ΣΤΟΥΡΝΑΡΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/134/signer/4>.
+<http://legislation.di.uoa.gr/pd/2013/134/signer/4> <http://xmlns.com/foaf/0.1/name> "ΚΩΝΣΤΑΝΤΙΝΟΣ ΧΑΤΖΗΔΑΚΗΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/134/signer/5>.
+<http://legislation.di.uoa.gr/pd/2013/134/signer/5> <http://xmlns.com/foaf/0.1/name> "ΧΑΡΑΛΑΜΠΟΣ ΑΘΑΝΑΣΙΟΥ"@el.
+<http://legislation.di.uoa.gr/pd/2013/134/signer/5> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Χαράλαμπος_Αθανασίου\">ΧΑΡΑΛΑΜΠΟΣ ΑΘΑΝΑΣΙΟΥ</a>".
+<http://legislation.di.uoa.gr/pd/2013/134/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/article/1>.
+<http://legislation.di.uoa.gr/pd/2013/134/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/134/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/134/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/134/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/134/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Παραμένει σε ισχύ, μέχρι την 30ή Ιουνίου 2011, το άρθρο 5 του προεδρικού διατάγματος 250/2005 (Α΄ 299), η ισχύς του οποίου παρατάθηκε, για τελευταία φορά, με το άρθρο 1 του Π.Δ. 3/2012 (Α΄ 4)."@el.
+<http://legislation.di.uoa.gr/pd/2013/134/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/html> "Παραμένει σε ισχύ, μέχρι την 30ή Ιουνίου 2011, το άρθρο 5 του προεδρικού διατάγματος 250/2005 (Α΄ 299), η ισχύς του οποίου παρατάθηκε, για τελευταία φορά, με το άρθρο 1 του  <a href=\"http://legislation.di.uoa.gr/pd/2012/3\">Π.Δ. 3/2012</a> (Α΄ 4).".
+<http://legislation.di.uoa.gr/pd/2013/134/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/134> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/article/2>.
+<http://legislation.di.uoa.gr/pd/2013/134/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/134/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/134/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/134/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/134/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Παραμένουν σε ισχύ, μέχρι την 30η Ιουνίου 2011, οι διατάξεις του άρθρου 6 του προεδρικού διατάγματος 250/2005 (Α΄ 299), όπως η ισχύς τους παρατάθηκε με το άρθρο 2 του Π.Δ. 3/2012 (Α΄ 4) και σε σχέση με κεφάλαια και χρηματοοικονομικά περιουσιακά στοιχεία και οικονομικούς πόρους που περιγράφονται στο άρθρο 7 του Προεδρικού Διατάγματος 250/2005 (Α΄ 299), υπό την επιφύλαξη της εξαίρεσης που προβλέπεται στο άρθρο 3 του Προεδρικού Διατάγματος 109/2006 (Α΄ 109)."@el.
+<http://legislation.di.uoa.gr/pd/2013/134/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/html> "Παραμένουν σε ισχύ, μέχρι την 30η Ιουνίου 2011, οι διατάξεις του άρθρου 6 του προεδρικού διατάγματος 250/2005 (Α΄ 299), όπως η ισχύς τους παρατάθηκε με το άρθρο 2 του  <a href=\"http://legislation.di.uoa.gr/pd/2012/3\">Π.Δ. 3/2012</a> (Α΄ 4) και σε σχέση με κεφάλαια και χρηματοοικονομικά περιουσιακά στοιχεία και οικονομικούς πόρους που περιγράφονται στο άρθρο 7 του  <a href=\"http://legislation.di.uoa.gr/pd/2012/3pd/2005/250\">Προεδρικού Διατάγματος 250/2005</a> (Α΄ 299), υπό την επιφύλαξη της εξαίρεσης που προβλέπεται στο άρθρο 3 του  <a href=\"http://legislation.di.uoa.gr/pd/2012/3pd/2005/250pd/2006/109\">Προεδρικού Διατάγματος 109/2006</a> (Α΄ 109).".
+<http://legislation.di.uoa.gr/pd/2013/134/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/134/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/134/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/134/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Εξωτερικών αναθέτουμε τη δημοσίευση του παρόντος Διατάγματος, στον ίδιο δε Υπουργό και στους Υπουργούς Οικονομικών, Ανάπτυξης και Ανταγωνιστικότητας και Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων την εκτέλεσή του."@el.

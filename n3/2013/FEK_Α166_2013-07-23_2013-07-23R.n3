@@ -1,0 +1,56 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/166> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_166.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/166> <http://purl.org/dc/terms/title> "Α/2013/166".
+<http://legislation.di.uoa.gr/gazette/a/2013/166> <http://purl.org/dc/terms/created> "2013-07-23"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2013/4171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2013/4171> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/166>.
+<http://legislation.di.uoa.gr/law/2013/4171> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2013/4171> <http://purl.org/dc/terms/created> "2013-07-23"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2013/4171> <http://legislation.di.uoa.gr/ontology/legislationID> "4171"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2013/4171> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/law/2013/4171> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4171/signer/1>.
+<http://legislation.di.uoa.gr/law/2013/4171/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4171> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4171/signer/2>.
+<http://legislation.di.uoa.gr/law/2013/4171/signer/2> <http://xmlns.com/foaf/0.1/name> "ΕΥΑΓΓΕΛΟΣ ΒΕΝΙΖΕΛΟΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4171/signer/2> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Ευάγγελος_Βενιζέλος\">ΕΥΑΓΓΕΛΟΣ ΒΕΝΙΖΕΛΟΣ</a>".
+<http://legislation.di.uoa.gr/law/2013/4171> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4171/signer/3>.
+<http://legislation.di.uoa.gr/law/2013/4171/signer/3> <http://xmlns.com/foaf/0.1/name> "ΙΩΑΝΝΗΣ ΣΤΟΥΡΝΑΡΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4171> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4171/signer/4>.
+<http://legislation.di.uoa.gr/law/2013/4171/signer/4> <http://xmlns.com/foaf/0.1/name> "ΙΩΑΝΝΗΣ ΜΙΧΕΛΑΚΗΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4171> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4171/signer/5>.
+<http://legislation.di.uoa.gr/law/2013/4171/signer/5> <http://xmlns.com/foaf/0.1/name> "ΑΘΑΝΑΣΙΟΣ ΤΣΑΥΤΑΡΗΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4171/signer/5> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Αθανάσιος_Τσαυτάρης\">ΑΘΑΝΑΣΙΟΣ ΤΣΑΥΤΑΡΗΣ</a>".
+<http://legislation.di.uoa.gr/law/2013/4171> <http://purl.org/dc/terms/title> "Κύρωση του Mνημονίου Κατανόησης μεταξύ της Κυβέρνησης της Ελληνικής Δημοκρατίας και της Κυβέρνησης της Δημοκρατίας της Τουρκίας για συνεργασία στον τομέα της γεωργίας και άλλες διατάξεις. "@el.
+<http://legislation.di.uoa.gr/law/2013/4171/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4171> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4171/article/1>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4171/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4171/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνεται και έχει την ισχύ, που ορίζει το άρθρο 28 παρ. 1 του Συντάγματος, το Μνημόνιο Κατανόησης μεταξύ της Κυβέρνησης της Ελληνικής Δημοκρατίας και της Κυβέρνησης της Δημοκρατίας της Τουρκίας για συνεργασία στον τομέα της γεωργίας, που υπογράφηκε στην Κωνσταντινούπολη, στις 4 Μαρτίου 2013, το κείμενο του οποίου σε πρωτότυπο στην ελληνική και αγγλική γλώσσα έχει ως εξής:"@el.
+<http://legislation.di.uoa.gr/law/2013/4171/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4171> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4171/article/2>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4171/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4171/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα προγράμματα συνεργασίας που καταρτίζονται από την «Επιτροπή» του άρθρου 5 του Μνημονίου εγκρίνονται με κοινή απόφαση των αρμοδίων κατά περίπτωση Υπουργών."@el.
+<http://legislation.di.uoa.gr/law/2013/4171/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4171> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4171/article/3>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/3> <http://purl.org/dc/terms/title> "Τροποποίηση διατάξεων του ν. 4015/2011 (Α΄ 210)"@el.
+<http://legislation.di.uoa.gr/law/2013/4171/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4171/article/3/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4171/article/3/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "α) Η παρ. 2 του άρθρου 9 του ν. 4015/2011, αντικαθίσταται, από τότε που ίσχυσε, ως εξής:"@el.
+<http://legislation.di.uoa.gr/law/2013/4171/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/html> "α) Η παρ. 2 του άρθρου 9 του  <a href=\"http://legislation.di.uoa.gr/law/2011/4015\">ν. 4015/2011</a>, αντικαθίσταται, από τότε που ίσχυσε, ως εξής:".
+<http://legislation.di.uoa.gr/law/2013/4171/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4171> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4171/article/4>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4171/article/4/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/4/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4171/article/4/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/4/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και του Μνημονίου που κυρώνεται από την ολοκλήρωση των προϋποθέσεων του άρθρου 8 αυτού."@el.
+<http://legislation.di.uoa.gr/law/2013/4171/article/4/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4171/article/4/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2013/4171/article/4/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως νόμου του Κράτους."@el.

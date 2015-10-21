@@ -1,0 +1,503 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/31> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_31.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/31> <http://purl.org/dc/terms/title> "Α/2013/31".
+<http://legislation.di.uoa.gr/gazette/a/2013/31> <http://purl.org/dc/terms/created> "2013-02-05"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2013/9> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/31>.
+<http://legislation.di.uoa.gr/pd/2013/9> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/9> <http://purl.org/dc/terms/created> "2013-02-05"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/9> <http://legislation.di.uoa.gr/ontology/legislationID> "9"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/9> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2013/9> <http://purl.org/dc/terms/title> "Καθορισμός Εξειδικεύσεων του Σώματος Πληρωμάτων του Πολεμικού Ναυτικού. "@el.
+<http://legislation.di.uoa.gr/pd/2013/9/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/9/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις : α. Της παραγράφου 5 του άρθρου 4 του ν.δ. 445/1974 «Περί ιεραρχίας και προαγωγών των Ανθυπασπιστών και Μονίμων και Εθελοντών Οπλιτών Ενόπλων Δυνάμεων» (ΦΕΚ Α΄ 160), όπως τροποποιήθηκε με την παρ. 2 του άρθρου 1 του ν. 744/1977 (ΦΕΚ Α΄ 318). β. Της παραγράφου 4ε του άρθρου 14 και της παραγράφου 11 του άρθρου 17 του ν. 2292/95 «Οργάνωση και λειτουργία Υπουργείου Εθνικής Άμυνας, διοίκηση και έλεγχος των Ενόπλων Δυνάμεων και άλλες διατάξεις» (ΦΕΚ Α΄ 35). γ. Του άρθρου 90 του «Κώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα», που κυρώθηκε με το άρθρο πρώτο του π.δ. 63/2005 (ΦΕΚ Α΄ 98). δ. Του π.δ. 91/09 (ΦΕΚ Α΄ 117) Τροποποίηση διατάξεων του π.δ. 1338/1981 «Οργανισμός Σχολής Μονίμων Υπαξιωματικών Ναυτικού» (ΦΕΚ Α΄ 334). ε. Της παραγράφου 2 του άρθρου 6 του ν. 2936/2001 «Επαγγελματίες Οπλίτες και άλλες διατάξεις» (ΦΕΚ Α΄ 166) και της παραγράφου 1 του άρθρου 5 του ιδίου νόμου, όπως τροποποιήθηκε από το άρθρο 8 του ν. 3036/2002 «Τροποποίηση διατάξεων στρατολογικής νομοθεσίας, ρύθμιση στρατιωτικών υποχρεώσεων ορισμένων κατηγοριών στρατευσίμων, ανυποτάκτων και οπλιτών, θέματα επαγγελματιών οπλιτών και άλλες διατάξεις» (ΦΕΚ Α΄ 171). "@el.
+<http://legislation.di.uoa.gr/pd/2013/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/citation/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/citation/1> <http://legislation.di.uoa.gr/ontology/html> "Τις διατάξεις : α. Της παραγράφου 5 του άρθρου 4 του  <a href=\"http://legislation.di.uoa.gr/law/1974/445\">ν.δ. 445/1974</a> «Περί ιεραρχίας και προαγωγών των Ανθυπασπιστών και Μονίμων και Εθελοντών Οπλιτών Ενόπλων Δυνάμεων» (ΦΕΚ Α΄ 160), όπως τροποποιήθηκε με την παρ. 2 του άρθρου 1 του  <a href=\"http://legislation.di.uoa.gr/law/1974/445law/1977/744\">ν. 744/1977</a> (ΦΕΚ Α΄ 318). β. Της παραγράφου 4ε του άρθρου 14 και της παραγράφου 11 του άρθρου 17 του  <a href=\"http://legislation.di.uoa.gr/law/1974/445law/1977/744law/95/2292\">ν. 2292/95</a> «Οργάνωση και λειτουργία Υπουργείου Εθνικής Άμυνας, διοίκηση και έλεγχος των Ενόπλων Δυνάμεων και άλλες διατάξεις» (ΦΕΚ Α΄ 35). γ. Του άρθρου 90 του «Κώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα», που κυρώθηκε με το άρθρο πρώτο του  <a href=\"http://legislation.di.uoa.gr/law/1974/445law/1977/744law/95/2292pd/2005/63\">π.δ. 63/2005</a> (ΦΕΚ Α΄ 98). δ. Του  <a href=\"http://legislation.di.uoa.gr/law/1974/445law/1977/744law/95/2292pd/2005/63pd/09/91\">π.δ. 91/09</a> (ΦΕΚ Α΄ 117) Τροποποίηση διατάξεων του  <a href=\"http://legislation.di.uoa.gr/law/1974/445law/1977/744law/95/2292pd/2005/63pd/09/91pd/1981/1338\">π.δ. 1338/1981</a> «Οργανισμός Σχολής Μονίμων Υπαξιωματικών Ναυτικού» (ΦΕΚ Α΄ 334). ε. Της παραγράφου 2 του άρθρου 6 του  <a href=\"http://legislation.di.uoa.gr/law/1974/445law/1977/744law/95/2292pd/2005/63pd/09/91pd/1981/1338law/2001/2936\">ν. 2936/2001</a> «Επαγγελματίες Οπλίτες και άλλες διατάξεις» (ΦΕΚ Α΄ 166) και της παραγράφου 1 του άρθρου 5 του ιδίου νόμου, όπως τροποποιήθηκε από το άρθρο 8 του  <a href=\"http://legislation.di.uoa.gr/law/1974/445law/1977/744law/95/2292pd/2005/63pd/09/91pd/1981/1338law/2001/2936law/2002/3036\">ν. 3036/2002</a> «Τροποποίηση διατάξεων στρατολογικής νομοθεσίας, ρύθμιση στρατιωτικών υποχρεώσεων ορισμένων κατηγοριών στρατευσίμων, ανυποτάκτων και οπλιτών, θέματα επαγγελματιών οπλιτών και άλλες διατάξεις» (ΦΕΚ Α΄ 171). ".
+<http://legislation.di.uoa.gr/pd/2013/9/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/9/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Την αριθμ. 25 από 12 Μαΐου 2008 απόφαση του Ανωτάτου Ναυτικού Συμβουλίου, όπως τροποποιήθηκε με τις αποφάσεις αριθμ. 10 από 19 Ιανουαρίου 2010, αριθμ. 31 από 12 Φεβρουαρίου 2010 και αριθμ. 168 από 30 Σεπ 2011. "@el.
+<http://legislation.di.uoa.gr/pd/2013/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/citation/2>.
+<http://legislation.di.uoa.gr/pd/2013/9/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/9/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Την εισήγηση του Αρχηγού του Γενικού Επιτελείου Ναυτικού από 9 Ιουλίου 2012. "@el.
+<http://legislation.di.uoa.gr/pd/2013/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/citation/3>.
+<http://legislation.di.uoa.gr/pd/2013/9/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/9/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος διατάγματος δεν προκαλείται επιπλέον δαπάνη σε βάρος του κρατικού Προϋπολογισμού. "@el.
+<http://legislation.di.uoa.gr/pd/2013/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/citation/4>.
+<http://legislation.di.uoa.gr/pd/2013/9/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/9/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Την αριθμ. Δ 214/2012 γνωμοδότηση του Συμβουλίου της Επικρατείας, μετά από πρόταση του Υπουργού Εθνικής Άμυνας, αποφασίζουμε :"@el.
+<http://legislation.di.uoa.gr/pd/2013/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/citation/5>.
+<http://legislation.di.uoa.gr/pd/2013/9> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/9/signer/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/9/signer/2>.
+<http://legislation.di.uoa.gr/pd/2013/9/signer/2> <http://xmlns.com/foaf/0.1/name> "ΠΑΝΟΣ ΠΑΝΑΓΙΩΤΟΠΟΥΛΟΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://purl.org/dc/terms/title> "Εξειδικεύσεις Ανθυπασπιστών – Υπαξιωματικών προελεύσεως Σχολής Μονίμων Υπαξιωματικών Ναυτικού (ΣΜΥΝ). Καθορίζουμε τις Εξειδικεύσεις των Ανθυπασπιστών και των Υπαξιωματικών του Πολεμικού Ναυτικού που προέρχονται από τη Σχολή Μονίμων Υπαξιωματικών Ναυτικού (ΣΜΥΝ), ως εξής : Α/Α"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> ""@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> ""@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΕΙΔΙΚΟΤΗΤΑ ΔΙΑΧΕΙΡΙΣΤΗΣ (ΔΙΑΧ) ΑΡΜΕΝΙΣΤΗΣ (ΑΡΜ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/4>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> ""@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/5>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/5/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΕΞΕΙΔΙΚΕΥΣΗ ΔΙΑΧΕΙΡΙΣΤΗΣ ΥΛΙΚΟΥ (Δ/ΥΛ) ΔΙΑΧΕΙΡΙΣΤΗΣ ΛΟΓΙΣΤΙΚΟΥ (Δ/ΛΟΓ) ΠΛΟΗΓΟΣ (ΑΡΜ/ΠΛ) ΡΑΔΙΟΕΝΤΟΠΙΣΤΗΣ (Ρ/Ε) ΕΠΙΧΕΙΡΗΣΕΩΝ/ ΕΠΙΚΟΙΝΩΝΙΩΝ (ΕΕ) ΠΛΗΡΟΦΟΡΙΚΩΝ & ΕΠΙΚΟΙΝΩΝΙΑΚΩΝ ΣΥΣΤΗΜΑΤΩΝ (ΠΕΣ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/6>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/6/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΣΗΜΑΤΩΡΟΣ (ΣΗΜ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/7>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/7/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΥΡΟΒΟΛΩΝ (Τ/ΠΒ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/8>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/8/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/8/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/8/passage/1> <http://legislation.di.uoa.gr/ontology/text> ""@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/9>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/9/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/9/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/9/passage/1> <http://legislation.di.uoa.gr/ontology/text> ""@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/10>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/10/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/10/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/10/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΤΕΧΝΙΚΟΣ ΟΠΛΩΝ (Τ/ΟΠΛ) ΠΥΡΟΜΑΧΙΚΩΝ (Τ/ΠΜ) ΝΑΡΚΩΝ (Τ/Ν) ΤΟΡΠΙΛΩΝ (Τ/Τ) Α/Α ΕΙΔΙΚΟΤΗΤΑ ΕΞΕΙΔΙΚΕΥΣΗ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/11>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/11/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/11/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/11/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΗΛΕΚΤΡΟΛΟΓΟΣ (Η/Λ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/12>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/12/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/12/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/12/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΤΕΧΝΙΚΟΣ ΜΗΧΑΝΟΛΟΓΙΚΩΝ ΣΥΣΤΗΜΑ- ΜΗΧΑΝΙΚΟΣ ΜΕΚ (ΜΗΧ) ΤΩΝ (Τ/ΜΗΧ) ΜΗΧΑΝΙΚΟΣ ΨΥΚΤΙΚΩΝ ΣΥΣΤΗΜΑΤΩΝ (Τ/ΨΥΚΤ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/13>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/13/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/13/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/13/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΑΝΕΥ ΕΞΕΙΔΙΚΕΥΣΕΩΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/14>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/14/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/14> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/14/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/14/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΗΛΕΚΤΡΟΝΙΚΟΣ ΑΝΘΥΠΟΒΡΥΧΙΑΚΩΝ ΣΥΣΚΕΥΩΝ (ΗΝ/ΑΥ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/15>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/15/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/15> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/15/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/15/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΗΛΕΚΤΡΟΝΙΚΟΣ ΑΥΤΟΜΑΤΩΝ ΣΥΣΤΗΜΑΤΩΝ (ΗΝ/ΑΣ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/16>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/16/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/16> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/16/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/16/passage/1> <http://legislation.di.uoa.gr/ontology/text> ""@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/17>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/17/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/17> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/17/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/17/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΤΕΧΝΙΚΟΣ ΗΛΕΚΤΡΟΝΙΚΩΝ ΣΥΣΤΗΜΑΤΩΝ ΗΛΕΚΤΡΟΝΙΚΟΣ ΣΥΣΤΗΜΑΤΩΝ ΔΙΕΥΘΥΝΣΕΩΣ ΒΟΛΗΣ (ΗΝ/ΔΒ) (Τ/ΗΝ) ΗΛΕΚΤΡΟΝΙΚΟΣ ΡΑΔΙΟΕΝΤΟΠΙΣΤΙΚΩΝ ΣΥΣΚΕΥΩΝ (ΗΝ/ΡΕ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/18>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/18/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/18/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/18/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΗΛΕΚΤΡΟΝΙΚΟΣ ΣΥΣΤΗΜΑΤΩΝ ΣΥΝΕΝΝΟΗΣΕΩΣ (ΗΝ/ΣΝ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/19>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/19/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/19> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/19/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/19/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΗΛΕΚΤΡΟΝΙΚΟΣ ΥΦΑΛΩΝ ΟΠΛΩΝ (ΗΝ/ΥΟ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/20>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/20/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/20/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/1/paragraph/20/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΗΛΕΚΤΡΟΝΙΚΟΣ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΔΙΚΤΥΑΝΕΥ ΕΞΕΙΔΙΚΕΥΣΕΩΣ ΩΝ (ΗΝ/ΥΔ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://purl.org/dc/terms/title> "Εξειδικεύσεις Ανθυπασπιστών – Υπαξιωματικών προελεύσεως εκτός Σχολής Μονίμων Υπαξιωματικών Ναυτικού (ΣΜΥΝ). Καθορίζουμε τις Εξειδικεύσεις των Ανθυπασπιστών και των Υπαξιωματικών του Πολεμικού Ναυτικού που δεν προέρχονται από τη Σχολή Μονίμων Υπαξιωματικών Ναυτικού (ΣΜΥΝ), ως εξής : Α/Α ΕΙΔΙΚΟΤΗΤΑ ΕΞΕΙΔΙΚΕΥΣΗ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΓΡΑΜΜΑΤΕΑΣ (ΓΡΑΜ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΒΙΒΛΙΟΘΗΚΑΡΙΟΣ (ΒΙΒΛ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΘΑΛΑΜΗΠΟΛΟΣ (ΘΑΛ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/4>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΔΙΟΙΚΗΤΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ (Δ/ΥΠ) ΡΑΦΤΗΣ (ΡΑΦ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/5>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/5/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΚΟΥΡΕΑΣ (ΚΟΥΡ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/6>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/6/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΣΥΝΤΗΡΗΤΗΣ ΕΞΩΤΕΡΙΚΩΝ ΧΩΡΩΝ (Σ/ΕΞΧ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/7>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/7/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΤΕΧΝΟΛΟΓΟΣ ΤΡΟΦΙΜΩΝ (Τ/ΤΡΟΦ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/8>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/8/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/8/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/8/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΕΣΧΑΡΕΑΣ (ΕΣΧ) ΑΝΕΥ ΕΞΕΙΔΙΚΕΥΣΕΩΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/9>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/9/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/9/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/9/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΜΟΥΣΙΚΟΣ (ΜΟΥΣ) ΑΝΕΥ ΕΞΕΙΔΙΚΕΥΣΕΩΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/10>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/10/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/10/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/10/passage/1> <http://legislation.di.uoa.gr/ontology/text> ""@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/11>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/11/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/11/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/11/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΔΙΑΧΕΙΡΙΣΤΗΣ (ΔΙΑΧ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/12>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/12/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/12/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/12/passage/1> <http://legislation.di.uoa.gr/ontology/text> ""@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/13>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/13/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/13/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/13/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΔΙΑΧΕΙΡΙΣΤΗΣ ΥΛΙΚΟΥ (Δ/ΥΛ) ΔΙΑΧΕΙΡΙΣΤΗΣ ΛΟΓΙΣΤΙΚΟΥ (Δ/ΛΟΓ) ΦΑΡΟΦΥΛΑΚΑΣ (ΦΑΡ) ΑΡΜΕΝΙΣΤΗΣ (ΑΡΜ) ΧΑΡΤΟΓΡΑΦΟΣ (ΧΑΡΤ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/14>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/14/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/14> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/14/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/14/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΥΔΡΟΓΡΑΦΟΣ (ΥΔΡ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/15>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/15/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/15> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/15/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/15/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΡΑΔΙΟΕΝΤΟΠΙΣΤΗΣ (Ρ/Ε)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/16>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/16/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/16> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/16/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/16/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΕΠΙΧΕΙΡΗΣΕΩΝ/ ΕΠΙΚΟΙΝΩΝΙΩΝ (ΕΕ) ΠΛΗΡΟΦΟΡΙΚΩΝ & ΕΠΙΚΟΙΝΩΝΙΑΚΩΝ ΣΥΣΤΗΜΑΤΩΝ (ΠΕΣ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/17>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/17/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/17> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/17/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/17/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΣΗΜΑΤΩΡΟΣ (ΣΗΜ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/18>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/18/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/18/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/18/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΥΡΟΒΟΛΩΝ (Τ/ΠΒ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/19>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/19/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/19> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/19/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/19/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΥΡΟΜΑΧΙΚΩΝ (Τ/ΠΜ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/20>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/20/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/20/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/20/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΤΕΧΝΙΚΟΣ ΟΠΛΩΝ (Τ/ΟΠΛ) ΝΑΡΚΩΝ (Τ/Ν)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/21>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/21/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/21> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/21/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/21/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΤΟΡΠΙΛΩΝ (Τ/Τ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/22>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/22/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/22/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/22/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΟΠΤΙΚΩΝ ΟΡΓΑΝΩΝ (Τ/ΟΟ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/23>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/23/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/23> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/23/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/23/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΗΛΕΚΤΡΟΛΟΓΟΣ (Η/Λ) ΑΝΕΥ ΕΞΕΙΔΙΚΕΥΣΕΩΣ   Α/Α ΕΙΔΙΚΟΤΗΤΑ ΕΞΕΙΔΙΚΕΥΣΗ ΕΦΑΡΜΟΣΤΗΣ (ΕΦ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/24>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/24/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/24> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/24/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/24/passage/1> <http://legislation.di.uoa.gr/ontology/text> ""@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/25>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/25/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/25> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/25/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/25/passage/1> <http://legislation.di.uoa.gr/ontology/text> ""@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/26>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/26/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/26> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/26/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/26/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΤΕΧΝΙΚΟΣ ΜΗΧΑΝΟΛΟΓΙΚΩΝ ΜΗΧΑΝΙΚΟΣ ΜΕΚ (ΜΗΧ) ΣΥΣΤΗΜΑΤΩΝ (Τ/ΜΗΧ) ΜΗΧΑΝΙΚΟΣ ΟΧΗΜΑΤΩΝ (Μ/ΟΧ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/27>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/27/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/27> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/27/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/27/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΜΗΧΑΝΙΚΟΣ ΨΥΚΤΙΚΩΝ ΣΥΣΤΗΜΑΤΩΝ (Μ/ΨΥΚΤ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/28>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/28/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/28> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/28/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/28/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΗΛΕΚΤΡΟΝΙΚΟΣ ΑΝΘΥΠΟΒΡΥΧΙΑΚΩΝ ΣΥΣΚΕΥΩΝ (ΗΝ/ΑΥ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/29>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/29/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/29> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/29/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/29/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΗΛΕΚΤΡΟΝΙΚΟΣ ΑΥΤΟΜΑΤΩΝ ΣΥΣΤΗΜΑΤΩΝ (ΗΝ/ΑΣ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/30>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/30/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/30> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/30/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/30/passage/1> <http://legislation.di.uoa.gr/ontology/text> ""@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/31>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/31/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/31> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/31/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/31/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΤΕΧΝΙΚΟΣ ΗΛΕΚΤΡΟΝΙΚΩΝ ΣΥΣΤΗΜΑΤΩΝ ΗΛΕΚΤΡΟΝΙΚΟΣ ΣΥΣΤΗΜΑΤΩΝ ΔΙΕΥΘΥΝΣΕΩΣ ΒΟΛΗΣ (ΗΝ/ΔΒ) (Τ/ΗΝ) ΗΛΕΚΤΡΟΝΙΚΟΣ ΡΑΔΙΟΕΝΤΟΠΙΣΤΙΚΩΝ ΣΥΣΚΕΥΩΝ (ΗΝ/ΡΕ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/32>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/32/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/32> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/32/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/32/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΗΛΕΚΤΡΟΝΙΚΟΣ ΣΥΣΤΗΜΑΤΩΝ ΣΥΝΕΝΝΟΗΣΕΩΣ (ΗΝ/ΣΝ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/33>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/33/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/33> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/33/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/33/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΗΛΕΚΤΡΟΝΙΚΟΣ ΥΦΑΛΩΝ ΟΠΛΩΝ (ΗΝ/ΥΟ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/34>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/34/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/34> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/34/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/34/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΗΛΕΚΤΡΟΝΙΚΟΣ ΔΙΚΤΥΩΝ (ΗΥ/Δ) ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΑΝΕΥ ΕΞΕΙΔΙΚΕΥΣΕΩΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/35>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/35/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/35> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/35/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/35/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΕΛΑΣΜΑΤΟΥΡΓΟΣ / ΛΕΒΗΤΟΠΟΙΟΣ (ΕΛ/ΛΕΒ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/36>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/36/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/36> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/36/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/36/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΣΥΓΚΟΛΛΗΤΗΣ (ΣΥΓΚ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/37>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/37/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/37> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/37/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/37/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΣΙΔΗΡΟΥΡΓΟΣ (ΣΙΔ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/38>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/38/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/38> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/38/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/38/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΜΗΧΑΝΟΥΡΓΟΣ (ΜΗΧΝ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/39>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/39/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/39> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/39/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/39/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΣΩΛΗΝΟΥΡΓΟΣ (ΣΩΛ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/40>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/40/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/40> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/40/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/40/passage/1> <http://legislation.di.uoa.gr/ontology/text> ""@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/41>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/41/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/41> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/41/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/41/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΤΕΧΝΙΚΟΣ ΣΥΝΕΡΓΕΙΩΝ (Τ/ΣΥΝ) ΤΟΡΝΑΔΟΡΟΣ (ΤΟΡΝ) ΧΥΤΗΣ (ΧΥΤ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/42>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/42/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/42> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/42/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/42/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΛΕΜΒΟΥΡΓΟΣ (ΛΕΜΒ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/43>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/43/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/43> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/43/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/43/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΞΥΛΟΥΡΓΟΣ (ΞΥΛ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/44>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/44/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/44> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/44/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/44/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΜΕΤΑΦΟΡΕΑΣ ΒΑΡΕΩΝ ΑΝΤΙΚΕΙΜΕΝΩΝ (ΜΒΑ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/45>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/45/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/45> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/45/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/45/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΔΕΞΑΜΕΝΙΣΤΗΣ (ΔΕΞ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/46>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/46/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/46> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/46/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/46/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΧΗΜΙΚΟΣ ΝΑΥΤΙΛΙΑΣ (Χ/ΝΑΥΤ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/47>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/47/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/47> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/47/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/47/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΣΧΕΔΙΑΣΤΗΣ (ΣΧΕΔ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/48>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/48/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/48> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/48/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/48/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΒΟΗΘΟΣ ΑΚΤΙΝΟΛΟΓΙΚΩΝ ΕΡΓΑΣΤΗΡΙΩΝ ΑΝΕΥ ΕΞΕΙΔΙΚΕΥΣΕΩΣ (Β/ΑΚΤ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/49>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/49/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/49> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/49/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/49/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΒΟΗΘΟΣ ΕΡΓΑΣΤΗΡΙΟΥ ΡΑΔΙΟΙΣΟΤΟΠΩΝ ΑΝΕΥ ΕΞΕΙΔΙΚΕΥΣΕΩΣ (Β/ΡΑΔ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/50>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/50/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/50> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/50/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/50/passage/1> <http://legislation.di.uoa.gr/ontology/text> ""@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/51>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/51/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/51> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/51/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/51/passage/1> <http://legislation.di.uoa.gr/ontology/text> ""@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/52>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/52/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/52> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/52/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/52/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΡΟΤΥΠΟΠΟΙΟΣ (ΠΡΟΤ) ΒΟΗΘΟΣ ΝΟΣΗΛΕΥΤΙΚΗΣ (Β/ΝΟΣ) ΒΟΗΘΟΣ ΦΑΡΜΑΚΕΙΟΥ (Β/ΦΑΡ) ΧΕΙΡΟΥΡΓΕΙΟΥ (ΧΕΙΡ) ΑΝΕΥ ΕΞΕΙΔΙΚΕΥΣΕΩΣ ΒΟΗΘΟΣ ΚΥΤΤΑΡΟΛΟΓΙΚΟΥ ΕΡΓΑΣΤΗΡΙΟΥ (Β/ΚΥΤ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/53>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/53/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/53> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/53/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/53/passage/1> <http://legislation.di.uoa.gr/ontology/text> ""@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/54>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/54/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/54> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/54/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/54/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΑΝΑΙΣΘΗΣΙΟΛΟΓΙΑΣ (ΑΝΑΙ) ΒΟΗΘΟΣ ΙΑΤΡΙΚΩΝ ΕΡΓΑΣΤΗΡΙΩΝ (Β/ΕΡΓ) & ΒΙΟΛΟΓΙΚΩΝ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/55>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/55/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/55> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/55/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/55/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΒΟΗΘΟΣ ΜΙΚΡΟΒΙΟΛΟΓΙΚΟΥ ΕΡΓΑΣΤΗΡΙΟΥ (Β/ΜΙΚ) ΒΟΗΘΟΣ ΠΑΘΟΛΟΓΟΑΝΑΤΟΜΙΚΟΥ ΕΡΓΑΣΤΗΡΙΟΥ (Β/ΠΑΘ)"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/56>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/56/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/56> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/56/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/56/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΕΡΓΟΘΕΡΑΠΕΥΤΗΣ (ΕΡΓ/Θ) ΑΝΕΥ ΕΞΕΙΔΙΚΕΥΣΕΩΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/57>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/57/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/57> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/57/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/57/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΛΟΓΟΘΕΡΑΠΕΥΤΗΣ (ΛΟΓ/Θ) ΑΝΕΥ ΕΞΕΙΔΙΚΕΥΣΕΩΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/58>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/58/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/58> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/58/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/58/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΦΥΣΙΚΟΘΕΡΑΠΕΥΤΗΣ (ΦΥΣ/Θ) ΑΝΕΥ ΕΞΕΙΔΙΚΕΥΣΕΩΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/59>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/59/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/59> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/59/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/59/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΒΡΕΦΟΝΗΠΙΟΚΟΜΟΣ (ΒΡΕΦ) ΑΝΕΥ ΕΞΕΙΔΙΚΕΥΣΕΩΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/60>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/60/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/60> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/60/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/2/paragraph/60/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΚΟΙΝΩΝΙΚΟΣ ΛΕΙΤΟΥΡΓΟΣ (Κ/ΛΕΙΤ) ΑΝΕΥ ΕΞΕΙΔΙΚΕΥΣΕΩΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/3>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΦΡΟΥΡΟΣ ΦΥΛΑΞΗΣ ΝΑΥΤΙΚΩΝ ΕΓΚΑΤΑΣΤΑΣΕΩΝ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΛΗΡΩΜΑ ΑΣΘΕΝΟΦΟΡΟΥ - ΔΙΑΣΩΣΤΗΣ ΥΓΕΙΟΝΟΜΙΚΟΥ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/3>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΠΥΡΟΣΒΕΣΤΗΣ - ΔΙΑΣΩΣΤΗΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/4>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΔΥΤΗΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/5>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/5/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΟΔΗΓΟΣ ΟΛΩΝ ΤΩΝ ΤΥΠΩΝ ΟΧΗΜΑΤΩΝ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/6>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/6/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΟΔΗΓΟΣ ΧΕΙΡΙΣΤΗΣ ΑΝΥΨΩΤΙΚΩΝ ΜΗΧΑΝΗΜΑΤΩΝ – ΓΕΡΑΝΟΦΟΡΩΝ ΟΧΗΜΑΤΩΝ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/7>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/7/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΤΕΧΝΙΤΗΣ ΦΑΡΩΝ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/8>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/8/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/8/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/8/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΦΑΡΟΦΥΛΑΚΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/9>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/9/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/9/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/3/paragraph/9/passage/1> <http://legislation.di.uoa.gr/ontology/text> "ΤΡΑΥΜΑΤΙΟΦΟΡΕΑΣ Οι ως άνω εξειδικεύσεις χορηγούνται σε ΕΠ.ΟΠ. οποιασδήποτε ειδικότητας και εξειδίκευσης υπό τον τελικό έλεγχο του ΓΕΝ/Β3 και υπό την προϋπόθεση ότι στην αρχικώς χορηγούμενη ειδικότητα ή εξειδίκευση υπάρχει πλεονάζον προσωπικό, η δε Υπηρεσία μπορεί να αξιοποιήσει οποιαδήποτε από τις χορηγούμενες εξειδικεύσεις, ανάλογα με τις ανάγκες της."@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/4>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/4> <http://purl.org/dc/terms/title> "Ρυθμιστικές Διατάξεις."@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/4/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/4/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/4/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/4/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Με Προεδρικό Διάταγμα, να καθορισθεί η αντιστοίχιση μεταξύ των παλαιών και νέων Ειδικοτήτων / Εξειδικεύσεων."@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/5>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/5> <http://purl.org/dc/terms/title> "Έναρξη Ισχύος."@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/5/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/5/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/5/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/5/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως."@el.
+<http://legislation.di.uoa.gr/pd/2013/9/article/5/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/9/article/5/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/9/article/5/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Εθνικής Άμυνας αναθέτουμε τη δημοσίευση και εκτέλεση του παρόντος Προεδρικού Διατάγματος."@el.

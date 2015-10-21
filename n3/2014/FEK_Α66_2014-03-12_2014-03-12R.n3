@@ -1,8 +1,0 @@
-<http://legislation.di.uoa.gr/law/2014/2/2014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
-<http://legislation.di.uoa.gr/law/2014/2/2014> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2014/66>.
-<http://legislation.di.uoa.gr/gazette/a/2014/66> <http://purl.org/dc/terms/title> "Α/2014/66".
-<http://legislation.di.uoa.gr/law/2014/2/2014> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/law/2014/2/2014> <http://purl.org/dc/terms/created> "2014-03-12"^^<http://www.w3.org/2001/XMLSchema#date>.
-<http://legislation.di.uoa.gr/law/2014/2/2014> <http://legislation.di.uoa.gr/ontology/legislationID> "2/2014"^^<http://www.w3.org/2001/XMLSchema#integer>.
-<http://legislation.di.uoa.gr/law/2014/2/2014> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
-

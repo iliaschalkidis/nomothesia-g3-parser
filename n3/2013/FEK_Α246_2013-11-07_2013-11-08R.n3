@@ -1,0 +1,46 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/246> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_246.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/246> <http://purl.org/dc/terms/title> "Α/2013/246".
+<http://legislation.di.uoa.gr/gazette/a/2013/246> <http://purl.org/dc/terms/created> "2013-11-07"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2013/4206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2013/4206> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/246>.
+<http://legislation.di.uoa.gr/law/2013/4206> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2013/4206> <http://purl.org/dc/terms/created> "2013-11-07"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2013/4206> <http://legislation.di.uoa.gr/ontology/legislationID> "4206"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2013/4206> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/law/2013/4206> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4206/signer/1>.
+<http://legislation.di.uoa.gr/law/2013/4206/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4206> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4206/signer/2>.
+<http://legislation.di.uoa.gr/law/2013/4206/signer/2> <http://xmlns.com/foaf/0.1/name> "ΑΝΤΩΝΗΣ Κ. ΣΑΜΑΡΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4206> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4206/signer/3>.
+<http://legislation.di.uoa.gr/law/2013/4206/signer/3> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4206> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4206/signer/4>.
+<http://legislation.di.uoa.gr/law/2013/4206/signer/4> <http://xmlns.com/foaf/0.1/name> "ΙΩΑΝΝΗΣ ΣΤΟΥΡΝΑΡΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4206> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4206/signer/5>.
+<http://legislation.di.uoa.gr/law/2013/4206/signer/5> <http://xmlns.com/foaf/0.1/name> "ΧΑΡΑΛΑΜΠΟΣ ΑΘΑΝΑΣΙΟΥ"@el.
+<http://legislation.di.uoa.gr/law/2013/4206/signer/5> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Χαράλαμπος_Αθανασίου\">ΧΑΡΑΛΑΜΠΟΣ ΑΘΑΝΑΣΙΟΥ</a>".
+<http://legislation.di.uoa.gr/law/2013/4206> <http://purl.org/dc/terms/title> "Κύρωση της από 28 Ιουνίου 2013 Πράξης Νομοθετικού Περιεχομένου «Παράταση προθεσμίας υποβολής δήλωσης περιουσιακής κατάστασης υποχρέων του ν. 3213/2003» (Α΄ 154). "@el.
+<http://legislation.di.uoa.gr/law/2013/4206/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4206> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4206/article/1>.
+<http://legislation.di.uoa.gr/law/2013/4206/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4206/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4206/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4206/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4206/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4206/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4206/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνεται και έχει ισχύ νόμου από τη δημοσίευσή της στην Εφημερίδα της Κυβερνήσεως, η από 28 Ιουνίου 2013 Πράξη Νομοθετικού Περιεχομένου «Παράταση προθεσμίας υποβολής δήλωσης περιουσιακής κατάστασης υποχρέων του ν. 3213/2003», που δημοσιεύθηκε στο υπ’ αριθμόν 154 Φύλλο της Εφημερίδας της Κυβερνήσεως (Τεύχος Α΄) και έχει ως εξής:"@el.
+<http://legislation.di.uoa.gr/law/2013/4206/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/html> "Κυρώνεται και έχει ισχύ νόμου από τη δημοσίευσή της στην Εφημερίδα της Κυβερνήσεως, η από 28 Ιουνίου 2013 Πράξη Νομοθετικού Περιεχομένου «Παράταση προθεσμίας υποβολής δήλωσης περιουσιακής κατάστασης υποχρέων του  <a href=\"http://legislation.di.uoa.gr/law/2003/3213\">ν. 3213/2003</a>», που δημοσιεύθηκε στο υπ’ αριθμόν 154 Φύλλο της Εφημερίδας της Κυβερνήσεως (Τεύχος Α΄) και έχει ως εξής:".
+<http://legislation.di.uoa.gr/law/2013/4206/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4206> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4206/article/2>.
+<http://legislation.di.uoa.gr/law/2013/4206/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4206/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4206/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4206/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4206/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4206/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4206/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η προθεσμία υποβολής της δήλωσης της παραγράφου 2 του άρθρου 1 του ν. 3213/2003 από τους υπόχρεους σε δήλωση της παραγράφου 1 του άρθρου 1 του παραπάνω νόμου, ειδικά για το οικονομικό έτος 2013 (χρήση 2012) παρατείνεται μέχρι τις 30 Σεπτεμβρίου 2013."@el.
+<http://legislation.di.uoa.gr/law/2013/4206/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/html> "Η προθεσμία υποβολής της δήλωσης της παραγράφου 2 του άρθρου 1 του  <a href=\"http://legislation.di.uoa.gr/law/2003/3213\">ν. 3213/2003</a> από τους υπόχρεους σε δήλωση της παραγράφου 1 του άρθρου 1 του παραπάνω νόμου, ειδικά για το οικονομικό έτος 2013 (χρήση 2012) παρατείνεται μέχρι τις 30 Σεπτεμβρίου 2013.".
+<http://legislation.di.uoa.gr/law/2013/4206/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4206> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4206/article/3>.
+<http://legislation.di.uoa.gr/law/2013/4206/article/3> <http://purl.org/dc/terms/title> "Έναρξη Ισχύος"@el.
+<http://legislation.di.uoa.gr/law/2013/4206/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4206/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4206/article/3/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4206/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4206/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4206/article/3/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4206/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς της παρούσας, η οποία θα κυρωθεί νομοθετικά κατά το άρθρο 44 παράγραφος 1 του Συντάγματος, αρχίζει από τη δημοσίευσή της στην Εφημερίδα της Κυβερνήσεως."@el.

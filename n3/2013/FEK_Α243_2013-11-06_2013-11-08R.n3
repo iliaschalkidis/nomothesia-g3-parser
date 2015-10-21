@@ -1,0 +1,37 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/243> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_243.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/243> <http://purl.org/dc/terms/title> "Α/2013/243".
+<http://legislation.di.uoa.gr/gazette/a/2013/243> <http://purl.org/dc/terms/created> "2013-11-06"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/rp/2013/240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/RegulatoryProvision>.
+<http://legislation.di.uoa.gr/rp/2013/240> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/243>.
+<http://legislation.di.uoa.gr/rp/2013/240> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/rp/2013/240> <http://purl.org/dc/terms/created> "2013-11-06"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/rp/2013/240> <http://legislation.di.uoa.gr/ontology/legislationID> "240"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/rp/2013/240> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/rp/2013/240> <http://purl.org/dc/terms/title> "Τροποποίηση και αντικατάσταση του Κανονισμού 211/2010 περί λειτουργίας της Εκκλησιαστικής Κεντρικής Υπηρεσίας Οικονομικών.   "@el.
+<http://legislation.di.uoa.gr/rp/2013/240/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/240/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τας διατάξεις των άρθρων 3 παρ. 1, 13 του Συντάγματος. "@el.
+<http://legislation.di.uoa.gr/rp/2013/240> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/240/citation/1>.
+<http://legislation.di.uoa.gr/rp/2013/240/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/240/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Τας διατάξεις των άρθρων 1 παρ. 4, 3, 4 περ. ε, 9, 36 παρ. 6, 42, 46 παρ. 2 και 47 παρ. 2 του ν. 590/1977 «Περί του Καταστατικού Χάρτου της Εκκλησίας της Ελλάδος» (Φ.Ε.Κ. Α΄ 146). "@el.
+<http://legislation.di.uoa.gr/rp/2013/240> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/240/citation/2>.
+<http://legislation.di.uoa.gr/rp/2013/240/citation/2> <http://legislation.di.uoa.gr/ontology/html> "Τας διατάξεις των άρθρων 1 παρ. 4, 3, 4 περ. ε, 9, 36 παρ. 6, 42, 46 παρ. 2 και 47 παρ. 2 του  <a href=\"http://legislation.di.uoa.gr/law/1977/590\">ν. 590/1977</a> «Περί του Καταστατικού Χάρτου της Εκκλησίας της Ελλάδος» (Φ.Ε.Κ. Α΄ 146). ".
+<http://legislation.di.uoa.gr/rp/2013/240/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/240/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Τας διατάξεις του άρθρου 3 του ν. 1811/1988 (Φ.Ε.Κ. Α΄ 231). "@el.
+<http://legislation.di.uoa.gr/rp/2013/240> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/240/citation/3>.
+<http://legislation.di.uoa.gr/rp/2013/240/citation/3> <http://legislation.di.uoa.gr/ontology/html> "Τας διατάξεις του άρθρου 3 του  <a href=\"http://legislation.di.uoa.gr/law/1988/1811\">ν. 1811/1988</a> (Φ.Ε.Κ. Α΄ 231). ".
+<http://legislation.di.uoa.gr/rp/2013/240/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/240/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Την διάταξιν του άρθρου 1 παρ. 2 του υπ’ αριθμ. 3/1977 Κανονισμού της Εκκλησίας της Ελλάδος «Περί αρμοδιοτήτων, συνθέσεως και λειτουργίας του Ανωτάτου Υπηρεσιακού Συμβουλίου της Εκκλησίας της Ελλάδος» (Α΄ 273). "@el.
+<http://legislation.di.uoa.gr/rp/2013/240> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/240/citation/4>.
+<http://legislation.di.uoa.gr/rp/2013/240/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/240/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Την ανάγκην συμπληρώσεως και τροποποιήσεως διατάξεων τινων του υπ’ αριθμ. 211/2010 Κανονισμού επί σκοπώ βελτιώσεως των δομών της Εκκλησιαστικής Κεντρικής Υπηρεσίας Οικονομικών. "@el.
+<http://legislation.di.uoa.gr/rp/2013/240> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/240/citation/5>.
+<http://legislation.di.uoa.gr/rp/2013/240/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/240/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Την από ΙΒ΄/03/07.12.2011 πρότασιν της Δ.Ε. της Ε.Κ.Υ.Ο. "@el.
+<http://legislation.di.uoa.gr/rp/2013/240> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/240/citation/6>.
+<http://legislation.di.uoa.gr/rp/2013/240/citation/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/240/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Την από 8ης Δεκεμβρίου 2011 απόφασιν της Δ.Ι.Σ., ψηφίζει: Τον υπ’ αριθμ. 240 Κανονισμόν "@el.
+<http://legislation.di.uoa.gr/rp/2013/240> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/240/citation/7>.
+<http://legislation.di.uoa.gr/rp/2013/240> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/240/issue/1>.
+<http://legislation.di.uoa.gr/rp/2013/240/issue/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/ParsingIssue>.
+<http://legislation.di.uoa.gr/rp/2013/240/issue/1> <http://legislation.di.uoa.gr/ontology/text> "Δεν αναγνωρίστηκαν οι υπογραφόντες."@el.

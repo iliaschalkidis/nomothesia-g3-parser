@@ -1,0 +1,169 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/19> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_19.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/19> <http://purl.org/dc/terms/title> "Α/2013/19".
+<http://legislation.di.uoa.gr/gazette/a/2013/19> <http://purl.org/dc/terms/created> "2013-01-25"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/ActOfMinisterialCabinet>.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/19>.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://purl.org/dc/terms/created> "2013-01-25"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://legislation.di.uoa.gr/ontology/legislationID> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://purl.org/dc/terms/title> "Σύσταση και συγκρότηση Ομάδας Συντονισμού Έργου με την ονομασία «Επιχειρησιακή Συντονιστική Επιτροπή» για την υλοποίηση, παρακολούθηση και συντονισμό των δράσεων της Εθνικής Στρατηγικής για τη Διευκόλυνση του Εξωτερικού Εμπορίου.  "@el.
+<http://legislation.di.uoa.gr/amc/2013/2/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/amc/2013/2/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις των άρθρων 15 παρ. 2 εδ.γ και 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα, ο οποίος κυρώθηκε με το άρθρο πρώτο του π.δ. 63/2005 «Κωδικοποίηση της νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά όργανα» (Α΄ 98). "@el.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/citation/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/citation/1> <http://legislation.di.uoa.gr/ontology/html> "Τις διατάξεις των άρθρων 15 παρ. 2 εδ.γ και 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά Όργανα, ο οποίος κυρώθηκε με το άρθρο πρώτο του  <a href=\"http://legislation.di.uoa.gr/pd/2005/63\">π.δ. 63/2005</a> «Κωδικοποίηση της νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά όργανα» (Α΄ 98). ".
+<http://legislation.di.uoa.gr/amc/2013/2/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/amc/2013/2/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθμ. Υ216/2012 απόφαση του Πρωθυπουργού για τη Σύσταση Μικτής Επιτροπής με την ονομασία «Συντονιστική Επιτροπή Εξωστρέφειας» για τον συντονισμό των διεθνών δράσεων της Ελλάδας και τη προώθηση της εξωστρέφειας της Ελληνικής Οικονομίας (Β΄ 3190). "@el.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/citation/2>.
+<http://legislation.di.uoa.gr/amc/2013/2/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/amc/2013/2/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Την ανάγκη άμεσης προώθησης και εφαρμογής της Εθνικής Στρατηγικής Εξαγωγών που ως στόχο έχει τη διεύρυνση της εξαγωγικής βάσης, την προώθηση των εξαγωγών και τη διευκόλυνση των διαδικασιών για την πραγματοποίησή τους, όπως αυτή έχει αποτυπωθεί και περιγράφεται στην Εθνική Στρατηγική και Οδικό Χάρτη για τη Διευκόλυνση του Εξωτερικού Εμπορίου. "@el.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/citation/3>.
+<http://legislation.di.uoa.gr/amc/2013/2/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/amc/2013/2/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από την παρούσα πράξη προκαλείται δαπάνη που θα καλυφθεί από τις πιστώσεις του Προϋπολογισμού Δημοσίων Επενδύσεων (ΣΑΕ 19/8) και υπολογίζεται κατά ανώτατο όριο σε ποσό δύο εκατομμυρίων πεντακοσίων χιλιάδων ευρώ (€2.500.000,00), "@el.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/citation/4>.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/issue/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/issue/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/ParsingIssue>.
+<http://legislation.di.uoa.gr/amc/2013/2/issue/1> <http://legislation.di.uoa.gr/ontology/text> "Δεν αναγνωρίστηκαν οι υπογραφόντες."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/1> <http://purl.org/dc/terms/title> "Σύσταση Επιχειρησιακής Συντονιστικής Επιτροπής"@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Συστήνουμε - Συγκροτούμε Ομάδα Συντονισμού Έργου με την ονομασία"@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/2>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/2> <http://purl.org/dc/terms/title> "Σύγκληση"@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η Επιτροπή συγκαλείται από το Συντονιστή ή τον Αναπληρωτή του, ο οποίος και καθορίζει τα θέματα προς συζήτηση, και συνεδριάζει τακτικά μια φορά ανά δύο (2) εβδομάδες και εκτάκτως όποτε χρειαστεί."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ο Συντονιστής ή ο Αναπληρωτής του δύναται να προσκαλεί στις συνεδριάσεις της Επιτροπής υπηρεσιακούς παράγοντες, εκπροσώπους του δημοσίου τομέα, ιδιώτες εμπειρογνώμονες, καθώς και οποιονδήποτε άλλο θεωρηθεί ότι θα συμβάλει στη λειτουργία της, όπως εκπροσώπους άλλων χωρών και στελέχη της Ευρωπαϊκής Επιτροπής ή διεθνών οργανισμών και φορέων."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/3>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3> <http://purl.org/dc/terms/title> "Αρμοδιότητες"@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η Επιτροπή είναι αρμόδια για:"@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/2>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/2> <http://legislation.di.uoa.gr/ontology/text> "Το συντονισμό των δράσεων που εντάσσονται στηνΕθνική Στρατηγική και στον Οδικό Χάρτη για τη Διευκόλυνση του Εξωτερικού Εμπορίου."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/3>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/3> <http://legislation.di.uoa.gr/ontology/text> "Τη λεπτομερή ανάλυση του Οδικού Χάρτη του Έργου και ειδικές δράσεις, σχέδια εργασίας για τον καθορισμό/προσαρμογή συγκεκριμένων χρονοδιαγραμμάτων,ορόσημων και παραδοτέων."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/4>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/4> <http://legislation.di.uoa.gr/ontology/text> "Την υποβολή προτάσεων για την αναγκαία διαδικασία, οργανωτικές και νομοθετικές αλλαγές."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/5>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/5> <http://legislation.di.uoa.gr/ontology/text> "Τη στενή συνεργασία με άλλα ιδρύματα, υπηρεσίες,φορείς στο δημόσιο ή ιδιωτικό τομέα, και διαβούλευσημε τους παραγωγικούς και κοινωνικούς φορείς της χώρας για θέματα διευκόλυνσης του εξωτερικού εμπορίουτης χώρας. Επίσης, τη συνεχή συνεργασία με διεθνείςεμπειρογνώμονες (Ευρωπαϊκή Επιτροπή, Οικονομική Επιτροπή για την Ευρώπη των Ηνωμένων Εθνών UNECE,εξωτερικούς συμβούλους, κ.λπ.)."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/6>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/6> <http://legislation.di.uoa.gr/ontology/text> "Τη σύσταση, το συντονισμό, την επίβλεψη και τηδιάλυση Ομάδων Εργασίας (μόνιμων ή εκτάκτων) γιατην υποστήριξη των δράσεων του Οδικού Χάρτη. Συγκεκριμένα, η Επιτροπή μπορεί με απόφασή της νασυνιστά υποστηρικτικές Ομάδες Εργασίας, με μόνιμοή μη χαρακτήρα, σε βασικούς τομείς τεχνογνωσίας,προσδιορίζοντας το ακριβές αντικείμενο εργασίας, τοχρονοδιάγραμμα, τα ορόσημα και τα παραδοτέα. Η Επιτροπή ορίζει τον τρόπο οργάνωσης και λειτουργίας τωνυποστηρικτικών ομάδων εργασίας, καθορίζει τους στόχους της και εγκρίνει τα παραδοτέα τους. Η Επιτροπήορίζει μέλη της για την παρακολούθηση, τον έλεγχο καιτην επίβλεψη των ομάδων εργασίας. Σε συνεργασία μετον ιδιωτικό τομέα και άλλες Δημόσιες Υπηρεσίες ορίζειμέλη (και αναπληρωτές, όποτε κρίνεται αναγκαίο), όπωςκαι τους επικεφαλής για κάθε ομάδα εργασίας. Τα μέλητων ομάδων εργασίας που προέρχονται από το στενόή τον ευρύτερο δημόσιο τομέα μπορούν να απασχοληθούν είτε πλήρως και αποκλειστικώς, είτε μερικώς,ανάλογα με την απόφαση της Επιτροπής."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/7>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/7> <http://legislation.di.uoa.gr/ontology/text> "Την υποβολή εισήγησης προς τη Συντονιστική Επιτροπή Εξωστρέφειας για βελτιώσεις, λειτουργικές καιοργανωτικές αναδιαρθρώσεις φορέων και Υπηρεσιώνπου ανήκουν στο στενό και στον ευρύτερο δημόσιοτομέα ή ελέγχονται από το Δημόσιο, περιλαμβανομένων και των Υπουργείων, με σκοπό την πλέον αποτελεσματική και σύμφωνα με τα χρονοδιαγράμματα τουΟδικού Χάρτη προώθηση της εφαρμογής και βελτίωσητης υλοποίησης της εθνικής στρατηγικής εξαγωγών."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/8>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/8> <http://legislation.di.uoa.gr/ontology/text> "Τη λεπτομερή εξειδίκευση του Οδικού Χάρτη καιτων επιμέρους δράσεων, καθώς και τη διαμόρφωσηπροτάσεων προς τη Συντονιστική Επιτροπή Εξωστρέφειας για την λήψη αποφάσεων αναπροσαρμογής δράσεων, χρονοδιαγραμμάτων, ορόσημων, και παραδοτέων,όταν αυτό κρίνεται απαραίτητο."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/9>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/9> <http://legislation.di.uoa.gr/ontology/text> "Τη διασφάλιση της εναρμόνισης ή και της ενσωμάτωσης στη στρατηγική των πιθανών δράσεων άλλωνφορέων με το ίδιο αντικείμενο. Για το σκοπό αυτό, ηΕπιτροπή παρακολουθεί και ενημερώνεται για τις δράσεις και τα έργα των φορέων του στενού και ευρύτερου δημοσίου τομέα, ιδίως σε επίπεδο σχεδιασμού,επισημαίνει τυχόν αποκλίσεις από τις κατευθύνσεις,προτείνει διαρθρωτικές παρεμβάσεις και ενημερώνειτους οικείους φορείς για τις συνέπειες των αποκλίσεων."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/10>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/3/paragraph/1/case/10> <http://legislation.di.uoa.gr/ontology/text> "Την παροχή ενημέρωσης ανά τρίμηνο προς τηΣυντονιστική Επιτροπή Εξωστρέφειας για την εξέλιξητων δράσεων με την υποβολή έκθεσης, επισημαίνονταςτυχόν αποκλίσεις και προτείνοντας διαρθρωτικές παρεμβάσεις όπου θεωρεί ότι αυτό είναι απαραίτητο γιατην ταχύτερη και αποτελεσματικότερη υλοποίηση τουΟδικού Χάρτη."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/4>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/4> <http://purl.org/dc/terms/title> "Λήψη αποφάσεων"@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/4/paragraph/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/4/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/4/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/4/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η Επιτροπή λαμβάνει αποφάσεις κατά κανόνα με ομοφωνία στο πλαίσιο consensus (συναίνεσης)."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/4/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/4/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/4/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Σε εξαιρετικές περιπτώσεις που η επίτευξη ομοφωνίας μεταξύ των μελών της Επιτροπής δεν καθίσταται δυνατή, η απόφαση δύναται να ληφθεί κατά πλειοψηφία, με την ψήφο του Συντονιστή να υπερισχύει σε περίπτωση ισοψηφίας ή να παραπέμπεται με υπόδειξη του Συντονιστή στη Συντονιστική Επιτροπή Εξωστρέφειας."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/5>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/5/paragraph/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/5/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/5/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/5/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Υποχρεώσεις Φορέων και Υπηρεσιών του ΔημοσίουΌλες οι υπηρεσίες και οι φορείς του δημόσιου τομέαοφείλουν:"@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/5/paragraph/1/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/5/paragraph/1/case/2>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/5/paragraph/1/case/2> <http://legislation.di.uoa.gr/ontology/text> "Να συνεργάζονται με την Επιτροπή για τη διαμόρφωση, προώθηση και υλοποίηση των εισηγήσεων,προτάσεων και αποφάσεών της."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/5/paragraph/1/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/5/paragraph/1/case/3>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/5/paragraph/1/case/3> <http://legislation.di.uoa.gr/ontology/text> "Να ενημερώνουν την Επιτροπή για την πορεία υλοποίησης των αποφάσεών της."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/5/paragraph/1/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/5/paragraph/1/case/4>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/5/paragraph/1/case/4> <http://legislation.di.uoa.gr/ontology/text> "Να παρέχουν έγκαιρα και κατά απόλυτη προτεραιότητα σ' αυτήν, καθώς και στις υποστηρικτικές ομάδεςεργασίας τις οποίες συνιστά, σύμφωνα με το άρθρο 2της παρούσας, τις αναγκαίες πληροφορίες και στοιχεία, καθώς και κάθε διευκόλυνση και συνδρομή γιατο έργο της."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/6>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/6> <http://purl.org/dc/terms/title> "Χρηματοδότηση δράσεων"@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/6/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/6/paragraph/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/6/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/6/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/6/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι δράσεις της Επιτροπής μπορεί να χρηματοδοτούνται από εθνικούς πόρους, από συγχρηματοδοτούμενα επιχειρησιακά προγράμματα και από αμιγείς κοινοτικούς πόρους."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/6/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/6/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/6/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Τα μέλη της Επιτροπής δεν λαμβάνουν καμία επιπρόσθετη αμοιβή ή αποζημίωση."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/7>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7> <http://purl.org/dc/terms/title> "Ομάδα Επιχειρησιακής Υποστήριξης"@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η τεχνική υποστήριξη της Επιτροπής και του Έργου ανατίθεται σε ειδική Ομάδα Επιχειρησιακής Υποστήριξης."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η Ομάδα Επιχειρησιακής Υποστήριξης:"@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2/case/2>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2/case/2> <http://legislation.di.uoa.gr/ontology/text> "Λαμβάνει εντολές και ενημερώνει την Επιτροπή ,η οποία και ορίζει τη λειτουργία και τον τρόπο οργάνωσής της."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2/case/3>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2/case/3> <http://legislation.di.uoa.gr/ontology/text> "Αποτελείται από πέντε (5) υπευθύνους επιτελικήςπαρακολούθησης (project manager), ένα νομικό, ένανειδικό σε θέματα τεχνολογίας πληροφορικής και επικοινωνιών, και τρία (3) άτομα για γραμματειακή υποστήριξη. Τα στελέχη που την απαρτίζουν πρέπει νααπασχολούνται με οποιαδήποτε σχέση στον στενό ήτον ευρύτερο δημόσιο τομέα και θα παρέχουν τις υπηρεσίες τους στην Ομάδα, με πλήρη ή μερική απασχόληση, κατόπιν σχετικού αιτήματος του Συντονιστή προςτον προϊστάμενό τους."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2/case/4>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2/case/4> <http://legislation.di.uoa.gr/ontology/text> "Δύναται να συνεργάζεται με εξωτερικούς συνεργάτες που θα συμβάλουν στο έργο της."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2/case/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2/case/5>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2/case/5> <http://legislation.di.uoa.gr/ontology/text> "Τα μέλη της ορίζονται και αντικαθίστανται μόνο μεαπόφαση της Επιτροπής."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2/case/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2/case/6>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/7/paragraph/2/case/6> <http://legislation.di.uoa.gr/ontology/text> "Τα μέλη της δεν λαμβάνουν καμία επιπρόσθετηαμοιβή ή αποζημίωση."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/8>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/8> <http://purl.org/dc/terms/title> "Θητεία Επιτροπής και Ομάδας"@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/8/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/8/paragraph/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/8/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/8/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/8/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/8/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Επιχειρησιακής Υποστήριξης Η διάρκεια της Επιτροπής και της Ομάδας Επιχειρησιακής Υποστήριξης, όπως και η θητεία των μελών τους, ακολουθεί τη διάρκεια του Έργου."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/amc/2013/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/9>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/9> <http://purl.org/dc/terms/title> "Έναρξη ισχύος"@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/9/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/9/paragraph/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/9/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/9/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/9/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/9/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς της πράξης αυτής αρχίζει από τη δημοσίευσή της στην Εφημερίδα της Κυβερνήσεως."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/9/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/9/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/9/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/9/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Η πράξη αυτή να δημοσιευθεί στην Εφημερίδα της Κυβερνήσεως."@el.
+<http://legislation.di.uoa.gr/amc/2013/2/article/9/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/9/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/2/article/9/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/amc/2013/2/article/9/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Αθήνα, 25 Ιανουαρίου 2013"@el.

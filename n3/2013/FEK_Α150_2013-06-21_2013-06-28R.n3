@@ -1,0 +1,145 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/150> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_150.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/150> <http://purl.org/dc/terms/title> "Α/2013/150".
+<http://legislation.di.uoa.gr/gazette/a/2013/150> <http://purl.org/dc/terms/created> "2013-06-21"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2013/4162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2013/4162> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/150>.
+<http://legislation.di.uoa.gr/law/2013/4162> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2013/4162> <http://purl.org/dc/terms/created> "2013-06-21"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2013/4162> <http://legislation.di.uoa.gr/ontology/legislationID> "4162"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2013/4162> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/law/2013/4162> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4162/signer/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4162> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4162/signer/2>.
+<http://legislation.di.uoa.gr/law/2013/4162/signer/2> <http://xmlns.com/foaf/0.1/name> "ΙΩΑΝΝΗΣ ΣΤΟΥΡΝΑΡΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4162> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4162/signer/3>.
+<http://legislation.di.uoa.gr/law/2013/4162/signer/3> <http://xmlns.com/foaf/0.1/name> "ΕΥΑΓΓΕΛΟΣ ΛΙΒΙΕΡΑΤΟΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4162> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4162/signer/4>.
+<http://legislation.di.uoa.gr/law/2013/4162/signer/4> <http://xmlns.com/foaf/0.1/name> "ΙΩΑΝΝΗΣ ΒΡΟΥΤΣΗΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4162> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4162/signer/5>.
+<http://legislation.di.uoa.gr/law/2013/4162/signer/5> <http://xmlns.com/foaf/0.1/name> "ΑΝΤΩΝΙΟΣ ΡΟΥΠΑΚΙΩΤΗΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4162> <http://purl.org/dc/terms/title> "Ίδρυση Εθνικού Λογαριασμού Κοινωνικής Αλληλεγγύης Γενεών. "@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4162> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1> <http://purl.org/dc/terms/title> "Ίδρυση - Σκοπός"@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ιδρύεται εντός του Ασφαλιστικού Κεφαλαίου Αλληλεγγύης Γενεών «AΚΑΓΕ», ειδικός λογαριασμός με την ονομασία «Εθνικός Λογαριασμός Κοινωνικής Αλληλεγγύης Γενεών» (ΕΛΚΑΓ), ο οποίος εποπτεύεται από τα Υπουργεία Οικονομικών, Εργασίας, Κοινωνικής Ασφάλισης και Πρόνοιας και Περιβάλλοντος, Ενέργειας και Κλιματικής Αλλαγής."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ο ΕΛΚΑΓ τηρείται στην Τράπεζα της Ελλάδος."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/2>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Σκοπός του ΕΛΚΑΓ είναι η δημιουργία αποθεματικού για τη χρηματοδότηση των κλάδων σύνταξης των Φορέων Κοινωνικής Ασφάλισης (ΦΚΑ) και κυρίως για τη διασφάλιση των συντάξεων των νέων γενιών."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Με κοινή απόφαση των Υπουργών Οικονομικών, Εργασίας, Κοινωνικής Ασφάλισης και Πρόνοιας και Περιβάλλοντος, Ενέργειας και Κλιματικής Αλλαγής, καθορίζεται ο χρόνος έναρξης καταβολής των ποσών που προβλέπονται ως πόροι του ΕΛΚΑΓ από το άρθρο 2, καθώς και ο χρόνος διάθεσης των πόρων του ΕΛΚΑΓ προς τους ΦΚΑ."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/3>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Από τον ΕΛΚΑΓ μπορούν να χρηματοδοτούνται μεταπτυχιακά προγράμματα ή ερευνητικά έργα που αφορούν στην αξιοποίηση του ορυκτού πλούτου της χώρας και κυρίως των υδρογονανθράκων και εκπονούνται από εργαστήρια ή τμήματα ή σχολές ΑΕΙ ή ΑΤΕΙ. Με κοινή απόφαση των Υπουργών Εργασίας, Κοινωνικής Ασφάλισης και Πρόνοιας, Παιδείας και Θρησκευμάτων, Πολιτισμού και Αθλητισμού, Περιβάλλοντος, Ενέργειας και Κλιματικής Αλλαγής και Οικονομικών, προβλέπεται η διαδικασία χρηματοδότησης από τον ΕΛΚΑΓ των ΑΕΙ και ΑΤΕΙ κατά τα οριζόμενα στο πρώτο εδάφιο και κάθε άλλη αναγκαία λεπτομέρεια."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4162> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/2>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2> <http://purl.org/dc/terms/title> "Πόροι"@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Πόροι του ΕΛΚΑΓ είναι:"@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ποσοστό από τα έσοδα του Δημοσίου (μερίσματα, δικαιώματα, φορολογία) από τις εταιρείες που αναλαμβάνουν την έρευνα και εκμετάλλευση των κοιτασμάτων υδρογονανθράκων και από τη διάθεση αδειών για έρευνες."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Εξαιρούνται ο περιφερειακός φόρος 5% που προβλέπεται στο άρθρο 161 παρ. 1 του ν. 4001/2011, καθώς και το ποσοστό 20% των μισθωμάτων ή μεριδίων παραγωγής που κατατίθεται στον τραπεζικό λογαριασμό του Πράσινου Ταμείου, που τηρείται στην Τράπεζα της Ελλάδος, κατά τα προβλεπόμενα στο άρθρο 164 παρ. 6 του ν. 4001/2011."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/html> "Εξαιρούνται ο περιφερειακός φόρος 5% που προβλέπεται στο άρθρο 161 παρ. 1 του  <a href=\"http://legislation.di.uoa.gr/law/2011/4001\"> <a href=\"http://legislation.di.uoa.gr/law/2011/4001law/2011/4001\">ν. 4001/2011</a></a>, καθώς και το ποσοστό 20% των μισθωμάτων ή μεριδίων παραγωγής που κατατίθεται στον τραπεζικό λογαριασμό του Πράσινου Ταμείου, που τηρείται στην Τράπεζα της Ελλάδος, κατά τα προβλεπόμενα στο άρθρο 164 παρ. 6 του  <a href=\"http://legislation.di.uoa.gr/law/2011/4001\"> <a href=\"http://legislation.di.uoa.gr/law/2011/4001law/2011/4001\">ν. 4001/2011</a></a>.".
+<http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/2>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το ποσοστό αυτό καθορίζεται κατ’ έτος με κοινή απόφαση των Υπουργών Οικονομικών, Εργασίας, Κοινωνικής Ασφάλισης και Πρόνοιας και Περιβάλλοντος, Ενέργειας και Κλιματικής Αλλαγής."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/2/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Το ποσοστό αυτό δεν μπορεί όμως να είναι κατώτερο του 70% των ετήσιων εσόδων από τις ως άνω πηγές."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4162> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/3>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3> <http://purl.org/dc/terms/title> "Οικονομική διαχείριση"@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η αξιοποίηση των κεφαλαίων του ΕΛΚΑΓ γίνεται σύμφωνα με τις ισχύουσες διατάξεις για την περιουσία των Ασφαλιστικών Ταμείων."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Λαμβάνονται υπόψη και οι γνωμοδοτήσεις του Συμβουλίου Ηθικής που προβλέπεται στο άρθρο 6 του παρόντος."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η διαχείριση του ΕΛΚΑΓ ασκείται από ΕπιτροπήΔιαχείρισης, η οποία αποτελείται από πέντε (5) τακτικάμέλη και ισάριθμα αναπληρωματικά. Τα μέλη της Επιτροπής προτείνονται ως εξής:"@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2/case/2>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2/case/2> <http://legislation.di.uoa.gr/ontology/text> "ένα (1) μέλος, ως Πρόεδρος, με τον αναπληρωτήτου, από τον Υπουργό Εργασίας, Κοινωνικής Ασφάλισηςκαι Πρόνοιας,"@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2/case/3>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2/case/3> <http://legislation.di.uoa.gr/ontology/text> "ένα (1) μέλος, με τον αναπληρωτή του, ως εκπρόσωποι του Υπουργείου Οικονομικών, από τον ΥπουργόΟικονομικών,"@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2/case/4>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2/case/4> <http://legislation.di.uoa.gr/ontology/text> "ένα (1) μέλος, με τον αναπληρωτή του, ως εκπρόσωποι του Υπουργείου Περιβάλλοντος, Ενέργειας καιΚλιματικής Αλλαγής, από τον Υπουργό Περιβάλλοντος,Ενέργειας και Κλιματικής Αλλαγής και"@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2/case/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2/case/5>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/3/paragraph/2/case/5> <http://legislation.di.uoa.gr/ontology/text> "δύο (2) μέλη, με τους αναπληρωτές τους, ως εκπρόσωποι του Υπουργείου Εργασίας, Κοινωνικής Ασφάλισηςκαι Πρόνοιας (Γενική Γραμματεία Κοινωνικών Ασφαλίσεων), από τον Υπουργό Εργασίας, Κοινωνικής Ασφάλισηςκαι Πρόνοιας.Ο Πρόεδρος, τα μέλη και ο Γραμματέας της Επιτροπής, με τους αναπληρωτές τους είναι άμισθοι και διορίζονται, για τριετή θητεία, με κοινή απόφαση τωνΥπουργών Οικονομικών, Εργασίας, Κοινωνικής Ασφάλισης και Πρόνοιας και Περιβάλλοντος, Ενέργειας καιΚλιματικής Αλλαγής."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4162> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/4>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/4> <http://purl.org/dc/terms/title> "Λειτουργικά θέματα"@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/4/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/4/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/4/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/4/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Με κοινή απόφαση των Υπουργών Οικονομικών, Εργασίας, Κοινωνικής Ασφάλισης και Πρόνοιας και Περιβάλλοντος, Ενέργειας και Κλιματικής Αλλαγής καθορίζονται ο τρόπος λειτουργίας του ΕΛΚΑΓ, ο τρόπος απόδοσης των πόρων του, η διαδικασία χρηματοδότησης των φορέων και των κλάδων σύνταξης, η οικονομική οργάνωση και λογιστική λειτουργία του και η λειτουργία της Επιτροπής Διαχείρισης και κάθε άλλη αναγκαία λεπτομέρεια."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4162> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/5>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/5> <http://purl.org/dc/terms/title> "Διαφάνεια - Έλεγχος"@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/5/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/5/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/5/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/5/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η Επιτροπή Διαχείρισης εκδίδει σε εξαμηνιαία βάση εκθέσεις με τα οικονομικά μεγέθη του Λογαριασμού."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/5/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/5/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/5/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Οι εκθέσεις υποβάλλονται στην αρμόδια Επιτροπή της Βουλής."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/5/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/5/paragraph/2>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/5/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/5/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/5/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/5/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Για τη διασφάλιση της διαφάνειας της λειτουργίας του ΕΛΚΑΓ, το Υπουργείο Οικονομικών επιλέγει με διαγωνιστική διαδικασία Ανεξάρτητο Φορέα Ελέγχου εγνωσμένου κύρους, η έκθεση του οποίου επίσης δημοσιεύεται."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4162> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/6>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/6> <http://purl.org/dc/terms/title> "Γνωμοδοτικό Συμβούλιο Ηθικής"@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/6/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/6/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/6/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/6/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/6/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Συστήνεται Γνωμοδοτικό Συμβούλιο Ηθικής, το οποίο αποτελείται από τον Πρόεδρο και πέντε (5) μέλη, οι οποίοι διορίζονται με κοινή απόφαση των Υπουργών Οικονομικών, Εργασίας, Κοινωνικής Ασφάλισης και Πρόνοιας και Περιβάλλοντος, Ενέργειας και Κλιματικής Αλλαγής."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/6/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/6/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/6/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Εντός έξι (6) μηνών από το διορισμό των μελών του, το Γνωμοδοτικό Συμβούλιο Ηθικής θεσπίζει Κώδικα Δεοντολογίας βάσει του οποίου γίνονται οι επενδύσεις του Εθνικού Λογαριασμού Κοινωνικής Αλληλεγγύης Γενεών (ΕΛΚΑΓ)."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/6/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/6/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/6/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Ειδικότερα, με τον Κώδικα Δεοντολογίας θεσπίζονται κριτήρια που αφορούν στην εταιρική, κοινωνική και περιβαλλοντική ευθύνη των εταιρειών, στις οποίες επενδύει ο Εθνικός Λογαριασμός Κοινωνικής Αλληλεγγύης Γενεών (ΕΛΚΑΓ) (παραβίαση των ανθρωπίνων δικαιωμάτων, περιβαλλοντική υποβάθμιση κ.ά.)."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4162> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/7>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/7> <http://purl.org/dc/terms/title> "’Εναρξη ισχύος"@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/7/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/7/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/7/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/7/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/7/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/7/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως."@el.
+<http://legislation.di.uoa.gr/law/2013/4162/article/7/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/7/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4162/article/7/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2013/4162/article/7/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως νόμου του Κράτους."@el.

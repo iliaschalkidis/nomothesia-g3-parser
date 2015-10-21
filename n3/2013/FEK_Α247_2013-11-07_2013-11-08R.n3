@@ -1,0 +1,52 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/247> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_247.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/247> <http://purl.org/dc/terms/title> "Α/2013/247".
+<http://legislation.di.uoa.gr/gazette/a/2013/247> <http://purl.org/dc/terms/created> "2013-11-07"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2013/4207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2013/4207> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/247>.
+<http://legislation.di.uoa.gr/law/2013/4207> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2013/4207> <http://purl.org/dc/terms/created> "2013-11-07"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2013/4207> <http://legislation.di.uoa.gr/ontology/legislationID> "4207"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2013/4207> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/law/2013/4207> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4207/signer/1>.
+<http://legislation.di.uoa.gr/law/2013/4207/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4207> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4207/signer/2>.
+<http://legislation.di.uoa.gr/law/2013/4207/signer/2> <http://xmlns.com/foaf/0.1/name> "ΕΥΑΓΓΕΛΟΣ ΒΕΝΙΖΕΛΟΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4207/signer/2> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Ευάγγελος_Βενιζέλος\">ΕΥΑΓΓΕΛΟΣ ΒΕΝΙΖΕΛΟΣ</a>".
+<http://legislation.di.uoa.gr/law/2013/4207> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4207/signer/3>.
+<http://legislation.di.uoa.gr/law/2013/4207/signer/3> <http://xmlns.com/foaf/0.1/name> "ΙΩΑΝΝΗΣ ΣΤΟΥΡΝΑΡΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4207> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4207/signer/4>.
+<http://legislation.di.uoa.gr/law/2013/4207/signer/4> <http://xmlns.com/foaf/0.1/name> "ΧΑΡΑΛΑΜΠΟΣ ΑΘΑΝΑΣΙΟΥ"@el.
+<http://legislation.di.uoa.gr/law/2013/4207/signer/4> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Χαράλαμπος_Αθανασίου\">ΧΑΡΑΛΑΜΠΟΣ ΑΘΑΝΑΣΙΟΥ</a>".
+<http://legislation.di.uoa.gr/law/2013/4207> <http://purl.org/dc/terms/title> "Κύρωση του Μνημονίου Κατανόησης μεταξύ του Υπουργείου Εξωτερικών της Ελληνικής Δημοκρατίας και του Υπουργείου Εξωτερικών της Δημοκρατίας της Βουλγαρίας σχετικά με τις κατευθυντήριες γραμμές για την ανταλλαγή μελών των αντίστοιχων διπλωματικών υπηρεσιών τους. "@el.
+<http://legislation.di.uoa.gr/law/2013/4207/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4207> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4207/article/1>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4207/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4207/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνεται και έχει την ισχύ, που ορίζει το άρθρο 28 παρ. 1 του Συντάγματος, το Μνημόνιο Κατανόησης μεταξύ του Υπουργείου Εξωτερικών της Ελληνικής Δημοκρατίας και του Υπουργείου Εξωτερικών της Δημοκρατίας της Βουλγαρίας σχετικά με τις κατευθυντήριες γραμμές για την ανταλλαγή μελών των αντίστοιχων διπλωματικών υπηρεσιών τους, που υπογράφηκε στην Αθήνα, στις 17 Δεκεμβρίου 2012, το κείμενο του οποίου σε πρωτότυπο στην αγγλική γλώσσα και σε μετάφραση στην ελληνική έχει ως εξής:"@el.
+<http://legislation.di.uoa.gr/law/2013/4207/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4207> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4207/article/2>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4207/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4207/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα Προγράμματα ανταλλαγών διπλωματικών υπαλλήλων του άρθρου 7 εδάφιο 1 του Μνημονίου εγκρίνονται με κοινή πράξη των αρμόδιων κατά περίπτωση Υπουργών."@el.
+<http://legislation.di.uoa.gr/law/2013/4207/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4207> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4207/article/3>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4207/article/3/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4207/article/3/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα Προγράμματα ανταλλαγών του άρθρου 7 εδάφιο 2 των οποίων το περιεχόμενο υπερβαίνει τις πρόνοιες του παρόντος Μνημονίου υπόκεινται στην ίδια διαδικασία με την οποία τίθεται σε ισχύ το παρόν Μνημόνιο."@el.
+<http://legislation.di.uoa.gr/law/2013/4207/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4207> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4207/article/4>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4207/article/4/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/4/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4207/article/4/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/4/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και του Μνημονίου που κυρώνεται από την ολοκλήρωση των προϋποθέσεων του άρθρου 8 αυτού."@el.
+<http://legislation.di.uoa.gr/law/2013/4207/article/4/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4207/article/4/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2013/4207/article/4/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως νόμου του Κράτους."@el.

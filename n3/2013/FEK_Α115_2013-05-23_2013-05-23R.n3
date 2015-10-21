@@ -1,0 +1,4 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/115> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_115.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/115> <http://purl.org/dc/terms/title> "Α/2013/115".
+<http://legislation.di.uoa.gr/gazette/a/2013/115> <http://purl.org/dc/terms/created> "2013-05-23"^^<http://www.w3.org/2001/XMLSchema#date>.

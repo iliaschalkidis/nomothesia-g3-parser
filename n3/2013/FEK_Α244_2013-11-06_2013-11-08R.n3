@@ -1,0 +1,910 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/244> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_244.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/244> <http://purl.org/dc/terms/title> "Α/2013/244".
+<http://legislation.di.uoa.gr/gazette/a/2013/244> <http://purl.org/dc/terms/created> "2013-11-06"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/RegulatoryProvision>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/244>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://purl.org/dc/terms/created> "2013-11-06"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://legislation.di.uoa.gr/ontology/legislationID> "244/2013"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://purl.org/dc/terms/title> "Κατάργηση της Κανονιστικής Διατάξεως 37/1973 και αντικαταστάσεως του Κανονισμού διοικήσεως, διαχειρίσεως και λειτουργίας του εν Νέα Αρτάκ? Ιερού Προσκυνήματος «Παναγία η Φανερωμένη», της Ιεράς Μητροπόλεως Χαλκίδος.   "@el.
+<http://legislation.di.uoa.gr/rp/2013/244/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/244/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τας διατάξεις των άρθρων 1 παρ. 2 και 4, 45 παρ. 5 και 59 του Ν. 590/1977 «Περί Καταστατικού Χάρτου της Εκκλησίας της Ελλάδος». "@el.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/citation/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/citation/1> <http://legislation.di.uoa.gr/ontology/html> "Τας διατάξεις των άρθρων 1 παρ. 2 και 4, 45 παρ. 5 και 59 του  <a href=\"http://legislation.di.uoa.gr/law/1977/590\">Ν. 590/1977</a> «Περί Καταστατικού Χάρτου της Εκκλησίας της Ελλάδος». ".
+<http://legislation.di.uoa.gr/rp/2013/244/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/244/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Τας υποχρεώσεις της Ποιμαινούσης Εκκλησίας προς το Χριστεπώνυμον Πλήρωμα, αι οποίαι απορρέουν από τας Ευαγγελικάς Επιταγάς, τους Ιερούς Κανόνας και τους Νόμους του Κράτους. "@el.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/citation/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/244/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Τας υφισταμένας κοινωνικάς και πνευματικάς ανάγκας της Ιεράς Μητροπόλεως Χαλκίδος. "@el.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/citation/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/244/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθμ. 138/5.11.2012 Πράξιν του Δ.Σ. του Ιερού Προσκυνήματος «Παναγία η Φανερωμένη» Ν. Αρτάκης. "@el.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/citation/4>.
+<http://legislation.di.uoa.gr/rp/2013/244/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/244/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθμ. 649/19.12.2012 απόφασιν του Μητροπολιτικού Συμβουλίου της Ιεράς Μητροπόλεως Χαλκίδος. "@el.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/citation/5>.
+<http://legislation.di.uoa.gr/rp/2013/244/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/244/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθμ. 82/28.1.2013 Πρότασιν του Σεβασμιωτάτου Μητροπολίτου Χαλκίδος Χρυσοστόμου. "@el.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/citation/6>.
+<http://legislation.di.uoa.gr/rp/2013/244/citation/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/244/citation/7> <http://legislation.di.uoa.gr/ontology/context> "Την από 26.3.2013 Γνωμοδότησιν του Νομικού Γραφείου της Νομικής Υπηρεσίας της Ιεράς Συνόδου της Εκκλησίας της Ελλάδος. "@el.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/citation/7>.
+<http://legislation.di.uoa.gr/rp/2013/244/citation/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/244/citation/8> <http://legislation.di.uoa.gr/ontology/context> "Την πό 2.4.2013 Απόφασιν της Διαρκούς Ιεράς Συνόδου, "@el.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/citation/8>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/issue/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/issue/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/ParsingIssue>.
+<http://legislation.di.uoa.gr/rp/2013/244/issue/1> <http://legislation.di.uoa.gr/ontology/text> "Δεν αναγνωρίστηκαν οι υπογραφόντες."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1> <http://purl.org/dc/terms/title> ""@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ο δυνάμει της υπ’ αριθμ. 37/1973 Κανονιστικής Διατάξεως (Φ.Ε.Κ. 24/Α΄/26-1-1973), λειτουργών, εν Νέα Αρτάκ? Ευβοίας, Προσκυνηματικός Ιερός Ναός της Παναγίας Φανερωμένης, μετά της εν αυτώ τεθησαυρισμένης Ιεράς Εικόνος της Παναγίας Φανερωμένης, αποτελεί Εκκλησιαστικόν Νομικόν Πρόσωπον Δημοσίου Δικαίου, κατα την έννοιαν της διατάξεως του άρθρου 1, παραγρ. 4, του Ν. 590/1977 (Φ.Ε.Κ. 146/Α΄/1977), υπό την επωνυμίαν«ΙΕΡΟΝ ΠΡΟΣΚΥΝΗΜΑ ΠΑΝΑΓΙΑ Η ΦΑΝΕΡΩΜΕΝΗ»."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το Ιερόν Προσκύνημα τούτο τελεί υπό την εποπτείαν της Ιεράς Μητροπόλεως Χαλκίδος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το Ιερόν Προσκύνημα έχει ιδίαν σφραγίδα, φέρουσαν εις το μέσον την εικόνα της Παναγίας και γύρωθεν εγκεχαραγμένας τας λέξεις «ΙΕΡΑ ΜΗΤΡΟΠΟΛΙΣ ΧΑΛΚΙΔΟΣ - ΙΕΡΟΝ ΠΡΟΣΚΥΝΗΜΑ ΠΑΝΑΓΙΑ Η ΦΑΝΕΡΩΜΕΝΗ»."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/4>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/1/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Έδρα του Ιερού Προσκυνήματος είναι η Νέα Αρτάκη."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η προώθησις και διάδοσις της ορθοδόξου χριστιανικής Πίστεως και της Ελληνορθοδόξου Παραδόσεως, και η καλλιέργεια του λειτουργικού και λατρευτικού βίου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ιδιαιτέρως δε η τιμή και η προσκύνησις της Ιεράς και θαυματουργού Εικόνος της Παναγίας και του τόπου της Παναγιοφανείας."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η συμφώνως προς τας παραδόσεις της Ορθοδοξίας συντήρησις, ανακαίνισις και επέκτασις του υπάρχοντος Ιερού Ναού, και όλως των πέριξ αυτού υφισταμένων Ιερών Προσκυνημάτων και λοιπών κτισμάτων, καθώς και η ανέγερσις νέων, εις περίπτωσιν ανάγκης."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η προστασία του περιβάλλοντος χώρου και του πρασίνου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/4>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ο προγραμματισμός και η εκτέλεσις όλων των έργων εκείνων, άτινα θέλουσι συμβάλλει εις την ανάδειξιν του Ιερού Προσκυνήματος εις πνευματικόν και θρησκευτικόν κέντρον Πανελληνίου ακτινοβολίας του Ελληνοχριστιανικού πολιτισμού μας."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/5>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/5/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η εκτέλεσις τουριστικών και άλλων έργων οικονομικής κυρίως αποδόσεως δια την ανάπτυξιν από πάσης πλευράς της περιοχής του Ιερού Προσκυνήματος γενικώτερον και των οικονομικών πόρων τούτου ειδικώτερον."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/6>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/6/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η εν τω πνεύματι της Χριστιανικής αγάπης ανάληψις και εκτέλεσις πρωτοβουλιών προνοιακού χαρακτήρος, η ηθική συμπαράστασις και υλική περίθαλψις των εχόντων ανάγκην τοιαύτης και ανηκόντων κυρίως εις την πόλιν της Νέας Αρτάκης και την Ιεράν Μητρόπολιν Χαλκίδος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/6/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/6/passage/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/6/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Προς τούτο δύνανται να χορηγούνται, αναλόγως προς τις οικονομικές δυνατότητες και μετ’ απόφασιν του Διοικητικού Συμβουλίου, βοηθήματα και υποτροφίες εις σπουδαστάς, φοιτητάς, μεταπτυχιακούς και υποψηφίους διδάκτορας, εις απόρους, υπερήλικας και ασθενείς, έχοντας άμεσον ανάγκην νοσοκομειακής ή φαρμακευτικής περιθάλψεως."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/7>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/7/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η εκτέλεσις έργων εξυπηρετούντων προνοιακούς, φιλανθρωπικούς και κοινωφελείς σκοπούς."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/8>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/8/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/8/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/8/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η λειτουργία Πνευματικού Κέντρου και ίδρυσις και λειτουργία Βιβλιοθήκης."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/9>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/9/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/9/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/9/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ίδρυσις και λειτουργία Μουσείου, εις το οποίον θα φυλάσσονται και θα προβάλλονται κειμήλια και άλλα είδη, προερχόμενα κυρίως από την Αρτάκη της Μικράς Ασίας και ευρισκόμενα εις Ιερούς Ναούς της Νέας Αρτάκης ή και αλλαχού."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/10>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/10/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/10/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/10/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η λειτουργία εκθέσεως, προκειμένου, δια της προβολής και διαδόσεως χριστιανικών βιβλίων, ιερών εικόνων, ψηφιακών δίσκων και άλλων ειδών ευλαβείας, να καλλιεργηθή η πνευματική ζωή και να τονωθή το λατρευτικόν ήθος των προσκυνητών, υποκειμένης εις τας διατάξεις των άρθρων 2 και 3 του Ν. 2859/2000 (Φ.Ε.Κ. 248/Α΄/2000)."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/2/paragraph/10/passage/1> <http://legislation.di.uoa.gr/ontology/html> "Η λειτουργία εκθέσεως, προκειμένου, δια της προβολής και διαδόσεως χριστιανικών βιβλίων, ιερών εικόνων, ψηφιακών δίσκων και άλλων ειδών ευλαβείας, να καλλιεργηθή η πνευματική ζωή και να τονωθή το λατρευτικόν ήθος των προσκυνητών, υποκειμένης εις τας διατάξεις των άρθρων 2 και 3 του  <a href=\"http://legislation.di.uoa.gr/law/2000/2859\">Ν. 2859/2000</a> (Φ.Ε.Κ. 248/Α΄/2000).".
+<http://legislation.di.uoa.gr/rp/2013/244/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Πόροι του Ιερού Προσκυνήματος:"@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/2> <http://legislation.di.uoa.gr/ontology/text> "Προσφοραί εκ της προσκυνήσεως της Ιεράς Εικόνος της Παναγίας Φανερωμένης και εκ της διαθέσεωςκηρίων εισπράξεις."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/3> <http://legislation.di.uoa.gr/ontology/text> "Αι εκ της διαθέσεως του υπό των πιστών προσφερομένου ελαίου, ως και των λοιπών αφιερωμάτωνεισπράξεις."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/4>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/4> <http://legislation.di.uoa.gr/ontology/text> "Τυχόν δωρεαί και εισφοραί από την λειτουργίανΕκθέσεως - προβολής ωφελίμων χριστιανικών βιβλίων,Ιερών Εικόνων κ.λπ. χειροτεχνημάτων, αναμνηστικών κ.α."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/5>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/5> <http://legislation.di.uoa.gr/ontology/text> "Αι εκ των εν τω Ιερώ Ναώ τελουμένων ιεροπραξιώνεισπράξεις."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/6>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/6> <http://legislation.di.uoa.gr/ontology/text> "Αι υπέρ του Ιερού Ναού και του Ιερού Προσκυνήματος δωρεαί, κληρονομίαι, κληροδοσίαι και πάσης φύσεως έτεραι χορηγίαι των πιστών, ως και αι εισφοραί καιτα παντός είδους χρηματικά εμβάσματα των απανταχούχριστιανών και διαφόρων Νομικών Προσώπων Ιδιωτικούή Δημοσίου Δικαίου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/7>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/7> <http://legislation.di.uoa.gr/ontology/text> "Πάσαι αι λοιπαί πρόσοδοι εκ της αξιοποιήσεωςτης κινητής και ακινήτου περιουσίας του Ιερού Προσκυνήματος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/8>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/8> <http://legislation.di.uoa.gr/ontology/text> "Εκ του κυτίου δια την ενίσχυσιν των έργων τουΙερού Ναού (αγιογραφία, εξωραϊσμός Ιερού Ναού)."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/9>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/9> <http://legislation.di.uoa.gr/ontology/text> "Εκ της τυχόν εκποιήσεως τιμαλφών, αφιερωμάτωνκαι ειδών του εργαστηρίου του Ιερού Προσκυνήματοςκαι"@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/10>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/3/paragraph/1/case/10> <http://legislation.di.uoa.gr/ontology/text> "Κάθε νόμιμον έσοδον, συνόδον προς τον χαρακτήρακαι τους σκοπούς του Ιερού Προσκυνήματος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4> <http://purl.org/dc/terms/title> ""@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι πόροι του Ιερού Προσκυνήματος διατίθενται:"@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/2> <http://legislation.di.uoa.gr/ontology/text> "Δια την χρηματοδότησιν και εκτέλεσιν των αναγκαιουσών εκάστοτε εργασιών, δια την ανάπτυξιν καιεξέλιξιν του Ιερού Προσκυνήματος, ως πνευματικούθρησκευτικού και εθνικού κέντρου Πανελληνίου ακτινοβολίας."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/3> <http://legislation.di.uoa.gr/ontology/text> "Δια την εν γένει εκτέλεσιν πάσης φύσεως έργωνεξυπηρετήσεως των σκοπών του Ιερού Προσκυνήματος, κατά κύριον λόγον, ως και τουριστικών έργων καιεγκαταστάσεων, απάντων επ’ ωφελεία του Ιερού Προσκυνήματος και της εν γένει αναπτύξεως τούτου απόθρησκευτικής, κοινωνικής και τουριστικής απόψεως, ήτοιανεγέρσεως, συντηρήσεως και λειτουργίας διαφόρωνκτιρίων προς εξυπηρέτησιν εκκλησιαστικών, διοικητικώνκαι οικονομικών υπηρεσιών Αυτού (ως π.χ. Ξενώνων,Πνευματικού Νεανικού Κέντρου, Βιβλιοθήκης, Μουσείου, εργαστηρίων Κηροπλαστείου και κατασκευής ειδώνευλαβείας κ.λπ.), ως και των εξυπηρετούντων εκκλησιαστικούς, εθνικούς και κοινωφελείς σκοπούς."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/4>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/4> <http://legislation.di.uoa.gr/ontology/text> "Δια την πραγματοποίησιν των κοινωνικών-φιλανθρωπικών σκοπών του Ιερού Προσκυνήματος (ενίσχυσινμαθητών, φοιτητών, ασθενών και απόρων)."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/5>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/5> <http://legislation.di.uoa.gr/ontology/text> "Δια την κάλυψιν των λειτουργικών εξόδων και τηςμισθοδοσίας του προσωπικού του Ιερού Προσκυνήματος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/6>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/6> <http://legislation.di.uoa.gr/ontology/text> "Δια την ενίσχυσιν των κοινωφελών εκκλησιαστικών,προνοιακών και φιλανθρωπικών ιδρυμάτων της ΙεράςΜητροπόλεως Χαλκίδος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/7>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/7> <http://legislation.di.uoa.gr/ontology/text> "Δια την ενίσχυσιν της λειτουργίας των Γραφείωντης Ιεράς Μητροπόλεως Χαλκίδος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/8>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/8> <http://legislation.di.uoa.gr/ontology/text> "Δια την ενίσχυσιν εκκλησιαστικών οργανισμών (Αποστολική Διακονία, Τ.Π.Ο.Ε.Κ.Ε.) και των λοιπών, κατά ταςεκάστοτε ισχυούσας διατάξεις."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/9>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/9> <http://legislation.di.uoa.gr/ontology/text> "Δια την προμήθειαν των ειδών της εκθέσεως καιτων ειδών εξοπλισμοό της Βιβλιοθήκης, του Πνευματικού Νεανικού Κέντρου, του Κυλικείου και του Μουσείου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/10>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/10> <http://legislation.di.uoa.gr/ontology/text> "Δια την ενίσχυσιν πολιτιστικών εκδηλώσεων τηςΙεράς Μητροπόλεως, αλλά και Τοπικών Φορέων, οι οποίοι έχουν ιδιαίτερον κοινωφελή σκοπόν και εθελοντικόν-αφιλοκερδή- χαρακτήρα και συντελούν εις την διατήρησιν και διάδοσιν της Ελληνορθοδόξου παραδόσεως."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/11>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/11> <http://legislation.di.uoa.gr/ontology/text> "Δια την συντήρησιν και λειτουργίαν των Ιερών Παρεκκλησίων του Ιερού Προσκυνήματος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/12>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/1/case/12> <http://legislation.di.uoa.gr/ontology/text> "Δι’ εκδόσεις βιβλίων και άλλων εντύπων, CD, DVDκ.λπ., άτινα προάγουν τον πολιτισμόν και τον άνθρωπον."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Δια την συντήρησιν και καλήν λειτουργίαν του κτιρίου εις το οποίον σήμερον στεγάζεται το Κέντρο Στηρίξεως Οικογενείας (ΚΕ.Σ.Ο.) και παλαιότερον το Εκκλησιαστικόν Ορφανοτροφείον Θηλέων, καθώς επίσης και δια την συντήρησιν και περαιτέρω ανάπτυξιν και αξιοποίησιν του περιβάλλοντος το Ίδρυμα τούτο χώρου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Δια την ίδρυσιν, ανέγερσιν και συντήρησιν Εκκλησιαστικού Μουσείου και βιβλιοθήκης του Ιερού Προσκυνήματος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/4>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/4/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Δια την ίδρυσιν, ανέγερσιν και λειτουργίαν Πνευματικού Κέντρου Νεότητος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/5>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/5> <http://purl.org/dc/terms/title> ""@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/5/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/5/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/5/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/5/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/5/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/5/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ο χώρος του περιβόλου του Ιερού Ναού και του συγκροτήματος του Ιερού Προσκυνήματος, με κέντρον τον Ιερόν Ναόν, θεωρείται ιερός και απαραβίαστος, διό και απαγορεύεται η πώλησις αναμνηστικών, ειδών τροφίμων και πάσης φύσεως εμπορευμάτων εντός περιοχής ακτίνος 500 μέτρων, ως και η εγκατάστασις κέντρων ψυχαγωγίας, κινηματοθεάτρων και λοιπών κτισμάτων, άτινα αλλοιώνουν τον ιερόν χαρακτήρα του Ιερού Προσκυνήματος, εις ολόκληρον την ως άνω έκτασιν."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/5/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/5/paragraph/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/5/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/5/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/5/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/5/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Απαγορεύεται, επίσης, η χρήσις μουσικών οργάνων και λοιπών ηχητικών μέσων εις ακτίνα 500 μέτρων, καθώς και η πώλησις κηρίων εντός του συγκροτήματος του Ιερού Προσκυνήματος και πέριξ αυτού εις ακτίνα 500 μέτρων."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/5/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/5/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/5/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/5/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Οι παραβάται υπόκεινται εις τας ποινάς των άρθρων 411, 417, 419 και των άρθρων 458 και 459 του Ποινικού Κώδικος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/6>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/6> <http://purl.org/dc/terms/title> ""@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/6/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/6/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/6/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/6/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/6/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/6/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η Διοίκησις του Ιερού Προσκυνήματος και η διαχείρισις εν γένει της περιουσίας αυτού ενεργούνται υπό του Διοικητικού Συμβουλίου του Ιερού Προσκυνήματος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/6/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/6/paragraph/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/6/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/6/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/6/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/6/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το Διοικητικόν Συμβούλιον έχει την έδραν του εν τη πόλει της Νέας Αρτάκης και συνεδριάζει εν Αυτή, ή εις τα Γραφεία της Ιεράς Μητροπόλεως άπαξ του μηνός, τουλάχιστον, καθ’ ημέραν και ώραν οριζομένην υπό του Προέδρου αυτού."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/6/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/6/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/6/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/6/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Των Συνεδριάσεων του Συμβουλίου μετέχει ο Γραμματεύς του Ιερού Προσκυνήματος, τηρών τα πρακτικά των εισηγήσεων, γενομένων υπό των εντεταλμένων δι’ έκαστον θέμα μελών του Συμβουλίου, των συζητήσεων και των αποφάσεων Αυτού."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7> <http://purl.org/dc/terms/title> ""@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το Διοικητικόν Συμβούλιον (Δ.Σ.) αποτελείται απόπέντε (5) μέλη, ήτοι:"@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/1/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/1/case/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/1/case/2> <http://legislation.di.uoa.gr/ontology/text> "Του εκάστοτε Μητροπολίτου Χαλκίδος, ως Προέδρου, αναπληρουμένου υπό του Πρωτοσυγκέλλου ή τουΓενικού Αρχιερατικού Επιτρόπου της Ιεράς Μητροπόλεως Χαλκίδος, κατόπιν γραπτής εξουσιοδοτήσεώς του."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/1/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/1/case/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/1/case/3> <http://legislation.di.uoa.gr/ontology/text> "Ενός εκ των Εφημερίων της Πόλεως της Νέας Αρτάκης, ως Αντιπροέδρου, και"@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/1/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/1/case/4>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/1/case/4> <http://legislation.di.uoa.gr/ontology/text> "εκ τριών (3) εγκρίτων Ελλήνων πολιτών, ανδρών ήγυναικών, δυναμένων και προθυμοποιουμένων να συμβάλουν εις την επίτευξιν και ευόδωσιν των σκοπών τουΙερού Προσκυνήματος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το λειτούργημα του μέλους του Δ.Σ. είναι τιμητικόν και άμισθον."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Δύνανται όμως να καταβάλωνται παραστατικά έξοδα, προτάσει του Μητροπολίτου Χαλκίδος και εγκρίσει του Μητροπολιτικού Συμβουλίου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα μέλη του Δ.Σ. (ήτοι ο κληρικός και τα τρία άλλα λαϊκά μέλη) διορίζονται, επί τριετεί θητεί’, παρά του Μητροπολίτου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/3/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/3/passage/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/3/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Εις την κρίσιν του Μητροπολίτου εναπόκειται ο επαναδιορισμός μέλους ή μελών του Διοικητικού Συμβουλίου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/4>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα μέλη του Διοικητικού Συμβουλίου, εντός 10ημέρου από του διορισμού των, συνέρχονται και εκλέγουσι μεταξύ αυτών τον Γραμματέα και τον Ταμία."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/5>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/5/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το Διοικητικόν Συμβούλιον ευρίσκεται εν απαρτία, εφ’ όσον παρίστανται τουλάχιστον τρία μέλη, συμπεριλαμβανομένου του Προέδρου, αι δε αποφάσεις αυτού λαμβάνονται κατά πλειοψηφίαν, εν περιπτώσει δε ισοψηφίας νικά η ψήφος του Προέδρου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/6>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/6/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μετά την συγκρότησιν εις σώμα, το Συμβούλιον αναλαμβάνει τα καθήκοντά του και ορίζει δια την επιτέλεσιν τούτων τακτήν κατά μήνα ημέραν συνεδριάσεως."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/6/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/6/passage/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/6/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ο Πρόεδρος του Συμβουλίου δύναται να συγκαλέση τούτο και εκτάκτως, κοινοποιών εγκαίρως την πρόσκλησιν προς τους συμβούλους, υποχρεούται δε εις τούτο και οσάκις ήθελε ζητηθή υπό τριών συμβούλων."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/7>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/7/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εν περιπτώσει οιασδήποτε παραβάσεως των καθηκόντων εκ μέρους μέλους του Διοικητικού Συμβουλίου ή εν ολιγωρία ή αδικαιλογήτ? απουσί’ ή εν συνδρομή λόγου εκ των εν τω επομένω άρθρ? αναφερομένων, ο Μητροπολίτης δέον να απομακρύνη τούτο, ορίζων άμα τον αντικαταστάτην αυτού."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/8>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/8/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/8/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/7/paragraph/8/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του υφισταμένου Διοικητικού Συμβουλίου, το οποίον συνεκροτήθη κατόπιν του υπ’ αριθμ. πρωτ. 1356/19-9-2012 εγγράφου του Σεβασμιωτάτου Μητροπολίτου Χαλκίδος Χρυσοστόμου, εξακολουθεί να ισχύη και μετά την δημοσίευσιν του παρόντος έως το τέλος της θητείας του, ήτοι την 31ην-10-2015, εκτός και αν παραστή ανάγκη αντικατάστασεως ενός μέλους, οπότε παύει ισχύον."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/8>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/8> <http://purl.org/dc/terms/title> ""@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/8/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/8/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/8/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/8/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/8/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/8/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Μέλος του Δ.Σ. του Ιερού Προσκυνήματος διορίζεται ο έχων συμπληρώσει το 21ον έτος της ηλικίας του και διακρινόμενος δια το εκκλησιαστικόν του ήθος, την επιστημονικήν ή επαγγελματικήν και εν γένει κοινωνικήν του δράσιν, εκπίπτει δε του λειτουργήματος, εάν απουσιάσ? αδικαιολογήτως επι τρείς κατά συνέχειαν συνεδριάσεις του Συμβουλίου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/8/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/8/paragraph/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/8/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/8/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/8/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/8/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κατά τα λοιπά, τα εν άρθροις 7, 8, παραγρ. 1 και 2, 9, 10, 11 του υπ’ αριθμ. 5/1978 Κανονισμού «περί Κώδικος Εκκλησιαστικών Υπαλλήλων», κωλύματα διορισμού Εκκλησιαστικών Υπαλλήλων και οι εν άρθροις 131, 132 του αυτού Κανονισμού λόγοι εκπτώσεως αυτών, αποτελούσι κωλύματα διορισμού και λόγους εκπτώσεως των συμβούλων."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/9>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/9/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/9> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/9/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/9/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/9/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/9/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/9/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εν περιπτώσει μη αποδοχής της θέσεως του Συμβούλου, δηλουμένης εις τον Μητροπολίτην Χαλκίδος και Πρόεδρον του Διοικητικού Συμβουλίου του Ιερού Προσκυνήματος, εντός αποκλειστικής προθεσμίας 10 ημερών, από της κοινοποιήσεως του διορισμού, ως και εν περιπτώσει παραιτήσεως, εκπτώσεως ή θανάτου αυτού, ούτος αντικαθίσταται δια τον υπολειπόμενον χρόνον της θητείας του υφ’ ετέρου, διοριζομένου κατά τα εν παραγράφοις 1 και 2 του άρθρου 8 του παρόντος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/10>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10> <http://purl.org/dc/terms/title> ""@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το Συμβούλιον διοικεί το Ιερόν Προσκύνημα και διαχειρίζεται την περιουσίαν αυτού συμφώνως τοις κειμένοις Νόμοις και τω παρόντι Κανονισμώ."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το Συμβούλιον ειδικώτερον:"@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/2> <http://legislation.di.uoa.gr/ontology/text> "Ασκεί καθήκοντα πειθαρχικού και υπηρεσιακού Συμβουλίου, κατά τας διατάξεις του υπ’ αρθμ. 5/1978 Κανονισμού (ΚΕΥ), των υπηρεσιακών φακέλων των υπαλλήλων,τηρουμένων υπό του Γραμματέως του Συμβουλίου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/3> <http://legislation.di.uoa.gr/ontology/text> "Προσλαμβάνει, αναλόγως προς τας οικονομικάς δυνατοτήτας αυτού, το εκάστοτε αναγκαιούν υπαλληλικόν(κληρικολαϊκόν) και υπηρετικόν προσωπικόν (έμμισθονή και εθελοντικόν), δια τας ανάγκας του Ιερού Ναού καιτου Ιερού Προσκυνήματος και προσδιορίζει τα καθήκοντα και την αντιμισθίαν αυτού, κατά τας διατάξεις τουΚώδικος Εκκλησιαστικών Υπαλλήλων."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/4>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/4> <http://legislation.di.uoa.gr/ontology/text> "Καταρτίζει και ψηφίζει τον Προϋπολογισμόν και τονΑπολογισμόν του Ιερού Προσκυνήματος και υποβάλλειτούτους προς έγκρισιν εις το Μητροπολιτικόν Συμβούλιον? τον μεν Προϋπολογισμόν εντός του Α΄ 15νθημέρουτου μηνός Νοεμβρίου εκάστου έτους, τον δε Απολογισμόν, ωσαύτως, κατά μήνα Φεβρουάριον εκάστου έτους."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/5>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/5> <http://legislation.di.uoa.gr/ontology/text> "Αποφασίζει περί της επενδύσεως (π.χ. αγοραίακινήτων) ή της επωφελεστέρας τοποθετήσεως τωνχρηματικών αποθεμάτων του Ιερού Προσκυνήματος,της εκποιήσεως ή υποθηκεύσεως περιουσιακών αυτούστοιχείων και των τιμαλφών, της εκμισθώσεως ακινήτωντου, αγοράς μετοχών ή άλλων επενδυτικών πακέτων,δέχεται δωρεάς, κληρονομίας κ.λπ., εγείρει αγωγάς καισυμβιβάζεται ή παραιτείται από αγωγών."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/6>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/6> <http://legislation.di.uoa.gr/ontology/text> "Εκπροσωπεί το Ιερόν Προσκύνημα ενώπιον πάσηςΑρχής και των Δικαστηρίων, δια του Προέδρου αυτούή του νομίμως εξουσιοδοτουμένου παρά τούτου καιδιορίζει, επ’ αμοιβή, τους δια την διεξαγωγήν δικαστικώνυποθέσεων και δια την μελέτην θεμάτων του Ιερού Προσκυνήματος αναγκαιούντας εκάστοτε πληρεξουσίουςδικηγόρους."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/7>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/7> <http://legislation.di.uoa.gr/ontology/text> "Αποφασίζει και ενεργεί πάσαν δια λογαριασμόντου Ιερού Προσκυνήματος προμήθειαν, ως και την εκτέλεσιν παντός έργου, συμφώνως προς τας κειμένας διατα εκκλησιαστικά Ν.Π.Δ.Δ. διατάξεις."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/8>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/8> <http://legislation.di.uoa.gr/ontology/text> "Αποφασίζει περί της διαθέσεως των πόρων τουΙερού Προσκυνήματος, κατά τας διατάξεις του παρόντοςΚανονισμού."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/9>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/9> <http://legislation.di.uoa.gr/ontology/text> "Μελετά, υποδεικνύει και λαμβάνει μέτρα προς βελτίωσιν και αρτιωτέραν εκπλήρωσιν των σκοπών τουΙερού Προσκυνήματος και αύξησιν των πόρων αυτού,ως αρμόδιον επί παντός ζητήματος, όπερ αφορά τοΙερόν Προσκύνημα."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/10>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/10> <http://legislation.di.uoa.gr/ontology/text> "Δύναται να διορίζ? επιτροπάς επί ειδικών περιπτώσεων καθορίζον και τον κύκλον των αρμοδιοτήτων των,δι’ ειδικού Κανονισμού εκδοθησομένου κατόπιν αποφάσεώς του και προσδιορίζον και τυχόν αμοιβάς τούτωνκατά την κρίσιν του."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/11>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/11> <http://legislation.di.uoa.gr/ontology/text> "Ανακηρύσσει μεγάλους ευεργέτας, ευεργέτας καιδωρητάς."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/12>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/10/paragraph/2/case/12> <http://legislation.di.uoa.gr/ontology/text> "Αποφασίζει δια κάθε θέμα ή πρόβλημα, το οποίοναφορά εις την λειτουργίαν και την αναβάθμισιν τωνυπηρεσιών του Ιερού Προσκυνήματος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11> <http://purl.org/dc/terms/title> "Αρμοδιότητες Προέδρου, Αντιπροέδρου και Ταμίου"@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ο Πρόεδρος του Συμβουλίου ασκεί τας κάτωθι αρμοδιότητας:"@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/case/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/case/2> <http://legislation.di.uoa.gr/ontology/text> "Καταρτίζει την ημερησίαν διάταξιν των Συνεδριάσεων του Συμβουλίου, τη εισηγήσει του Γραμματέως τουΔιοικητικού Συμβουλίου, και καλεί τούτο και εκτάκτως,κατά τους όρους της παραγράφου 6 του άρθρου 7 τουπαρόντος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/case/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/case/3> <http://legislation.di.uoa.gr/ontology/text> "Επιμελείται, εν συνεργασία μετά του Γραμματέως,της εκτελέσεως των υπό του Συμβουλίου λαμβανομένωναποφάσεων."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/case/4>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/case/4> <http://legislation.di.uoa.gr/ontology/text> "Εκπροσωπεί το Ιερόν Προσκύνημα, κατά τα οριζόμενα εν τω άρθρω 10, παρ. ε΄, του παρόντος Κανονισμού."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/case/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/case/5>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/case/5> <http://legislation.di.uoa.gr/ontology/text> "Yπογράφει άπαντα τα εξερχόμενα έγγραφα καιαποφάσεις του Διοικητικού Συμβουλίου, καθώς και πάντα τα γραμμάτια εισπράξεων και τα εντάλματα πληρωμών, ως και τας επιταγάς και παν άλλο έγγραφον,σχετικόν με την διαχείρισιν του Ιερού Προσκυνήματοςκαι διακινεί, δια του Ταμίου, τους παρά Τραπέζαις λογαριασμούς. Τα εν τη παρούσ? παραγράφ? αναφερόμενα και αφορώντα την οικονομικήν διαχείρισιν τουΙερού Προσκυνήματος παραστατικά συνυπογράφονταικαι υπό του Ταμίου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/case/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/case/6>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/case/6> <http://legislation.di.uoa.gr/ontology/text> "Προσκαλεί εις τας συνεδριάσεις τα Μέλη του Διοικητικού Συμβουλίου και διευθύνει τας συζητήσεις."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/case/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/case/7>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/1/case/7> <http://legislation.di.uoa.gr/ontology/text> "Τον Πρόεδρον, απόντα ή κωλυόμενον, αναπληροί οδεόντως παρ’ αυτού εξουσιοδοτηθείς νόμιμος αναπληρωτής του, κατά τα εν τω άρθρω 7, παρ. 1 του παρόντοςπροβλεπόμενα, έχων τας αυτάς αρμοδιότητας ή ταςειδικάς, εν τω εξουσιοδοτικώ εγγράφ? αναφερομένας,πλην της ισχύος της ψήφου του εν ισοψηφία."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Αρμοδιότητες Αντιπροέδρου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ο Αντιπρόεδρος βοηθεί τον Πρόεδρον εις το έργον του και ασκεί και οιανδήποτε ανατιθεμένην αυτώ υπό του Σεβασμιωτάτου Προέδρου υπηρεσίαν, εξυπηρετικήν των σκοπών και της ευρύθμου λειτουργίας του Ιερού Προσκυνήματος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Αρμοδιότητες Γραμματέως.Ο Γραμματεύς:"@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/3/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/3/case/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/3/case/2> <http://legislation.di.uoa.gr/ontology/text> "Εισηγείται εις τον Σεβασμιώτατον Πρόεδρον θέματα δια την κατάρτισιν της ημερησίας διατάξεως τωνσυνεδριάσεων του Διοικητικού Συμβουλίου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/3/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/3/case/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/3/case/3> <http://legislation.di.uoa.gr/ontology/text> "Τηρεί τα πρακτικά των συνεδριάσεων."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/3/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/3/case/4>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/3/case/4> <http://legislation.di.uoa.gr/ontology/text> "Διεκπεραιώνει όλη την γραφική υπηρεσία και τηναλληλογραφία του Ιερού Προσκυνήματος.Τον Γραμματέα προσωρινώς απόντα ή κωλυόμενοναντικαθιστά έτερον μέλος του Διοικητικού Συμβουλίου,υπό του Προέδρου οριζόμενον."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Αρμοδιότητες του Ταμίου, ο οποίος πρέπει να διαθέτ? γνώσιν ή εμπειρίαν του αντικειμένου:"@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/2> <http://legislation.di.uoa.gr/ontology/text> "Έχει την ευθύνην και την εποπτείαν επί όλων τωναφορώντων το Ιερόν Προσκύνημα οικονομικών και διαχειριστικών θεμάτων."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/3> <http://legislation.di.uoa.gr/ontology/text> "Προσυπογράφει μετά του Σεβασμιωτάτου Προέδρου τα γραμμάτια εισπράξεων, τα εντάλματα πληρωμών και τας επιταγάς."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/4>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/4> <http://legislation.di.uoa.gr/ontology/text> "Τηρεί και ενημερώνει υπευθύνως και λεπτομερώςτα διαχειριστικά βιβλία και διεξάγει και την λογιστικήνυπηρεσίαν. Εις περίπτωσιν αδυναμίας τηρήσεως της διεξαγωγής της λογιστικής υπηρεσίας υπό των μελών τουΔιοικητικού Συμβουλίου δύναται να ανατεθή η εργασίααύτη εις λογιστήν, εθελοντήν ή αμειβόμενον."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/5>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/5> <http://legislation.di.uoa.gr/ontology/text> "Συντάσσει Προϋπολογισμούς, Απολογισμούς καιΙσολογισμούς, τους οποίους υποβάλλει εγκαίρως καιεισηγείται εις το Διοικητικόν Συμβούλιον."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/6>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/6> <http://legislation.di.uoa.gr/ontology/text> "Εισηγείται όσα αφορούν εις την ασφαλεστέρανκαι αποδοτικωτέραν αξιοποίησιν των αποθεματικώντου Προσκυνήματος, καθώς και την εκμετάλλευσιν τηςκινητής και ακινήτου περιουσίας αυτού."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/7>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/7> <http://legislation.di.uoa.gr/ontology/text> "Ενεργεί προχείρους διαγωνισμούς δια την προμήθειαν των απαραιτήτων υλικών και των ειδών της Εκθέσεως, φροντίζων δια την εξασφάλισιν της καλυτέραςποιότητος και μικροτέρου κόστους, και επιβλέπει τηντήρησιν των κατά Νόμον προβλεπομένων προϋποθέσεων δια πάσαν είσπραξιν και πληρωμήν και την εξασφάλισιν και διαφύλαξιν των απαραιτήτων παραστατικώνστοιχείων."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/8>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/11/paragraph/4/case/8> <http://legislation.di.uoa.gr/ontology/text> "Εις περίπτωσιν προσωρινής απουσίας ή αδυναμίας,τον αντικαθιστά έτερον μέλος του Διοικητικού Συμβουλίου, υπό του Προέδρου οριζόμενον."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12> <http://purl.org/dc/terms/title> "Προσωπικόν του Ιερού Προσκυνήματος"@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Αι οργανικαί θέσεις προσωπικού του Ιερού Προσκυνήματος είναι:"@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Μία (1) θέσις ΠΕ Εφημερίου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Μία (1) θέσις ΠΕ Διακόνου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/4>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "Δύο (2) θέσεις Ιεροψαλτών, κατά τα υπό του Κανονισμού περί Ιεροψαλτών οριζόμενα."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/5>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "Μία (1) θέσις ΥΕ Νεωκόρου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/6>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Μία (1) θέσις ΥΕ Βοηθού Νεωκόρου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/7>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/7> <http://legislation.di.uoa.gr/ontology/text> "Μία (1) θέσις ΥΕ Φύλακος - Κηπουρού."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/8>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/8> <http://legislation.di.uoa.gr/ontology/text> "Μία (1) θέσις ΔΕ Γραφέως."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/9>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/1/passage/9> <http://legislation.di.uoa.gr/ontology/text> "Δύο (2) θέσεις ΥΕ Καθαριστριών."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η κάλυψις των ως άνω θέσεων διενεργείται, αναλόγως προς τας οικονομικάς δυνατοτήτας του Ιερού Προσκυνήματος και συμφώνως ταις διατάξεσι του Κανονισμού 5/1978 «Περί Κώδικος Εκκλησιαστικών Υπαλλήλων»."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εις τας θέσεις των Κληρικών δύναται να διορίζωνται και μετακλητοί Εφημέριοι, κατά τας διατάξεις του Κώδικος Εκκλησιαστικών Υπαλλήλων."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/4>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εις τας ως άνω θέσεις δύναται να προσλαμβάνωνται, κατόπιν αποφάσεως του Δ.Σ., υπάλληλοι με συμβάσεις έργου ή εργασίας ωρισμένου χρόνου, τηρουμένων ως προς την μισθοδοσίαν αυτών των κειμένων διατάξεων περί Εκκλησιαστικών Υπαλλήλων."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/5>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/5/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "α. Εις περιπτώσεις επειγουσών υπηρεσιακών αναγκών, το Δ.Σ. του Ιερού Προσκυνήματος δύναται να προσλαμβάν?, κατόπιν αποφάσεώς του, έκτακτον και δι’ ωρισμένον χρόνον λαϊκόν εργατοτεχνικόν προσωπικόν."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/5/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/5/passage/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/5/passage/2> <http://legislation.di.uoa.gr/ontology/text> "β. Οι διοριζόμενοι εις οργανικάς θέσεις εντάσσονται εις βαθμόν και Κατηγορίαν, ανάλογον προς τα τυπικά και ουσιαστικά προσόντα των, κατά τας διατάξεις του Κώδικος Εκκλησιαστικών Υπαλλήλων."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/6>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/6/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Δύναται να προσλαμβάνηται και εθελοντικόν προσωπικόν, τα καθήκοντα του οποίου θα καθορίζωνται υπό του Διοικητικού Συμβουλίου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/7>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/7/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Δύναται το Συμβούλιον, δι’ αποφάσεώς του, να πληροί εκάστοτε όσας εκ των ανωτέρω θέσεων θεωρεί αναγκαίας, μη υποχρεουμένου εις πλήρωσιν απάντων των θέσεων, ουδέ των δι’ οιονδήποτε λόγον κενουμένων τοιούτων."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/8>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/8/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/8> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/8/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/12/paragraph/8/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το προσωπικόν του Ιερού Προσκυνήματος, το οποίον ήδη υπηρετεί κατά την δημοσίευσιν του παρόντος Κανονισμού, τοποθετείται, δι’ αποφάσεως του Διοικητικού Συμβουλίου, εις θέσεις της παραγράφου 1 του παρόντος άρθρου, ακόμη και εάν δεν συντρέχουν οι προϋποθέσεις του άρθρου 14 του παρόντος Κανονισμού, και πάντως μη μεταβαλομένης της εργασιακής αυτών σχέσεως."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/13>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/13> <http://purl.org/dc/terms/title> ""@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/13/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/13/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/13/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/13/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/13/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/13/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το υπό την άμεσον εποπτείαν και διοίκησιν υπό του Σεβασμιωτάτου Προέδρου Κληρικόν προσωπικόν και τελούν υπό την άμεσον εποπτείαν και διοίκησίν του εντάσσεται και εξελίσσεται βαθμολογικώς και μισθολογικώς, συμφώνως προς τας κειμένας διατάξεις, διεπόμενον αναλόγως υπό των διατάξεων του Ν. 590/1977 «Περί Καταστατικού Χάρτου της Εκκλησίας της Ελλάδος» και του υπ’ αριθμ. 230/2012 Κανονισμού «Περί Εφημερίων και Διακόνων»."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/13/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/html> "Το υπό την άμεσον εποπτείαν και διοίκησιν υπό του Σεβασμιωτάτου Προέδρου Κληρικόν προσωπικόν και τελούν υπό την άμεσον εποπτείαν και διοίκησίν του εντάσσεται και εξελίσσεται βαθμολογικώς και μισθολογικώς, συμφώνως προς τας κειμένας διατάξεις, διεπόμενον αναλόγως υπό των διατάξεων του  <a href=\"http://legislation.di.uoa.gr/law/1977/590\">Ν. 590/1977</a> «Περί Καταστατικού Χάρτου της Εκκλησίας της Ελλάδος» και του υπ’ αριθμ. 230/2012 Κανονισμού «Περί Εφημερίων και Διακόνων».".
+<http://legislation.di.uoa.gr/rp/2013/244/article/13/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/13/paragraph/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/13/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/13/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/13/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/13/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Προκειμένου περί του λαϊκού προσωπικού, ως προς την πρόσληψιν, την ένταξιν και την εξέλιξιν, βαθμολογικήν και μισθολογικήν, τα δικαιώματα και εποχρεώσεις αυτού, την αποχώρησιν, την πειθαρχικήν δικαιοδοσίαν του Διοικητικού Συμβουλίου και την εν γένει υπηρεσιακήν αυτού κατάστασιν, εφαρμόζονται αι διατάξεις του υπ’ αριθμ. 5/1978 Κανονισμού «Περί Κώδικος Εκκλησιαστικών Υπαλλήλων»."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/13/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/13> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/13/paragraph/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/13/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/13/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/13/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/13/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα ειδικώτερα καθήκοντα του Κληρικολαϊκού προσωπικού του Ιδρύματος καθορίζονται ειδικώτερον δι’ Εσωτερικού Κανονισμού συντασσομένου υπό του Διοικητικού Συμβουλίου και εγκρινομένου υπό του Μητροπολιτικού Συμβουλίου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/14>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εφημέριος και Ιεροδιάκονος διορίζονται οι κεκτημένοι πτυχίον Θεολογικής Σχολής ή Ανωτέρου Εκκλησιαστικού Φροντιστηρίου ή άλλης ισοτίμου Εκκλησιαστικής Σχολής, δια πράξεως του Μητροπολίτου Χαλκίδος, μετά γνώμην του Διοικητικού Συμβουλίου και επί τριετεί θητεί’ δυναμένη να ανανεωθή."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Προτιμώνται οι γλωσσομαθείς."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ιεροψάλται διορίζονται οι κεκτημένοι πτυχίον της Σχολής Βυζαντινής Μουσικής της Ιεράς Μητροπόλεως Χαλκίδος ή του Ωδείου Αθηνών ή άλλου τύπου Μουσικού Σχολείου ανεγνωρισμένου, καλλίφωνοι δεδοκιμασμένης πείρας, μετά γνώμην του Διοικητικού Συμβουλίου και δι’ αποφάσεως του Μητροπολίτου Χαλκίδος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Νεωκόροι διορίζονται οι κεκτημένοι απολυτήριον Δημοτικού Σχολείου, δι’ αποφάσεως του οικείου Μητροπολίτου, μετά πρότασιν του Διοικητικού Συμβουλίου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/4>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Φύλαξ - Κηπουρός, Καθαρίστριαι, διορίζονται οι κεκτημένοι Απολυτήριον στοιχειώδους εκπαιδεύσεως."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/5>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/5/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/14/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Γραφεύς του Ιερού Προσκυνήματος διορίζεται ο κεκτημένος Απολυτήριον Γενικού Λυκείου ή άλλης ισοτίμου Σχολής."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/15>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/15> <http://purl.org/dc/terms/title> ""@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/15/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/15> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/15/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/15/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/15/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/15/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/15/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα εις τον Ιερόν Ναόν τιμαλφή και πάσης φύσεως έτερα αφιερώματα υλικής αξίας εκποιούνται, μετά προηγουμένην εκτίμησιν της αξίας αυτών παρ’ ειδικών, δια προφορικού πλειοδοτικού διαγωνισμού, ενώπιον Τριμελούς Επιτροπής, αποτελουμένης εξ ενός μέλους του Διοικητικού Συμβουλίου, ενός κληρικού και ενός λαϊκού, διοριζομένων υπό του Μητροπολίτου Χαλκίδος ή κατ’ άλλον τρόπον, ον το Διοικητικόν Συμβούλιον του Ιερού Προσκυνήματος εκάστοτε, δι’ αποφάσεώς του, προκρίνει επωφελέστερον δια τα συμφέροντα του Ιερού Προσκυνήματος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/15/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/15> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/15/paragraph/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/15/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/15/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/15/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/15/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Τα πρακτικα του ανωτέρω διαδικασιών εγκρίνονται παρά του Διοικητικού Συμβουλίου, εκτός εάν αποφάσει τούτου δεν χρήζουν εγκρίσεώς του, το δε εισπραττόμενον ποσόν, απαλλαττόμενον πάσης κρατήσεως, εισάγεται εις το Ταμείον του Ιερού Προσκυνήματος, εκδιδομένου σχετικού Γραμματίου εισπράξεως, εις ειδικήν στήλην, προορίζεται δε δια την εκπλήρωσιν των σκοπών του Ιερού Προσκυνήματος και κυρίως δια τα έργα του."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Προϋπολογισμός - Απολογισμός - Λογιστικά Βιβλία."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το οικονομικόν έτος του Ιερού Προσκυνήματος συμπίπτει μr το εκάστοτε ισχύον δια το Δημόσιον και τα Ν.Π.Δ.Δ."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Δύο μήνας προ της λήξεως του οικονομικού έτους, το Δ.Σ. καταρτίζει τον Προϋπολογισμόν δια την χρήσιν του επομένου οικονομικού έτους και υποβάλλει τούτον αρμοδίως εις το Μητροπολιτικόν Συμβούλιον προς έγκρισιν."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/4>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/4/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/4> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/4/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/4/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Εντός δύο μηνών από της λήξεως του οικονομικού έτους, το Δ.Σ. συντάσσει τον Απολογισμόν του λήξαντος οικονομικού έτους και υποβάλλει τούτον εις το Μητροπολιτικόν Συμβούλιον προς έλεγχον και έγκρισιν."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/5>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/5/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/5/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/5/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Δια πασαν είσπραξιν εκδίδεται γραμμάτιον εισπράξεως, δια πάσαν δε πληρωμήν ένταλμα πληρωμής."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/5/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/5> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/5/passage/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/5/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Τα γραμμάτια εισπράξεων και τα εντάλματα πληρωμής, είς α επισυνάπτονται άπαντα τα νόμιμα παραστατικά, φέρουν την υπογραφήν του Προέδρου και του Ταμίου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/6>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/6/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/6/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/6/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι πόροι του Ιερού Προσκυνήματος κατατίθενται παρ’ οι’δήποτε ασφαλεί Τραπέζ?, μέσ? της οποίας ενεργείται η ταμειακή διαχείρισις αυτού."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/6/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/6/passage/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/6/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Κατά την καταμέτρησιν των χρημάτων του παγκαρίου δύναται να κρατήται εις το χρηματοκιβώτιον του Ιερού Προσκυνήματος ποσόν, καθοριζόμενον εκάστοτε υπό του Διοικητικού Συμβουλίου, δια την κάλυψιν των τρεχουσών αναγκών."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/6/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/6> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/6/passage/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/6/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Η διαχείρισις - διακίνησις του ποσού τούτου και η σχετική λογοδοσία θα γίνηται υπό του Ταμίου ή άλλου τινός, εξουσιοδοτημένου υπό του Διοικητικού Συμβουλίου, εις τον οποίον θα χρεώνεται το ποσόν."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Παρά του Διοικητικού Συμβουλίου τηρούνται ταεξής βιβλία:"@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/2> <http://legislation.di.uoa.gr/ontology/text> "Βιβλίον Βαπτίσεων."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/3> <http://legislation.di.uoa.gr/ontology/text> "Βιβλίον Γάμων."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/4>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/4> <http://legislation.di.uoa.gr/ontology/text> "Βιβλίον πρακτικών Διοικητικού Συμβουλίου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/5>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/5> <http://legislation.di.uoa.gr/ontology/text> "Βιβλίον ταμείου και αναλυτικού καθολικού."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/6>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/6> <http://legislation.di.uoa.gr/ontology/text> "Βιβλίον Πρωτοκόλλου εισερχομένων και εξερχομένων εγγράφων."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/7>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/7> <http://legislation.di.uoa.gr/ontology/text> "Βιβλίον προσωπικού."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/8>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/8> <http://legislation.di.uoa.gr/ontology/text> "Βιβλίον μισθοδοσίας προσωπικού."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/9>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/9> <http://legislation.di.uoa.gr/ontology/text> "Βιβλίον αδειών προσωπικού."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/10>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/10> <http://legislation.di.uoa.gr/ontology/text> "Βιβλίον ειδών και υλικών ή αποθήκης."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/11>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/11> <http://legislation.di.uoa.gr/ontology/text> "Γραμμάτια εισπράξεων."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/12>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/12> <http://legislation.di.uoa.gr/ontology/text> "Εντάλματα πληρωπληρωμών."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/13>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/13> <http://legislation.di.uoa.gr/ontology/text> "Μπλοκ εισπράξεων εκ τελέσεως μυστηρίων δια τονΙερόν Ναόν και την αμοιβήν του προσωπικού."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/14>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/14> <http://legislation.di.uoa.gr/ontology/text> "Κτηματολόγιον εις ο καταχωρείται η ακίνητος περιουσία του Ιερού Προσκυνήματος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/15>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/15> <http://legislation.di.uoa.gr/ontology/text> "Βιβλίον κινητής περιουσίας."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/16>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/16> <http://legislation.di.uoa.gr/ontology/text> "Βιβλίον τιμαλφών."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/17>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/17> <http://legislation.di.uoa.gr/ontology/text> "Βιβλίον Πρακτικών Καταμετρήσεως Παγκαρίων."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/18>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/16/paragraph/7/case/18> <http://legislation.di.uoa.gr/ontology/text> "Δελτίον παραγγελίας διαφόρων ειδών.Τον τύπον και τας λεπτομερείας τηρήσεως των ανωτέρω Βιβλίων καθορίζει δι’ αποφάσεώς του το ΔιοικητικόνΣυμβούλιον (χειρογράφως ή ηλεκτρονικώς), συμφώνωςπρός τας ισχυούσας κατά περίπτωσιν διατάξεις, ήτοιτηρουμένου του όρου της θεωρήσεως των χειρογράφωνβιβλίων υπό της Ιεράς Μητροπόλεως Χαλκίδος, και τηςκειμένης νομοθεσίας περί της τηρήσεως ηλεκτρονικώναρχείων, βιβλίων και βάσεων δεδομένων."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/17>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/17/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/17> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/17/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/17/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/17/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/17/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/17/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Προβλέπεται η ίδρυσις Μουσείου Μικρασιατικού Πολιτισμού, προς διαφύλαξιν και έκθεσιν Ιερών Κειμηλίων και άλλων πολιτιστικών ειδών, τα οποία οι ξεριζωμένοι εκ της Αρτάκης της Μικράς Ασίας πρόσφυγες, μετά πολλών θυσιών και κινδύνων, εκόμισαν εις την Νέαν Αρτάκην Ευβοίας."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/17/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/17/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/17/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/17/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Επιτρέπεται η συγκέντρωσις παλαιών εικόνων και ιερών εν γένει σκευών εκ των ευρισκομένων εις την Νέαν Αρτάκην και δη των προερχομένων εκ της Μικράς Ασίας, κατόπιν αδείας του οικείου Μητροπολίτου, προς προστασίαν και διαφύλαξιν αυτών και εμπλουτισμόν του υπό ίδρυσιν Μουσείου του Ιερού Προσκυνήματος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/17/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/17/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/17/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/17/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Η ευθύνη διαφυλάξεως και συντηρήσεως τούτων βαρύνει το Ιερόν Προσκύνημα."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/18>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/18/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/18> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/18/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/18/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/18/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/18/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/18/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Απαγορεύεται η παραμονή προσκυνητών και απόρων εν γένει εις ξενώνας ή έτερα κτίσματα του Ιερού Προσκυνήματος πέραν των 48 ωρών, εκτός και εάν έχουν την ευλογίαν του Προέδρου του Διοικητικού Συμβουλίου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/19>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/19/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/19> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/19/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/19/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/19/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/19/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/19/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το Ιερόν Προσκύνημα Παναγία η Φανερωμένη» απολαμβάνει πάντων των προνομίων, ως και φορολογικών απαλλαγών και λοιπών ατελειών, των οποίων απολαμβάνουν και τα λοιπά Εκκλησιαστικά Νομικά Πρόσωπα, εν τη έννοια του άρθρου 1, παράγρ."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/19/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/19/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/19/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/19/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "4, του Ν. 590/1977 και είναι θρησκευτικόν νομικόν πρόσωπον αυτοχρηματοδοτούμενον υπό την έννοιαν του άρθρου 37 του Ν. 1591/1986 (Α΄ 50)."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/19/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/html> "4, του  <a href=\"http://legislation.di.uoa.gr/law/1977/590\">Ν. 590/1977</a> και είναι θρησκευτικόν νομικόν πρόσωπον αυτοχρηματοδοτούμενον υπό την έννοιαν του άρθρου 37 του Ν. 1591/1986 (Α΄ 50).".
+<http://legislation.di.uoa.gr/rp/2013/244/article/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/20>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το Διοικητικόν Συμβούλιον δύναται:"@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/1/case/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/1/case/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/1/case/2> <http://legislation.di.uoa.gr/ontology/text> "Να διενεργή ελευθέρως προχείρους μειοδοτικούςδιαγωνισμούς δια την προμήθειαν των πάσης φύσεωςαναγκαίων υλικών."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/1/case/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Case>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/1/case/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/1/case/3> <http://legislation.di.uoa.gr/ontology/text> "Να ζητή και να εγκρίν? προσφοράς κατασκευήςέργων, αφορώντων εις τας εγκαταστάσεις αυτού, μέχρι ποσού, το οποίον ισχύει εκάστοτε διά τα Εκκλησιαστικά Ν.Π.Δ.Δ., δι’ αυτεπιστασίας ή δι’ αναθέσεωςεις εργολάβους. Εις επειγούσας περιπτώσεις, όπως καιδια την εκτέλεσιν καλλιτεχνικών έργων, επιτρέπεται ηαπ’ ευθείας ανάθεσις, τη εγκρίσει του ΜητροπολιτικούΣυμβουλίου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το Διοικητικόν Συμβούλιον δύναται ωσαύτως να διενεργή ελευθέρως δημοπρασίας εκποιήσεως κινητών ανεξαρτήτως ποσού, κατακυρούν ταύτα εις τον τελευταίον πλειοδότην."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/20/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ο Πρόεδρος δύναται να διενεργή ελευθέρως την διαχείρησιν των οικονομικών του Ιερού Προσκυνήματος, επί τη βάσει των κονδυλίων του προϋπολογισμού, τηρών τους όρους του παρόντος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/21>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/21/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/21> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/21/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/21/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/21/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/21/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/21/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Παν θέμα μή προβλεπόμενον εις τον παρόντα Κανονισμόν διευθετείται δι’ ομοφώνου αποφάσεως του Διοικητικού Συμβουλίου και τη εγκρίσει του Μητροπολιτικού Συμβουλίου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/22>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/22> <http://purl.org/dc/terms/title> ""@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/22/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/22/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/22/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/22/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/22/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/22/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ο παρών Κανονισμός δύναται να τροποποιηθή δι’ Αποφάσεως της Ιεράς Συνόδου της Εκκλησίας της Ελλάδος, δημοσιευομένης εις την Εφημερίδα της Κυβερνήσεως και εις το Περιοδικόν «ΕΚΚΛΗΣΙΑ», έπειτα από ομόφωνον πρότασιν του Δ.Σ. του Ιερού Προσκυνήματος και έγκρισιν του Μητροπολιτικού Συμβουλίου."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/22/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/22/paragraph/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/22/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/22/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/22/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/22/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ο παρών Κανονισμός ισχύει από της δημοσιεύσεώς του εις την Εφημερίδα της Κυβερνήσεως, δημοσιεύεται δε και εις το Περιοδικόν «ΕΚΚΛΗΣΙΑ»."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/22/paragraph/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/22> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/22/paragraph/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/22/paragraph/3/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/22/paragraph/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/22/paragraph/3/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/22/paragraph/3/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Από της ενάρξεως της ισχύος του παρόντος Κανονισμού καταργείται πάσα διάταξις αντικειμένη εις αυτόν και δη η Κανονιστική Διάταξις 37/1973 (Φ.Ε.Κ. 24/Α΄/1973)."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/244> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/23>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/23/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/23> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/23/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/23/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/23/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/23/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/23/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Ο παρών Κανονισμός δεν προκαλεί δαπάνην εις βάρος του Προϋπολογισμού του Νομικού Προσώπου της Ιεράς Μητροπόλεως Χαλκίδος."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/23/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/23/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/23/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/23/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ο Κανονισμός αυτός να δημοσιευθεί στην Εφημερίδα της Κυβερνήσεως."@el.
+<http://legislation.di.uoa.gr/rp/2013/244/article/23/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/23/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/244/article/23/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/rp/2013/244/article/23/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Εν Αθήναις, τη 18η Οκτωβρίου 2013 Ο Πρόεδρος †Ο Αθηνών ΙΕΡΩΝΥΜΟΣ Ακριβές αντίγραφον Αθήναι, 21 Οκτωβρίου 2013 Ο Αρχιγραμματε{ς †Ο Διαυλείας ΓΑΒΡΙΗΛ F"@el.
+<http://legislation.di.uoa.gr/rp/2013/242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/RegulatoryProvision>.
+<http://legislation.di.uoa.gr/rp/2013/242> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/244>.
+<http://legislation.di.uoa.gr/rp/2013/242> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/rp/2013/242> <http://purl.org/dc/terms/created> "2013-11-06"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/rp/2013/242> <http://legislation.di.uoa.gr/ontology/legislationID> "242/2013"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/rp/2013/242> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/rp/2013/242> <http://purl.org/dc/terms/title> "Τροποποίηση του υπ’ αριθμ. 180/2007 Κανονισμού περί συστάσεως και λειτουργίας του Εκκλησιαστικού Ιδρύματος υπό την επωνυμίαν ΕΝΟΡΙΑΚΟΝ ΕΚΚΛΗΣΙΑΣΤΙΚΟΝ ΜΟΥΣΕΙΟΝ ΙΕΡΟΥ ΝΑΟΥ ΑΓΙΑΣ ΤΡΙΑΔΟΣ ΑΔΑΜΑΝΤΟΣ ΜΗΛΟΥ, της Ιεράς Μητροπόλεως Σύρου, Τήνου, Άνδρου, Κέας και Μήλου.   "@el.
+<http://legislation.di.uoa.gr/rp/2013/242/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/242/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Tας διατάξεις των άρθρων 29 παρ. 2, 36 παρ. 6 και 45 παρ. 5 του Ν. 590/1977 «Περί του Καταστατικού Χάρτου της Εκκλησίας της Ελλάδος» (Φ.Ε.Κ. Α΄ 146/1977). "@el.
+<http://legislation.di.uoa.gr/rp/2013/242> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/citation/1>.
+<http://legislation.di.uoa.gr/rp/2013/242/citation/1> <http://legislation.di.uoa.gr/ontology/html> "Tας διατάξεις των άρθρων 29 παρ. 2, 36 παρ. 6 και 45 παρ. 5 του  <a href=\"http://legislation.di.uoa.gr/law/1977/590\">Ν. 590/1977</a> «Περί του Καταστατικού Χάρτου της Εκκλησίας της Ελλάδος» (Φ.Ε.Κ. Α΄ 146/1977). ".
+<http://legislation.di.uoa.gr/rp/2013/242/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/242/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Τας υποχρεώσεις της Ποιμαινούσης Εκκλησίας προς το Χριστεπώνυμον πλήρωμα, αι οποίαι απορρέουν από τας Ευαγγελικάς Επιταγάς, τους Ιερούς Κανόνας και τους Νόμους του Κράτους. "@el.
+<http://legislation.di.uoa.gr/rp/2013/242> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/citation/2>.
+<http://legislation.di.uoa.gr/rp/2013/242/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/242/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Τας υφισταμένας κοινωνικάς και πνευματικάς ανάγκας της Ιεράς Μητροπόλεως Σύρου, Τήνου, Άνδρου, Κέας και Μήλου. "@el.
+<http://legislation.di.uoa.gr/rp/2013/242> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/citation/3>.
+<http://legislation.di.uoa.gr/rp/2013/242/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/242/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Την υπ’ αριθμ. 2458/19.9.2013 Πρότασιν του Σεβασμιωτάτου Μητροπολίτου Σύρου, Τήνου, Άνδρου, Κέας και Μήλου Δωροθέου. "@el.
+<http://legislation.di.uoa.gr/rp/2013/242> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/citation/4>.
+<http://legislation.di.uoa.gr/rp/2013/242/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/242/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Την από 1.10.2013 Γνωμοδότησιν του Νομικού Γραφείου της Ιεράς Συνόδου της Εκκλησίας της Ελλάδος. "@el.
+<http://legislation.di.uoa.gr/rp/2013/242> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/citation/5>.
+<http://legislation.di.uoa.gr/rp/2013/242/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/rp/2013/242/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Την από 11.10.2013 Εγκριτικήν Απόφασιν της Διαρκούς Ιεράς Συνόδου"@el.
+<http://legislation.di.uoa.gr/rp/2013/242> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/citation/6>.
+<http://legislation.di.uoa.gr/rp/2013/242> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/issue/1>.
+<http://legislation.di.uoa.gr/rp/2013/242/issue/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/ParsingIssue>.
+<http://legislation.di.uoa.gr/rp/2013/242/issue/1> <http://legislation.di.uoa.gr/ontology/text> "Δεν αναγνωρίστηκαν οι υπογραφόντες."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/242> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/1>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Το στοιχείο α΄ της πρώτης παραγράφου του άρθρου 4 του υπ’ αριθμ. 180/2007 Κανονισμού λειτουργίας του Εκκλησιαστικού Ιδρύματος υπό την επωνυμίαν «ΕΝΟΡΙΑΚΟΝ ΕΚΚΛΗΣΙΑΣΤΙΚΟΝ ΜΟΥΣΕΙΟΝ ΙΕΡΟΥ ΝΑΟΥ ΑΓΙΑΣ ΤΡΙΑΔΟΣ ΑΔΑΜΑΝΤΟΣ ΜΗΛΟΥ», της Ιεράς Μητροπόλεως Σύρου, Τήνου, Άνδρου, Κέας και Μήλου (Φ.Ε.Κ. 246/2007/τχ."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Α΄), τροποποιείται ως εξής:"@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/1/paragraph/1/passage/2/modification/1>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/1/paragraph/1/passage/2/modification/1>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGround> <http://legislation.di.uoa.gr/rp/2013/242>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/1/paragraph/1/passage/2/modification/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Edit>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/1/paragraph/1/passage/2/modification/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/1/paragraph/1/passage/2/modification/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/1/paragraph/1/passage/2/modification/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/1/paragraph/1/passage/2/modification/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "α. Εκ του εκάστοτε Μητροπολίτου Σύρου και Μήλου, ως Προέδρου"@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/242> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/2>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος Κανονισμού αρχίζει από την δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ο παρών Κανονισμός δημοσιεύεται επίσης στο Επίσημον Δελτίον της Εκκλησίας της Ελλάδος «ΕΚΚΛΗΣΙΑ»."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/rp/2013/242> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Με τον παρόντα Κανονισμό δεν προκαλείται δαπάνη σε βάρος του προϋπολογισμού του Νομικού Προσώπου της Ιεράς Μητροπόλεως Σύρου, Τήνου, Άνδρου, Κέας και Μήλου."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Ο Κανονισμός αυτός να δημοσιευθεί στην Εφημερίδα της Κυβερνήσεως."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Εν Αθήναις, τη 18η Οκτωβρίου 2013 Ο Πρόεδρος †Ο Αθηνών ΙΕΡΩΝΥΜΟΣ Ακριβές αντίγραφον Αθήναι, 18 Oκτωβρίου 2013 Ο Αρχιγραμματε{ς †Ο Διαυλείας ΓΑΒΡΙΗΛ ΕΘΝΙΚΟ ΤΥΠΟΓΡΑΦΕΙΟ ΕΦΗΜΕΡΙΣ ΤΗΣ ΚΥΒΕΡΝΗΣΕΩΣ ???? ? ????? ???? ? ??? ??????? ?? ??? ????????? ? Σε έντυπη μορφή:"@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/4>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/4> <http://legislation.di.uoa.gr/ontology/text> "• Για τα Φ.Ε.Κ. από 1 έως 16 σελίδες σε 1 € προσαυξανόμενη κατά 0,20 € για κάθε επιπλέον οκτασέλιδο ή μέρος αυτού."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/5>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/5> <http://legislation.di.uoa.gr/ontology/text> "• Για τα φωτοαντίγραφα Φ.Ε.Κ. σε 0,15 € ανά σελίδα."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/6>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/6> <http://legislation.di.uoa.gr/ontology/text> "Σε μορφή DVD/CD:"@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/7>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/7> <http://legislation.di.uoa.gr/ontology/text> "Τεύχος Ετήσια έκδοση Τριμηνιαία έκδοση Μηνιαία έκδοση Τεύχος Ετήσια έκδοση Τριμηνιαία έκδοση Μηνιαία έκδοση Α΄ 150 € 40 € 15 € Α.Α.Π. 110 € 30 € - Β΄ 300 € 80 € 30 € Ε.Β.Ι. 100 € - Γ΄ 50 € Α.Ε.Δ. 5€ - Υ.Ο.Δ.Δ. 50 € Δ.Δ.Σ. 200 € 20 € Δ΄ 110 € Α.Ε.-Ε.Π.Ε."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/8>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/8> <http://legislation.di.uoa.gr/ontology/text> "100 € 30 € • Η τιμή πώλησης μεμονωμένων Φ.Ε.Κ. σε μορφή cd-rom από εκείνα που διατίθενται σε ψηφιακή μορφή και μέχρι 100 σελίδες, σε 5 € προσαυξανόμενη κατά 1 € ανά 50 σελίδες."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/9>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/9> <http://legislation.di.uoa.gr/ontology/text> "??????? ??? ????? ?.?.?."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/10>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/10> <http://legislation.di.uoa.gr/ontology/text> "Τεύχος Έντυπη μορφή Τεύχος Έντυπη μορφή Τεύχος Έντυπη μορφή 2.250 € Α΄ 225 € Δ΄ 160 € Α.Ε.-Ε.Π.Ε."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/11>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/11> <http://legislation.di.uoa.gr/ontology/text> "Β΄ 320 € Α.Α.Π. 160 € Δ.Δ.Σ. 225 € Γ΄ 65 € Ε.Β.Ι. 65 € Α.Σ.Ε.Π. 70 € Υ.Ο.Δ.Δ. 65 € Α.Ε.Δ. 10 € Ο.Π.Κ. • Το τεύχος Α.Σ.Ε.Π. (έντυπη μορφή) θα αποστέλλεται σε συνδρομητές ταχυδρομικά, με την επιβάρυνση των 70 €, ποσό το οποίο αφορά τα ταχυδρομικά έξοδα."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/12>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/12> <http://legislation.di.uoa.gr/ontology/text> "• Η καταβολή γίνεται σε όλες τις Δημόσιες Οικονομικές Υπηρεσίες (Δ.Ο.Υ.)."@el.
+<http://legislation.di.uoa.gr/rp/2013/242> <http://legislation.di.uoa.gr/ontology/hasEntity> <http://geo.linkedopendata.gr/public-buildings/Δημόσιο_Κτήριο/id/16880>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/13>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/13> <http://legislation.di.uoa.gr/ontology/text> "Το πρωτότυπο διπλότυπο (έγγραφο αριθμ. πρωτ. 9067/28.2.2005 2η Υπηρεσία Επιτρόπου Ελεγκτικού Συνεδρίου) με φροντίδα των ενδιαφερομένων, πρέπει να αποστέλλεται ή να κατατίθεται στο Εθνικό Τυπογραφείο (Καποδιστρίου 34, Τ.Κ. 104 32 Αθήνα)."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/13> <http://legislation.di.uoa.gr/ontology/html> "Το πρωτότυπο διπλότυπο (έγγραφο αριθμ. πρωτ. 9067/28.2.2005 2η Υπηρεσία Επιτρόπου Ελεγκτικού Συνεδρίου) με φροντίδα των ενδιαφερομένων, πρέπει να αποστέλλεται ή να κατατίθεται στο <a href=\"http://geo.linkedopendata.gr/public-buildings/Δημόσιο_Κτήριο/id/16880\">Εθνικό Τυπογραφείο</a> (Καποδιστρίου 34, Τ.Κ. 104 32 Αθήνα).".
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/14>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/14> <http://legislation.di.uoa.gr/ontology/text> "• Σημειώνεται ότι φωτοαντίγραφα διπλοτύπων, ταχυδρομικές Επιταγές για την εξόφληση της συνδρομής, δεν γίνονται δεκτά και θα επιστρέφονται."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/15>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/15> <http://legislation.di.uoa.gr/ontology/text> "• Οι οργανισμοί τοπικής αυτοδιοίκησης, τα νομικά πρόσωπα δημοσίου δικαίου, τα μέλη της Ένωσης Ιδιοκτητών Ημερησίου Τύπου Αθηνών και Επαρχίας, οι τηλεοπτικοί και ραδιοφωνικοί σταθμοί, η Ε.Σ.Η.Ε.Α, τα τριτοβάθμια συνδικαλιστικά όργανα και οι τριτοβάθμιες επαγγελματικές ενώσεις δικαιούνται έκπτωσης πενήντα τοις εκατό (50%) επί της ετήσιας συνδρομής."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/16>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/16> <http://legislation.di.uoa.gr/ontology/text> "• Το ποσό υπέρ ΤΑ.Π.Ε.Τ. (5% επί του ποσού συνδρομής), καταβάλλεται ολόκληρο (Κ.Α.Ε. 3512) και υπολογίζεται πριν την έκπτωση."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/17>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/17> <http://legislation.di.uoa.gr/ontology/text> "• Στην Ταχυδρομική συνδρομή του τεύχους Α.Σ.Ε.Π. δεν γίνεται έκπτωση."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/18>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/18> <http://legislation.di.uoa.gr/ontology/text> "Πληροφορίες για δημοσιεύματα που καταχωρίζονται στα Φ.Ε.Κ. στο τηλ.:"@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/19>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/19> <http://legislation.di.uoa.gr/ontology/text> "210 5279000."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/20>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/20> <http://legislation.di.uoa.gr/ontology/text> "Φωτοαντίγραφα παλαιών Φ.Ε.Κ.:"@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/21>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/21> <http://legislation.di.uoa.gr/ontology/text> "τηλ.:"@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/22>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/22> <http://legislation.di.uoa.gr/ontology/text> "210 8220885."@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/23>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/23> <http://legislation.di.uoa.gr/ontology/text> "Τα φύλλα όλων των τευχών της Εφημερίδας της Κυβερνήσεως διατίθενται δωρεάν σε ηλεκτρονική μορφή από την ιστοσελίδα του Εθνικού Τυπογραφείου (www.et.gr) Hλεκτρονική Διεύθυνση:"@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/24>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/24> <http://legislation.di.uoa.gr/ontology/text> "http:"@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/25>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/25> <http://legislation.di.uoa.gr/ontology/text> "/www.et.gr - e-mail:"@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/26>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/26> <http://legislation.di.uoa.gr/ontology/text> "webmaster.et@et.gr ΟΙ ΥΠΗΡΕΣΙΕΣ ΕΞΥΠΗΡΕΤΗΣΗΣ ΠΟΛΙΤΩΝ ΛΕΙΤΟΥΡΓΟΥΝ ΚΑΘΗΜΕΡΙΝΑ ΑΠΟ 08:"@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/27>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/27> <http://legislation.di.uoa.gr/ontology/text> "0 ΜΕΧΡΙ 13:"@el.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/28>.
+<http://legislation.di.uoa.gr/rp/2013/242/article/3/paragraph/1/passage/28> <http://legislation.di.uoa.gr/ontology/text> "0 ΑΠΟ ΤΟ ΕΘΝΙΚΟ ΤΥΠΟΓΡΑΦΕΙΟ *01002440611130008* ΚΑΠΟΔΙΣΤΡΙΟΥ 34 * ΑΘΗΝΑ 104 32 * ΤΗΛ. 210 52 79 000 * FAX 210 52 21 004"@el.

@@ -1,0 +1,39 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/25> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_25.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/25> <http://purl.org/dc/terms/title> "Α/2013/25".
+<http://legislation.di.uoa.gr/gazette/a/2013/25> <http://purl.org/dc/terms/created> "2013-01-31"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2013/4116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2013/4116> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/25>.
+<http://legislation.di.uoa.gr/law/2013/4116> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2013/4116> <http://purl.org/dc/terms/created> "2013-01-31"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2013/4116> <http://legislation.di.uoa.gr/ontology/legislationID> "4116"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2013/4116> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/law/2013/4116> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4116/signer/1>.
+<http://legislation.di.uoa.gr/law/2013/4116/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4116> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4116/signer/2>.
+<http://legislation.di.uoa.gr/law/2013/4116/signer/2> <http://xmlns.com/foaf/0.1/name> "ΑΝΤΩΝΗΣ Κ. ΣΑΜΑΡΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4116> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4116/signer/3>.
+<http://legislation.di.uoa.gr/law/2013/4116/signer/3> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4116> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4116/signer/4>.
+<http://legislation.di.uoa.gr/law/2013/4116/signer/4> <http://xmlns.com/foaf/0.1/name> "ΙΩΑΝΝΗΣ ΣΤΟΥΡΝΑΡΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4116> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4116/signer/5>.
+<http://legislation.di.uoa.gr/law/2013/4116/signer/5> <http://xmlns.com/foaf/0.1/name> "ΙΩΑΝΝΗΣ ΒΡΟΥΤΣΗΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4116> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4116/signer/6>.
+<http://legislation.di.uoa.gr/law/2013/4116/signer/6> <http://xmlns.com/foaf/0.1/name> "ΑΝΤΩΝΙΟΣ ΡΟΥΠΑΚΙΩΤΗΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4116> <http://purl.org/dc/terms/title> "Κύρωση της Πράξης Νομοθετικού Περιεχομένου «Παράταση της διάρκειας λειτουργίας της προσωρινής ενιαίας διοικούσας επιτροπής του άρθρου 1 της υπ’ αριθμ. 7/28.2.2012 Πράξης Υπουργικού Συμβουλίου (Α΄ 39)» (Α΄ 188) 3. Την πρόταση του Υπουργικού Συμβουλίου, αποφασίζουμε: Άρθρο 1 "@el.
+<http://legislation.di.uoa.gr/law/2013/4116/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4116> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4116/article/1>.
+<http://legislation.di.uoa.gr/law/2013/4116/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4116/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4116/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4116/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4116/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4116/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4116/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνεται και έχει ισχύ νόμου, από τη δημοσίευσή της στην Εφημερίδα της Κυβερνήσεως, η από 3.10.2012 Πράξη Νομοθετικού Περιεχομένου «Παράταση της διάρκειας λειτουργίας της προσωρινής ενιαίας διοικούσας επιτροπής όπως αυτή συνεστήθη βάσει του άρθρου 1 παράγραφος 6 του ν. 4046/2012 και της ΠΥΣ 7/28.2.2012 και ξεκίνησε να λειτουργεί με την ΠΥΣ 9/8.3.2012», που δημοσιεύθηκε στο αριθμ. 188 Φύλλο της Εφημερίδας της Κυβερνήσεως (τεύχος Α΄) που έχει ως εξής:"@el.
+<http://legislation.di.uoa.gr/law/2013/4116/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/html> "Κυρώνεται και έχει ισχύ νόμου, από τη δημοσίευσή της στην Εφημερίδα της Κυβερνήσεως, η από 3.10.2012 Πράξη Νομοθετικού Περιεχομένου «Παράταση της διάρκειας λειτουργίας της προσωρινής ενιαίας διοικούσας επιτροπής όπως αυτή συνεστήθη βάσει του άρθρου 1 παράγραφος 6 του  <a href=\"http://legislation.di.uoa.gr/law/2012/4046\">ν. 4046/2012</a> και της ΠΥΣ 7/28.2.2012 και ξεκίνησε να λειτουργεί με την ΠΥΣ 9/8.3.2012», που δημοσιεύθηκε στο αριθμ. 188 Φύλλο της Εφημερίδας της Κυβερνήσεως (τεύχος Α΄) που έχει ως εξής:".
+<http://legislation.di.uoa.gr/law/2013/4116/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4116> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4116/article/2>.
+<http://legislation.di.uoa.gr/law/2013/4116/article/2> <http://purl.org/dc/terms/title> "Έναρξη ισχύος"@el.
+<http://legislation.di.uoa.gr/law/2013/4116/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4116/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4116/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4116/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4116/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4116/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4116/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς της παρούσας, η οποία θα κυρωθεί νομοθετικά κατά το άρθρο 44 παράγραφος 1 του Συντάγματος, αρχίζει από τη δημοσίευσή της στην Εφημερίδα της Κυβερνήσεως."@el.

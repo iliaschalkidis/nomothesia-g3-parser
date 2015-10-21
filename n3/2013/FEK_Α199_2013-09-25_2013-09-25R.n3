@@ -1,0 +1,27 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/199> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_199.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/199> <http://purl.org/dc/terms/title> "Α/2013/199".
+<http://legislation.di.uoa.gr/gazette/a/2013/199> <http://purl.org/dc/terms/created> "2013-09-25"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/amc/2013/28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/ActOfMinisterialCabinet>.
+<http://legislation.di.uoa.gr/amc/2013/28> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/199>.
+<http://legislation.di.uoa.gr/amc/2013/28> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/amc/2013/28> <http://purl.org/dc/terms/created> "2013-09-25"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/amc/2013/28> <http://legislation.di.uoa.gr/ontology/legislationID> "28"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/amc/2013/28> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/amc/2013/28> <http://purl.org/dc/terms/title> "Ανασύνθεση της Διυπουργικής Επιτροπής Στρατηγικών Επενδύσεων (Δ.Ε.Σ.Ε.).  "@el.
+<http://legislation.di.uoa.gr/amc/2013/28> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/28/issue/1>.
+<http://legislation.di.uoa.gr/amc/2013/28/issue/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/ParsingIssue>.
+<http://legislation.di.uoa.gr/amc/2013/28/issue/1> <http://legislation.di.uoa.gr/ontology/text> "Δεν αναγνωρίστηκαν οι υπογραφόντες."@el.
+<http://legislation.di.uoa.gr/amc/2013/28/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/amc/2013/28> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/28/article/1>.
+<http://legislation.di.uoa.gr/amc/2013/28/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/amc/2013/28/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/28/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/amc/2013/28/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2013/28/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/28/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/amc/2013/28/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Στη Διυπουργική Επιτροπή Στρατηγικών Επενδύσεων (Δ.Ε.Σ.Ε.), μετέχουν ως Πρόεδρος ο Υπουργός Ανάπτυξης και Ανταγωνιστικότητας ή ο νόμιμος αναπληρωτής του, και ως μέλη οι Υπουργοί Εξωτερικών, Οικονομικών, Πολιτισμού και Αθλητισμού, Περιβάλλοντος, Ενέργειας και Κλιματικής Αλλαγής, καθώς και οι αρμόδιοι κατά περίπτωση Υπουργοί, οι οποίοι εισηγούνται τα θέματα αρμοδιότητάς τους, ή οι νόμιμοι αναπληρωτές τους. Γραμματειακή υποστήριξη στη Δ.Ε.Σ.Ε. παρέχεται από τη Γενική Γραμματεία Στρατηγικών και Ιδιωτικών Επενδύσεων."@el.
+<http://legislation.di.uoa.gr/amc/2013/28/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2013/28/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/28/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/amc/2013/28/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς της πράξης αυτής αρχίζει από τη δημοσίευσή της στην Εφημερίδα της Κυβερνήσεως."@el.
+<http://legislation.di.uoa.gr/amc/2013/28/article/1/paragraph/1/passage/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/amc/2013/28/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/amc/2013/28/article/1/paragraph/1/passage/3>.
+<http://legislation.di.uoa.gr/amc/2013/28/article/1/paragraph/1/passage/3> <http://legislation.di.uoa.gr/ontology/text> "Η πράξη αυτή να δημοσιευθεί στην Εφημερίδα της Κυβερνήσεως."@el.

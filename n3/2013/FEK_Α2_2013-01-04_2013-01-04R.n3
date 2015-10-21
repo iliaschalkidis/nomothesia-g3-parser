@@ -1,0 +1,77 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/2> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_2.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/2> <http://purl.org/dc/terms/title> "Α/2013/2".
+<http://legislation.di.uoa.gr/gazette/a/2013/2> <http://purl.org/dc/terms/created> "2013-01-04"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Law>.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/2>.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://purl.org/dc/terms/created> "2013-01-04"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/legislationID> "4104"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4104/signer/1>.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4104/signer/2>.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/2> <http://xmlns.com/foaf/0.1/name> "ΔΗΜΗΤΡΙΟΣ ΑΒΡΑΜΟΠΟΥΛΟΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4104/signer/3>.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/3> <http://xmlns.com/foaf/0.1/name> "ΙΩΑΝΝΗΣ ΣΤΟΥΡΝΑΡΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4104/signer/4>.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/4> <http://xmlns.com/foaf/0.1/name> "ΠΑΝΟΣ ΠΑΝΑΓΙΩΤΟΠΟΥΛΟΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4104/signer/5>.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/5> <http://xmlns.com/foaf/0.1/name> "ΕΥΡΙΠΙΔΗΣ ΣΤΥΛΙΑΝΙΔΗΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/5> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Ευριπίδης_Στυλιανίδης\">ΕΥΡΙΠΙΔΗΣ ΣΤΥΛΙΑΝΙΔΗΣ</a>".
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4104/signer/6>.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/6> <http://xmlns.com/foaf/0.1/name> "ΑΝΤΩΝΙΟΣ ΜΑΝΙΤΑΚΗΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4104/signer/7>.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/7> <http://xmlns.com/foaf/0.1/name> "ΚΩΝΣΤΑΝΤΙΝΟΣ ΧΑΤΖΗΔΑΚΗΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4104/signer/8>.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/8> <http://xmlns.com/foaf/0.1/name> "ΚΩΝΣΤΑΝΤΙΝΟΣ ΑΡΒΑΝΙΤΟΠΟΥΛΟΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/8> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Κωνσταντίνος_Αρβανιτόπουλος\">ΚΩΝΣΤΑΝΤΙΝΟΣ ΑΡΒΑΝΙΤΟΠΟΥΛΟΣ</a>".
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4104/signer/9>.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/9> <http://xmlns.com/foaf/0.1/name> "ΕΥΑΓΓΕΛΟΣ ΛΙΒΙΕΡΑΤΟΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4104/signer/10>.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/10> <http://xmlns.com/foaf/0.1/name> "ΙΩΑΝΝΗΣ ΒΡΟΥΤΣΗΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4104/signer/11>.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/11> <http://xmlns.com/foaf/0.1/name> "ΑΝΔΡΕΑΣ ΛΥΚΟΥΡΕΝΤΖΟΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/11> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Ανδρέας_Λυκουρέντζος\">ΑΝΔΡΕΑΣ ΛΥΚΟΥΡΕΝΤΖΟΣ</a>".
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4104/signer/12>.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/12> <http://xmlns.com/foaf/0.1/name> "ΑΘΑΝΑΣΙΟΣ ΤΣΑΥΤΑΡΗΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/12> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Αθανάσιος_Τσαυτάρης\">ΑΘΑΝΑΣΙΟΣ ΤΣΑΥΤΑΡΗΣ</a>".
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4104/signer/13>.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/13> <http://xmlns.com/foaf/0.1/name> "ΑΝΤΩΝΙΟΣ ΡΟΥΠΑΚΙΩΤΗΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4104/signer/14>.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/14> <http://xmlns.com/foaf/0.1/name> "ΝΙΚΟΛΑΟΣ-ΓΕΩΡΓΙΟΣ ΔΕΝΔΙΑΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4104/signer/15>.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/15> <http://xmlns.com/foaf/0.1/name> "ΟΛΓΑ ΚΕΦΑΛΟΓΙΑΝΝΗ"@el.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4104/signer/16>.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/16> <http://xmlns.com/foaf/0.1/name> "ΚΩΝΣΤΑΝΤΙΝΟΣ ΜΟΥΣΟΥΡΟΥΛΗΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/16> <http://legislation.di.uoa.gr/ontology/html> "<a href=\"http://el.dbpedia.org/page/Κωνσταντίνος_Μουσουρούλης\">ΚΩΝΣΤΑΝΤΙΝΟΣ ΜΟΥΣΟΥΡΟΥΛΗΣ</a>".
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/law/2013/4104/signer/17>.
+<http://legislation.di.uoa.gr/law/2013/4104/signer/17> <http://xmlns.com/foaf/0.1/name> "ΑΝΤΩΝΙΟΣ ΡΟΥΠΑΚΙΩΤΗΣ"@el.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://purl.org/dc/terms/title> "Κύρωση της Συμφωνίας μεταξύ της Ευρωπαϊκής Κοινότητας και των κρατών - μελών της, αφ’ ενός, και της Δημοκρατίας της Νότιας Αφρικής, αφ’ ετέρου, για την τροποποίηση της Συμφωνίας Εμπορίου, Ανάπτυξης και Συνεργασίας "@el.
+<http://legislation.di.uoa.gr/law/2013/4104/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4104/article/1>.
+<http://legislation.di.uoa.gr/law/2013/4104/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4104/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4104/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4104/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4104/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4104/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4104/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Κυρώνεται και έχει την ισχύ, που ορίζει το άρθρο 28 παρ. 1 του Συντάγματος, η Συμφωνία μεταξύ της Ευρωπαϊκής Κοινότητας και των κρατών - μελών της, αφ’ ενός, και της Δημοκρατίας της Νότιας Αφρικής, αφ’ ετέρου, για την Τροποποίηση της Συμφωνίας Εμπορίου, Ανάπτυξης και Συνεργασίας (ν. 3124/2003, Α΄ 62), που υπογράφηκε στο Κλέιμοντ, στις 11 Σεπτεμβρίου 2009, το κείμενο της οποίας σε πρωτότυπο στην ελληνική γλώσσα έχει ως εξής:"@el.
+<http://legislation.di.uoa.gr/law/2013/4104/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/html> "Κυρώνεται και έχει την ισχύ, που ορίζει το άρθρο 28 παρ. 1 του Συντάγματος, η Συμφωνία μεταξύ της Ευρωπαϊκής Κοινότητας και των κρατών - μελών της, αφ’ ενός, και της Δημοκρατίας της Νότιας Αφρικής, αφ’ ετέρου, για την Τροποποίηση της Συμφωνίας Εμπορίου, Ανάπτυξης και Συνεργασίας ( <a href=\"http://legislation.di.uoa.gr/law/2003/3124\">ν. 3124/2003</a>, Α΄ 62), που υπογράφηκε στο Κλέιμοντ, στις 11 Σεπτεμβρίου 2009, το κείμενο της οποίας σε πρωτότυπο στην ελληνική γλώσσα έχει ως εξής:".
+<http://legislation.di.uoa.gr/law/2013/4104/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4104/article/2>.
+<http://legislation.di.uoa.gr/law/2013/4104/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4104/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4104/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://legislation.di.uoa.gr/ontology/hasEntity> <http://geo.linkedopendata.gr/public-buildings/Δημόσιο_Κτήριο/id/16456>.
+<http://legislation.di.uoa.gr/law/2013/4104/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4104/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4104/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4104/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Οι Πρέσβεις εκ προσωπικοτήτων δύνανται με δήλωση προς το Υπουργείο Εξωτερικών, να παραιτούνται της προβλεπόμενης για τη θέση αυτή αμοιβής, καθώς και όλων των σχετικών αποδοχών."@el.
+<http://legislation.di.uoa.gr/law/2013/4104/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/html> "Οι Πρέσβεις εκ προσωπικοτήτων δύνανται με δήλωση προς το <a href=\"http://geo.linkedopendata.gr/public-buildings/Δημόσιο_Κτήριο/id/16456\">Υπουργείο Εξωτερικών</a>, να παραιτούνται της προβλεπόμενης για τη θέση αυτή αμοιβής, καθώς και όλων των σχετικών αποδοχών.".
+<http://legislation.di.uoa.gr/law/2013/4104/article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/law/2013/4104> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4104/article/3>.
+<http://legislation.di.uoa.gr/law/2013/4104/article/3/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/law/2013/4104/article/3> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4104/article/3/paragraph/1>.
+<http://legislation.di.uoa.gr/law/2013/4104/article/3/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4104/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4104/article/3/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/law/2013/4104/article/3/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 4 αυτής."@el.
+<http://legislation.di.uoa.gr/law/2013/4104/article/3/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/law/2013/4104/article/3/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/law/2013/4104/article/3/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/law/2013/4104/article/3/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως νόμου του Κράτους."@el.

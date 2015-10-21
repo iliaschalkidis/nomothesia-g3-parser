@@ -1,0 +1,108 @@
+﻿<http://legislation.di.uoa.gr/gazette/a/2013/48> <http://legislation.di.uoa.gr/ontology/pdfFile> "GG2013_48.pdf".
+<http://legislation.di.uoa.gr/gazette/a/2013/48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/GovernmentGazette>.
+<http://legislation.di.uoa.gr/gazette/a/2013/48> <http://purl.org/dc/terms/title> "Α/2013/48".
+<http://legislation.di.uoa.gr/gazette/a/2013/48> <http://purl.org/dc/terms/created> "2013-02-26"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2013/20> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/48>.
+<http://legislation.di.uoa.gr/pd/2013/20> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/20> <http://purl.org/dc/terms/created> "2013-02-26"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/20> <http://legislation.di.uoa.gr/ontology/legislationID> "20"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/20> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2013/20> <http://purl.org/dc/terms/title> "Περί εφαρμογής της απόφασης 1904(2009) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών "@el.
+<http://legislation.di.uoa.gr/pd/2013/20/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/20/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Το άρθρο 25 του Καταστατικού Χάρτη του ΟΗΕ όπως αυτός κυρώθηκε με τον Α.Ν. 585/1945 (ΦΕΚ Α΄ 242). "@el.
+<http://legislation.di.uoa.gr/pd/2013/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/20/citation/1>.
+<http://legislation.di.uoa.gr/pd/2013/20/citation/1> <http://legislation.di.uoa.gr/ontology/html> "Το άρθρο 25 του Καταστατικού Χάρτη του ΟΗΕ όπως αυτός κυρώθηκε με τον Α. <a href=\"http://legislation.di.uoa.gr/law/1945/585\">Ν. 585/1945</a> (ΦΕΚ Α΄ 242). ".
+<http://legislation.di.uoa.gr/pd/2013/20/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/20/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Το άρθρο 1 παρ. 1 του Α.Ν. 92 /1967 «περί εφαρμογής αποφάσεων του Συμβουλίου Ασφαλείας των Ηνωμένων Εθνών και περί εγκρίσεως και εφαρμογής συστάσεων του Συμβουλίου Ασφαλείας και της Γενικής Συνελεύσεως» (ΦΕΚ Α΄ 139). "@el.
+<http://legislation.di.uoa.gr/pd/2013/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/20/citation/2>.
+<http://legislation.di.uoa.gr/pd/2013/20/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/20/citation/3> <http://legislation.di.uoa.gr/ontology/context> "To Προεδρικό Διάταγμα 85/2012 (ΦΕΚ Α΄ 141). "@el.
+<http://legislation.di.uoa.gr/pd/2013/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/20/citation/3>.
+<http://legislation.di.uoa.gr/pd/2013/20/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/20/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Το άρθρο 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά όργανα που κυρώθηκε με το άρθρο πρώτο του Προεδρικού Διατάγματος 63/2005 (ΦΕΚ Α΄ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2013/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/20/citation/4>.
+<http://legislation.di.uoa.gr/pd/2013/20/citation/4> <http://legislation.di.uoa.gr/ontology/html> "Το άρθρο 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα Κυβερνητικά όργανα που κυρώθηκε με το άρθρο πρώτο του  <a href=\"http://legislation.di.uoa.gr/pd/2005/63\">Προεδρικού Διατάγματος 63/2005</a> (ΦΕΚ Α΄ 98). ".
+<http://legislation.di.uoa.gr/pd/2013/20/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/20/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Την απόφαση του Υπουργού Εξωτερικών από 3 Μαρτίου 2010 περί δημοσίευσης της απόφασης 1904(2009) του Συμβουλίου Ασφαλείας των Ηνωμένων Εθνών (ΦΕΚ Α΄ 41). "@el.
+<http://legislation.di.uoa.gr/pd/2013/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/20/citation/5>.
+<http://legislation.di.uoa.gr/pd/2013/20/citation/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/20/citation/6> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από τις διατάξεις του παρόντος Διατάγματος δεν προκαλείται δαπάνη σε βάρος του προϋπολογισμού. Τα μέτρα που προβλέπονται στις διατάξεις του στοιχείου α΄ του άρθρου 4 του Προεδρικού Διατάγματος 56/2005 «περί εφαρμογής των αποφάσεων 1388(2002), 1390(2002) και 1452(2002) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών» (ΦΕΚ Α΄ 86), εφαρμόζονται και στην καταβολή λύτρων σε φυσικά πρόσωπα, ομάδες, επιχειρήσεις ή νομικά πρόσωπα που είναι καταχωρημένα στον Ενιαίο Κατάλογο ο οποίος έχει καταρτισθεί σύμφωνα με τις αποφάσεις 1267(1999) και 1333(2000) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών."@el.
+<http://legislation.di.uoa.gr/pd/2013/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/20/citation/6>.
+<http://legislation.di.uoa.gr/pd/2013/20/citation/6> <http://legislation.di.uoa.gr/ontology/html> "Το γεγονός ότι από τις διατάξεις του παρόντος Διατάγματος δεν προκαλείται δαπάνη σε βάρος του προϋπολογισμού. Τα μέτρα που προβλέπονται στις διατάξεις του στοιχείου α΄ του άρθρου 4 του  <a href=\"http://legislation.di.uoa.gr/pd/2005/56\">Προεδρικού Διατάγματος 56/2005</a> «περί εφαρμογής των αποφάσεων 1388(2002), 1390(2002) και 1452(2002) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών» (ΦΕΚ Α΄ 86), εφαρμόζονται και στην καταβολή λύτρων σε φυσικά πρόσωπα, ομάδες, επιχειρήσεις ή νομικά πρόσωπα που είναι καταχωρημένα στον Ενιαίο Κατάλογο ο οποίος έχει καταρτισθεί σύμφωνα με τις αποφάσεις 1267(1999) και 1333(2000) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών.".
+<http://legislation.di.uoa.gr/pd/2013/20> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/20/signer/1>.
+<http://legislation.di.uoa.gr/pd/2013/20/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/20> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/20/signer/2>.
+<http://legislation.di.uoa.gr/pd/2013/20/signer/2> <http://xmlns.com/foaf/0.1/name> "ΔΗΜΗΤΡΙΟΣ ΑΒΡΑΜΟΠΟΥΛΟΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/20> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/20/signer/3>.
+<http://legislation.di.uoa.gr/pd/2013/20/signer/3> <http://xmlns.com/foaf/0.1/name> "ΙΩΑΝΝΗΣ ΣΤΟΥΡΝΑΡΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/20> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/20/signer/4>.
+<http://legislation.di.uoa.gr/pd/2013/20/signer/4> <http://xmlns.com/foaf/0.1/name> "ΑΝΤΩΝΙΟΣ ΡΟΥΠΑΚΙΩΤΗΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/20> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/20/article/1>.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1> <http://purl.org/dc/terms/title> "Η δεύτερη παράγραφος του άρθρου 2 του Προεδρικού"@el.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Διατάγματος 67/2010 για την «εφαρμογή των αποφάσεων 1735(2006) και 1822(2008) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών» (ΦΕΚ Α΄ 118), αντικαθίσταται ως εξής :"@el.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/1/modification/1>.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/1/modification/1>  <http://www.metalex.eu/metalex/2008-05-02#legislativeCompetenceGround> <http://legislation.di.uoa.gr/pd/2013/20>.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/1/modification/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Addition>.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/1/modification/1/paragraph/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/1/modification/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/1/modification/1/paragraph/2>.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/1/modification/1/paragraph/2/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/1/modification/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/1/modification/1/paragraph/2/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/1/modification/1/paragraph/2/passage/1> <http://legislation.di.uoa.gr/ontology/text> " Η γνωστοποίηση της παραγράφου 1 περιλαμβάνει:"@el.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/1/modification/1/paragraph/2/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/1/modification/1/paragraph/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/1/modification/1/paragraph/2/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/1/modification/1/paragraph/2/passage/2> <http://legislation.di.uoa.gr/ontology/text> "α) περίληψη των λόγων της καταχώρησης, β) περιγραφή των επιπτώσεων της καταχώρησης όπως αυτές καθορίζονται στις σχετικές αποφάσεις, γ) τις διαδικασίες της Επιτροπής, η οποία συστάθηκε με την απόφαση 1267(1999) του Συμβουλίου Ασφαλείας των Ηνωμένων Εθνών, για την εξέταση αιτημάτων διαγραφής από τον Ενιαίο Κατάλογο, περιλαμβανομένης της δυνατότητας υποβολής ενός τέτοιου αιτήματος στο Διαμεσολαβητή, σύμφωνα με τις παραγράφους 20 και 21 και το Παράρτημα ΙΙ της απόφασης 1904(2009) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών και δ) τις διατάξεις της απόφασης 1452(2002) του Συμβουλίου Ασφαλείας των Ηνωμένων Εθνών, η οποία έχει ενσωματωθεί στην ελληνική έννομη τάξη με το Προεδρικό Διάταγμα 56/2005."@el.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/20/article/1/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Εξωτερικών αναθέτουμε τη δημοσίευση του παρόντος Διατάγματος, στον ίδιο δε Υπουργό και στους Υπουργούς Οικονομικών και Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων την εκτέλεσή του."@el.
+<http://legislation.di.uoa.gr/pd/2013/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/PresidentialDecree>.
+<http://legislation.di.uoa.gr/pd/2013/21> <http://legislation.di.uoa.gr/ontology/gazette> <http://legislation.di.uoa.gr/gazette/a/2013/48>.
+<http://legislation.di.uoa.gr/pd/2013/21> <http://legislation.di.uoa.gr/ontology/views> "0"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/21> <http://purl.org/dc/terms/created> "2013-02-26"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://legislation.di.uoa.gr/pd/2013/21> <http://legislation.di.uoa.gr/ontology/legislationID> "21"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://legislation.di.uoa.gr/pd/2013/21> <http://legislation.di.uoa.gr/ontology/tag> "Ελλάδα"@el.
+<http://legislation.di.uoa.gr/pd/2013/21> <http://purl.org/dc/terms/title> "Σύσταση άμισθης προξενικής αρχής της Ελλάδας στην πόλη Ντέρμπαν της Νοτίου Αφρικής "@el.
+<http://legislation.di.uoa.gr/pd/2013/21/citation/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/21/citation/1> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις της παραγράφου 6 του άρθρου 50 του Οργανισμού του Υπουργείου Εξωτερικών, που κυρώθηκε με το άρθρο πρώτο του Ν. 3566/2007 «Κύρωση ως Κώδικα του "Οργανισμού του Υπουργείου Εξωτερικών"» (Α΄ 117). "@el.
+<http://legislation.di.uoa.gr/pd/2013/21> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/21/citation/1>.
+<http://legislation.di.uoa.gr/pd/2013/21/citation/1> <http://legislation.di.uoa.gr/ontology/html> "Τις διατάξεις της παραγράφου 6 του άρθρου 50 του Οργανισμού του Υπουργείου Εξωτερικών, που κυρώθηκε με το άρθρο πρώτο του  <a href=\"http://legislation.di.uoa.gr/law/2007/3566\">Ν. 3566/2007</a> «Κύρωση ως Κώδικα του "Οργανισμού του Υπουργείου Εξωτερικών"» (Α΄ 117). ".
+<http://legislation.di.uoa.gr/pd/2013/21/citation/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/21/citation/2> <http://legislation.di.uoa.gr/ontology/context> "Τις διατάξεις της παραγράφου 2 του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα, που κυρώθηκε με το άρθρο πρώτο του Π.Δ. 63/2005 «Κωδικοποίηση της νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα» (Α΄ 98). "@el.
+<http://legislation.di.uoa.gr/pd/2013/21> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/21/citation/2>.
+<http://legislation.di.uoa.gr/pd/2013/21/citation/2> <http://legislation.di.uoa.gr/ontology/html> "Τις διατάξεις της παραγράφου 2 του άρθρου 90 του Κώδικα Νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα, που κυρώθηκε με το άρθρο πρώτο του  <a href=\"http://legislation.di.uoa.gr/pd/2005/63\">Π.Δ. 63/2005</a> «Κωδικοποίηση της νομοθεσίας για την Κυβέρνηση και τα κυβερνητικά όργανα» (Α΄ 98). ".
+<http://legislation.di.uoa.gr/pd/2013/21/citation/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/21/citation/3> <http://legislation.di.uoa.gr/ontology/context> "Τη γνώμη της Πρεσβείας της Ελλάδος στην Πρετόρια, όπως διατυπώθηκε στα Α.Π.Φ.603/10/ΑΣ 798/23.12.2011 και Α.Π.Φ. 602/18/ΑΣ 644/13.07.2012 έγγραφά της. "@el.
+<http://legislation.di.uoa.gr/pd/2013/21> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/21/citation/3>.
+<http://legislation.di.uoa.gr/pd/2013/21/citation/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/21/citation/4> <http://legislation.di.uoa.gr/ontology/context> "Το γεγονός ότι από την εφαρμογή των διατάξεων του παρόντος διατάγματος δεν προκαλείται δαπάνη σε βάρος του κρατικού προϋπολογισμού. "@el.
+<http://legislation.di.uoa.gr/pd/2013/21> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/21/citation/4>.
+<http://legislation.di.uoa.gr/pd/2013/21/citation/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metalex.eu/metalex/2008-05-02#BibliographicCitation>.
+<http://legislation.di.uoa.gr/pd/2013/21/citation/5> <http://legislation.di.uoa.gr/ontology/context> "Την 198/2012 γνωμοδότηση του Συμβουλίου της Επικρατείας, με πρόταση του Υπουργού Εξωτερικών, "@el.
+<http://legislation.di.uoa.gr/pd/2013/21> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/21/citation/5>.
+<http://legislation.di.uoa.gr/pd/2013/21> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/21/signer/1>.
+<http://legislation.di.uoa.gr/pd/2013/21/signer/1> <http://xmlns.com/foaf/0.1/name> "ΚΑΡΟΛΟΣ ΓΡ. ΠΑΠΟΥΛΙΑΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/21> <http://legislation.di.uoa.gr/ontology/signer>  <http://legislation.di.uoa.gr/pd/2013/21/signer/2>.
+<http://legislation.di.uoa.gr/pd/2013/21/signer/2> <http://xmlns.com/foaf/0.1/name> "ΔΗΜΗΤΡΙΟΣ Λ. ΑΒΡΑΜΟΠΟΥΛΟΣ"@el.
+<http://legislation.di.uoa.gr/pd/2013/21/article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/21> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/21/article/1>.
+<http://legislation.di.uoa.gr/pd/2013/21/article/1/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/21/article/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/21/article/1/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/21/article/1/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/21/article/1/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/21/article/1/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/21/article/1/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Σύσταση Άμισθου Προξενείου της Ελλάδας στην πόλη Ντέρμπαν της Νοτίου Αφρικής Συνιστάται Άμισθο Προξενείο της Ελλάδας με έδρα την πόλη Ντέρμπαν (Durban) της Νοτίου Αφρικής και περιφέρεια αρμοδιότητας την περιοχή Κβαζούλου Νατάλ (KwaZulu -Natal)."@el.
+<http://legislation.di.uoa.gr/pd/2013/21/article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Article>.
+<http://legislation.di.uoa.gr/pd/2013/21> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/21/article/2>.
+<http://legislation.di.uoa.gr/pd/2013/21/article/2> <http://purl.org/dc/terms/title> "Έναρξη ισχύος"@el.
+<http://legislation.di.uoa.gr/pd/2013/21/article/2/paragraph/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Paragraph>.
+<http://legislation.di.uoa.gr/pd/2013/21/article/2> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/21/article/2/paragraph/1>.
+<http://legislation.di.uoa.gr/pd/2013/21/article/2/paragraph/1/passage/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/21/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/21/article/2/paragraph/1/passage/1>.
+<http://legislation.di.uoa.gr/pd/2013/21/article/2/paragraph/1/passage/1> <http://legislation.di.uoa.gr/ontology/text> "Η ισχύς του παρόντος διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως."@el.
+<http://legislation.di.uoa.gr/pd/2013/21/article/2/paragraph/1/passage/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://legislation.di.uoa.gr/ontology/Passage>.
+<http://legislation.di.uoa.gr/pd/2013/21/article/2/paragraph/1> <http://www.metalex.eu/metalex/2008-05-02#part> <http://legislation.di.uoa.gr/pd/2013/21/article/2/paragraph/1/passage/2>.
+<http://legislation.di.uoa.gr/pd/2013/21/article/2/paragraph/1/passage/2> <http://legislation.di.uoa.gr/ontology/text> "Στον Υπουργό Εξωτερικών ανατίθεται η δημοσίευση και εκτέλεση του παρόντος διατάγματος."@el.
