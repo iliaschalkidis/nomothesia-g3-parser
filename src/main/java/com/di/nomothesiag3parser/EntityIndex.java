@@ -47,7 +47,7 @@ public class EntityIndex {
     Directory directory;
     
     public EntityIndex() throws IOException{
-//         Path path = Paths.get("C:/Users/Ilias/Desktop/lucene/indexes/entities");
+//         Path path = Paths.get("C:/Users/liako/Desktop/lucene/indexes/entities");
 //         directory = FSDirectory.open(path);
 //         IndexWriterConfig config = new IndexWriterConfig(new SimpleAnalyzer());        
 //         indexWriter = new IndexWriter(directory, config);
@@ -58,6 +58,7 @@ public class EntityIndex {
         indexWriter.close();
         directory.close();
     }
+    
     String capitalize(String title){
         
         String caps_title = "";
@@ -339,7 +340,7 @@ public class EntityIndex {
         //Apache Lucene searching text inside .txt files
         String uri = "";
         try {   
-            Path path = Paths.get("C:/Users/Ilias/Desktop/lucene/indexes/entities");
+            Path path = Paths.get("C:/Users/liako/Desktop/Nomothesi@ API/lucene/indexes/entities");
             Directory directory2 = FSDirectory.open(path);       
             IndexReader indexReader =  DirectoryReader.open(directory2);
             IndexSearcher indexSearcher = new IndexSearcher(indexReader);
@@ -357,17 +358,17 @@ public class EntityIndex {
                         float entity_size = (float) document.get("entity").length();
                         float limit = query_size/entity_size;
                         if(text.contains(" ") && limit >=0.8){
-                            System.out.print("QUERY: " + text);
-                            System.out.print(" | RESULT: " + document.get("entity"));
-                            System.out.println(" | SCORE: " +scoreDoc.score);
-                            System.out.println(" | LIMIT: " + limit);
+//                            System.out.print("QUERY: " + text);
+//                            System.out.print(" | RESULT: " + document.get("entity"));
+//                            System.out.println(" | SCORE: " +scoreDoc.score);
+//                            System.out.println(" | LIMIT: " + limit);
                             uri = document.get("uri");
                         }
                         else if(limit >=0.7){
-                            System.out.print("QUERY: " + text);
-                            System.out.print(" | RESULT: " + document.get("entity"));
-                            System.out.println(" | SCORE: " +scoreDoc.score);
-                            System.out.println(" | LIMIT: " + limit);
+//                            System.out.print("QUERY: " + text);
+//                            System.out.print(" | RESULT: " + document.get("entity"));
+//                            System.out.println(" | SCORE: " +scoreDoc.score);
+//                            System.out.println(" | LIMIT: " + limit);
                             uri = document.get("uri");
                         }
                     }
